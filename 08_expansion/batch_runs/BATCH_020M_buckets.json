@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "방학_일반명사-1",
+      "rationale_short": "학교 생활의 명확한 한 부분.",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 휴식 기간"
+    },
+    {
+      "meaning_id": "배우_일반명사-1",
+      "rationale_short": "문화 예술 분야의 직업/역할어.",
+      "root": "문화와 사회",
+      "category_label_ko": "문화 예술 직업"
+    },
+    {
+      "meaning_id": "병_일반명사-1",
+      "rationale_short": "건강 상태 및 의료 관련 명확한 어휘.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 정신 질환"
+    },
+    {
+      "meaning_id": "병_일반명사-2",
+      "rationale_short": "일상생활에서 사용하는 일반적인 용기.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활용품 용기"
+    },
+    {
+      "meaning_id": "옆_일반명사-1",
+      "rationale_short": "공간적 위치를 나타내는 명확한 지시어.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위치 방향 지시"
+    },
+    {
+      "meaning_id": "외국인_일반명사-1",
+      "rationale_short": "사람의 분류 중 국적에 따른 명확한 어휘.",
+      "root": "사람과 관계",
+      "category_label_ko": "국적별 사람"
+    },
+    {
+      "meaning_id": "자_일반명사-1",
+      "rationale_short": "일상생활에서 사용되는 명확한 도구.",
+      "root": "주거와 일상",
+      "category_label_ko": "측정 도구"
+    },
+    {
+      "meaning_id": "자_일반명사-2",
+      "rationale_short": "학습 및 언어의 기본 구성 요소.",
+      "root": "학교와 공부",
+      "category_label_ko": "글자 구성 단위"
+    },
+    {
+      "meaning_id": "졸업_일반명사-1",
+      "rationale_short": "학교 교육 과정의 명확한 한 단계.",
+      "root": "학교와 공부",
+      "category_label_ko": "학업 과정 완료"
+    },
+    {
+      "meaning_id": "구두_일반명사-1",
+      "rationale_short": "쇼핑 품목 중 신발의 한 종류로 명확함.",
+      "root": "쇼핑",
+      "category_label_ko": "신발 종류"
+    },
+    {
+      "meaning_id": "날짜_일반명사-1",
+      "rationale_short": "시간을 나타내는 명확한 단위.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 단위"
+    },
+    {
+      "meaning_id": "뉴스_일반명사-1",
+      "rationale_short": "사회의 정보 전달 및 미디어와 관련된 명확한 어휘.",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달 매체"
+    },
+    {
+      "meaning_id": "마트_일반명사-1",
+      "rationale_short": "쇼핑 행위가 이루어지는 명확한 장소.",
+      "root": "쇼핑",
+      "category_label_ko": "상업 시설"
+    },
+    {
+      "meaning_id": "번호_일반명사-1",
+      "rationale_short": "사물이나 순서를 구별하는 데 사용되는 명확한 숫자 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "식별 순서 숫자"
+    },
+    {
+      "meaning_id": "수영_일반명사-1",
+      "rationale_short": "여가 활동 및 취미로 즐기는 명확한 운동.",
+      "root": "여가와 취미",
+      "category_label_ko": "수상 운동"
+    },
+    {
+      "meaning_id": "언제_일반부사-1",
+      "rationale_short": "시간을 묻는 명확한 질문어.",
+      "root": "지시와 질문",
+      "category_label_ko": "시간 질문"
+    },
+    {
+      "meaning_id": "전체_일반명사-1",
+      "rationale_short": "수량 및 총합을 나타내는 명확한 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "총량 개념"
+    },
+    {
+      "meaning_id": "짧다_형용사-1",
+      "rationale_short": "길이 또는 시간을 묘사하는 명확한 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "길이 시간 묘사"
+    },
+    {
+      "meaning_id": "항상_일반부사-1",
+      "rationale_short": "시간의 빈도를 나타내는 명확한 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 빈도 부사"
+    },
+    {
+      "meaning_id": "건물_일반명사-1",
+      "rationale_short": "사람이 거주하거나 활동하는 명확한 장소/구조물.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 공간 구조물"
+    },
+    {
+      "meaning_id": "고맙다_형용사-1",
+      "rationale_short": "내면의 감정을 나타내는 명확한 형용사.",
+      "root": "내면과 감정",
+      "category_label_ko": "감사 감정"
+    },
+    {
+      "meaning_id": "구경_일반명사-1",
+      "rationale_short": "여가 시간에 즐기는 명확한 활동.",
+      "root": "여가와 취미",
+      "category_label_ko": "관람 활동"
+    },
+    {
+      "meaning_id": "구입_일반명사-1",
+      "rationale_short": "쇼핑 행위 중 물건을 사는 명확한 행위.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 구매 행위"
+    },
+    {
+      "meaning_id": "국제_일반명사-1",
+      "rationale_short": "국가 간의 관계를 나타내는 명확한 사회적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 간 관계"
+    },
+    {
+      "meaning_id": "넓다_형용사-1",
+      "rationale_short": "공간의 크기를 묘사하는 명확한 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "공간 크기 묘사"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "색_일반명사-1",
+      "rationale_short": "감각적 묘사에 해당하며, IA V4 규칙에 따라 감각/묘사 경계는 candidate 우선.",
+      "root": "감각과 묘사",
+      "candidate_reason": "감각적 묘사에 해당하나, 추상적인 개념으로 분류의 모호성이 있음."
+    },
+    {
+      "meaning_id": "운영_일반명사-1",
+      "rationale_short": "'운영'은 다양한 맥락에서 사용될 수 있는 추상적인 행위 명사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "직장과 업무",
+      "candidate_reason": "여러 분야에 걸쳐 사용되는 추상적인 행위 개념으로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "움직이다_동사-1",
+      "rationale_short": "'움직이다'는 매우 광범위한 의미를 가지는 동사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 일반적인 동사로, 특정 상황이나 맥락에 따라 다양한 root에 연결될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "인식_일반명사-1",
+      "rationale_short": "내면의 인지 활동에 해당하며, 추상적인 개념이므로 candidate로 분류.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면의 인지 활동을 나타내는 추상적인 개념으로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "전문_일반명사-1",
+      "rationale_short": "'전문'은 특정 분야의 지식/기술 수준을 나타내는 추상적인 개념으로, 여러 root에 걸쳐 사용될 수 있다.",
+      "root": "직장과 업무",
+      "candidate_reason": "지식이나 기술의 깊이를 나타내는 추상적인 개념으로, 특정 분야에 따라 다양한 root에 연결될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "전문_일반명사-2",
+      "rationale_short": "'전문'은 문서의 전체 내용을 의미하며, 정보 전달 및 커뮤니케이션과 관련되지만, '내용'이라는 추상성 때문에 candidate로 분류.",
+      "root": "문화와 사회",
+      "candidate_reason": "문서의 구성 요소를 나타내는 개념으로, '내용'이라는 추상성 때문에 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "기준_일반명사-1",
+      "rationale_short": "'기준'은 판단과 평가에 사용되는 추상적인 개념으로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "의견과 가치",
+      "candidate_reason": "판단과 비교의 표준이라는 추상적인 개념으로, 여러 분야에 걸쳐 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "놓다_동사-1",
+      "rationale_short": "'놓다'는 매우 광범위한 의미를 가지는 동사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 일반적인 동사로, 특정 상황이나 맥락에 따라 다양한 root에 연결될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "서로_일반부사-1",
+      "rationale_short": "'서로'는 관계를 나타내는 부사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "논리와 연결",
+      "candidate_reason": "관계를 나타내는 부사로, 다양한 상황에 적용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "줄어들다_동사-1",
+      "rationale_short": "'줄어들다'는 변화를 나타내는 동사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량이나 크기의 변화를 나타내는 동사로, 다양한 맥락에서 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "지내다_동사-1",
+      "rationale_short": "'지내다'는 시간의 경과와 생활 방식을 포괄하는 동사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "시간과 흐름",
+      "candidate_reason": "시간의 경과와 생활 방식을 나타내는 동사로, 여러 맥락에서 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "개선_일반명사-1",
+      "rationale_short": "'개선'은 추상적인 변화 및 발전 개념으로, 여러 root에 걸쳐 사용될 수 있다.",
+      "root": "직장과 업무",
+      "candidate_reason": "상태를 더 좋게 만드는 추상적인 행위 개념으로, 다양한 분야에 걸쳐 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "모이다_동사-1",
+      "rationale_short": "'모이다'는 사람이나 사물의 집합을 나타내는 동사로, 특정 root에 100% 확실하게 분류하기 어렵다.",
+      "root": "사람과 관계",
+      "candidate_reason": "사람이나 사물이 한곳으로 모이는 행위를 나타내는 동사로, 다양한 맥락에서 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "발달_일반명사-1",
+      "rationale_short": "'발달'은 추상적인 진보 및 성장 개념으로, 여러 root에 걸쳐 사용될 수 있다.",
+      "root": "문화와 사회",
+      "candidate_reason": "모양이나 기능의 진보를 나타내는 추상적인 개념으로, 다양한 분야에 걸쳐 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "방안_일반명사-1",
+      "rationale_short": "'방안'은 추상적인 계획 및 아이디어 개념으로, 여러 root에 걸쳐 사용될 수 있다.",
+      "root": "직장과 업무",
+      "candidate_reason": "어떤 일을 위한 구체적인 생각이나 계획이라는 추상적인 개념으로, 다양한 분야에 걸쳐 사용되어 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위/개념어는 여러 root에 걸쳐 사용될 수 있어 분류 모호성이 높음 (예: 운영, 개선, 발달, 방안).",
+      "매우 일반적인 동사는 다양한 맥락에서 사용되어 분류가 어려움 (예: 움직이다, 놓다, 지내다, 모이다).",
+      "감각/평가/내면과 경계가 겹치는 어휘는 candidate로 우선 분류하는 경향이 있음 (예: 색, 인식, 기준)."
+    ],
+    "ia_suggestions": [
+      "추상적인 행위/개념어에 대한 더 세분화된 하위 카테고리 또는 다중 root 연결 방안을 고려해야 함.",
+      "일반 동사의 경우, 해당 동사가 주로 사용되는 대표적인 맥락을 기준으로 임시 root를 제안하고, 추후 사용 빈도 및 연결성을 분석하여 재분류하는 전략을 수립해야 함.",
+      "감각/묘사, 내면/감정, 의견/가치 root 내에서 추상적인 개념어를 더 명확히 분류할 수 있는 기준을 마련해야 함."
+    ]
+  }
+}

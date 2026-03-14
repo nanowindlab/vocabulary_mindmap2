@@ -1,0 +1,6478 @@
+{
+  "놓이다_동사-1": {
+    "id": "놓이다_동사-1",
+    "def_ko": "어떤 자리에 두어져 있는 상태가 되다",
+    "related_vocab": [
+      "곳",
+      "늘어놓다",
+      "늘어서다",
+      "밟히다",
+      "흔적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "noida"
+  },
+  "뇌_일반명사-1": {
+    "id": "뇌_일반명사-1",
+    "def_ko": "머리뼈 안에서 몸의 움직임과 생각을 다스리는 기관",
+    "related_vocab": [
+      "눈알",
+      "신경",
+      "신경망",
+      "척추",
+      "체내"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "noe"
+  },
+  "누나_일반명사-1": {
+    "id": "누나_일반명사-1",
+    "def_ko": "남자가 자기보다 나이가 많은 여자 형제를 부르는 말",
+    "related_vocab": [
+      "남동생",
+      "남매",
+      "동생",
+      "사촌",
+      "언니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nuna"
+  },
+  "누렇다_형용사-1": {
+    "id": "누렇다_형용사-1",
+    "def_ko": "탁하고 어두운 기운이 도는 노란빛이다",
+    "related_vocab": [
+      "황갈색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nureota"
+  },
+  "누르다_동사-1": {
+    "id": "누르다_동사-1",
+    "def_ko": "손이나 물건으로 위에서 힘을 가하다",
+    "related_vocab": [
+      "가라앉다",
+      "가라앉히다",
+      "당기다",
+      "매",
+      "발사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nureuda"
+  },
+  "누리_일반명사-1": {
+    "id": "누리_일반명사-1",
+    "def_ko": "사람이 살아가는 이 세상",
+    "related_vocab": [
+      "계세",
+      "철학자",
+      "글로벌",
+      "사회생활",
+      "세상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nuri"
+  },
+  "눈_일반명사-1": {
+    "id": "눈_일반명사-1",
+    "def_ko": "하늘에서 떨어지는 흰 얼음 알갱이",
+    "related_vocab": [
+      "내리다",
+      "맺다",
+      "비",
+      "서리",
+      "낙수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nun"
+  },
+  "눈_일반명사-2": {
+    "id": "눈_일반명사-2",
+    "def_ko": "사람이나 동물이 사물을 보는 기관",
+    "related_vocab": [
+      "귀",
+      "눈알",
+      "눈코",
+      "뜨다",
+      "볼"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nun"
+  },
+  "눈가_일반명사-1": {
+    "id": "눈가_일반명사-1",
+    "def_ko": "눈 주위의 가장자리 부분",
+    "related_vocab": [
+      "속눈썹",
+      "육안",
+      "입가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunga"
+  },
+  "눈감다_동사-1": {
+    "id": "눈감다_동사-1",
+    "def_ko": "사람의 목숨이 끊어지다",
+    "related_vocab": [
+      "돌아가다",
+      "유서",
+      "인명",
+      "인생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "눈꽃_일반명사-1": {
+    "id": "눈꽃_일반명사-1",
+    "def_ko": "눈이 나뭇가지나 물체에 앉아 꽃처럼 보이는 모양",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunkkot"
+  },
+  "눈높이_일반명사-1": {
+    "id": "눈높이_일반명사-1",
+    "def_ko": "눈이 있는 높이, 또는 그 사람의 수준",
+    "related_vocab": [
+      "눈앞",
+      "지상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunnopi"
+  },
+  "눈동자_일반명사-1": {
+    "id": "눈동자_일반명사-1",
+    "def_ko": "눈알 한가운데에 있는 검은 부분",
+    "related_vocab": [
+      "눈알",
+      "눈코",
+      "뜨다",
+      "육안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "눈뜨다_동사-1": {
+    "id": "눈뜨다_동사-1",
+    "def_ko": "잠에서 깨다",
+    "related_vocab": [
+      "기상",
+      "깨다",
+      "깨어나다",
+      "깨우다",
+      "안대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "눈물_일반명사-1": {
+    "id": "눈물_일반명사-1",
+    "def_ko": "눈에서 나오는 맑은 액체",
+    "related_vocab": [
+      "들이마시다",
+      "땀",
+      "진땀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunmul"
+  },
+  "눈발_일반명사-1": {
+    "id": "눈발_일반명사-1",
+    "def_ko": "내리는 눈의 기세나 그 정도",
+    "related_vocab": [
+      "첫눈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunbal"
+  },
+  "눈병_일반명사-1": {
+    "id": "눈병_일반명사-1",
+    "def_ko": "눈에 생기는 여러 가지 병",
+    "related_vocab": [
+      "피부병",
+      "실명",
+      "장님"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "안약_일반명사-1",
+          "target_term": "안약",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의약품과 도구",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "nunbyeong"
+  },
+  "눈사람_일반명사-1": {
+    "id": "눈사람_일반명사-1",
+    "def_ko": "눈을 뭉쳐 사람 모양으로 만든 것",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunsaram"
+  },
+  "눈살_일반명사-1": {
+    "id": "눈살_일반명사-1",
+    "def_ko": "눈썹과 그 주변의 살",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunsal"
+  },
+  "눈썹_일반명사-1": {
+    "id": "눈썹_일반명사-1",
+    "def_ko": "눈 위나 눈의 가장자리를 따라 난 털",
+    "related_vocab": [
+      "길다",
+      "속눈썹",
+      "수염",
+      "털",
+      "이마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "눈알_일반명사-1": {
+    "id": "눈알_일반명사-1",
+    "def_ko": "눈동자가 들어 있는 둥근 공 모양의 기관",
+    "related_vocab": [
+      "기관",
+      "뇌",
+      "눈",
+      "눈동자",
+      "눈코"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunal"
+  },
+  "눈앞_일반명사-1": {
+    "id": "눈앞_일반명사-1",
+    "def_ko": "눈으로 바로 볼 수 있는 가까운 곳",
+    "related_vocab": [
+      "눈높이",
+      "사물",
+      "지점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunap"
+  },
+  "눈코_일반명사-1": {
+    "id": "눈코_일반명사-1",
+    "def_ko": "눈과 코를 아울러 이르는 말",
+    "related_vocab": [
+      "눈",
+      "눈동자",
+      "눈알",
+      "볼"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nunkho"
+  },
+  "눕다_동사-1": {
+    "id": "눕다_동사-1",
+    "def_ko": "몸을 가로로 뻗어 뒤나 옆으로 기대다",
+    "related_vocab": [
+      "거닐다",
+      "기상",
+      "기지개",
+      "깨다",
+      "눕히다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nubtta"
+  },
+  "눕히다_동사-1": {
+    "id": "눕히다_동사-1",
+    "def_ko": "사람이나 동물을 등이나 옆구리가 어떤 곳에 닿도록 몸을 가로로 놓게 하다",
+    "related_vocab": [
+      "기상",
+      "깨우다",
+      "눕다",
+      "업다",
+      "엎드리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "뉴스_일반명사-1": {
+    "id": "뉴스_일반명사-1",
+    "def_ko": "최근에 일어난 소식을 전하는 방송이나 기사",
+    "related_vocab": [
+      "계세",
+      "기사",
+      "기사문",
+      "미디어",
+      "방청"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "nyuseu"
+  },
+  "늑대_일반명사-1": {
+    "id": "늑대_일반명사-1",
+    "def_ko": "개와 비슷하지만 사납고 무리 지어 사는 야생 동물",
+    "related_vocab": [
+      "개",
+      "수렵",
+      "야생",
+      "짖다",
+      "포식자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "neukdae"
+  },
+  "늘어놓다_동사-1": {
+    "id": "늘어놓다_동사-1",
+    "def_ko": "여럿을 한 줄로 길게 펴 놓다",
+    "related_vocab": [
+      "놓아두다",
+      "놓이다",
+      "늘어뜨리다",
+      "늘어서다",
+      "여유"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "neureonota"
+  },
+  "늘어뜨리다_동사-1": {
+    "id": "늘어뜨리다_동사-1",
+    "def_ko": "아래로 느슨하게 처지게 하다",
+    "related_vocab": [
+      "가라앉다",
+      "가라앉히다",
+      "늘어놓다",
+      "로프",
+      "아랫"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "neureotteurida"
+  },
+  "늘어서다_동사-1": {
+    "id": "늘어서다_동사-1",
+    "def_ko": "여럿이 줄지어 서 있다",
+    "related_vocab": [
+      "놓이다",
+      "늘어놓다",
+      "몰려들다",
+      "몰리다",
+      "곳곳"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "neureoseoda"
+  },
+  "늙다_동사-1": {
+    "id": "늙다_동사-1",
+    "def_ko": "나이가 많이 들다",
+    "related_vocab": [
+      "고향",
+      "돌아가다",
+      "인명",
+      "인생",
+      "구세대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "늦잠_일반명사-1": {
+    "id": "늦잠_일반명사-1",
+    "def_ko": "보통 때보다 늦게까지 자는 잠",
+    "related_vocab": [
+      "잠자다",
+      "깨어나다",
+      "낮잠",
+      "수면",
+      "졸음"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "neutjjam"
+  },
+  "다가가다_동사-1": {
+    "id": "다가가다_동사-1",
+    "def_ko": "가까운 쪽으로 다가서 가다",
+    "related_vocab": [
+      "걸어가다",
+      "다가서다",
+      "다가오다",
+      "달려들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "곁_일반명사-1",
+          "target_term": "곁",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "dagagada"
+  },
+  "다가서다_동사-1": {
+    "id": "다가서다_동사-1",
+    "def_ko": "가까운 곳까지 걸어가 서다",
+    "related_vocab": [
+      "걷다",
+      "걸어가다",
+      "다가가다",
+      "다가오다",
+      "달려들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dagaseoda"
+  },
+  "다가오다_동사-1": {
+    "id": "다가오다_동사-1",
+    "def_ko": "가까운 쪽으로 오다",
+    "related_vocab": [
+      "건너오다",
+      "다가가다",
+      "다가서다",
+      "달려들다",
+      "달려오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dagaoda"
+  },
+  "다녀가다_동사-1": {
+    "id": "다녀가다_동사-1",
+    "def_ko": "어떤 곳에 들렀다가 떠나 가다",
+    "related_vocab": [
+      "다니다",
+      "들르다",
+      "떠나다",
+      "지나가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danyeogada"
+  },
+  "다녀오다_동사-1": {
+    "id": "다녀오다_동사-1",
+    "def_ko": "어디에 갔다가 다시 돌아오다",
+    "related_vocab": [
+      "귀환",
+      "다니다",
+      "돌아가다",
+      "돌아오다",
+      "들르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danyeooda"
+  },
+  "다니다_동사-1": {
+    "id": "다니다_동사-1",
+    "def_ko": "어떤 곳에 자주 오고 가다",
+    "related_vocab": [
+      "거치다",
+      "교통비",
+      "다녀가다",
+      "다녀오다",
+      "돌다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danida"
+  },
+  "다듬다_동사-1": {
+    "id": "다듬다_동사-1",
+    "def_ko": "모양이나 상태를 고르게 정리하다",
+    "related_vocab": [
+      "균형",
+      "상",
+      "현상",
+      "형성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dadeumda"
+  },
+  "다리_일반명사-1": {
+    "id": "다리_일반명사-1",
+    "def_ko": "몸을 지탱하고 걷게 하는 아래쪽 팔다리",
+    "related_vocab": [
+      "근육",
+      "길다",
+      "발목",
+      "뼈",
+      "정강이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dari"
+  },
+  "다리다_동사-1": {
+    "id": "다리다_동사-1",
+    "def_ko": "다리미로 옷의 주름을 펴다",
+    "related_vocab": [
+      "개다",
+      "널다",
+      "다림질",
+      "손질"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "darida"
+  },
+  "다리미_일반명사-1": {
+    "id": "다리미_일반명사-1",
+    "def_ko": "옷의 주름을 펴는 데 쓰는 기구",
+    "related_vocab": [
+      "버튼",
+      "고장",
+      "사다리",
+      "직물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "darimi"
+  },
+  "다림질_일반명사-1": {
+    "id": "다림질_일반명사-1",
+    "def_ko": "다리미로 옷이나 천 등의 구김을 펴는 일",
+    "related_vocab": [
+      "개다",
+      "널다",
+      "다리다",
+      "바느질",
+      "빨래"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "다산_일반명사-1": {
+    "id": "다산_일반명사-1",
+    "def_ko": "아이를 많이 낳음",
+    "related_vocab": [
+      "육아",
+      "딸",
+      "부모",
+      "아들",
+      "엄마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dasan"
+  },
+  "다운로드_일반명사-1": {
+    "id": "다운로드_일반명사-1",
+    "def_ko": "인터넷에서 파일을 내려받는 일",
+    "related_vocab": [
+      "베타",
+      "입력",
+      "컴퓨터",
+      "단말기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daunlodeu"
+  },
+  "다이빙_일반명사-1": {
+    "id": "다이빙_일반명사-1",
+    "def_ko": "높은 곳이나 물 위에서 물속으로 뛰어드는 운동",
+    "related_vocab": [
+      "수영",
+      "수영장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daibing"
+  },
+  "다이아몬드_일반명사-1": {
+    "id": "다이아몬드_일반명사-1",
+    "def_ko": "아주 단단하고 반짝이는 보석",
+    "related_vocab": [
+      "반지",
+      "보석",
+      "고가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "값비싸다_형용사-1",
+          "target_term": "값비싸다",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "구매와 결제",
+          "hook_id": "H12"
+        }
+      ]
+    },
+    "phonetic_romanization": "daiamondeu"
+  },
+  "다이어트_일반명사-1": {
+    "id": "다이어트_일반명사-1",
+    "def_ko": "살을 빼거나 건강을 위해 식사와 운동을 조절하는 일",
+    "related_vocab": [
+      "생활양식",
+      "비밀번호",
+      "발품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daieoteu"
+  },
+  "다지다_동사-1": {
+    "id": "다지다_동사-1",
+    "def_ko": "고기나 채소 등을 여러 번 칼질하여 잘게 만들다",
+    "related_vocab": [
+      "도마",
+      "빚다",
+      "썰다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "마늘_일반명사-1",
+          "target_term": "마늘",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "식재료와 양념",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "채소_일반명사-1",
+          "target_term": "채소",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "식재료와 양념",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "다치다_동사-1": {
+    "id": "다치다_동사-1",
+    "def_ko": "몸이나 마음에 상처를 입다",
+    "related_vocab": [
+      "부상",
+      "삐다",
+      "덧나다",
+      "데다",
+      "동상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dachida"
+  },
+  "다큐멘터리_일반명사-1": {
+    "id": "다큐멘터리_일반명사-1",
+    "def_ko": "현실의 사실을 기록하여 만든 영화나 방송 프로그램",
+    "related_vocab": [
+      "영상물",
+      "상영",
+      "개봉"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dakyumenteori"
+  },
+  "다투다_동사-1": {
+    "id": "다투다_동사-1",
+    "def_ko": "생각이나 마음이 달라 따지며 싸우다",
+    "related_vocab": [
+      "다툼",
+      "대인",
+      "때리다",
+      "싸우다",
+      "싸움"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "다툼_일반명사-1": {
+    "id": "다툼_일반명사-1",
+    "def_ko": "말이나 행동으로 서로 시비함",
+    "related_vocab": [
+      "다투다",
+      "때리다",
+      "싸우다",
+      "싸움",
+      "혼내다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dattum"
+  },
+  "닦다_동사-1": {
+    "id": "닦다_동사-1",
+    "def_ko": "더럽거나 묻은 것을 문질러 깨끗하게 하다",
+    "related_vocab": [
+      "닦이다",
+      "더럽히다",
+      "붓다",
+      "설거지",
+      "씻다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dakta"
+  },
+  "닦이다_동사-1": {
+    "id": "닦이다_동사-1",
+    "def_ko": "닦는 행동을 당하거나 그렇게 되다",
+    "related_vocab": [
+      "때",
+      "닦다",
+      "더럽히다",
+      "씻기다",
+      "걸레"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dakida"
+  },
+  "단것_일반명사-1": {
+    "id": "단것_일반명사-1",
+    "def_ko": "단맛이 나는 음식",
+    "related_vocab": [
+      "과자",
+      "껌",
+      "사탕",
+      "식혜",
+      "아이스크림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangot"
+  },
+  "단결_일반명사-1": {
+    "id": "단결_일반명사-1",
+    "def_ko": "여럿이 한뜻으로 굳게 뭉침",
+    "related_vocab": [
+      "단합",
+      "모여들다",
+      "결속력",
+      "가입",
+      "십시일반"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangyeol"
+  },
+  "단골_일반명사-1": {
+    "id": "단골_일반명사-1",
+    "def_ko": "가게에 자주 오는 손님",
+    "related_vocab": [
+      "고객",
+      "상대",
+      "손님"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "단다_동사-1": {
+    "id": "단다_동사-1",
+    "def_ko": "문, 뚜껑, 서랍 등을 원래 위치로 움직여 열린 것을 막다",
+    "related_vocab": [
+      "개다",
+      "닫다",
+      "닫히다",
+      "여닫다",
+      "잠그다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "단독_일반명사-1": {
+    "id": "단독_일반명사-1",
+    "def_ko": "다른 이와 함께하지 않고 혼자만인 상태",
+    "related_vocab": [
+      "각자",
+      "남",
+      "타인",
+      "고립"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dandok"
+  },
+  "단말기_일반명사-1": {
+    "id": "단말기_일반명사-1",
+    "def_ko": "통신이나 전자 시스템의 끝에 연결된 기기",
+    "related_vocab": [
+      "조작",
+      "가동",
+      "정비",
+      "다운로드",
+      "단자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danmalgi"
+  },
+  "단백질_일반명사-1": {
+    "id": "단백질_일반명사-1",
+    "def_ko": "몸을 이루는 중요한 영양소의 하나",
+    "related_vocab": [
+      "근육",
+      "세포",
+      "유전자",
+      "조직",
+      "칼륨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danbaekjil"
+  },
+  "단속_일반명사-1": {
+    "id": "단속_일반명사-1",
+    "def_ko": "규칙을 지키도록 살피고 바로잡음",
+    "related_vocab": [
+      "경관",
+      "경찰",
+      "경찰력",
+      "규약",
+      "규율"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dansok"
+  },
+  "단원_일반명사-1": {
+    "id": "단원_일반명사-1",
+    "def_ko": "어떤 단체에 속해 있는 사람",
+    "related_vocab": [
+      "팀원",
+      "가입자",
+      "내부자",
+      "대원",
+      "지원단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danwon"
+  },
+  "단자_일반명사-1": {
+    "id": "단자_일반명사-1",
+    "def_ko": "전기나 신호를 연결하는 작은 접속 부분",
+    "related_vocab": [
+      "가동",
+      "입력",
+      "단말기",
+      "발생기",
+      "발전기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danja"
+  },
+  "단장_일반명사-1": {
+    "id": "단장_일반명사-1",
+    "def_ko": "단체를 대표해 이끄는 사람",
+    "related_vocab": [
+      "대장",
+      "대표",
+      "리더",
+      "팀장",
+      "협회장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danjang"
+  },
+  "단절_일반명사-1": {
+    "id": "단절_일반명사-1",
+    "def_ko": "이어지던 관계나 교류가 끊어짐",
+    "related_vocab": [
+      "멀어지다",
+      "뿌리치다",
+      "이별",
+      "쫓겨나다",
+      "배반"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danjeol"
+  },
+  "단지_일반명사-1": {
+    "id": "단지_일반명사-1",
+    "def_ko": "같은 목적으로 사용하기 위해 만든 건물이나 시설물들이 모여 있는 지역",
+    "related_vocab": [
+      "입주민",
+      "동네",
+      "주택가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "단체_일반명사-1": {
+    "id": "단체_일반명사-1",
+    "def_ko": "여럿이 모여 이룬 조직",
+    "related_vocab": [
+      "모임",
+      "동아리",
+      "팀",
+      "파",
+      "가입자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danche"
+  },
+  "단추_일반명사-1": {
+    "id": "단추_일반명사-1",
+    "def_ko": "구멍에 끼워 여미는 작은 단단한 조각",
+    "related_vocab": [
+      "벨트",
+      "장신구",
+      "재킷",
+      "끼다",
+      "매다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danchu"
+  },
+  "단팥_일반명사-1": {
+    "id": "단팥_일반명사-1",
+    "def_ko": "단맛이 나도록 삶아 으깬 팥",
+    "related_vocab": [
+      "고구마",
+      "꿀",
+      "당근",
+      "딸기",
+      "참외"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danpat"
+  },
+  "단편_일반명사-1": {
+    "id": "단편_일반명사-1",
+    "def_ko": "짧은 글이나 영화, 또는 잘려 나온 작은 조각",
+    "related_vocab": [
+      "각본",
+      "동화",
+      "영화",
+      "조각",
+      "소극"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danpyeon"
+  },
+  "단풍_일반명사-1": {
+    "id": "단풍_일반명사-1",
+    "def_ko": "가을에 나뭇잎이 붉거나 누렇게 물드는 현상",
+    "related_vocab": [
+      "나무",
+      "나뭇가지",
+      "나뭇잎",
+      "은행나무",
+      "낙엽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danpung"
+  },
+  "단합_일반명사-1": {
+    "id": "단합_일반명사-1",
+    "def_ko": "생각과 힘을 한데 모음",
+    "related_vocab": [
+      "단결",
+      "모여들다",
+      "모이다",
+      "발맞추다",
+      "결속력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danhap"
+  },
+  "닫다_동사-1": {
+    "id": "닫다_동사-1",
+    "def_ko": "열려 있는 문이나 창을 막아서 열리지 않게 하다",
+    "related_vocab": [
+      "간직",
+      "단다",
+      "닫히다",
+      "두다",
+      "보관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "datta"
+  },
+  "닫히다_동사-1": {
+    "id": "닫히다_동사-1",
+    "def_ko": "스스로 또는 다른 힘에 의해 닫게 되다",
+    "related_vocab": [
+      "단다",
+      "닫다",
+      "보관",
+      "비우다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dachida"
+  },
+  "달_일반명사-1": {
+    "id": "달_일반명사-1",
+    "def_ko": "지구 둘레를 도는 둥근 하늘의 천체",
+    "related_vocab": [
+      "구름",
+      "일출",
+      "해",
+      "해돋이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "행성_일반명사-1",
+          "target_term": "행성",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "지형과 풍경",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "dal"
+  },
+  "달걀_일반명사-1": {
+    "id": "달걀_일반명사-1",
+    "def_ko": "닭이 낳은 알",
+    "related_vocab": [
+      "닭",
+      "반죽",
+      "계란"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dalgyal"
+  },
+  "달다_동사-1": {
+    "id": "달다_동사-1",
+    "def_ko": "물건을 어떤 곳에 걸거나 꽂거나 매어서 붙어 있게 하다",
+    "related_vocab": [
+      "두다",
+      "씌우다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "달려가다_동사-1": {
+    "id": "달려가다_동사-1",
+    "def_ko": "뛰어서 빠르게 가다",
+    "related_vocab": [
+      "달려들다",
+      "달려오다",
+      "달리다",
+      "달아나다",
+      "쫓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dallyeogada"
+  },
+  "달려들다_동사-1": {
+    "id": "달려들다_동사-1",
+    "def_ko": "갑자기 세차게 다가가다",
+    "related_vocab": [
+      "다가가다",
+      "다가서다",
+      "다가오다",
+      "달려가다",
+      "뛰다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "달려오다_동사-1": {
+    "id": "달려오다_동사-1",
+    "def_ko": "뛰어서 이쪽으로 오다",
+    "related_vocab": [
+      "건너오다",
+      "다가오다",
+      "달려가다",
+      "달리다",
+      "따라오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dallyeooda"
+  },
+  "달리기_일반명사-1": {
+    "id": "달리기_일반명사-1",
+    "def_ko": "달리는 운동이나 경기",
+    "related_vocab": [
+      "육상",
+      "걷기",
+      "조깅",
+      "마라톤",
+      "줄넘기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dalligi"
+  },
+  "달리다_동사-1": {
+    "id": "달리다_동사-1",
+    "def_ko": "두 발로 빨리 뛰어가다",
+    "related_vocab": [
+      "감속",
+      "과속",
+      "달려가다",
+      "달려오다",
+      "달아나다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dallida"
+  },
+  "달빛_일반명사-1": {
+    "id": "달빛_일반명사-1",
+    "def_ko": "달에서 비치는 빛",
+    "related_vocab": [
+      "쬐다",
+      "햇빛",
+      "햇살",
+      "해돋이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dalbit"
+  },
+  "달아나다_동사-1": {
+    "id": "달아나다_동사-1",
+    "def_ko": "잡히지 않으려고 급히 도망가다",
+    "related_vocab": [
+      "달려가다",
+      "달리다",
+      "뛰어나가다",
+      "쫓기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "도망가다_동사-1",
+          "target_term": "도망가다",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "daranada"
+  },
+  "닭_일반명사-1": {
+    "id": "닭_일반명사-1",
+    "def_ko": "알을 낳고 고기로도 먹는 집에서 기르는 새",
+    "related_vocab": [
+      "달걀",
+      "돼지",
+      "소",
+      "젖소",
+      "계란"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dak"
+  },
+  "닭갈비_일반명사-1": {
+    "id": "닭갈비_일반명사-1",
+    "def_ko": "양념한 닭고기를 볶거나 구운 요리",
+    "related_vocab": [
+      "떡볶이",
+      "매운탕",
+      "불고기",
+      "삼계탕",
+      "치킨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dakgalbi"
+  },
+  "닭고기_일반명사-1": {
+    "id": "닭고기_일반명사-1",
+    "def_ko": "음식으로 먹는 닭의 살",
+    "related_vocab": [
+      "쇠고기",
+      "소고기",
+      "가슴살",
+      "생선"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "담_일반명사-1": {
+    "id": "담_일반명사-1",
+    "def_ko": "집이나 땅의 둘레를 둘러 막은 구조물",
+    "related_vocab": [
+      "석축",
+      "담장",
+      "대문",
+      "뜰",
+      "울타리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dam"
+  },
+  "담그다_동사-1": {
+    "id": "담그다_동사-1",
+    "def_ko": "물이나 액체 속에 넣어 두다",
+    "related_vocab": [
+      "두다",
+      "씻다",
+      "짜다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damgeuda"
+  },
+  "담기다_동사-1": {
+    "id": "담기다_동사-1",
+    "def_ko": "그릇이나 내용물 안에 들어가게 되다",
+    "related_vocab": [
+      "가방",
+      "뚜껑",
+      "봉지",
+      "상자",
+      "유리잔"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damgida"
+  },
+  "담다_동사-1": {
+    "id": "담다_동사-1",
+    "def_ko": "그릇이나 공간 안에 넣다",
+    "related_vocab": [
+      "간직",
+      "거두다",
+      "깔다",
+      "깔리다",
+      "꾸리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damda"
+  },
+  "담당_일반명사-1": {
+    "id": "담당_일반명사-1",
+    "def_ko": "어떤 일이나 구역을 맡아 하는 것",
+    "related_vocab": [
+      "감시",
+      "도맡다",
+      "맡다",
+      "작업",
+      "전담"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damdang"
+  },
+  "담당자_일반명사-1": {
+    "id": "담당자_일반명사-1",
+    "def_ko": "어떤 일을 맡아 책임지는 사람",
+    "related_vocab": [
+      "기획자",
+      "동료",
+      "부장",
+      "실장",
+      "지배인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damdangja"
+  },
+  "담배_일반명사-1": {
+    "id": "담배_일반명사-1",
+    "def_ko": "피우면 연기와 니코틴이 나오는 잎과 그 제품",
+    "related_vocab": [
+      "비누",
+      "용돈",
+      "피우다",
+      "면도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dambae"
+  },
+  "담뱃값_일반명사-1": {
+    "id": "담뱃값_일반명사-1",
+    "def_ko": "담배를 사는 데 드는 값",
+    "related_vocab": [
+      "구입비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dambaetkkap"
+  },
+  "담수_일반명사-1": {
+    "id": "담수_일반명사-1",
+    "def_ko": "소금기가 거의 없는 강이나 호수의 물",
+    "related_vocab": [
+      "민물",
+      "연못",
+      "강물",
+      "개울"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damsu"
+  },
+  "담요_일반명사-1": {
+    "id": "담요_일반명사-1",
+    "def_ko": "털 등으로 짜서 덮거나 깔도록 만든 얇은 이불",
+    "related_vocab": [
+      "잠자리",
+      "베개",
+      "양탄자",
+      "요",
+      "이불"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "담임_일반명사-1": {
+    "id": "담임_일반명사-1",
+    "def_ko": "학급을 맡아 지도하는 교사",
+    "related_vocab": [
+      "교장",
+      "반장",
+      "선생님"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damim"
+  },
+  "담장_일반명사-1": {
+    "id": "담장_일반명사-1",
+    "def_ko": "집이나 공간을 둘러싼 벽",
+    "related_vocab": [
+      "석축",
+      "담",
+      "울타리",
+      "정원",
+      "칸막이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damjang"
+  },
+  "담쟁이_일반명사-1": {
+    "id": "담쟁이_일반명사-1",
+    "def_ko": "벽이나 나무에 붙어 자라는 덩굴식물",
+    "related_vocab": [
+      "나무",
+      "뿌리",
+      "식물",
+      "덩굴"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "damjaengi"
+  },
+  "답사_일반명사-1": {
+    "id": "답사_일반명사-1",
+    "def_ko": "현장을 직접 살펴봄",
+    "related_vocab": [
+      "여정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "관찰_일반명사-1",
+          "target_term": "관찰",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "시각과 외형",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "직접_일반부사-1",
+          "target_term": "직접",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "dabsa"
+  },
+  "답안지_일반명사-1": {
+    "id": "답안지_일반명사-1",
+    "def_ko": "시험 답을 적는 종이",
+    "related_vocab": [
+      "수험표",
+      "시험",
+      "컨닝",
+      "성적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "시험지_일반명사-1",
+          "target_term": "시험지",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학용품과 과목",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "dabanji"
+  },
+  "당_일반명사-1": {
+    "id": "당_일반명사-1",
+    "def_ko": "어떤 일을 맡거나 속한 집단",
+    "related_vocab": [
+      "야당",
+      "선출",
+      "세력",
+      "이념",
+      "진영"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dang"
+  },
+  "당국_일반명사-1": {
+    "id": "당국_일반명사-1",
+    "def_ko": "어떤 일에 권한이 있는 기관",
+    "related_vocab": [
+      "교통부",
+      "당선",
+      "시행",
+      "진흥원",
+      "관광부"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "danguk"
+  },
+  "당근_일반명사-1": {
+    "id": "당근_일반명사-1",
+    "def_ko": "붉은색 긴 뿔 모양의 단맛이 나는, 뿌리를 먹는 채소",
+    "related_vocab": [
+      "야채",
+      "고구마",
+      "감자",
+      "단팥",
+      "시금치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "당기다_동사-1": {
+    "id": "당기다_동사-1",
+    "def_ko": "물건을 자기 쪽으로 끌어오다",
+    "related_vocab": [
+      "굴리다",
+      "꺾다",
+      "누르다",
+      "로프",
+      "입구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangida"
+  },
+  "당뇨_일반명사-1": {
+    "id": "당뇨_일반명사-1",
+    "def_ko": "소변에 당이 나오는 병적 상태",
+    "related_vocab": [
+      "당뇨병",
+      "불면증",
+      "성인병",
+      "염증",
+      "혈당"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangnyo"
+  },
+  "당뇨병_일반명사-1": {
+    "id": "당뇨병_일반명사-1",
+    "def_ko": "혈액 속 당이 비정상적으로 높은 상태",
+    "related_vocab": [
+      "간암",
+      "당뇨",
+      "만성병",
+      "비만증",
+      "심장병"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangnyobyeong"
+  },
+  "당사자_일반명사-1": {
+    "id": "당사자_일반명사-1",
+    "def_ko": "어떤 일에 직접 관련된 사람",
+    "related_vocab": [
+      "간섭",
+      "약속",
+      "역할",
+      "조정자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "제삼자_일반명사-1",
+          "target_term": "제삼자",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "dang saja"
+  },
+  "당선_일반명사-1": {
+    "id": "당선_일반명사-1",
+    "def_ko": "선거에서 뽑힘",
+    "related_vocab": [
+      "정치인",
+      "국회의원",
+      "당국",
+      "투표",
+      "출마설"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangseon"
+  },
+  "당첨_일반명사-1": {
+    "id": "당첨_일반명사-1",
+    "def_ko": "추첨 등에 뽑힘",
+    "related_vocab": [
+      "가위바위보",
+      "게임",
+      "오락",
+      "복권"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dangcheom"
+  },
+  "대_일반명사-1": {
+    "id": "대_일반명사-1",
+    "def_ko": "키가 큰 식물의 속이 비고 꼿꼿한 줄기",
+    "related_vocab": [
+      "가지",
+      "대나무",
+      "뿌리",
+      "줄기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대각선_일반명사-1": {
+    "id": "대각선_일반명사-1",
+    "def_ko": "도형의 서로 마주 보는 두 점을 잇는 선",
+    "related_vocab": [
+      "반대쪽",
+      "반대편",
+      "마주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맞은편_일반명사-1",
+          "target_term": "맞은편",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "daegakseon"
+  },
+  "대국민_일반명사-1": {
+    "id": "대국민_일반명사-1",
+    "def_ko": "나라의 모든 국민을 대상으로 함",
+    "related_vocab": [
+      "정치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daegungmin"
+  },
+  "대기_일반명사-1": {
+    "id": "대기_일반명사-1",
+    "def_ko": "땅을 둘러싸고 있는 공기",
+    "related_vocab": [
+      "일교차",
+      "증발",
+      "질소",
+      "산소",
+      "자외선"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daegi"
+  },
+  "대기실_일반명사-1": {
+    "id": "대기실_일반명사-1",
+    "def_ko": "기다리는 사람이 잠시 머무는 방",
+    "related_vocab": [
+      "빈자리",
+      "객실",
+      "관리실",
+      "로비",
+      "쉼터"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daegisil"
+  },
+  "대기업_일반명사-1": {
+    "id": "대기업_일반명사-1",
+    "def_ko": "자본이나 직원의 수가 많은, 큰 규모의 기업",
+    "related_vocab": [
+      "계열사",
+      "공장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대나무_일반명사-1": {
+    "id": "대나무_일반명사-1",
+    "def_ko": "줄기가 마디로 된 키 큰 식물",
+    "related_vocab": [
+      "나무",
+      "대",
+      "마디",
+      "무성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daenamu"
+  },
+  "대도시_일반명사-1": {
+    "id": "대도시_일반명사-1",
+    "def_ko": "정치, 경제, 문화 활동의 중심지로 지역이 넓고 인구가 많은 도시",
+    "related_vocab": [
+      "야외",
+      "입지",
+      "몰려오다",
+      "중심지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대로_일반명사-1": {
+    "id": "대로_일반명사-1",
+    "def_ko": "크고 넓은 길",
+    "related_vocab": [
+      "큰길",
+      "고속도로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대륙_일반명사-1": {
+    "id": "대륙_일반명사-1",
+    "def_ko": "넓은 땅덩어리",
+    "related_vocab": [
+      "변경",
+      "변방",
+      "육지",
+      "지",
+      "해양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daeryuk"
+  },
+  "대리_일반명사-1": {
+    "id": "대리_일반명사-1",
+    "def_ko": "다른 사람을 대신하여 맡아 처리함",
+    "related_vocab": [
+      "대필",
+      "출강",
+      "파견",
+      "위임"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daeri"
+  },
+  "대문_일반명사-1": {
+    "id": "대문_일반명사-1",
+    "def_ko": "집의 큰 출입문",
+    "related_vocab": [
+      "문",
+      "여닫이문",
+      "정문",
+      "출입문",
+      "담"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daemun"
+  },
+  "대변_일반명사-1": {
+    "id": "대변_일반명사-1",
+    "def_ko": "사람이나 동물의 배설물",
+    "related_vocab": [
+      "내장",
+      "땀",
+      "몸",
+      "배",
+      "신체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daebyeon"
+  },
+  "대본_일반명사-1": {
+    "id": "대본_일반명사-1",
+    "def_ko": "연극이나 영화에서 배우가 읽는 글",
+    "related_vocab": [
+      "방백",
+      "아역",
+      "연극",
+      "연기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daebon"
+  },
+  "대사_일반명사-1": {
+    "id": "대사_일반명사-1",
+    "def_ko": "나라와 나라 사이의 외교 대표",
+    "related_vocab": [
+      "공무원",
+      "대사관",
+      "사절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daesa"
+  },
+  "대사관_일반명사-1": {
+    "id": "대사관_일반명사-1",
+    "def_ko": "대사가 머무르며 일하는 곳",
+    "related_vocab": [
+      "사절",
+      "발급",
+      "대사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daesagwan"
+  },
+  "대상자_일반명사-1": {
+    "id": "대상자_일반명사-1",
+    "def_ko": "대상이 되는 사람",
+    "related_vocab": [
+      "고객",
+      "부상자",
+      "상대",
+      "장애인",
+      "지원자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대신_일반명사-1": {
+    "id": "대신_일반명사-1",
+    "def_ko": "다른 사람을 대신함",
+    "related_vocab": [
+      "거들다",
+      "도와주다",
+      "돌보다",
+      "맡기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daesin"
+  },
+  "대여_일반명사-1": {
+    "id": "대여_일반명사-1",
+    "def_ko": "빌려 줌",
+    "related_vocab": [
+      "대출",
+      "무료",
+      "사용료",
+      "요금"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "만화방_일반명사-1",
+          "target_term": "만화방",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "상점 종류",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "daeyeo"
+  },
+  "대왕_일반명사-1": {
+    "id": "대왕_일반명사-1",
+    "def_ko": "큰 왕이나 위대한 왕",
+    "related_vocab": [
+      "대장",
+      "대중",
+      "대표",
+      "리더",
+      "신하"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daewang"
+  },
+  "대원_일반명사-1": {
+    "id": "대원_일반명사-1",
+    "def_ko": "조직이나 단체의 구성원",
+    "related_vocab": [
+      "단원",
+      "부원",
+      "위원회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daewon"
+  },
+  "대인_일반명사-1": {
+    "id": "대인_일반명사-1",
+    "def_ko": "사람과의 관계",
+    "related_vocab": [
+      "다투다",
+      "맺다",
+      "만남",
+      "꾸중",
+      "안부"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daein"
+  },
+  "대작_일반명사-1": {
+    "id": "대작_일반명사-1",
+    "def_ko": "규모가 크거나 훌륭한 작품",
+    "related_vocab": [
+      "전작",
+      "명작",
+      "명화",
+      "소설",
+      "저작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejak"
+  },
+  "대장_일반명사-1": {
+    "id": "대장_일반명사-1",
+    "def_ko": "우두머리",
+    "related_vocab": [
+      "단장",
+      "대왕",
+      "시장",
+      "팀장",
+      "협회장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejang"
+  },
+  "대접_일반명사-1": {
+    "id": "대접_일반명사-1",
+    "def_ko": "사람에게 음식이나 예를 베풂",
+    "related_vocab": [
+      "베풀다",
+      "공경",
+      "방문",
+      "찾아뵙다",
+      "초대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejeop"
+  },
+  "대중_일반명사-1": {
+    "id": "대중_일반명사-1",
+    "def_ko": "많은 사람들",
+    "related_vocab": [
+      "인류",
+      "각자",
+      "대왕",
+      "또래",
+      "부자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejung"
+  },
+  "대중가요_일반명사-1": {
+    "id": "대중가요_일반명사-1",
+    "def_ko": "많은 사람이 즐겨 듣는 노래",
+    "related_vocab": [
+      "미디어",
+      "유행",
+      "인기",
+      "케이팝"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejunggayo"
+  },
+  "대중교통_일반명사-1": {
+    "id": "대중교통_일반명사-1",
+    "def_ko": "많은 사람이 함께 이용하는 교통 수단",
+    "related_vocab": [
+      "막차",
+      "지하철",
+      "전철"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejunggyotong"
+  },
+  "대중문화_일반명사-1": {
+    "id": "대중문화_일반명사-1",
+    "def_ko": "대중이 향유하는 문화",
+    "related_vocab": [
+      "배우",
+      "유행",
+      "인기",
+      "케이팝",
+      "연예인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daejungmunhwa"
+  },
+  "대청마루_일반명사-1": {
+    "id": "대청마루_일반명사-1",
+    "def_ko": "한옥에서 가장 넓은 마루",
+    "related_vocab": [
+      "궁궐"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daechungmaru"
+  },
+  "대청소_일반명사-1": {
+    "id": "대청소_일반명사-1",
+    "def_ko": "전체를 다 청소함",
+    "related_vocab": [
+      "이전",
+      "쓸다",
+      "집들이",
+      "인테리어"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대출_일반명사-1": {
+    "id": "대출_일반명사-1",
+    "def_ko": "돈을 빌려 줌",
+    "related_vocab": [
+      "꾸다",
+      "인출",
+      "대여"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "빌리다_동사-1",
+          "target_term": "빌리다",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "교환과 서비스",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "daechul"
+  },
+  "대출금_일반명사-1": {
+    "id": "대출금_일반명사-1",
+    "def_ko": "빌린 돈",
+    "related_vocab": [
+      "연체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daechulgeum"
+  },
+  "대칭_일반명사-1": {
+    "id": "대칭_일반명사-1",
+    "def_ko": "양쪽의 모양이 서로 대응함",
+    "related_vocab": [
+      "균형",
+      "디자인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daeching"
+  },
+  "대통령_일반명사-1": {
+    "id": "대통령_일반명사-1",
+    "def_ko": "국가의 대표 지도자",
+    "related_vocab": [
+      "국빈",
+      "독립",
+      "정당",
+      "즉위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daetongnyeong"
+  },
+  "대표_일반명사-1": {
+    "id": "대표_일반명사-1",
+    "def_ko": "집단을 대표하는 사람",
+    "related_vocab": [
+      "공인",
+      "단장",
+      "대왕",
+      "시장",
+      "주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daepyo"
+  },
+  "대필_일반명사-1": {
+    "id": "대필_일반명사-1",
+    "def_ko": "남의 글을 대신 써 줌",
+    "related_vocab": [
+      "대리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daepil"
+  },
+  "대학_일반명사-1": {
+    "id": "대학_일반명사-1",
+    "def_ko": "고등 교육을 제공하는 교육 기관",
+    "related_vocab": [
+      "교육원",
+      "시험장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "유학생_일반명사-1",
+          "target_term": "유학생",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학교 사람과 직책",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "학계_일반명사-1",
+          "target_term": "학계",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학교 사람과 직책",
+          "hook_id": "H18"
+        }
+      ]
+    },
+    "phonetic_romanization": "daehak"
+  },
+  "대학교_일반명사-1": {
+    "id": "대학교_일반명사-1",
+    "def_ko": "대학이 모여 있는 교육 기관",
+    "related_vocab": [
+      "도서관",
+      "교육원",
+      "학생회관",
+      "학원",
+      "고등학교"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daehakkyo"
+  },
+  "대학생_일반명사-1": {
+    "id": "대학생_일반명사-1",
+    "def_ko": "대학교에 다니는 사람",
+    "related_vocab": [
+      "건축학도",
+      "유학생",
+      "학생회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daehaksaeng"
+  },
+  "대학원_일반명사-1": {
+    "id": "대학원_일반명사-1",
+    "def_ko": "대학교를 졸업한 사람이 전문적인 교육을 받고 연구를 하는 기관",
+    "related_vocab": [
+      "교육원",
+      "연구실"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "대형_일반명사-1": {
+    "id": "대형_일반명사-1",
+    "def_ko": "크기가 큰 것",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daehyeong"
+  },
+  "대회_일반명사-1": {
+    "id": "대회_일반명사-1",
+    "def_ko": "사람이 모여 겨루거나 토론하는 행사",
+    "related_vocab": [
+      "발표회",
+      "축제",
+      "회의장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daehoe"
+  },
+  "대회장_일반명사-1": {
+    "id": "대회장_일반명사-1",
+    "def_ko": "대회가 열리는 장소",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daeoijang"
+  },
+  "댁_일반명사-1": {
+    "id": "댁_일반명사-1",
+    "def_ko": "상대의 집을 높여 이르는 말",
+    "related_vocab": [
+      "큰집"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daek"
+  },
+  "댄스_일반명사-1": {
+    "id": "댄스_일반명사-1",
+    "def_ko": "음악에 맞춰 추는 춤",
+    "related_vocab": [
+      "뮤지컬",
+      "군무",
+      "추다",
+      "힙합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "daenseu"
+  },
+  "댐_일반명사-1": {
+    "id": "댐_일반명사-1",
+    "def_ko": "강이나 바닷물을 막아 물의 양을 조절하고 발전을 하기 위하여 쌓은 둑",
+    "related_vocab": [
+      "분수",
+      "전력",
+      "매설"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "더럽히다_동사-1": {
+    "id": "더럽히다_동사-1",
+    "def_ko": "때나 찌꺼기를 묻게 하여 깨끗하지 못하거나 지저분한 상태가 되게 하다",
+    "related_vocab": [
+      "닦다",
+      "닦이다",
+      "빨래",
+      "세척",
+      "손때"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "더불다_동사-1": {
+    "id": "더불다_동사-1",
+    "def_ko": "함께하다",
+    "related_vocab": [
+      "나누다",
+      "덩달다",
+      "데려가다",
+      "데려오다",
+      "데리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deobulda"
+  },
+  "더위_일반명사-1": {
+    "id": "더위_일반명사-1",
+    "def_ko": "높은 기온으로 인한 뜨거운 상태",
+    "related_vocab": [
+      "덥다",
+      "고온"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "무더위_일반명사-1",
+          "target_term": "무더위",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "날씨와 기상",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "deowi"
+  },
+  "덥다_형용사-1": {
+    "id": "덥다_형용사-1",
+    "def_ko": "기온이 높아 뜨겁다",
+    "related_vocab": [
+      "더위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "뜨겁다_형용사-1",
+          "target_term": "뜨겁다",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "촉각과 질감",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "무덥다_형용사-1",
+          "target_term": "무덥다",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "날씨와 기상",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "deoptta"
+  },
+  "덧나다_동사-1": {
+    "id": "덧나다_동사-1",
+    "def_ko": "상처 등이 더 심해지다",
+    "related_vocab": [
+      "낫다",
+      "다치다",
+      "데다",
+      "물리다",
+      "상해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deonnada"
+  },
+  "덩굴_일반명사-1": {
+    "id": "덩굴_일반명사-1",
+    "def_ko": "줄기가 길게 뻗어나가는 식물",
+    "related_vocab": [
+      "해조",
+      "담쟁이",
+      "무성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deonggul"
+  },
+  "덩달다_동사-1": {
+    "id": "덩달다_동사-1",
+    "def_ko": "다른 것의 영향을 받아 따라 하다",
+    "related_vocab": [
+      "더불다",
+      "데리다",
+      "의존",
+      "힘입다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deongdalda"
+  },
+  "데다_동사-1": {
+    "id": "데다_동사-1",
+    "def_ko": "불이나 뜨거운 것에 살이 닿아 다치다",
+    "related_vocab": [
+      "동상",
+      "다치다",
+      "덧나다",
+      "부상",
+      "붓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "데려가다_동사-1": {
+    "id": "데려가다_동사-1",
+    "def_ko": "사람을 함께 데리고 가다",
+    "related_vocab": [
+      "더불다",
+      "데려오다",
+      "데리다",
+      "마중",
+      "반려동물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deryeogada"
+  },
+  "데려오다_동사-1": {
+    "id": "데려오다_동사-1",
+    "def_ko": "사람을 함께 데리고 오다",
+    "related_vocab": [
+      "더불다",
+      "데려가다",
+      "데리다",
+      "마중",
+      "맞아들이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deryeooda"
+  },
+  "데리다_동사-1": {
+    "id": "데리다_동사-1",
+    "def_ko": "사람을 모시거나 함께 하다",
+    "related_vocab": [
+      "기르다",
+      "더불다",
+      "덩달다",
+      "데려가다",
+      "데려오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "derida"
+  },
+  "데뷔_일반명사-1": {
+    "id": "데뷔_일반명사-1",
+    "def_ko": "어떤 분야에서 처음으로 활동을 시작함",
+    "related_vocab": [
+      "입사",
+      "취업"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "개업_일반명사-1",
+          "target_term": "개업",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "직무 장비와 비즈니스",
+          "hook_id": "H04"
+        },
+        {
+          "target_id": "창업_일반명사-1",
+          "target_term": "창업",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "직무 장비와 비즈니스",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "debyu"
+  },
+  "데우다_동사-1": {
+    "id": "데우다_동사-1",
+    "def_ko": "차가운 것을 덥게 만들다",
+    "related_vocab": [
+      "가열",
+      "끓이다",
+      "냄비",
+      "냉동",
+      "냉동실"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deuda"
+  },
+  "데이트_일반명사-1": {
+    "id": "데이트_일반명사-1",
+    "def_ko": "남자나 여자가 서로 사귀려고 만나는 일",
+    "related_vocab": [
+      "미팅",
+      "마주하다",
+      "뽀뽀",
+      "시집가다",
+      "연애"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "데치다_동사-1": {
+    "id": "데치다_동사-1",
+    "def_ko": "끓는 물에 잠깐 넣어 살짝 익히다",
+    "related_vocab": [
+      "끓이다",
+      "삶다",
+      "익히다",
+      "찌다",
+      "튀기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도_일반명사-1": {
+    "id": "도_일반명사-1",
+    "def_ko": "대한민국의 시, 군 등을 관할하는 가장 큰 지방 행정 구역",
+    "related_vocab": [
+      "주도",
+      "도민",
+      "군",
+      "동",
+      "자치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도구_일반명사-1": {
+    "id": "도구_일반명사-1",
+    "def_ko": "일을 할 때 쓰는 기구나 장치",
+    "related_vocab": [
+      "기계",
+      "기구",
+      "연단",
+      "장비",
+      "장애물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dogu"
+  },
+  "도난_일반명사-1": {
+    "id": "도난_일반명사-1",
+    "def_ko": "도둑을 맞음",
+    "related_vocab": [
+      "경비",
+      "도둑",
+      "순찰",
+      "치안",
+      "피해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도넛_일반명사-1": {
+    "id": "도넛_일반명사-1",
+    "def_ko": "둥글게 튀긴 달콤한 빵",
+    "related_vocab": [
+      "떡",
+      "라면",
+      "빵",
+      "식빵",
+      "탕수육"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doneot"
+  },
+  "도다_동사-1": {
+    "id": "도다_동사-1",
+    "def_ko": "싹이나 순이 돋아 나오다",
+    "related_vocab": [
+      "싹",
+      "싹트다",
+      "꽃망울"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doda"
+  },
+  "도도새_일반명사-1": {
+    "id": "도도새_일반명사-1",
+    "def_ko": "예전에 모리셔스에 살았던 멸종된 새",
+    "related_vocab": [
+      "둥지",
+      "새"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dodosae"
+  },
+  "도둑_일반명사-1": {
+    "id": "도둑_일반명사-1",
+    "def_ko": "남의 물건을 훔치거나 빼앗는 짓을 하는 사람",
+    "related_vocab": [
+      "감옥",
+      "도용",
+      "경찰관",
+      "범인",
+      "도난"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도랑_일반명사-1": {
+    "id": "도랑_일반명사-1",
+    "def_ko": "땅을 따라 길게 파여 물이 흐르는 곳",
+    "related_vocab": [
+      "개울",
+      "물길",
+      "밭",
+      "수로",
+      "시내"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dorang"
+  },
+  "도로_일반명사-1": {
+    "id": "도로_일반명사-1",
+    "def_ko": "사람이나 차가 잘 다닐 수 있도록 만들어 놓은 길",
+    "related_vocab": [
+      "교통경찰",
+      "고속도로",
+      "길",
+      "길바닥",
+      "도로망"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도로망_일반명사-1": {
+    "id": "도로망_일반명사-1",
+    "def_ko": "여러 길이 서로 연결된 구조",
+    "related_vocab": [
+      "교차로",
+      "길",
+      "도로",
+      "분기점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "망_일반명사-1",
+          "target_term": "망",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "논리적 관계",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "doromang"
+  },
+  "도로변_일반명사-1": {
+    "id": "도로변_일반명사-1",
+    "def_ko": "길 바로 옆 공간",
+    "related_vocab": [
+      "주유소",
+      "휴게소",
+      "길가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dorobyeon"
+  },
+  "도마_일반명사-1": {
+    "id": "도마_일반명사-1",
+    "def_ko": "음식의 재료를 칼로 썰거나 다질 때 밑에 놓고 받치는 플라스틱이나 나무로 된 넓은 판",
+    "related_vocab": [
+      "다지다",
+      "조리",
+      "썰다",
+      "프라이팬"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "도마뱀_일반명사-1": {
+    "id": "도마뱀_일반명사-1",
+    "def_ko": "땅 위를 기어 다니는 파충류",
+    "related_vocab": [
+      "거북이",
+      "비늘",
+      "뱀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "domabaem"
+  },
+  "도맡다_동사-1": {
+    "id": "도맡다_동사-1",
+    "def_ko": "어떤 일을 전부 책임지고 하다",
+    "related_vocab": [
+      "업무",
+      "담당",
+      "동분서주",
+      "맡다",
+      "일하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "domattta"
+  },
+  "도면_일반명사-1": {
+    "id": "도면_일반명사-1",
+    "def_ko": "건축이나 제작을 위해 그린 자세한 그림",
+    "related_vocab": [
+      "문서",
+      "서식",
+      "설명서",
+      "복사기",
+      "조선업"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "domyeon"
+  },
+  "도민_일반명사-1": {
+    "id": "도민_일반명사-1",
+    "def_ko": "한 도(道)에 사는 사람",
+    "related_vocab": [
+      "도",
+      "시",
+      "군민"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "domin"
+  },
+  "도보_일반명사-1": {
+    "id": "도보_일반명사-1",
+    "def_ko": "걸어서 이동함",
+    "related_vocab": [
+      "걸어가다",
+      "걸음",
+      "교통비",
+      "보행자",
+      "횡단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dobo"
+  },
+  "도서_일반명사-1": {
+    "id": "도서_일반명사-1",
+    "def_ko": "책 전체를 이르는 말",
+    "related_vocab": [
+      "갈피",
+      "교과서",
+      "백과사전",
+      "사전",
+      "읽을거리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doseo"
+  },
+  "도서관_일반명사-1": {
+    "id": "도서관_일반명사-1",
+    "def_ko": "책을 모아 두고 사람들이 읽는 곳",
+    "related_vocab": [
+      "대학교",
+      "연구실",
+      "컴퓨터실",
+      "학교",
+      "교내"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doseogwan"
+  },
+  "도성_일반명사-1": {
+    "id": "도성_일반명사-1",
+    "def_ko": "옛날에 왕이 살던 큰 도시",
+    "related_vocab": [
+      "고궁",
+      "나라",
+      "성곽",
+      "왕관",
+      "왕권"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doseong"
+  },
+  "도시_일반명사-1": {
+    "id": "도시_일반명사-1",
+    "def_ko": "사람과 건물이 많이 모여 있는 큰 지역",
+    "related_vocab": [
+      "귀농",
+      "귀촌",
+      "토지",
+      "교외",
+      "마을"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dosi"
+  },
+  "도시락_일반명사-1": {
+    "id": "도시락_일반명사-1",
+    "def_ko": "집에서 준비해 밖에서 먹는 밥",
+    "related_vocab": [
+      "김밥",
+      "반찬",
+      "밥",
+      "식사",
+      "음식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dosirak"
+  },
+  "도심_일반명사-1": {
+    "id": "도심_일반명사-1",
+    "def_ko": "도시의 중심 부분",
+    "related_vocab": [
+      "고층",
+      "안방",
+      "교외",
+      "밤거리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dosim"
+  },
+  "도와주다_동사-1": {
+    "id": "도와주다_동사-1",
+    "def_ko": "남이 필요한 일을 거들어 주다",
+    "related_vocab": [
+      "갚다",
+      "거들다",
+      "구하다",
+      "기르다",
+      "대신"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dowajuda"
+  },
+  "도용_일반명사-1": {
+    "id": "도용_일반명사-1",
+    "def_ko": "남의 물건이나 이름을 허락 없이 씀",
+    "related_vocab": [
+      "도둑"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doyong"
+  },
+  "도우미_일반명사-1": {
+    "id": "도우미_일반명사-1",
+    "def_ko": "여러 일을 대신 도와주는 사람",
+    "related_vocab": [
+      "동반자",
+      "보호자",
+      "봉사자",
+      "중재자",
+      "해결사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dowumi"
+  },
+  "도움_일반명사-1": {
+    "id": "도움_일반명사-1",
+    "def_ko": "남을 돕는 행위나 받은 보탬",
+    "related_vocab": [
+      "육성",
+      "거들다",
+      "구하다",
+      "알선",
+      "은혜"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doum"
+  },
+  "도자기_일반명사-1": {
+    "id": "도자기_일반명사-1",
+    "def_ko": "흙을 구워 만든 그릇",
+    "related_vocab": [
+      "꽃병",
+      "바구니",
+      "옹기",
+      "인형",
+      "재떨이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dojagi"
+  },
+  "도장_일반명사-1": {
+    "id": "도장_일반명사-1",
+    "def_ko": "이름을 새겨 찍는 도구",
+    "related_vocab": [
+      "계약서",
+      "동의서",
+      "민원서류"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "낙관_일반명사-2",
+          "target_term": "낙관",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "전통과 명절",
+          "hook_id": "H19"
+        }
+      ]
+    },
+    "phonetic_romanization": "dojang"
+  },
+  "도착_일반명사-1": {
+    "id": "도착_일반명사-1",
+    "def_ko": "목적지에 다다름",
+    "related_vocab": [
+      "돌아오다",
+      "떠나다",
+      "거치다",
+      "비행",
+      "조종사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dochak"
+  },
+  "도표_일반명사-1": {
+    "id": "도표_일반명사-1",
+    "def_ko": "정보를 그림이나 표로 나타낸 것",
+    "related_vocab": [
+      "개론",
+      "논문",
+      "모델"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dop'yo"
+  },
+  "독_일반명사-1": {
+    "id": "독_일반명사-1",
+    "def_ko": "생물을 해치게 하는 물질",
+    "related_vocab": [
+      "독성",
+      "세균",
+      "유해",
+      "균",
+      "물리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dok"
+  },
+  "독감_일반명사-1": {
+    "id": "독감_일반명사-1",
+    "def_ko": "매우 독한 유행성 감기",
+    "related_vocab": [
+      "감기",
+      "기침",
+      "바이러스",
+      "열",
+      "재채기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "독려_일반명사-1": {
+    "id": "독려_일반명사-1",
+    "def_ko": "사람들이 더 열심히 하도록 힘을 북돋우는 일",
+    "related_vocab": [
+      "근무",
+      "노동",
+      "업무",
+      "일",
+      "일하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongnyeo"
+  },
+  "독립_일반명사-1": {
+    "id": "독립_일반명사-1",
+    "def_ko": "다른 나라의 지배를 받지 않고 스스로 나라를 다스림",
+    "related_vocab": [
+      "건국",
+      "대통령",
+      "국기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongnip"
+  },
+  "독버섯_일반명사-1": {
+    "id": "독버섯_일반명사-1",
+    "def_ko": "먹으면 몸에 해를 주는 버섯",
+    "related_vocab": [
+      "곰팡이",
+      "독초",
+      "버섯",
+      "병충해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokbeoseot"
+  },
+  "독서_일반명사-1": {
+    "id": "독서_일반명사-1",
+    "def_ko": "책을 읽는 일",
+    "related_vocab": [
+      "산문집",
+      "읽기",
+      "읽다",
+      "저술"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "독자_일반명사-1",
+          "target_term": "독자",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학교 사람과 직책",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "dokseo"
+  },
+  "독성_일반명사-1": {
+    "id": "독성_일반명사-1",
+    "def_ko": "몸을 해치게 하는 성질",
+    "related_vocab": [
+      "균",
+      "독",
+      "유해",
+      "상해",
+      "식중독"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokseong"
+  },
+  "독신_일반명사-1": {
+    "id": "독신_일반명사-1",
+    "def_ko": "배우자를 두지 않고 혼자 사는 상태",
+    "related_vocab": [
+      "과부",
+      "남자",
+      "미혼",
+      "비혼",
+      "성인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doksin"
+  },
+  "독자_일반명사-1": {
+    "id": "독자_일반명사-1",
+    "def_ko": "책이나 글을 읽는 사람",
+    "related_vocab": [
+      "학습자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "서적_일반명사-1",
+          "target_term": "서적",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학용품과 과목",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "독서_일반명사-1",
+          "target_term": "독서",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "수업과 교육 활동",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "읽기_일반명사-1",
+          "target_term": "읽기",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "수업과 교육 활동",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "dokja"
+  },
+  "독점_일반명사-1": {
+    "id": "독점_일반명사-1",
+    "def_ko": "어떤 것의 이익이나 권리를 한곳에서만 차지함",
+    "related_vocab": [
+      "공급",
+      "경제",
+      "경쟁",
+      "이득"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "권리_일반명사-1",
+          "target_term": "권리",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "사회 현상과 뉴스",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "dokjeom"
+  },
+  "독주_일반명사-1": {
+    "id": "독주_일반명사-1",
+    "def_ko": "여러 악기 중에서 혼자 악기를 연주함",
+    "related_vocab": [
+      "협주곡",
+      "관악기",
+      "독창",
+      "연주",
+      "연주자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokju"
+  },
+  "독주_일반명사-2": {
+    "id": "독주_일반명사-2",
+    "def_ko": "술을 혼자 마심",
+    "related_vocab": [
+      "소주",
+      "술",
+      "마시다",
+      "음주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "술잔_일반명사-1",
+          "target_term": "술잔",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "요리와 주방 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "dokju"
+  },
+  "독주회_일반명사-1": {
+    "id": "독주회_일반명사-1",
+    "def_ko": "한 사람이 혼자 연주하는 음악회",
+    "related_vocab": [
+      "독창",
+      "음악회",
+      "클래식",
+      "피아노",
+      "연주자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokjuhwe"
+  },
+  "독창_일반명사-2": {
+    "id": "독창_일반명사-2",
+    "def_ko": "혼자 노래를 부름",
+    "related_vocab": [
+      "독주",
+      "독주회",
+      "가수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokchang"
+  },
+  "독초_일반명사-1": {
+    "id": "독초_일반명사-1",
+    "def_ko": "몸에 해를 주는 독을 가진 풀",
+    "related_vocab": [
+      "독버섯",
+      "뿌리",
+      "옻",
+      "잡초"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dokcho"
+  },
+  "돈_일반명사-1": {
+    "id": "돈_일반명사-1",
+    "def_ko": "물건을 사고팔 때 쓰는 화폐",
+    "related_vocab": [
+      "가격",
+      "거래",
+      "거스름돈",
+      "결제",
+      "계산대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "don"
+  },
+  "돈벌이_일반명사-1": {
+    "id": "돈벌이_일반명사-1",
+    "def_ko": "돈을 버는 일이나 그런 직업",
+    "related_vocab": [
+      "경영",
+      "일하다",
+      "직업",
+      "진로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맞벌이_일반명사-1",
+          "target_term": "맞벌이",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "인사 활동과 처우",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "donbeori"
+  },
+  "돌_일반명사-1": {
+    "id": "돌_일반명사-1",
+    "def_ko": "땅을 이루는 단단한 물질 덩어리",
+    "related_vocab": [
+      "땅",
+      "광물",
+      "그림자",
+      "돌멩이",
+      "모래"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dol"
+  },
+  "돌_일반명사-2": {
+    "id": "돌_일반명사-2",
+    "def_ko": "아이의 첫 번째 생일",
+    "related_vocab": [
+      "낳다",
+      "돌잔치",
+      "생일",
+      "생일날",
+      "아기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dol"
+  },
+  "돌고래_일반명사-1": {
+    "id": "돌고래_일반명사-1",
+    "def_ko": "몸이 매끈하고 머리가 좋은 바다 포유류",
+    "related_vocab": [
+      "고래",
+      "문어",
+      "물고기",
+      "사냥",
+      "해마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dolgorae"
+  },
+  "돌기_일반명사-1": {
+    "id": "돌기_일반명사-1",
+    "def_ko": "주변보다 볼록하게 튀어나온 부분",
+    "related_vocab": [
+      "겉면",
+      "불룩",
+      "톱니",
+      "경사지다",
+      "오목"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dolgi"
+  },
+  "돌다_동사-1": {
+    "id": "돌다_동사-1",
+    "def_ko": "원을 그리거나 축을 중심으로 움직이다",
+    "related_vocab": [
+      "궤도",
+      "기계",
+      "구르다",
+      "굴리다",
+      "돌리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dolda"
+  },
+  "돌다_동사-2": {
+    "id": "돌다_동사-2",
+    "def_ko": "여러 곳을 이리저리 다니다",
+    "related_vocab": [
+      "다니다",
+      "돌아다니다",
+      "뛰어다니다",
+      "방황",
+      "오가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dolda"
+  },
+  "돌리다_동사-1": {
+    "id": "돌리다_동사-1",
+    "def_ko": "어떤 물건을 빙그르게 움직이게 하다",
+    "related_vocab": [
+      "기계",
+      "부품",
+      "굴리다",
+      "돌다",
+      "몰다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dollida"
+  },
+  "돌멩이_일반명사-1": {
+    "id": "돌멩이_일반명사-1",
+    "def_ko": "손에 쥘 수 있을 만한 크기의 돌",
+    "related_vocab": [
+      "강",
+      "땅",
+      "돌",
+      "모래",
+      "바위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "돌보다_동사-1": {
+    "id": "돌보다_동사-1",
+    "def_ko": "부족함이 없게 챙기고 살피다",
+    "related_vocab": [
+      "구하다",
+      "기르다",
+      "대신",
+      "모시다",
+      "의존"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dolboda"
+  },
+  "돌아가다_동사-1": {
+    "id": "돌아가다_동사-1",
+    "def_ko": "원래 있던 곳이나 방향으로 다시 가다",
+    "related_vocab": [
+      "귀환",
+      "다녀오다",
+      "비키다",
+      "왕복",
+      "우회전"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doragada"
+  },
+  "돌아가다_동사-2": {
+    "id": "돌아가다_동사-2",
+    "def_ko": "사람이 죽다를 에둘러 이르다",
+    "related_vocab": [
+      "눈감다",
+      "늙다",
+      "유서",
+      "인명",
+      "인생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doragada"
+  },
+  "돌아다니다_동사-1": {
+    "id": "돌아다니다_동사-1",
+    "def_ko": "이곳저곳을 계속 옮겨 다니다",
+    "related_vocab": [
+      "나르다",
+      "돌다",
+      "따라다니다",
+      "떠다니다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "헤매다_동사-1",
+          "target_term": "헤매다",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "doradanida"
+  },
+  "돌아서다_동사-1": {
+    "id": "돌아서다_동사-1",
+    "def_ko": "서 있는 방향을 바꾸다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doraseoda"
+  },
+  "돌아오다_동사-1": {
+    "id": "돌아오다_동사-1",
+    "def_ko": "떠났던 곳으로 다시 오다",
+    "related_vocab": [
+      "건너오다",
+      "귀환",
+      "다녀오다",
+      "도착",
+      "찾아오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doraoda"
+  },
+  "돌잔치_일반명사-1": {
+    "id": "돌잔치_일반명사-1",
+    "def_ko": "아이가 태어난 지 한 해가 되었을 때 여는 잔치",
+    "related_vocab": [
+      "낳다",
+      "돌",
+      "생일",
+      "생일날",
+      "아기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doljanchi"
+  },
+  "돕다_동사-1": {
+    "id": "돕다_동사-1",
+    "def_ko": "일이나 어려움을 함께 맡아 수고를 덜어 주다",
+    "related_vocab": [
+      "갚다",
+      "거들다",
+      "관여",
+      "구하다",
+      "끌어들이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doptta"
+  },
+  "동_일반명사-3": {
+    "id": "동_일반명사-3",
+    "def_ko": "도시 안의 작은 행정 구역 단위",
+    "related_vocab": [
+      "시정",
+      "구청",
+      "군",
+      "시",
+      "도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dong"
+  },
+  "동_일반명사-4": {
+    "id": "동_일반명사-4",
+    "def_ko": "붉은빛이 도는 금속의 하나",
+    "related_vocab": [
+      "구리",
+      "귀금속",
+      "금",
+      "녹",
+      "녹이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dong"
+  },
+  "동결_일반명사-1": {
+    "id": "동결_일반명사-1",
+    "def_ko": "얼어서 굳어짐 또는 그렇게 함",
+    "related_vocab": [
+      "서리",
+      "얼다",
+      "얼리다",
+      "얼음",
+      "춥다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donggyeol"
+  },
+  "동굴_일반명사-1": {
+    "id": "동굴_일반명사-1",
+    "def_ko": "산이나 땅속이 속이 비어 길게 파인 곳",
+    "related_vocab": [
+      "매장량",
+      "바위",
+      "천연기념물",
+      "산속",
+      "지열"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donggul"
+  },
+  "동그라미_일반명사-1": {
+    "id": "동그라미_일반명사-1",
+    "def_ko": "둥글게 그린 선이나 그 모양",
+    "related_vocab": [
+      "고리",
+      "구",
+      "구체",
+      "네모",
+      "동그랗다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donggeurami"
+  },
+  "동그랗다_형용사-1": {
+    "id": "동그랗다_형용사-1",
+    "def_ko": "모양이 둥근 상태이다",
+    "related_vocab": [
+      "구체",
+      "구체적",
+      "동그라미",
+      "점",
+      "휘어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donggeurata"
+  },
+  "동기_일반명사-2": {
+    "id": "동기_일반명사-2",
+    "def_ko": "같은 때에 입학하거나 졸업한 사람",
+    "related_vocab": [
+      "동문",
+      "신입생",
+      "재학생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donggi"
+  },
+  "동네_일반명사-1": {
+    "id": "동네_일반명사-1",
+    "def_ko": "사람들이 모여 사는 비교적 작은 지역",
+    "related_vocab": [
+      "골목",
+      "골목길",
+      "단지",
+      "앞집",
+      "이웃집"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongne"
+  },
+  "동력_일반명사-1": {
+    "id": "동력_일반명사-1",
+    "def_ko": "기계나 물체를 움직이게 하는 힘",
+    "related_vocab": [
+      "기능",
+      "튕기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongnyeok"
+  },
+  "동료_일반명사-1": {
+    "id": "동료_일반명사-1",
+    "def_ko": "같은 곳에서 함께 일하거나 활동하는 사람",
+    "related_vocab": [
+      "근로자",
+      "기자",
+      "기자단",
+      "담당자",
+      "병사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongnyo"
+  },
+  "동문_일반명사-1": {
+    "id": "동문_일반명사-1",
+    "def_ko": "같은 학교를 다녔던 사람",
+    "related_vocab": [
+      "동기",
+      "졸업생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "학교_일반명사-1",
+          "target_term": "학교",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학교 시설과 환경",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "dongmun"
+  },
+  "동물_일반명사-1": {
+    "id": "동물_일반명사-1",
+    "def_ko": "움직이고 먹이를 먹으며 사는 생물",
+    "related_vocab": [
+      "강아지",
+      "거미",
+      "거북이",
+      "곰",
+      "군락"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongmul"
+  },
+  "동물원_일반명사-1": {
+    "id": "동물원_일반명사-1",
+    "def_ko": "여러 가지 동물을 모아 기르고 보여 주는 곳",
+    "related_vocab": [
+      "구경거리",
+      "쇼",
+      "전시",
+      "수족관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongmurwon"
+  },
+  "동반자_일반명사-1": {
+    "id": "동반자_일반명사-1",
+    "def_ko": "어떤 일을 함께하는 사람",
+    "related_vocab": [
+      "공범",
+      "공범자",
+      "도우미",
+      "선구자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "반려_일반명사-1",
+          "target_term": "반려",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "친구와 지인",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "dongbanja"
+  },
+  "동분서주_일반명사-1": {
+    "id": "동분서주_일반명사-1",
+    "def_ko": "이 일 저 일로 정신없이 이리저리 뛰어다님",
+    "related_vocab": [
+      "경영",
+      "도맡다",
+      "운영"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongbunseoju"
+  },
+  "동사_일반명사-1": {
+    "id": "동사_일반명사-1",
+    "def_ko": "사람이나 사물의 움직임이나 작용을 나타내는 품사",
+    "related_vocab": [
+      "작문",
+      "어학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsa"
+  },
+  "동상_일반명사-1": {
+    "id": "동상_일반명사-1",
+    "def_ko": "사람이나 동물 모양을 쇠나 돌로 만든 것",
+    "related_vocab": [
+      "고미술품",
+      "새기다",
+      "조각",
+      "조형",
+      "피사체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsang"
+  },
+  "동상_일반명사-2": {
+    "id": "동상_일반명사-2",
+    "def_ko": "심하게 추위를 받아 살이 상한 병",
+    "related_vocab": [
+      "데다",
+      "멍",
+      "병",
+      "다치다",
+      "부상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsang"
+  },
+  "동생_일반명사-1": {
+    "id": "동생_일반명사-1",
+    "def_ko": "자기보다 나이가 적은 형제나 자매",
+    "related_vocab": [
+      "남동생",
+      "누나",
+      "막내",
+      "사촌",
+      "언니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsaeng"
+  },
+  "동서남북_일반명사-1": {
+    "id": "동서남북_일반명사-1",
+    "def_ko": "동, 서, 남, 북의 네 방향 모두",
+    "related_vocab": [
+      "방면",
+      "동쪽",
+      "북",
+      "북쪽",
+      "서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongseonambuk"
+  },
+  "동서양_일반명사-1": {
+    "id": "동서양_일반명사-1",
+    "def_ko": "동양과 서양",
+    "related_vocab": [
+      "문화재",
+      "국제",
+      "동양",
+      "서양",
+      "이국적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongseoyang"
+  },
+  "동시_일반명사-2": {
+    "id": "동시_일반명사-2",
+    "def_ko": "아이를 대상으로 한 짧고 쉬운 시",
+    "related_vocab": [
+      "가사",
+      "그림책",
+      "노래",
+      "동요",
+      "동화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsi"
+  },
+  "동식물_일반명사-1": {
+    "id": "동식물_일반명사-1",
+    "def_ko": "동물과 식물을 함께 이르는 말",
+    "related_vocab": [
+      "곤충",
+      "미생물",
+      "생태",
+      "진화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongsingmul"
+  },
+  "동아리_일반명사-1": {
+    "id": "동아리_일반명사-1",
+    "def_ko": "공통 관심사를 가진 사람들이 만든 모임",
+    "related_vocab": [
+      "모임",
+      "단체",
+      "팀",
+      "파"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동호회_일반명사-1",
+          "target_term": "동호회",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "취미 활동과 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "dongari"
+  },
+  "동양_일반명사-1": {
+    "id": "동양_일반명사-1",
+    "def_ko": "아시아 여러 나라를 중심으로 한 동쪽 세계",
+    "related_vocab": [
+      "일본",
+      "민족",
+      "동서양",
+      "서양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongyang"
+  },
+  "동양인_일반명사-1": {
+    "id": "동양인_일반명사-1",
+    "def_ko": "동양 사람",
+    "related_vocab": [
+      "동포",
+      "서양인",
+      "세계인",
+      "인종"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "동양화가_일반명사-1": {
+    "id": "동양화가_일반명사-1",
+    "def_ko": "먹과 한지 등을 써서 동양화를 그리는 화가",
+    "related_vocab": [
+      "개발자",
+      "디자이너",
+      "만화가",
+      "미술가",
+      "연구가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongyanghwaga"
+  },
+  "동요_일반명사-1": {
+    "id": "동요_일반명사-1",
+    "def_ko": "아이들을 위해 만든 쉬운 노래",
+    "related_vocab": [
+      "가요",
+      "그림책",
+      "동시",
+      "동화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongyo"
+  },
+  "동의서_일반명사-1": {
+    "id": "동의서_일반명사-1",
+    "def_ko": "어떤 일에 찬성하고 허락한다는 내용을 적은 문서",
+    "related_vocab": [
+      "계약",
+      "계약서",
+      "도장",
+      "등록증",
+      "설문지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donguiseo"
+  },
+  "동전_일반명사-1": {
+    "id": "동전_일반명사-1",
+    "def_ko": "쇠로 만든 둥근 돈",
+    "related_vocab": [
+      "잔돈",
+      "주화",
+      "지폐",
+      "통화",
+      "현금"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongjeon"
+  },
+  "동쪽_일반명사-1": {
+    "id": "동쪽_일반명사-1",
+    "def_ko": "해가 뜨는 방향",
+    "related_vocab": [
+      "동서남북",
+      "북"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "아침_일반명사-1",
+          "target_term": "아침",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "H04"
+        },
+        {
+          "target_id": "동_일반명사-1",
+          "target_term": "동",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H15"
+        },
+        {
+          "target_id": "동방_일반명사-1",
+          "target_term": "동방",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H15"
+        }
+      ]
+    },
+    "phonetic_romanization": "dongjjok"
+  },
+  "동창_일반명사-1": {
+    "id": "동창_일반명사-1",
+    "def_ko": "같은 학교에서 함께 공부했던 사람",
+    "related_vocab": [
+      "교우",
+      "우정",
+      "친구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "가족_일반명사-1",
+          "target_term": "가족",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "가족과 혈연",
+          "hook_id": "H05"
+        },
+        {
+          "target_id": "동포_일반명사-1",
+          "target_term": "동포",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "dongchang"
+  },
+  "동창회_일반명사-1": {
+    "id": "동창회_일반명사-1",
+    "def_ko": "동창들이 모이는 모임이나 행사",
+    "related_vocab": [
+      "미팅",
+      "만남",
+      "수다",
+      "초대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dongchanghoe"
+  },
+  "동포_일반명사-1": {
+    "id": "동포_일반명사-1",
+    "def_ko": "같은 나라나 민족에 속하는 사람",
+    "related_vocab": [
+      "교포",
+      "동양인",
+      "원어민",
+      "한국인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동창_일반명사-1",
+          "target_term": "동창",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "친구와 지인",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "동호회_일반명사-1": {
+    "id": "동호회_일반명사-1",
+    "def_ko": "취미나 관심사가 같은 사람들이 만든 모임",
+    "related_vocab": [
+      "꽃꽂이",
+      "애호가",
+      "야유회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동아리_일반명사-1",
+          "target_term": "동아리",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "협회_일반명사-1",
+          "target_term": "협회",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "사회 현상과 뉴스",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "donghohoe"
+  },
+  "동화_일반명사-1": {
+    "id": "동화_일반명사-1",
+    "def_ko": "아이들을 위해 지은 짧은 이야기",
+    "related_vocab": [
+      "그림책",
+      "단편",
+      "동시",
+      "동요",
+      "만화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donghwa"
+  },
+  "동화책_일반명사-1": {
+    "id": "동화책_일반명사-1",
+    "def_ko": "아이들을 위한 이야기를 모아 놓은 책",
+    "related_vocab": [
+      "사전",
+      "책",
+      "학용품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "donghwachaek"
+  },
+  "돼지_일반명사-1": {
+    "id": "돼지_일반명사-1",
+    "def_ko": "몸집이 크고 코가 둥근 집짐승",
+    "related_vocab": [
+      "닭",
+      "쇠고기",
+      "소",
+      "젖소",
+      "삼겹살"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwaeji"
+  },
+  "되다_동사-4": {
+    "id": "되다_동사-4",
+    "def_ko": "어떤 자리나 역할을 맡게 되다",
+    "related_vocab": [
+      "등용",
+      "승진",
+      "임기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맡다_동사-1",
+          "target_term": "맡다",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "업무와 회의",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "임하다_동사-1",
+          "target_term": "임하다",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "업무와 회의",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "doeda"
+  },
+  "되씹다_동사-1": {
+    "id": "되씹다_동사-1",
+    "def_ko": "음식을 다시 씹다",
+    "related_vocab": [
+      "상차림",
+      "드시다",
+      "식습관",
+      "씹다",
+      "만두"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doessiptta"
+  },
+  "된장_일반명사-1": {
+    "id": "된장_일반명사-1",
+    "def_ko": "메주를 발효시켜 만든 갈색의 짠 장",
+    "related_vocab": [
+      "숙성",
+      "케첩",
+      "건강식품",
+      "국물",
+      "비지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "doenjang"
+  },
+  "두뇌_일반명사-1": {
+    "id": "두뇌_일반명사-1",
+    "def_ko": "사람이나 동물의 머릿속에 있는 신경 기관",
+    "related_vocab": [
+      "신경",
+      "신경망"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dunoe"
+  },
+  "두다_동사-1": {
+    "id": "두다_동사-1",
+    "def_ko": "어떤 곳에 물건을 놓아 있게 하다",
+    "related_vocab": [
+      "깔다",
+      "깔리다",
+      "닫다",
+      "달다",
+      "담그다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "duda"
+  },
+  "두레_일반명사-1": {
+    "id": "두레_일반명사-1",
+    "def_ko": "농촌에서 힘든 일을 함께 하려고 만든 공동 조직",
+    "related_vocab": [
+      "공동생활",
+      "공동체",
+      "부족"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dure"
+  },
+  "두르다_동사-2": {
+    "id": "두르다_동사-2",
+    "def_ko": "프라이팬 등에 기름을 고루 붓다",
+    "related_vocab": [
+      "볶음",
+      "부치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dureuda"
+  },
+  "두부_일반명사-1": {
+    "id": "두부_일반명사-1",
+    "def_ko": "콩을 갈아서 만든 희고 부드러운 음식",
+    "related_vocab": [
+      "식료품",
+      "콩",
+      "콩나물",
+      "비지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "두통_일반명사-1": {
+    "id": "두통_일반명사-1",
+    "def_ko": "머리가 아픈 증세",
+    "related_vocab": [
+      "복통",
+      "편찮다",
+      "통증",
+      "과로",
+      "증세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dutong"
+  },
+  "두통약_일반명사-1": {
+    "id": "두통약_일반명사-1",
+    "def_ko": "머리 아픈 증세를 줄이기 위해 먹는 약",
+    "related_vocab": [
+      "감기약",
+      "상비약",
+      "소화제",
+      "약",
+      "진통제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dutongyak"
+  },
+  "둑_일반명사-1": {
+    "id": "둑_일반명사-1",
+    "def_ko": "물이나 흙이 새지 않도록 쌓아 올린 긴 언덕",
+    "related_vocab": [
+      "언덕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "duk"
+  },
+  "둘째_수사-2": {
+    "id": "둘째_수사-2",
+    "def_ko": "둘째로 태어난 자식",
+    "related_vocab": [
+      "쌍둥이",
+      "장남"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "duljjae"
+  },
+  "둠벙_일반명사-1": {
+    "id": "둠벙_일반명사-1",
+    "def_ko": "논이나 밭 근처에 파여 물이 괸 작은 웅덩이",
+    "related_vocab": [
+      "습지",
+      "밭",
+      "연못"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dumbeong"
+  },
+  "둥글다_형용사-1": {
+    "id": "둥글다_형용사-1",
+    "def_ko": "모양이 원처럼 생기다",
+    "related_vocab": [
+      "고리",
+      "구",
+      "구부리다",
+      "구체",
+      "구체적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dunggeulda"
+  },
+  "둥지_일반명사-1": {
+    "id": "둥지_일반명사-1",
+    "def_ko": "새가 알을 낳거나 살기 위해 풀, 나뭇가지 등을 엮어 만든 둥근 모양의 집",
+    "related_vocab": [
+      "도도새",
+      "일개미",
+      "텃새",
+      "앵무새",
+      "산새"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "뒤돌다_동사-1": {
+    "id": "뒤돌다_동사-1",
+    "def_ko": "몸이나 방향을 뒤쪽으로 돌리다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwidolda"
+  },
+  "뒤돌아서다_동사-1": {
+    "id": "뒤돌아서다_동사-1",
+    "def_ko": "몸을 뒤로 틀어 다른 방향을 향해 서다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwidoraseoda"
+  },
+  "뒤따르다_동사-1": {
+    "id": "뒤따르다_동사-1",
+    "def_ko": "뒤를 쫓거나 뒤에서 따르다",
+    "related_vocab": [
+      "따라가다",
+      "따라오다",
+      "쫓기다",
+      "쫓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "뒤틀리다_동사-1": {
+    "id": "뒤틀리다_동사-1",
+    "def_ko": "모양이 비뚤어지고 꼬이다",
+    "related_vocab": [
+      "구부리다",
+      "휘다",
+      "수축"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwiteullida"
+  },
+  "뒷걸음_일반명사-1": {
+    "id": "뒷걸음_일반명사-1",
+    "def_ko": "뒤로 물러가는 걸음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwitgeoreum"
+  },
+  "뒷문_일반명사-1": {
+    "id": "뒷문_일반명사-1",
+    "def_ko": "건물의 뒤쪽에 있는 문",
+    "related_vocab": [
+      "문",
+      "여닫이문",
+      "정문",
+      "출입문",
+      "현관문"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwitmun"
+  },
+  "뒷산_일반명사-1": {
+    "id": "뒷산_일반명사-1",
+    "def_ko": "마을이나 집의 뒤쪽에 있는 산",
+    "related_vocab": [
+      "근교"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwissan"
+  },
+  "뒷집_일반명사-1": {
+    "id": "뒷집_일반명사-1",
+    "def_ko": "자기 집 뒤에 있는 집",
+    "related_vocab": [
+      "앞집",
+      "이웃집",
+      "큰집"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dwitjip"
+  },
+  "드나들다_동사-1": {
+    "id": "드나들다_동사-1",
+    "def_ko": "어떤 곳을 자주 들락거리다",
+    "related_vocab": [
+      "들어가다",
+      "들어오다",
+      "따라다니다",
+      "오가다",
+      "지나다니다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deunadeulda"
+  },
+  "드라마_일반명사-1": {
+    "id": "드라마_일반명사-1",
+    "def_ko": "텔레비전이나 라디오에서 하는 연속극",
+    "related_vocab": [
+      "출연",
+      "각색",
+      "시청",
+      "아역",
+      "연출"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deurama"
+  },
+  "드레스_일반명사-1": {
+    "id": "드레스_일반명사-1",
+    "def_ko": "여성이 입는 길고 화려한 외출용 옷",
+    "related_vocab": [
+      "겉옷",
+      "복장",
+      "블라우스",
+      "옷",
+      "외출복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deureseu"
+  },
+  "드론_일반명사-1": {
+    "id": "드론_일반명사-1",
+    "def_ko": "사람이 타지 않고 원격으로 조종하는 작은 비행기",
+    "related_vocab": [
+      "기계",
+      "기구",
+      "기기",
+      "로봇",
+      "부품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deuron"
+  },
+  "드리다_동사-1": {
+    "id": "드리다_동사-1",
+    "def_ko": "윗사람에게 무엇을 공손히 주다",
+    "related_vocab": [
+      "갚다",
+      "건네주다",
+      "물려주다",
+      "바치다",
+      "베풀다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deurida"
+  },
+  "드리다_동사-2": {
+    "id": "드리다_동사-2",
+    "def_ko": "윗사람을 위해 어떤 일을 공손히 하다",
+    "related_vocab": [
+      "거들다",
+      "모시다",
+      "시중",
+      "공경",
+      "뵈다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deurida"
+  },
+  "드시다_동사-1": {
+    "id": "드시다_동사-1",
+    "def_ko": "윗사람이 음식을 먹거나 마시다를 높여 이르는 말",
+    "related_vocab": [
+      "굶다",
+      "까먹다",
+      "되씹다",
+      "식습관",
+      "씹다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deusida"
+  },
+  "득점_일반명사-1": {
+    "id": "득점_일반명사-1",
+    "def_ko": "경기에서 점수를 얻음",
+    "related_vocab": [
+      "골",
+      "농구",
+      "승리",
+      "우승",
+      "비기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deukjjeom"
+  },
+  "들다_동사-1": {
+    "id": "들다_동사-1",
+    "def_ko": "손으로 잡아 들어 올리다",
+    "related_vocab": [
+      "물건",
+      "높이다",
+      "붙들다",
+      "붙잡다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deulda"
+  },
+  "들르다_동사-1": {
+    "id": "들르다_동사-1",
+    "def_ko": "지나가는 길에 잠깐 머무르다",
+    "related_vocab": [
+      "거치다",
+      "다녀가다",
+      "다녀오다",
+      "찾다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deulleuda"
+  },
+  "들어가다_동사-1": {
+    "id": "들어가다_동사-1",
+    "def_ko": "밖에서 안으로 움직여 가다",
+    "related_vocab": [
+      "드나들다",
+      "들어서다",
+      "들어오다",
+      "들여오다",
+      "들이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deureogada"
+  },
+  "들어서다_동사-1": {
+    "id": "들어서다_동사-1",
+    "def_ko": "어떤 공간이나 시기에 새로 들어가게 되다",
+    "related_vocab": [
+      "들어가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deureoseoda"
+  },
+  "들어오다_동사-1": {
+    "id": "들어오다_동사-1",
+    "def_ko": "밖에서 안으로 오다",
+    "related_vocab": [
+      "건너오다",
+      "드나들다",
+      "들어가다",
+      "들여오다",
+      "들이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deureooda"
+  },
+  "들어주다_동사-1": {
+    "id": "들어주다_동사-1",
+    "def_ko": "남의 부탁이나 요구를 받아들이다",
+    "related_vocab": [
+      "맞아들이다",
+      "맡기다",
+      "조르다",
+      "타이르다",
+      "여쭙다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deureojuda"
+  },
+  "들여오다_동사-1": {
+    "id": "들여오다_동사-1",
+    "def_ko": "밖에 있는 것을 안으로 가지고 오다",
+    "related_vocab": [
+      "나르다",
+      "들어가다",
+      "들어오다",
+      "들이다",
+      "반출"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deuryeooda"
+  },
+  "들이다_동사-1": {
+    "id": "들이다_동사-1",
+    "def_ko": "밖에 있는 사람이나 물건을 안으로 들어오게 하다",
+    "related_vocab": [
+      "들어가다",
+      "들어오다",
+      "들여오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deurida"
+  },
+  "들이마시다_동사-1": {
+    "id": "들이마시다_동사-1",
+    "def_ko": "공기나 냄새, 액체 따위를 안으로 빨아들이다",
+    "related_vocab": [
+      "눈물",
+      "땀",
+      "삼키다",
+      "숨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deurimashida"
+  },
+  "들판_일반명사-1": {
+    "id": "들판_일반명사-1",
+    "def_ko": "넓게 트인 평평한 땅",
+    "related_vocab": [
+      "꽃길",
+      "녹지대",
+      "땅바닥",
+      "모래밭",
+      "흙"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deulpan"
+  },
+  "등_일반명사-1": {
+    "id": "등_일반명사-1",
+    "def_ko": "사람이나 동물의 몸에서 가슴과 배의 반대쪽 부분",
+    "related_vocab": [
+      "귓등",
+      "가슴",
+      "몸",
+      "몸통",
+      "배"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "등교_일반명사-1": {
+    "id": "등교_일반명사-1",
+    "def_ko": "학교에 가는 것",
+    "related_vocab": [
+      "재학",
+      "결석",
+      "방과",
+      "입학",
+      "출석"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deunggyo"
+  },
+  "등기_일반명사-1": {
+    "id": "등기_일반명사-1",
+    "def_ko": "공적으로 이름이나 내용을 올려 기록함",
+    "related_vocab": [
+      "계약서",
+      "계약",
+      "배급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deunggi"
+  },
+  "등록_일반명사-1": {
+    "id": "등록_일반명사-1",
+    "def_ko": "명부나 장부에 이름이나 사항을 올려 적음",
+    "related_vocab": [
+      "배급",
+      "수속",
+      "시행",
+      "신고",
+      "접수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungnok"
+  },
+  "등록금_일반명사-1": {
+    "id": "등록금_일반명사-1",
+    "def_ko": "학생이 학교나 학원 등 교육 기관에 등록할 때 내는 돈",
+    "related_vocab": [
+      "수업",
+      "원서",
+      "교육비",
+      "수업료"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "학원_일반명사-1",
+          "target_term": "학원",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "학교 시설과 환경",
+          "hook_id": "H12"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "등록증_일반명사-1": {
+    "id": "등록증_일반명사-1",
+    "def_ko": "등록한 것을 증명하는 문서",
+    "related_vocab": [
+      "계약서",
+      "동의서",
+      "면허증",
+      "설문지",
+      "신분증"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "등산_일반명사-1": {
+    "id": "등산_일반명사-1",
+    "def_ko": "산에 오르며 걷는 일",
+    "related_vocab": [
+      "걷기",
+      "등산객",
+      "등산로",
+      "등산복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungsan"
+  },
+  "등산객_일반명사-1": {
+    "id": "등산객_일반명사-1",
+    "def_ko": "산에 오르러 온 사람",
+    "related_vocab": [
+      "걷기",
+      "등산",
+      "등산로",
+      "등산복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungsangaek"
+  },
+  "등산로_일반명사-1": {
+    "id": "등산로_일반명사-1",
+    "def_ko": "사람들이 산에 오르기 위해 다니는 길",
+    "related_vocab": [
+      "등산복",
+      "운동장",
+      "걷기",
+      "등산",
+      "등산객"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungsanro"
+  },
+  "등산복_일반명사-1": {
+    "id": "등산복_일반명사-1",
+    "def_ko": "산에 오를 때 입는 옷",
+    "related_vocab": [
+      "등산로",
+      "스키",
+      "등산",
+      "등산객"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "수영복_일반명사-1",
+          "target_term": "수영복",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "취미 활동과 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "deungsanbok"
+  },
+  "등용_일반명사-1": {
+    "id": "등용_일반명사-1",
+    "def_ko": "사람을 뽑아 어떤 자리나 일에 쓰게 함",
+    "related_vocab": [
+      "고용",
+      "영입",
+      "채용",
+      "되다",
+      "선임"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungyong"
+  },
+  "등장인물_일반명사-1": {
+    "id": "등장인물_일반명사-1",
+    "def_ko": "소설, 연극, 영화 등에 나오는 인물",
+    "related_vocab": [
+      "각본",
+      "그림책",
+      "극",
+      "소설",
+      "연극"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "deungjang inmul"
+  },
+  "디자이너_일반명사-1": {
+    "id": "디자이너_일반명사-1",
+    "def_ko": "옷, 물건, 공간 등을 멋있게 설계하고 꾸미는 사람",
+    "related_vocab": [
+      "개발자",
+      "기술자",
+      "동양화가",
+      "만화가",
+      "모델"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dijaineo"
+  },
+  "디자인_일반명사-1": {
+    "id": "디자인_일반명사-1",
+    "def_ko": "물건이나 글자를 알맞고 아름답게 만들기 위한 설계",
+    "related_vocab": [
+      "균형",
+      "대칭",
+      "마크",
+      "모형",
+      "틀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dijain"
+  },
+  "딛다_동사-1": {
+    "id": "딛다_동사-1",
+    "def_ko": "발을 어떤 곳에 올려놓다",
+    "related_vocab": [
+      "걷다",
+      "뛰다",
+      "걸음"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "dittta"
+  },
+  "따님_일반명사-1": {
+    "id": "따님_일반명사-1",
+    "def_ko": "(높이는 말로) 다른 사람의 딸",
+    "related_vocab": [
+      "성함",
+      "신사",
+      "아가",
+      "아가씨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "시집가다_동사-1",
+          "target_term": "시집가다",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "관계의 행위",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "따다_동사-2": {
+    "id": "따다_동사-2",
+    "def_ko": "병뚜껑 등을 열어 막힌 곳을 트다",
+    "related_vocab": [
+      "병",
+      "끼우다",
+      "틀다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttada"
+  },
+  "따라가다_동사-1": {
+    "id": "따라가다_동사-1",
+    "def_ko": "앞서 가는 사람이나 물건을 뒤에서 같이 가다",
+    "related_vocab": [
+      "뒤따르다",
+      "따라다니다",
+      "따라오다",
+      "쫓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttaragada"
+  },
+  "따라다니다_동사-1": {
+    "id": "따라다니다_동사-1",
+    "def_ko": "어디를 가든지 계속 곁에서 함께 다니다",
+    "related_vocab": [
+      "돌아다니다",
+      "드나들다",
+      "따라가다",
+      "따라오다",
+      "쫓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttaradanida"
+  },
+  "따라오다_동사-1": {
+    "id": "따라오다_동사-1",
+    "def_ko": "앞서 가는 사람을 뒤에서 같이 오다",
+    "related_vocab": [
+      "달려오다",
+      "뒤따르다",
+      "따라가다",
+      "따라다니다",
+      "오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttaraoda"
+  },
+  "따르다_동사-2": {
+    "id": "따르다_동사-2",
+    "def_ko": "병이나 그릇에서 다른 그릇으로 액체를 붓다",
+    "related_vocab": [
+      "붓다",
+      "비우다",
+      "세척",
+      "쏟다",
+      "쏟아지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttareuda"
+  },
+  "딸_일반명사-1": {
+    "id": "딸_일반명사-1",
+    "def_ko": "부모에게서 태어난 여자 아이",
+    "related_vocab": [
+      "공주",
+      "남매",
+      "다산",
+      "딸아이",
+      "딸애"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttal"
+  },
+  "딸기_일반명사-1": {
+    "id": "딸기_일반명사-1",
+    "def_ko": "빨갛고 단맛이 나는 작은 열매",
+    "related_vocab": [
+      "오미자",
+      "과실",
+      "단팥",
+      "수박",
+      "포도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttalgi"
+  },
+  "딸아이_일반명사-1": {
+    "id": "딸아이_일반명사-1",
+    "def_ko": "자기 딸을 다정하게 이르는 말",
+    "related_vocab": [
+      "공주",
+      "딸",
+      "딸애",
+      "아들"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttalai"
+  },
+  "딸애_일반명사-1": {
+    "id": "딸애_일반명사-1",
+    "def_ko": "자기 딸을 친근하게 부르는 말",
+    "related_vocab": [
+      "공주",
+      "딸",
+      "딸아이",
+      "아들",
+      "아빠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttalae"
+  },
+  "땀_일반명사-1": {
+    "id": "땀_일반명사-1",
+    "def_ko": "몸에서 배출되는 짠물로, 더울 때나 힘쓸 때 피부에 맺히는 액체",
+    "related_vocab": [
+      "눈물",
+      "대변",
+      "들이마시다",
+      "머리",
+      "몸"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttam"
+  },
+  "땅_일반명사-1": {
+    "id": "땅_일반명사-1",
+    "def_ko": "사람과 동식물이 딛고 사는 지표",
+    "related_vocab": [
+      "돌",
+      "돌멩이",
+      "매장량",
+      "자연석",
+      "자원"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttang"
+  },
+  "땅_일반명사-2": {
+    "id": "땅_일반명사-2",
+    "def_ko": "사람이 소유하거나 이용하는 토지",
+    "related_vocab": [
+      "수도관",
+      "우물",
+      "부동산",
+      "토지",
+      "마당"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttang"
+  },
+  "땅바닥_일반명사-1": {
+    "id": "땅바닥_일반명사-1",
+    "def_ko": "아무것도 깔려 있지 않은 땅의 바닥",
+    "related_vocab": [
+      "들판",
+      "빙판",
+      "지면",
+      "지표면",
+      "허공"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "땅속_일반명사-1": {
+    "id": "땅속_일반명사-1",
+    "def_ko": "땅 위가 아니라 땅 아래의 안쪽",
+    "related_vocab": [
+      "매장량",
+      "석유",
+      "화산",
+      "공중",
+      "물속"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttangsok"
+  },
+  "땅콩_일반명사-1": {
+    "id": "땅콩_일반명사-1",
+    "def_ko": "땅속에서 나며 두꺼운 껍질 속에 들어 있고, 속껍질이 얇고 붉은 갈색을 띠는, 맛이 고소한 콩",
+    "related_vocab": [
+      "감자",
+      "고구마",
+      "콩",
+      "견과",
+      "호두"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "때_일반명사-2": {
+    "id": "때_일반명사-2",
+    "def_ko": "몸이나 물건에 묻어 더러워진 찌꺼기",
+    "related_vocab": [
+      "닦이다",
+      "세제",
+      "세차",
+      "손때",
+      "쓰레기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttae"
+  },
+  "때리다_동사-1": {
+    "id": "때리다_동사-1",
+    "def_ko": "손이나 물건으로 힘을 주어 치다",
+    "related_vocab": [
+      "강요",
+      "다투다",
+      "다툼",
+      "폭력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "두드리다_동사-1",
+          "target_term": "두드리다",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "촉각과 질감",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "ttaerida"
+  },
+  "떠나가다_동사-1": {
+    "id": "떠나가다_동사-1",
+    "def_ko": "있던 곳을 완전히 뒤로하고 다른 곳으로 가 버리다",
+    "related_vocab": [
+      "뛰어가다",
+      "비키다",
+      "이동",
+      "출발"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteonagada"
+  },
+  "떠나다_동사-1": {
+    "id": "떠나다_동사-1",
+    "def_ko": "머물던 곳에서 다른 곳으로 가다",
+    "related_vocab": [
+      "갈아타다",
+      "건너가다",
+      "귀환",
+      "다녀가다",
+      "도착"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteonada"
+  },
+  "떠넘기다_동사-1": {
+    "id": "떠넘기다_동사-1",
+    "def_ko": "책임이나 일을 남에게 억지로 미루다",
+    "related_vocab": [
+      "강요",
+      "강제",
+      "물려주다",
+      "빼앗다",
+      "배반"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteoneomgida"
+  },
+  "떠다니다_동사-1": {
+    "id": "떠다니다_동사-1",
+    "def_ko": "물이나 공기 위에 떠서 이리저리 움직이다",
+    "related_vocab": [
+      "돌아다니다",
+      "떠오르다",
+      "떨어지다",
+      "뛰어다니다",
+      "비행"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteodanida"
+  },
+  "떠오르다_동사-1": {
+    "id": "떠오르다_동사-1",
+    "def_ko": "아래에서 위로 솟아 올라 나타나다",
+    "related_vocab": [
+      "떠다니다",
+      "떨어뜨리다",
+      "뛰어내리다",
+      "뛰어오르다",
+      "비행"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteooreuda"
+  },
+  "떡_일반명사-1": {
+    "id": "떡_일반명사-1",
+    "def_ko": "찹쌀이나 멥쌀 가루를 쪄서 치거나 빚어 만든 음식",
+    "related_vocab": [
+      "송편",
+      "떡국",
+      "떡볶이",
+      "분식",
+      "도넛"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteok"
+  },
+  "떡국_일반명사-1": {
+    "id": "떡국_일반명사-1",
+    "def_ko": "얇게 썬 떡을 넣어 끓인 국",
+    "related_vocab": [
+      "국",
+      "떡",
+      "떡볶이",
+      "미역국",
+      "보리밥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteokguk"
+  },
+  "떡볶이_일반명사-1": {
+    "id": "떡볶이_일반명사-1",
+    "def_ko": "가래떡에 고추장 양념을 넣어 볶거나 끓인 음식",
+    "related_vocab": [
+      "김밥",
+      "떡",
+      "닭갈비",
+      "떡국",
+      "분식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteokbokki"
+  },
+  "떨어뜨리다_동사-1": {
+    "id": "떨어뜨리다_동사-1",
+    "def_ko": "들고 있던 것을 아래로 떨어지게 하다",
+    "related_vocab": [
+      "떠오르다",
+      "뛰어내리다",
+      "떨어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "내려놓다_동사-1",
+          "target_term": "내려놓다",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "tteoreotteurida"
+  },
+  "떨어지다_동사-1": {
+    "id": "떨어지다_동사-1",
+    "def_ko": "위에 있던 것이 아래로 내려가다",
+    "related_vocab": [
+      "떠다니다",
+      "하차",
+      "떨어뜨리다",
+      "뛰어들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteoreojida"
+  },
+  "떼_일반명사-1": {
+    "id": "떼_일반명사-1",
+    "def_ko": "사람이나 동물이 한꺼번에 모인 무리",
+    "related_vocab": [
+      "파",
+      "또래",
+      "일행",
+      "인종"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tte"
+  },
+  "또래_일반명사-1": {
+    "id": "또래_일반명사-1",
+    "def_ko": "나이나 사회적 수준이 비슷한 사람들",
+    "related_vocab": [
+      "대중",
+      "떼",
+      "선후배",
+      "아랫사람"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttorae"
+  },
+  "뚜껑_일반명사-1": {
+    "id": "뚜껑_일반명사-1",
+    "def_ko": "그릇이나 상자 위를 덮는 부분",
+    "related_vocab": [
+      "담기다",
+      "벌통",
+      "병",
+      "상자",
+      "손잡이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttukkeong"
+  },
+  "뚫다_동사-1": {
+    "id": "뚫다_동사-1",
+    "def_ko": "막힌 곳에 구멍을 내거나 길을 내다",
+    "related_vocab": [
+      "뜯다",
+      "발자국",
+      "벌리다",
+      "뻗다",
+      "뚫리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttulta"
+  },
+  "뚫리다_동사-1": {
+    "id": "뚫리다_동사-1",
+    "def_ko": "막혀 있던 곳이 통하게 되다",
+    "related_vocab": [
+      "갈라지다",
+      "갈리다",
+      "뚫다",
+      "펼쳐지다",
+      "펼치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttullida"
+  },
+  "뚱뚱이_일반명사-1": {
+    "id": "뚱뚱이_일반명사-1",
+    "def_ko": "몸집이 많이 큰 사람을 가볍게 부르는 말",
+    "related_vocab": [
+      "노인",
+      "못난이",
+      "아주머니",
+      "인간",
+      "호칭"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttungttungi"
+  },
+  "뛰다_동사-1": {
+    "id": "뛰다_동사-1",
+    "def_ko": "두 발을 번갈아 힘차게 내딛으며 빨리 움직이다",
+    "related_vocab": [
+      "과속",
+      "달려들다",
+      "딛다",
+      "뛰어들다",
+      "뛰어오르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwida"
+  },
+  "뛰어가다_동사-1": {
+    "id": "뛰어가다_동사-1",
+    "def_ko": "달리면서 어떤 곳으로 가다",
+    "related_vocab": [
+      "건너가다",
+      "떠나가다",
+      "뛰어나가다",
+      "지나가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieogada"
+  },
+  "뛰어나가다_동사-1": {
+    "id": "뛰어나가다_동사-1",
+    "def_ko": "급히 밖으로 뛰어 나가다",
+    "related_vocab": [
+      "내리다",
+      "달아나다",
+      "뛰어가다",
+      "뛰어오르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieonagada"
+  },
+  "뛰어내리다_동사-1": {
+    "id": "뛰어내리다_동사-1",
+    "def_ko": "높은 곳에서 아래로 힘차게 몸을 던져 내려오다",
+    "related_vocab": [
+      "떠오르다",
+      "떨어뜨리다",
+      "뛰어들다",
+      "뛰어오르다",
+      "올라타다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieonaerida"
+  },
+  "뛰어넘다_동사-1": {
+    "id": "뛰어넘다_동사-1",
+    "def_ko": "뛰어서 장애물의 위를 지나가다",
+    "related_vocab": [
+      "지나가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieoneomda"
+  },
+  "뛰어다니다_동사-1": {
+    "id": "뛰어다니다_동사-1",
+    "def_ko": "이리저리 계속 뛰면서 다니다",
+    "related_vocab": [
+      "돌다",
+      "떠다니다",
+      "방황"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieodanida"
+  },
+  "뛰어들다_동사-1": {
+    "id": "뛰어들다_동사-1",
+    "def_ko": "높은 곳에서 물속으로 몸을 던지다",
+    "related_vocab": [
+      "뛰다",
+      "뛰어내리다",
+      "떨어지다",
+      "올라타다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "뛰어오르다_동사-1": {
+    "id": "뛰어오르다_동사-1",
+    "def_ko": "아래에서 위로 세게 뛰어 올라가다",
+    "related_vocab": [
+      "떠오르다",
+      "뛰다",
+      "뛰어나가다",
+      "뛰어내리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttwieoreuda"
+  },
+  "뜨다_동사-1": {
+    "id": "뜨다_동사-1",
+    "def_ko": "눈을 벌려 앞을 보다",
+    "related_vocab": [
+      "눈",
+      "눈동자",
+      "육안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteuda"
+  },
+  "뜨다_동사-2": {
+    "id": "뜨다_동사-2",
+    "def_ko": "그릇으로 국이나 밥 등을 떠 올리다",
+    "related_vocab": [
+      "그릇",
+      "밥그릇",
+      "숟가락",
+      "푸다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteuda"
+  },
+  "뜯다_동사-1": {
+    "id": "뜯다_동사-1",
+    "def_ko": "붙어 있거나 뭉친 것을 손이나 도구로 떼어 내다",
+    "related_vocab": [
+      "갈라지다",
+      "갈리다",
+      "뚫다",
+      "벌리다",
+      "펴다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteuttta"
+  },
+  "뜰_일반명사-1": {
+    "id": "뜰_일반명사-1",
+    "def_ko": "집 안에 있는 빈 마당",
+    "related_vocab": [
+      "담",
+      "마당",
+      "정원"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tteul"
+  },
+  "띠_일반명사-1": {
+    "id": "띠_일반명사-1",
+    "def_ko": "옷 위로 허리를 둘러서 매는 끈",
+    "related_vocab": [
+      "넥타이",
+      "띠다",
+      "바지",
+      "벨트",
+      "졸라매다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "띠_일반명사-2": {
+    "id": "띠_일반명사-2",
+    "def_ko": "사람이 태어난 해를 열두 가지 동물 이름을 붙여 나타내는 말",
+    "related_vocab": [
+      "용",
+      "명절",
+      "설날",
+      "궁합",
+      "풍습"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "띠다_동사-1": {
+    "id": "띠다_동사-1",
+    "def_ko": "허리에 띠나 끈을 둘러 매다",
+    "related_vocab": [
+      "띠",
+      "허리띠",
+      "매다",
+      "메다",
+      "차다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ttida"
+  },
+  "라디오_일반명사-1": {
+    "id": "라디오_일반명사-1",
+    "def_ko": "전파를 통해 소리를 듣는 방송이나 기계",
+    "related_vocab": [
+      "가전",
+      "가전제품",
+      "선풍기",
+      "텔레비전",
+      "틀다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "radio"
+  },
+  "라면_일반명사-1": {
+    "id": "라면_일반명사-1",
+    "def_ko": "기름에 튀긴 국수와 스프를 끓여 먹는 인스턴트 식품",
+    "related_vocab": [
+      "냉면",
+      "면",
+      "국수",
+      "도넛",
+      "분식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ramyeon"
+  },
+  "라이터_일반명사-1": {
+    "id": "라이터_일반명사-1",
+    "def_ko": "불을 붙이는 작은 도구",
+    "related_vocab": [
+      "열쇠",
+      "주머니",
+      "지갑",
+      "사다리",
+      "재떨이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "raiteo"
+  },
+  "레몬_일반명사-1": {
+    "id": "레몬_일반명사-1",
+    "def_ko": "노란색 껍질에 신맛이 강한 과일",
+    "related_vocab": [
+      "귤",
+      "바나나",
+      "망고",
+      "식초",
+      "오미자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "lemon"
+  },
+  "레이_일반명사-1": {
+    "id": "레이_일반명사-1",
+    "def_ko": "꽃이나 장식을 둥글게 엮어 목에 거는 장식",
+    "related_vocab": [
+      "복식",
+      "예술품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "rei"
+  },
+  "레이더_일반명사-1": {
+    "id": "레이더_일반명사-1",
+    "def_ko": "전파를 이용해 물체의 위치를 알아내는 장치",
+    "related_vocab": [
+      "굴절",
+      "장치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "reideo"
+  },
+  "렌즈_일반명사-1": {
+    "id": "렌즈_일반명사-1",
+    "def_ko": "빛을 굴절시켜 상을 맺게 하는 유리나 플라스틱 조각",
+    "related_vocab": [
+      "굴절",
+      "네온사인",
+      "망원경",
+      "플라스틱"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "renjeu"
+  },
+  "렌터카_일반명사-1": {
+    "id": "렌터카_일반명사-1",
+    "def_ko": "빌려서 일정 기간 사용하는 자동차",
+    "related_vocab": [
+      "번호판",
+      "승용차",
+      "중형차",
+      "타이어"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "차량_일반명사-1",
+          "target_term": "차량",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "대중교통과 운송 수단",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "renteoka"
+  },
+  "로그인_일반명사-1": {
+    "id": "로그인_일반명사-1",
+    "def_ko": "컴퓨터나 인터넷 사이트를 이용하기 위해 미리 등록된 사용자의 이름과 암호를 입력하는 일",
+    "related_vocab": [
+      "계정",
+      "통신망",
+      "사이트",
+      "포털"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "로봇_일반명사-1": {
+    "id": "로봇_일반명사-1",
+    "def_ko": "사람이 시킨 대로 움직이며 일하는 기계 장치",
+    "related_vocab": [
+      "드론",
+      "붙잡히다",
+      "인공",
+      "인공위성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "robot"
+  },
+  "로비_일반명사-1": {
+    "id": "로비_일반명사-1",
+    "def_ko": "건물 입구 안쪽의 넓은 공간",
+    "related_vocab": [
+      "빌딩",
+      "관리실",
+      "대기실",
+      "복도",
+      "실내"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "robi"
+  },
+  "로션_일반명사-1": {
+    "id": "로션_일반명사-1",
+    "def_ko": "피부를 부드럽게 하기 위해 바르는 액체 화장품",
+    "related_vocab": [
+      "미용",
+      "샴푸",
+      "향수",
+      "화장",
+      "화장품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "rosyeon"
+  },
+  "로켓_일반명사-1": {
+    "id": "로켓_일반명사-1",
+    "def_ko": "연료의 힘으로 하늘로 빠르게 날아가는 발사체",
+    "related_vocab": [
+      "발사",
+      "총"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "roket"
+  },
+  "로프_일반명사-1": {
+    "id": "로프_일반명사-1",
+    "def_ko": "굵게 꼰 줄",
+    "related_vocab": [
+      "고무",
+      "늘어뜨리다",
+      "당기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ropeu"
+  },
+  "르네상스_일반명사-1": {
+    "id": "르네상스_일반명사-1",
+    "def_ko": "14~16세기 유럽에서 고대 문화를 다시 살리려 했던 문화 운동",
+    "related_vocab": [
+      "고전",
+      "복원",
+      "서양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "reunaesangseu"
+  },
+  "리그_일반명사-1": {
+    "id": "리그_일반명사-1",
+    "def_ko": "운동 경기에서 일정한 팀들이 모여 겨루는 모임",
+    "related_vocab": [
+      "시합",
+      "야구단",
+      "구단",
+      "연패"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "rigeu"
+  },
+  "리더_일반명사-1": {
+    "id": "리더_일반명사-1",
+    "def_ko": "집단을 이끌고 책임지는 사람",
+    "related_vocab": [
+      "공인",
+      "단장",
+      "대왕",
+      "진행자",
+      "출세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "rideo"
+  },
+  "리모컨_일반명사-1": {
+    "id": "리모컨_일반명사-1",
+    "def_ko": "텔레비전, 비디오 등의 가전제품을 멀리서 조종할 수 있는 장치",
+    "related_vocab": [
+      "세탁기",
+      "텔레비전",
+      "건전지",
+      "스위치",
+      "조명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  }
+}

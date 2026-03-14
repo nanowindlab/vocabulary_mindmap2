@@ -1,0 +1,237 @@
+{
+  "core": [
+    {
+      "meaning_id": "가족사진_일반명사-1",
+      "rationale_short": "가족 구성원의 사진.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족의 기록"
+    },
+    {
+      "meaning_id": "거실_일반명사-1",
+      "rationale_short": "집의 주요 생활 공간.",
+      "root": "주거와 일상",
+      "category_label_ko": "집안 생활 공간"
+    },
+    {
+      "meaning_id": "배_일반명사-1",
+      "rationale_short": "음식 소화를 위한 신체 부위.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 소화 기관"
+    },
+    {
+      "meaning_id": "왕실_일반명사-1",
+      "rationale_short": "왕의 가족과 그 집안.",
+      "root": "사람과 관계",
+      "category_label_ko": "왕족 구성원"
+    },
+    {
+      "meaning_id": "일가족_일반명사-1",
+      "rationale_short": "한 가정을 이루는 가족.",
+      "root": "사람과 관계",
+      "category_label_ko": "한집 가족 구성"
+    },
+    {
+      "meaning_id": "집_일반명사-2",
+      "rationale_short": "가족이 함께 사는 공동체.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 공동체"
+    },
+    {
+      "meaning_id": "칼로리_일반명사-1",
+      "rationale_short": "음식의 에너지 측정 단위.",
+      "root": "식생활",
+      "category_label_ko": "음식 에너지 단위"
+    },
+    {
+      "meaning_id": "콩국수_일반명사-1",
+      "rationale_short": "콩으로 만든 한국 면 요리.",
+      "root": "식생활",
+      "category_label_ko": "한국 면 요리"
+    },
+    {
+      "meaning_id": "클리닉_일반명사-1",
+      "rationale_short": "특정 분야 전문 의료 기관.",
+      "root": "보건과 의료",
+      "category_label_ko": "전문 진료 기관"
+    },
+    {
+      "meaning_id": "퇴원_일반명사-1",
+      "rationale_short": "병원 입원 종료 및 퇴소.",
+      "root": "보건과 의료",
+      "category_label_ko": "병원 이용 절차"
+    },
+    {
+      "meaning_id": "파스타_일반명사-1",
+      "rationale_short": "밀가루로 만든 서양 면 요리.",
+      "root": "식생활",
+      "category_label_ko": "서양 면 요리"
+    },
+    {
+      "meaning_id": "포_일반명사-1",
+      "rationale_short": "말린 형태의 음식.",
+      "root": "식생활",
+      "category_label_ko": "말린 고기/생선"
+    },
+    {
+      "meaning_id": "포크_일반명사-1",
+      "rationale_short": "음식을 집는 식사 도구.",
+      "root": "식생활",
+      "category_label_ko": "식사용 도구"
+    },
+    {
+      "meaning_id": "프라이팬_일반명사-1",
+      "rationale_short": "음식을 볶는 조리 도구.",
+      "root": "식생활",
+      "category_label_ko": "조리용 도구"
+    },
+    {
+      "meaning_id": "피부과_일반명사-1",
+      "rationale_short": "피부 질환 전문 진료 과목.",
+      "root": "보건과 의료",
+      "category_label_ko": "피부 질환 진료"
+    },
+    {
+      "meaning_id": "피자_일반명사-1",
+      "rationale_short": "치즈와 토핑을 올린 서양 음식.",
+      "root": "식생활",
+      "category_label_ko": "서양 구운 음식"
+    },
+    {
+      "meaning_id": "한식_일반명사-1",
+      "rationale_short": "한국 스타일의 음식.",
+      "root": "식생활",
+      "category_label_ko": "한국 전통 음식"
+    },
+    {
+      "meaning_id": "한식집_일반명사-1",
+      "rationale_short": "한국 음식을 판매하는 식당.",
+      "root": "식생활",
+      "category_label_ko": "한국 음식점"
+    },
+    {
+      "meaning_id": "햄버거_일반명사-1",
+      "rationale_short": "빵과 고기로 만든 서양 음식.",
+      "root": "식생활",
+      "category_label_ko": "서양 패스트푸드"
+    },
+    {
+      "meaning_id": "향신료_일반명사-1",
+      "rationale_short": "음식의 맛과 향을 더하는 재료.",
+      "root": "식생활",
+      "category_label_ko": "음식 맛 향상 재료"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "가족부_일반명사-1",
+      "rationale_short": "가족 관련 행정 부서.",
+      "root": "공공 서비스",
+      "candidate_reason": "가족과 관련된 행정 부서로, '사람과 관계'와 '공공 서비스' 또는 '직장과 업무' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "고프다_형용사-1",
+      "rationale_short": "배고픔을 나타내는 감각/상태.",
+      "root": "식생활",
+      "candidate_reason": "배고픔은 식생활, 감각, 내면 감정 등 여러 범주와 겹칠 수 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "대접_일반명사-1",
+      "rationale_short": "음식과 예의를 통한 사람 간의 교류.",
+      "root": "식생활",
+      "candidate_reason": "음식 대접과 사람 간의 예의 행위가 결합되어 '식생활'과 '사람과 관계' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "맛_일반명사-1",
+      "rationale_short": "음식의 미각적 감각.",
+      "root": "식생활",
+      "candidate_reason": "음식의 맛은 '식생활'과 '감각과 묘사'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "맛없다_형용사-1",
+      "rationale_short": "음식 맛에 대한 부정적 평가.",
+      "root": "식생활",
+      "candidate_reason": "음식의 맛에 대한 평가로 '식생활'과 '감각과 묘사'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "맛있다_형용사-1",
+      "rationale_short": "음식 맛에 대한 긍정적 평가.",
+      "root": "식생활",
+      "candidate_reason": "음식의 맛에 대한 평가로 '식생활'과 '감각과 묘사'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "부르다_동사-3",
+      "rationale_short": "식사 후 배의 포만감.",
+      "root": "식생활",
+      "candidate_reason": "식사 후 배의 포만감은 '식생활'과 '감각과 묘사' 또는 '보건과 의료'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "식감_일반명사-1",
+      "rationale_short": "음식의 질감에 대한 감각.",
+      "root": "식생활",
+      "candidate_reason": "음식의 질감은 '식생활'과 '감각과 묘사'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "연회_일반명사-1",
+      "rationale_short": "음식을 즐기는 사교 모임.",
+      "root": "식생활",
+      "candidate_reason": "음식을 통한 사교 모임으로 '식생활'과 '문화와 사회' 또는 '여가와 취미' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "위_일반명사-1",
+      "rationale_short": "공간적 위치 또는 소화 기관.",
+      "root": "보건과 의료",
+      "candidate_reason": "'높은 쪽'이라는 공간적 의미와 '위장'이라는 신체 기관 의미가 혼재하여 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "입맛_일반명사-1",
+      "rationale_short": "음식에 대한 미각과 식욕.",
+      "root": "식생활",
+      "candidate_reason": "음식에 대한 미각과 식욕이라는 감정이 결합되어 '식생활', '감각과 묘사', '내면과 감정' 간의 분류 모호성. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    },
+    {
+      "meaning_id": "제사_일반명사-1",
+      "rationale_short": "조상에게 음식을 바치는 의식.",
+      "root": "식생활",
+      "candidate_reason": "음식을 사용하는 전통 의식으로 '식생활'과 '문화와 사회' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "차림_일반명사-1",
+      "rationale_short": "옷차림 또는 음식의 준비 상태.",
+      "root": "주거와 일상",
+      "candidate_reason": "'옷차림'과 '음식 차림'이라는 두 가지 의미가 혼재하여 '주거와 일상'과 '식생활' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "카페_일반명사-1",
+      "rationale_short": "음료와 음식을 파는 상점.",
+      "root": "식생활",
+      "candidate_reason": "음료와 음식을 파는 장소로 '식생활'과 '쇼핑' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "파티_일반명사-1",
+      "rationale_short": "음식을 즐기는 사교 모임.",
+      "root": "식생활",
+      "candidate_reason": "음식을 통한 사교 모임으로 '식생활'과 '문화와 사회' 또는 '여가와 취미' 간의 분류 모호성."
+    },
+    {
+      "meaning_id": "풍미_일반명사-1",
+      "rationale_short": "음식의 맛과 향.",
+      "root": "식생활",
+      "candidate_reason": "음식의 맛과 향에 대한 감각으로 '식생활'과 '감각과 묘사'의 경계에 있어 분류가 모호함. '맛/감각/신체 경계가 겹치면 candidate를 우선한다' 규칙 적용."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "다의어(polysemy)로 인해 의미가 여러 루트에 걸쳐 분류되는 경우 (예: '위', '차림')",
+      "음식 관련 어휘가 '식생활' 외에 '감각과 묘사' 또는 '내면과 감정'과 겹치는 경우 (예: '맛', '맛없다', '맛있다', '식감', '풍미', '고프다', '부르다', '입맛')",
+      "음식 관련 어휘가 '식생활' 외에 '사람과 관계', '문화와 사회', '여가와 취미', '쇼핑' 등 사회적/문화적 맥락과 겹치는 경우 (예: '대접', '연회', '파티', '카페', '제사')",
+      "조직/기관 관련 어휘가 '사람과 관계'와 '공공 서비스' 또는 '직장과 업무'와 겹치는 경우 (예: '가족부')"
+    ],
+    "ia_suggestions": [
+      "다의어의 경우, 각 의미별로 별도의 엔트리를 생성하여 명확히 분류하거나, 가장 지배적인 의미를 기준으로 분류하고 다른 의미는 관련 루트의 candidate로 지정하는 정책을 수립해야 합니다.",
+      "'식생활' 루트 내에 '음식 감각/경험', '식사 문화/행사', '식사 장소/도구' 등 세분화된 하위 카테고리를 도입하여 분류 모호성을 줄일 수 있습니다.",
+      "'사람과 관계' 루트 내에 '가족 관계', '사회적 관계', '조직/행정 관계' 등 하위 카테고리를 고려하여 '가족부'와 같은 어휘의 분류를 명확히 할 수 있습니다.",
+      "감각/감정 관련 어휘의 경우, '감각과 묘사'와 '내면과 감정' 루트의 정의를 더욱 명확히 하여 '식생활'과의 경계를 구분하는 가이드라인이 필요합니다."
+    ]
+  }
+}

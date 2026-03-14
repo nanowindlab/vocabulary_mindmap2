@@ -1,0 +1,380 @@
+{
+  "core": [
+    {
+      "meaning_id": "분실물_일반명사-1",
+      "rationale_short": "일상생활에서 잃어버린 물건을 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "잃어버린 물건"
+    },
+    {
+      "meaning_id": "불러내다_동사-1",
+      "rationale_short": "사람을 특정 장소로 오게 하는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "사람 부르기"
+    },
+    {
+      "meaning_id": "불러오다_동사-1",
+      "rationale_short": "사람을 특정 장소로 데려오는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "사람 데려오기"
+    },
+    {
+      "meaning_id": "불러일으키다_동사-1",
+      "rationale_short": "감정이나 반응을 발생시키는 행위.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 유발"
+    },
+    {
+      "meaning_id": "불룩_일반부사-1",
+      "rationale_short": "사물의 모양을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "튀어나온 모양"
+    },
+    {
+      "meaning_id": "불문_일반명사-1",
+      "rationale_short": "특정 기준을 따지지 않는 태도나 상태.",
+      "root": "의견과 가치",
+      "category_label_ko": "따지지 않음"
+    },
+    {
+      "meaning_id": "불붙다_동사-1",
+      "rationale_short": "불이 시작되는 자연 현상 또는 물리적 행위.",
+      "root": "날씨와 자연",
+      "category_label_ko": "불 시작"
+    },
+    {
+      "meaning_id": "불상사_일반명사-1",
+      "rationale_short": "예상치 못한 부정적인 사건을 지칭.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "좋지 않은 사고"
+    },
+    {
+      "meaning_id": "불쑥_일반부사-1",
+      "rationale_short": "갑작스럽게 나타나는 동작이나 모양을 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "갑작스러운 모양"
+    },
+    {
+      "meaning_id": "불안증_일반명사-1",
+      "rationale_short": "정신 건강과 관련된 의료 증상.",
+      "root": "보건과 의료",
+      "category_label_ko": "불안 증세"
+    },
+    {
+      "meaning_id": "불어오다_동사-1",
+      "rationale_short": "바람의 움직임을 나타내는 자연 현상.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바람 불어옴"
+    },
+    {
+      "meaning_id": "불참_일반명사-1",
+      "rationale_short": "모임이나 행사에 참여하지 않는 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "모임 불참"
+    },
+    {
+      "meaning_id": "불충분_일반명사-1",
+      "rationale_short": "양이나 정도가 충분하지 않은 상태.",
+      "root": "수량과 단위",
+      "category_label_ko": "양 부족"
+    },
+    {
+      "meaning_id": "불쾌감_일반명사-1",
+      "rationale_short": "부정적인 감정 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "언짢은 느낌"
+    },
+    {
+      "meaning_id": "붐_일반명사-1",
+      "rationale_short": "사회적 유행이나 인기를 얻는 현상.",
+      "root": "문화와 사회",
+      "category_label_ko": "인기 현상"
+    },
+    {
+      "meaning_id": "붕대_일반명사-1",
+      "rationale_short": "상처 치료에 사용되는 의료 용품.",
+      "root": "보건과 의료",
+      "category_label_ko": "상처 치료 도구"
+    },
+    {
+      "meaning_id": "붙들다_동사-1",
+      "rationale_short": "사람이나 사물을 잡고 놓지 않는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "잡고 못 가게 하다"
+    },
+    {
+      "meaning_id": "붙잡히다_동사-1",
+      "rationale_short": "도망가던 중 다른 사람에게 잡히는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "잡히는 행위"
+    },
+    {
+      "meaning_id": "브레이크_일반명사-1",
+      "rationale_short": "차량이나 기계의 속도를 줄이는 장치.",
+      "root": "교통",
+      "category_label_ko": "차량 제동 장치"
+    },
+    {
+      "meaning_id": "비교적_일반부사-1",
+      "rationale_short": "다른 것과 견주어 정도를 나타내는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "비교하는 정도"
+    },
+    {
+      "meaning_id": "비굴_일반명사-1",
+      "rationale_short": "당당하지 못하고 굽히는 태도.",
+      "root": "성격과 태도",
+      "category_label_ko": "당당치 못한 태도"
+    },
+    {
+      "meaning_id": "비난_일반명사-1",
+      "rationale_short": "타인의 잘못을 지적하며 나쁘게 말하는 행위.",
+      "root": "의견과 가치",
+      "category_label_ko": "잘못 지적"
+    },
+    {
+      "meaning_id": "비늘_일반명사-1",
+      "rationale_short": "물고기, 파충류 등 동물의 신체 부위.",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 피부 조각"
+    },
+    {
+      "meaning_id": "비리_일반명사-1",
+      "rationale_short": "법이나 규칙에 어긋나는 부정적인 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "법규 위반 행위"
+    },
+    {
+      "meaning_id": "비만증_일반명사-1",
+      "rationale_short": "과도한 비만으로 인한 병적인 상태.",
+      "root": "보건과 의료",
+      "category_label_ko": "비만 관련 질병"
+    },
+    {
+      "meaning_id": "비상등_일반명사-1",
+      "rationale_short": "위험 상황을 알리는 조명 장치.",
+      "root": "주거와 일상",
+      "category_label_ko": "비상 알림등"
+    },
+    {
+      "meaning_id": "비슷비슷_일반부사-1",
+      "rationale_short": "여러 대상이 서로 비슷함을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "거의 같은 정도"
+    },
+    {
+      "meaning_id": "비약_일반명사-1",
+      "rationale_short": "사고나 발전이 급격하게 진행되는 현상.",
+      "root": "논리와 연결",
+      "category_label_ko": "사고의 도약"
+    },
+    {
+      "meaning_id": "비웃다_동사-1",
+      "rationale_short": "타인을 낮춰 보며 웃는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "남을 조롱하다"
+    },
+    {
+      "meaning_id": "비참_일반명사-1",
+      "rationale_short": "매우 불행하고 가쟎은 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "가쟎은 처지"
+    },
+    {
+      "meaning_id": "비축_일반명사-1",
+      "rationale_short": "미래를 위해 물건이나 자원을 미리 모아두는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 쌓아두기"
+    },
+    {
+      "meaning_id": "비키다_동사-1",
+      "rationale_short": "길을 막고 있다가 옆으로 이동하는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "길을 비켜주다"
+    },
+    {
+      "meaning_id": "비행_일반명사-1",
+      "rationale_short": "비행기를 이용한 이동 행위.",
+      "root": "교통",
+      "category_label_ko": "하늘 날기"
+    },
+    {
+      "meaning_id": "비행사_일반명사-1",
+      "rationale_short": "비행기를 조종하는 직업을 가진 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "비행기 조종 직업"
+    },
+    {
+      "meaning_id": "빈곤_일반명사-1",
+      "rationale_short": "경제적으로 매우 어려운 상태.",
+      "root": "문화와 사회",
+      "category_label_ko": "가난한 살림"
+    },
+    {
+      "meaning_id": "빈약_일반명사-1",
+      "rationale_short": "양, 내용, 힘 등이 부족한 상태.",
+      "root": "수량과 단위",
+      "category_label_ko": "양이나 내용 부족"
+    },
+    {
+      "meaning_id": "빈자리_일반명사-1",
+      "rationale_short": "사람이 앉거나 설 수 있는 비어 있는 공간.",
+      "root": "주거와 일상",
+      "category_label_ko": "비어 있는 공간"
+    },
+    {
+      "meaning_id": "빌딩_일반명사-1",
+      "rationale_short": "여러 층으로 이루어진 큰 건물.",
+      "root": "주거와 일상",
+      "category_label_ko": "여러 층 건물"
+    },
+    {
+      "meaning_id": "빗기다_동사-1",
+      "rationale_short": "머리카락을 빗으로 정리하는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "머리 정리"
+    },
+    {
+      "meaning_id": "빗대다_동사-1",
+      "rationale_short": "다른 것에 비유하여 간접적으로 말하는 행위.",
+      "root": "논리와 연결",
+      "category_label_ko": "돌려 말하기"
+    },
+    {
+      "meaning_id": "빗방울_일반명사-1",
+      "rationale_short": "비를 구성하는 작은 물방울.",
+      "root": "날씨와 자연",
+      "category_label_ko": "비 물방울"
+    },
+    {
+      "meaning_id": "빙판_일반명사-1",
+      "rationale_short": "얼음으로 덮인 미끄러운 지면.",
+      "root": "날씨와 자연",
+      "category_label_ko": "얼음 바닥"
+    },
+    {
+      "meaning_id": "빛나다_동사-1",
+      "rationale_short": "빛을 발하거나 반사하여 밝게 보이는 현상.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빛을 내다"
+    },
+    {
+      "meaning_id": "빛나다_동사-2",
+      "rationale_short": "재능이나 성과가 뛰어나 두드러지는 상태.",
+      "root": "성격과 태도",
+      "category_label_ko": "재능 돋보임"
+    },
+    {
+      "meaning_id": "빠뜨리다_동사-1",
+      "rationale_short": "포함되어야 할 것을 빼먹는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "누락시키다"
+    },
+    {
+      "meaning_id": "빠져나오다_동사-1",
+      "rationale_short": "갇힌 곳에서 벗어나 밖으로 나오는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "밖으로 나오다"
+    },
+    {
+      "meaning_id": "빠져들다_동사-1",
+      "rationale_short": "어떤 일이나 감정에 깊이 몰입하는 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "깊이 몰입하다"
+    },
+    {
+      "meaning_id": "빳빳이_일반부사-1",
+      "rationale_short": "단단하고 휘지 않는 모양을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "굳고 휘지 않게"
+    },
+    {
+      "meaning_id": "빼곡_일반부사-1",
+      "rationale_short": "빈틈없이 가득 찬 모양을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빈틈없이 가득"
+    },
+    {
+      "meaning_id": "빼곡히_일반부사-1",
+      "rationale_short": "빈틈없이 가득 찬 상태를 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빈틈없이 가득하게"
+    },
+    {
+      "meaning_id": "빼기_일반명사-1",
+      "rationale_short": "수를 줄이는 수학적 계산 방법.",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 줄이기"
+    },
+    {
+      "meaning_id": "빼내다_동사-1",
+      "rationale_short": "안에 있는 것을 밖으로 꺼내는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "밖으로 꺼내다"
+    },
+    {
+      "meaning_id": "빼놓다_동사-1",
+      "rationale_short": "전체에서 특정 대상을 제외하는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "전체에서 제외"
+    },
+    {
+      "meaning_id": "빽빽하다_형용사-1",
+      "rationale_short": "간격이 좁아 꽉 차 있는 상태를 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "간격 좁고 꽉 참"
+    },
+    {
+      "meaning_id": "뻣뻣하다_형용사-1",
+      "rationale_short": "부드럽지 않고 단단한 상태를 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "단단하고 휘지 않음"
+    },
+    {
+      "meaning_id": "뿌옇다_형용사-1",
+      "rationale_short": "연기나 안개로 인해 흐려 잘 보이지 않는 상태.",
+      "root": "감각과 묘사",
+      "category_label_ko": "흐려 잘 안 보임"
+    },
+    {
+      "meaning_id": "사각지대_일반명사-1",
+      "rationale_short": "관찰이나 관리가 어려운 영역.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "관리 미치지 못하는 곳"
+    },
+    {
+      "meaning_id": "사경_일반명사-1",
+      "rationale_short": "생명이 위태로운 매우 위험한 상태.",
+      "root": "보건과 의료",
+      "category_label_ko": "생명 위태로운 상황"
+    },
+    {
+      "meaning_id": "사고팔다_동사-1",
+      "rationale_short": "물건을 사고파는 경제 활동.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 매매"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "분기점_일반명사-1",
+      "rationale_short": "길과 일의 갈림길을 모두 의미하여 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "길(교통)과 일(추상적 상황) 모두를 포함하여 분류가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념과 구체적 상황이 혼재된 명사 (예: 분기점)",
+      "행위의 주체(사람)와 일반적 상황 간의 분류 모호성 (예: 불러내다, 붙들다)",
+      "묘사/감각 관련 부사/형용사의 일관된 분류 (예: 불룩, 불쑥, 빳빳이, 빽빽하다, 뿌옇다)",
+      "비유적/은유적 의미를 가진 단어의 분류 (예: 빛나다_동사-2, 비약)"
+    ],
+    "ia_suggestions": [
+      "상황 지시/기타 루트 내에 '추상적 상황/개념' 또는 '일반적 행위'와 같은 하위 카테고리 신설 검토",
+      "감각과 묘사 루트의 하위 카테고리를 '모양/형태', '질감/강도', '시각적 상태' 등으로 세분화하여 일관성 강화",
+      "경제 활동 관련 어휘가 증가할 경우 '경제와 산업' 또는 '상업 활동'과 같은 새로운 루트 또는 쇼핑 루트 확장 검토"
+    ]
+  }
+}

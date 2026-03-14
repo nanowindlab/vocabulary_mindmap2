@@ -1,0 +1,296 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "이십_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 표현",
+      "rationale_short": "명확한 수량 표현으로 '수량과 단위'에 속한다."
+    },
+    {
+      "meaning_id": "이외_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적 개념으로, 분류 기준이 모호함. '논리와 연결' 또는 '상황 지시/기타' 중 적합성 검토 필요.",
+      "rationale_short": "'이외'는 특정 대상을 제외한 나머지를 지칭하는 추상적인 개념으로, 명확한 물리적/사회적 범주에 속하기 어렵다."
+    },
+    {
+      "meaning_id": "이윽고_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 경과 부사",
+      "rationale_short": "시간의 경과를 나타내는 부사로 '시간과 흐름'에 속한다."
+    },
+    {
+      "meaning_id": "이점_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "추상적인 평가 개념으로, '의견과 가치' 또는 '감각과 묘사' 중 적합성 검토 필요.",
+      "rationale_short": "'이점'은 어떤 대상의 긍정적인 특성을 평가하는 개념으로, '의견과 가치'에 가깝지만 다른 루트와도 겹칠 수 있다."
+    },
+    {
+      "meaning_id": "이중_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "candidate_reason": "'둘'이라는 수량적 의미와 '겹쳐 있음/두 가지 성격'이라는 상태적 의미가 혼재되어 분류가 모호함.",
+      "rationale_short": "'이중'은 수량적인 '둘'의 의미와 함께, 어떤 상태나 성격이 겹쳐있음을 나타내어 모호하다."
+    },
+    {
+      "meaning_id": "이직_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 이동",
+      "rationale_short": "직장을 옮기는 행위로 '직장과 업무'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "이질_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 증상",
+      "rationale_short": "장 질병의 일종으로 '보건과 의료'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "익숙하다_형용사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "내면의 상태, 감각, 또는 태도와 경계가 모호하여 분류 검토 필요.",
+      "rationale_short": "'익숙하다'는 어떤 대상에 대한 주관적인 느낌이나 경험의 정도를 나타내어 여러 루트와 겹칠 수 있다."
+    },
+    {
+      "meaning_id": "인건비_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 비용",
+      "rationale_short": "사람을 쓰는 데 드는 비용으로 '직장과 업무'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "인사과_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 부서",
+      "rationale_short": "직원 채용 및 관리를 맡는 부서로 '직장과 업무'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "인사법_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 예절",
+      "rationale_short": "인사하는 방법으로 사회적 예절에 해당하여 '문화와 사회'에 속한다."
+    },
+    {
+      "meaning_id": "인성_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "사람의 성품",
+      "rationale_short": "사람의 됨됨이와 성품을 나타내어 '성격과 태도'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "인체_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 구조",
+      "rationale_short": "사람의 몸 전체를 의미하며 '보건과 의료'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "일개미_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "candidate_reason": "특정 동물의 종류로, '날씨와 자연'에 포함될 수 있으나, 더 구체적인 하위 분류가 필요할 수 있음.",
+      "rationale_short": "'일개미'는 자연계의 한 생물종으로 '날씨와 자연'에 포함하는 것이 가장 적절해 보이나, 동물 분류 가이드라인이 필요하다."
+    },
+    {
+      "meaning_id": "일관_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "candidate_reason": "태도, 방식, 성격 등 여러 추상적 개념과 연관되어 분류가 모호함.",
+      "rationale_short": "'일관'은 어떤 대상의 태도, 방식, 성격 등이 변함없이 유지되는 상태를 나타내어 여러 루트와 겹칠 수 있다."
+    },
+    {
+      "meaning_id": "일괄_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "candidate_reason": "'여러 가지'라는 수량적 의미와 '묶음'이라는 행위/상태적 의미가 혼재되어 분류가 모호함.",
+      "rationale_short": "'일괄'은 여러 대상을 하나로 묶는다는 의미로, 수량적인 측면과 함께 처리 방식의 측면을 포함하여 모호하다."
+    },
+    {
+      "meaning_id": "일대일_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 방식",
+      "rationale_short": "한 사람과 한 사람 사이의 관계 방식을 나타내어 '사람과 관계'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "일등_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "순위 등급",
+      "rationale_short": "경쟁에서 가장 앞선 순위를 나타내어 '상황 지시/기타'에 속한다."
+    },
+    {
+      "meaning_id": "일련번호_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "순서 번호",
+      "rationale_short": "정해진 순서대로 매긴 번호로 '수량과 단위'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "일방_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "'둘 중 한쪽'이라는 의미가 방향성, 관계, 논리 등 여러 맥락에서 사용되어 분류가 모호함.",
+      "rationale_short": "'일방'은 둘 중 한쪽을 의미하며, 이는 관계의 방향성, 논리적 선택 등 다양한 맥락에서 쓰일 수 있어 모호하다."
+    },
+    {
+      "meaning_id": "일방통행_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "교통 방식",
+      "rationale_short": "한쪽 방향으로만 다닐 수 있게 한 것으로 '교통'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "일쑤_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "candidate_reason": "빈도, 습관, 일반적인 상황 등 여러 개념과 연관되어 분류가 모호함.",
+      "rationale_short": "'일쑤'는 어떤 일이 자주 발생하여 습관처럼 굳어진 상태를 의미하며, 빈도와 습관 개념이 겹쳐 모호하다."
+    },
+    {
+      "meaning_id": "일조량_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "햇빛 양",
+      "rationale_short": "해가 비추는 양이나 시간으로 '날씨와 자연'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "일탈_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "사회적 규범, 일반적인 범위 등 다양한 맥락에서 벗어나는 행위를 지칭하여 분류가 모호함.",
+      "rationale_short": "'일탈'은 정해진 틀이나 범위에서 벗어나는 행위를 의미하며, 사회적 일탈과 밀접하지만 더 넓은 의미를 포함하여 모호하다."
+    },
+    {
+      "meaning_id": "일화_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "짧은 이야기",
+      "rationale_short": "어떤 사람이나 사건에 얽힌 짧은 이야기로 '문화와 사회'에 속한다."
+    },
+    {
+      "meaning_id": "입금_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "돈 거래",
+      "rationale_short": "돈을 계좌에 넣는 행위로 금융 거래에 해당하며 '쇼핑'에 속한다."
+    },
+    {
+      "meaning_id": "입소문_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달",
+      "rationale_short": "사람들 사이에서 말로 전해지는 소문으로 '문화와 사회'에 속한다."
+    },
+    {
+      "meaning_id": "입지_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 위치",
+      "rationale_short": "시설이나 건물이 자리 잡은 곳으로 '주거와 일상'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자갈_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 지형물",
+      "rationale_short": "강이나 바닷가 등에 있는 작은 돌로 '날씨와 자연'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자국_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적인 흔적을 나타내며, '감각과 묘사' 또는 '상황 지시/기타' 중 적합성 검토 필요.",
+      "rationale_short": "'자국'은 물리적으로 남은 흔적을 의미하며, 시각적으로 묘사될 수 있어 '감각과 묘사'에 가깝지만 모호하다."
+    },
+    {
+      "meaning_id": "자매_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계",
+      "rationale_short": "자매 사이인 여자 형제로 '사람과 관계'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자손_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 후손",
+      "rationale_short": "자식과 그 아래로 이어지는 후손으로 '사람과 관계'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자수성가_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "개인의 노력과 성공을 나타내는 개념으로, '문화와 사회', '직장과 업무', '성격과 태도' 등 여러 루트와 연관되어 분류가 모호함.",
+      "rationale_short": "'자수성가'는 개인의 노력으로 성공을 이루는 것을 의미하며, 사회적 성공, 직업적 성취 등 다양한 측면을 포함하여 모호하다."
+    },
+    {
+      "meaning_id": "자연스레_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "행위의 방식이나 상태를 묘사하는 부사로, '감각과 묘사' 또는 '상황 지시/기타' 중 적합성 검토 필요.",
+      "rationale_short": "'자연스레'는 어떤 일이 억지 없이 저절로 일어나는 방식을 묘사하며, '감각과 묘사'에 가깝지만 모호하다."
+    },
+    {
+      "meaning_id": "자연히_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "행위의 방식이나 결과의 자연스러움을 나타내는 부사로, '감각과 묘사' 또는 '논리와 연결' 중 적합성 검토 필요.",
+      "rationale_short": "'자연히'는 어떤 일이 저절로 일어나는 방식을 묘사하거나, 당연한 결과를 나타내어 모호하다."
+    },
+    {
+      "meaning_id": "자원봉사자_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "봉사 활동자",
+      "rationale_short": "돈을 받지 않고 스스로 돕는 사람으로 '공공 서비스'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자질_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "candidate_reason": "타고난 능력이나 바탕을 의미하며, '성격과 태도', '학교와 공부', '직장과 업무' 등 여러 루트와 연관되어 분류가 모호함.",
+      "rationale_short": "'자질'은 어떤 일을 수행할 수 있는 타고난 능력이나 바탕을 의미하며, 개인의 성격과 밀접하지만 다른 능력과도 연관되어 모호하다."
+    },
+    {
+      "meaning_id": "자취_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적인 흔적을 나타내며, '감각과 묘사' 또는 '상황 지시/기타' 중 적합성 검토 필요. '자국'과 유사.",
+      "rationale_short": "'자취'는 지나간 뒤에 남은 흔적을 의미하며, '감각과 묘사'에 가깝지만 '상황 지시/기타'의 일반적인 흔적 개념으로도 볼 수 있어 모호하다."
+    },
+    {
+      "meaning_id": "자취_일반명사-2",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "독립 생활",
+      "rationale_short": "부모 없이 혼자 밥을 해 먹으며 사는 것으로 '주거와 일상'에 명확히 속한다."
+    },
+    {
+      "meaning_id": "자칫_일반부사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "조건부 가능성이나 위험을 나타내는 부사로, '논리와 연결' 또는 '상황 지시/기타' 중 적합성 검토 필요.",
+      "rationale_short": "'자칫'은 어떤 조건이 충족될 경우 발생할 수 있는 부정적인 가능성을 나타내며, 조건/결과 개념과 일반적인 가능성 개념이 겹쳐 모호하다."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 이외, 이점, 일관, 일괄, 일방, 일탈, 자수성가, 자질): 여러 루트에 걸쳐 해석될 여지가 있어 분류 모호성이 높음.",
+      "상태/방식 묘사 부사 (예: 이윽고, 익숙하다, 자연스레, 자연히, 자칫, 일쑤): 시간, 감각, 논리, 상황 등 다양한 맥락에서 사용되어 분류가 모호함.",
+      "유사 의미어의 의미 분화 (예: 자국, 자취): 비슷한 의미를 가지지만 미묘한 뉘앙스 차이로 인해 분류의 일관성 유지가 중요함."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어에 대한 '상황 지시/기타' 루트의 하위 분류를 더욱 세분화하여 명확한 분류 기준을 마련해야 합니다. (예: '개념/속성', '상태/정도', '관계/방식')",
+      "부사어 분류 시 '시간과 흐름', '감각과 묘사', '논리와 연결', '상황 지시/기타' 간의 경계를 명확히 하는 가이드라인이 필요합니다.",
+      "유사 의미를 가진 단어(예: 자국, 자취)의 경우, 의미 차이를 명확히 하고 각각에 맞는 분류 기준을 제시하는 예시를 추가해야 합니다."
+    ]
+  }
+}

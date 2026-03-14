@@ -1,0 +1,556 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "더러움_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "상태 묘사이지만, 직접적인 감각 표현보다는 추상적인 상태를 나타내어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 상태 묘사로 '감각과 묘사'와 '상황 지시/기타' 사이 모호성."
+    },
+    {
+      "meaning_id": "더미_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 사물에 한정되지 않고, 사물의 물리적 형태를 나타내어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "사물의 물리적 형태를 나타내며, 특정 root에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "더하기_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수학 계산",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수학적 계산 행위로 '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "덕목_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "바람직한 품성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 바람직한 품성으로 '성격과 태도'에 명확히 해당."
+    },
+    {
+      "meaning_id": "덧나다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "상처 악화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상처의 악화는 '보건과 의료' 영역에 명확히 해당."
+    },
+    {
+      "meaning_id": "덩달다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 상황에서의 행위이지만, 태도와도 연관될 수 있어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다른 것의 영향을 받아 따라 하는 행위로, '상황 지시/기타'와 '성격과 태도' 사이 모호성."
+    },
+    {
+      "meaning_id": "데뷔_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 분야에 한정되지 않고, 시작이라는 일반적인 행위를 나타내어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 분야에서 처음 활동을 시작하는 일반적 행위로, 여러 root에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "도넛_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "빵 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식의 한 종류로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도다_동사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 성장",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식물의 성장 현상으로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도덕심_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "바른 마음가짐",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "바른 행동을 하려는 마음가짐으로 '성격과 태도'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도로_일반부사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "시간적 의미와 상태 변화의 의미가 복합되어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "원래 상태로 돌아가는 의미로 '시간과 흐름'과 '상황 지시/기타' 사이 모호성."
+    },
+    {
+      "meaning_id": "도로망_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "길 연결 구조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "길의 연결 구조로 '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도리_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "바른 행동 규범",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람으로서 지켜야 할 바른 방법으로 '의견과 가치'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도리어_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "반대 관계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기대한 것과 반대되는 논리적 관계를 나타내 '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도망_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위험 회피 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "위험을 피하려는 행위로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도망가다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위험 회피 행동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "위험을 피하려는 행동으로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도맡다_동사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 책임",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일을 전부 책임지고 하는 행위로 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도면_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "설계 그림",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "건축이나 제작을 위한 그림으로 '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도무지_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "부정 강조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "부정적인 상황을 강조하는 부사로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도민_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "지역 거주민",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 지역에 사는 사람을 지칭하므로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도보_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "걷기 이동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "걸어서 이동하는 행위로 '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도성_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "옛 수도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "옛 왕이 살던 도시로 역사적, 문화적 장소이므로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도우미_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "돕는 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "다른 사람을 돕는 역할의 사람으로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "도취_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 몰입",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 기분에 깊이 빠지는 내면적 상태로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독려_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "격려 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람들이 열심히 하도록 힘을 북돋우는 행위로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독립심_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "자립적 마음",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "스스로 하려는 마음가짐으로 '성격과 태도'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독성_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "유해한 성질",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸을 해치게 하는 성질로 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독주_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "악기 단독 연주",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "혼자 악기를 연주하는 행위로 '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독주_일반명사-2",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "혼자 술 마시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "술을 혼자 마시는 행위로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독주회_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "단독 음악회",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한 사람이 혼자 연주하는 음악회로 '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "독초_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "유독 식물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "독을 가진 풀로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돈벌이_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "수익 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "돈을 버는 일이나 직업으로 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돌발_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "갑작스러운 발생",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "뜻하지 않게 갑자기 일어나는 상황으로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돌아서다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방향 전환",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "서 있는 방향을 바꾸는 행위로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돌아서다_동사-2",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음 변화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "태도나 마음을 바꾸는 내면적 변화로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돌이키다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "깊이 생각하기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지나간 일이나 할 일을 깊이 생각하는 내면적 행위로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돌파구_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "문제 해결책",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "막힌 상황을 헤쳐 나갈 수 있는 방법으로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동그라미_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "둥근 모양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "둥근 모양을 묘사하는 단어로 '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동문서답_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "의사소통 행위의 한 종류이지만, 논리적 오류를 포함하여 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "물은 것과 관계없는 대답으로, '상황 지시/기타'와 '논리와 연결' 사이 모호성."
+    },
+    {
+      "meaning_id": "동반자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "함께하는 사람",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일을 함께하는 사람으로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동방_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "지리적 방향과 문화적 지역 개념이 복합되어 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "동쪽 지역 또는 동쪽 나라들로, '문화와 사회'와 '날씨와 자연' 사이 모호성."
+    },
+    {
+      "meaning_id": "동분서주_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "바쁜 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "이리저리 정신없이 뛰어다니는 상황으로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동서남북_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "네 가지 방향",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "네 가지 방향을 지칭하는 단어로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동서양_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "동양 서양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "동양과 서양이라는 문화적, 지리적 개념으로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동시대_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "같은 시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "같은 시기를 의미하는 시간 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동심_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "순수한 마음",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어린아이처럼 순수한 마음으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동양_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "아시아 지역",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "아시아를 중심으로 한 동쪽 세계로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동양화가_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "동양화 예술가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "동양화를 그리는 직업을 가진 사람으로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동정_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "가엾은 마음",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "남의 어려운 처지를 가엾게 여기는 마음으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동정심_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "돕고 싶은 마음",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "남을 가엾게 여기고 도와주고 싶어 하는 마음으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "동창_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "학교 친구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "같은 학교에서 공부했던 사람으로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "돼지_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "가축 돼지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집짐승의 한 종류로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "되살리다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "생명체에 한정되지 않고 일반적인 상태 회복을 의미하여 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "죽거나 없어진 것을 다시 살아나게 하는 행위로, '상황 지시/기타'와 '보건과 의료' 사이 모호성."
+    },
+    {
+      "meaning_id": "되씹다_동사-2",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "깊이 생각하다",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "말이나 일을 곰곰이 생각하는 내면적 행위로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두근거리다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "가슴 뛰는 감각",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가슴이 뛰는 신체 감각을 묘사하므로 '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두근두근_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "가슴 뛰는 모양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가슴이 뛰는 모양을 묘사하는 의태어로 '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두르다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "둘레 감싸기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건이나 사람의 둘레를 감싸는 행위로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두르다_동사-2",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "기름 붓기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "프라이팬에 기름을 붓는 조리 행위로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두서_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "말의 줄거리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생각이나 말의 차례와 줄거리로 '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "두어_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "대략적인 수량",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "대략적인 수량을 나타내는 관형사로 '수량과 단위'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 상태 묘사 (더러움)",
+      "일반적인 행위/상태 변화 (덩달다, 데뷔, 도로, 되살리다)",
+      "복합적인 개념 (동문서답, 동방)"
+    ],
+    "ia_suggestions": [
+      "감각과 묘사 root 내에 '상태 묘사' 또는 '추상적 상태' 하위 카테고리 신설 검토",
+      "상황 지시/기타 root 내에 '일반적 행위' 또는 '상태 변화' 하위 카테고리 세분화 검토",
+      "논리와 연결 root 내에 '의사소통 오류' 또는 '관계 표현' 하위 카테고리 신설 검토"
+    ]
+  }
+}

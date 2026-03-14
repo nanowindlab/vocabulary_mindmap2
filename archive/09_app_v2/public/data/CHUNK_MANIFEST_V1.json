@@ -1,0 +1,22 @@
+{
+  "version": "V2",
+  "generated_at": "2026-03-09T05:24:04.019Z",
+  "chunks": {
+    "chunk_001": {
+      "file_name": "APP_READY_CHUNK_RICH_chunk_001.json",
+      "item_count": 400
+    },
+    "chunk_002": {
+      "file_name": "APP_READY_CHUNK_RICH_chunk_002.json",
+      "item_count": 400
+    },
+    "chunk_003": {
+      "file_name": "APP_READY_CHUNK_RICH_chunk_003.json",
+      "item_count": 400
+    },
+    "chunk_004": {
+      "file_name": "APP_READY_CHUNK_RICH_chunk_004.json",
+      "item_count": 127
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "선생_일반명사-1",
+      "rationale_short": "학생을 가르치는 직업/역할어로, '학교와 공부' root에 명확히 해당함.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육자"
+    },
+    {
+      "meaning_id": "가격_일반명사-1",
+      "rationale_short": "물건이나 서비스의 가치로, '쇼핑' root에 명확히 해당함.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 값"
+    },
+    {
+      "meaning_id": "늦다_형용사-1",
+      "rationale_short": "정해진 때보다 뒤에 있는 상태로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 지연"
+    },
+    {
+      "meaning_id": "오늘_일반부사-1",
+      "rationale_short": "바로 지금 지나가고 있는 날로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점"
+    },
+    {
+      "meaning_id": "자료_일반명사-1",
+      "rationale_short": "조사나 공부, 일을 하는 데 바탕이 되는 내용으로, '학교와 공부' root에 명확히 해당함.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 자료"
+    },
+    {
+      "meaning_id": "주민_일반명사-1",
+      "rationale_short": "어떤 지역에 살고 있는 사람들을 지칭하며, '문화와 사회' root에 명확히 해당함.",
+      "root": "문화와 사회",
+      "category_label_ko": "지역 거주자"
+    },
+    {
+      "meaning_id": "기다리다_동사-1",
+      "rationale_short": "어떤 때나 사람이 오기를 바라며 기다리는 행위로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 대기"
+    },
+    {
+      "meaning_id": "나무_일반명사-1",
+      "rationale_short": "줄기와 가지가 있는 큰 식물로, '날씨와 자연' root에 명확히 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 나무"
+    },
+    {
+      "meaning_id": "나무_일반명사-2",
+      "rationale_short": "건축이나 연료 등에 쓰는 나무 재료로, '주거와 일상' root에 명확히 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "목재 재료"
+    },
+    {
+      "meaning_id": "선수_일반명사-1",
+      "rationale_short": "운동 경기에서 기량을 겨루는 사람으로, '여가와 취미' root에 명확히 해당함.",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 경기자"
+    },
+    {
+      "meaning_id": "식물_일반명사-1",
+      "rationale_short": "뿌리와 줄기, 잎이 있고 스스로 움직이지 못하는 생물로, '날씨와 자연' root에 명확히 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 생물"
+    },
+    {
+      "meaning_id": "약속_일반명사-1",
+      "rationale_short": "앞으로 해야 할 일에 대해 서로 정하고 다짐하는 행위로, '사람과 관계' root에 명확히 해당함.",
+      "root": "사람과 관계",
+      "category_label_ko": "상호 다짐"
+    },
+    {
+      "meaning_id": "가르치다_동사-1",
+      "rationale_short": "지식이나 기술을 배우게 하는 행위로, '학교와 공부' root에 명확히 해당함.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 행위"
+    },
+    {
+      "meaning_id": "시대_일반명사-1",
+      "rationale_short": "역사에서 일정한 특징을 지니는 기간으로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "역사 시기"
+    },
+    {
+      "meaning_id": "인간_일반명사-1",
+      "rationale_short": "사람을 이르는 말로, '사람과 관계' root에 명확히 해당함.",
+      "root": "사람과 관계",
+      "category_label_ko": "인류 존재"
+    },
+    {
+      "meaning_id": "동생_일반명사-1",
+      "rationale_short": "자기보다 나이가 적은 형제나 자매로, '사람과 관계' root에 명확히 해당함.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계"
+    },
+    {
+      "meaning_id": "입다_동사-1",
+      "rationale_short": "옷이나 장비를 몸에 걸치는 행위로, '주거와 일상' root에 명확히 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "의복 착용"
+    },
+    {
+      "meaning_id": "지나다_동사-1",
+      "rationale_short": "시간이나 때가 뒤로 물러가는 행위로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 경과"
+    },
+    {
+      "meaning_id": "날씨_일반명사-1",
+      "rationale_short": "어느 날의 기온, 바람, 비 등의 하늘 상태로, '날씨와 자연' root에 명확히 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "기상 상태"
+    },
+    {
+      "meaning_id": "자연_일반명사-1",
+      "rationale_short": "사람이 만들지 않고 그대로 있는 산, 바다, 공기 같은 것으로, '날씨와 자연' root에 명확히 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 환경"
+    },
+    {
+      "meaning_id": "빌리다_동사-1",
+      "rationale_short": "남의 물건이나 돈을 나중에 돌려주기로 하고 잠시 쓰는 행위로, '주거와 일상' root에 명확히 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 대여"
+    },
+    {
+      "meaning_id": "그리다_동사-1",
+      "rationale_short": "종이 등에 선과 색을 이용해 모양이나 모습을 나타내는 행위로, '여가와 취미' root에 명확히 해당함.",
+      "root": "여가와 취미",
+      "category_label_ko": "미술 활동"
+    },
+    {
+      "meaning_id": "너무_일반부사-1",
+      "rationale_short": "정도에 지나치게 또는 매우를 나타내는 부사로, '감각과 묘사' root에 명확히 해당함.",
+      "root": "감각과 묘사",
+      "category_label_ko": "정도 강조"
+    },
+    {
+      "meaning_id": "연습_일반명사-1",
+      "rationale_short": "어떤 일을 잘하기 위해 되풀이해 해 보는 것으로, '학교와 공부' root에 명확히 해당함.",
+      "root": "학교와 공부",
+      "category_label_ko": "반복 훈련"
+    },
+    {
+      "meaning_id": "최근_일반명사-1",
+      "rationale_short": "지금에 가장 가까운 지난 때로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "가까운 과거"
+    },
+    {
+      "meaning_id": "경기_일반명사-1",
+      "rationale_short": "정해진 규칙에 따라 승부를 겨루는 일로, '여가와 취미' root에 명확히 해당함.",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 시합"
+    },
+    {
+      "meaning_id": "경기_일반명사-2",
+      "rationale_short": "나라의 경제가 잘되거나 못되는 상태로, '문화와 사회' root에 명확히 해당함.",
+      "root": "문화와 사회",
+      "category_label_ko": "경제 상황"
+    },
+    {
+      "meaning_id": "먼저_일반부사-1",
+      "rationale_short": "다른 것보다 앞서를 나타내는 부사로, '시간과 흐름' root에 명확히 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "순서 우선"
+    },
+    {
+      "meaning_id": "바다_일반명사-1",
+      "rationale_short": "육지 밖으로 넓게 퍼져 있는 짠물로, '날씨와 자연' root에 명확히 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "해양 환경"
+    },
+    {
+      "meaning_id": "산업_일반명사-1",
+      "rationale_short": "물건을 만들거나 서비스를 제공하는 활동으로, '문화와 사회' root에 명확히 해당함.",
+      "root": "문화와 사회",
+      "category_label_ko": "경제 활동"
+    },
+    {
+      "meaning_id": "어머니_일반명사-1",
+      "rationale_short": "자신을 낳아 준 여자 어른으로, '사람과 관계' root에 명확히 해당함.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 구성원"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "맛_일반명사-2",
+      "rationale_short": "추상적 즐거움/멋으로, 내면적 감각과 겹쳐 candidate.",
+      "root": "내면과 감정",
+      "candidate_reason": "어떤 활동에서 느끼는 즐거움이나 멋은 추상적인 감정이나 내면적 경험에 해당하여 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "이해_일반명사-1",
+      "rationale_short": "인지적 과정 및 내면적 상태로, 내면과 겹쳐 candidate.",
+      "root": "내면과 감정",
+      "candidate_reason": "어떤 내용을 알고 뜻을 알아차리는 것은 인지적 과정이자 내면적 상태에 해당하여 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "이해_일반명사-2",
+      "rationale_short": "이익과 손해 관계는 사회적 맥락이나 추상적 개념이라 candidate.",
+      "root": "문화와 사회",
+      "candidate_reason": "이익과 손해 따위의 관계는 사회적 맥락에서 발생하나, 추상적인 개념이라 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "발전_일반명사-1",
+      "rationale_short": "다양한 맥락의 추상적 변화/진보 개념이라 candidate.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "더 좋은 상태로 나아가는 것은 다양한 맥락에서 사용되는 일반적인 변화/진보 개념이라 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "혼자_일반명사-1",
+      "rationale_short": "홀로 있는 상태는 내면적 감정/관계 부재와 겹쳐 candidate.",
+      "root": "내면과 감정",
+      "candidate_reason": "다른 사람 없이 홀로 있는 상태는 내면적 감정이나 관계의 부재와 관련되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "계획_일반명사-1",
+      "rationale_short": "다양한 활동에 적용되는 일반적 미래 준비 개념이라 candidate.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "앞으로 할 일을 미리 생각해 짜 둔 내용은 다양한 활동에 적용되는 일반적인 미래 준비 개념이라 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "지원_일반명사-1",
+      "rationale_short": "다양한 맥락의 도움/지지 개념이라 candidate.",
+      "root": "문화와 사회",
+      "candidate_reason": "도움이 되도록 힘이나 물건을 보태는 것은 다양한 맥락에서 사용되는 도움/지지 개념이라 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "선택_일반명사-1",
+      "rationale_short": "다양한 상황의 일반적 결정 행위라 candidate.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "여럿 중에서 골라 잡는 것은 다양한 상황에서 이루어지는 일반적인 결정 행위라 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "그리다_동사-2",
+      "rationale_short": "머릿속 상상하는 내면적 사고 활동이라 candidate.",
+      "root": "내면과 감정",
+      "candidate_reason": "머릿속에 어떤 모습이나 상황을 떠올려 생각하는 것은 내면적 사고 활동에 해당하여 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 내면적 상태를 나타내는 어휘는 '내면과 감정' 또는 '상황 지시/기타' root의 candidate로 분류되는 경향이 있음.",
+      "다의어의 경우, 각 의미별로 다른 root에 분류될 수 있으며, 추상적인 의미는 candidate로 분류될 가능성이 높음."
+    ],
+    "ia_suggestions": [
+      "현재 '내면과 감정'과 '상황 지시/기타' root에 candidate로 분류된 어휘들이 많으므로, 이 두 root의 하위 카테고리를 더 세분화하여 명확성을 높이는 방안을 검토해야 합니다.",
+      "특히 '이해', '발전', '계획', '지원', '선택'과 같이 여러 맥락에서 사용될 수 있는 일반적인 개념어에 대한 분류 기준을 구체화할 필요가 있습니다."
+    ]
+  }
+}

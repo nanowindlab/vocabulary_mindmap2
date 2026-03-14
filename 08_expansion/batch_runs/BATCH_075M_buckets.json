@@ -1,0 +1,251 @@
+{
+  "core": [
+    {
+      "meaning_id": "학년_일반명사-1",
+      "rationale_short": "학교 교육 과정의 명확한 단계.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 단계"
+    },
+    {
+      "meaning_id": "한류_일반명사-1",
+      "rationale_short": "한국 문화의 사회적 현상을 명확히 나타냄.",
+      "root": "문화와 사회",
+      "category_label_ko": "대중문화 현상"
+    },
+    {
+      "meaning_id": "햇볕_일반명사-1",
+      "rationale_short": "자연 현상인 햇빛을 명확히 나타냄.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연의 빛"
+    },
+    {
+      "meaning_id": "향후_일반명사-1",
+      "rationale_short": "미래의 시점을 명확히 나타내는 시간 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "미래 시점"
+    },
+    {
+      "meaning_id": "호기심_일반명사-1",
+      "rationale_short": "사람의 내면적인 감정 상태를 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "알고 싶은 마음"
+    },
+    {
+      "meaning_id": "확정_일반명사-1",
+      "rationale_short": "어떤 사안을 최종적으로 결정하는 행위나 상태를 명확히 나타냄.",
+      "root": "논리와 연결",
+      "category_label_ko": "최종 결정"
+    },
+    {
+      "meaning_id": "환기_일반명사-1",
+      "rationale_short": "주거 공간이나 실내 환경 관리와 관련된 명확한 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "실내 공기 관리"
+    },
+    {
+      "meaning_id": "활쏘기_일반명사-1",
+      "rationale_short": "여가 활동이자 스포츠의 한 종류를 명확히 나타냄.",
+      "root": "여가와 취미",
+      "category_label_ko": "전통 스포츠"
+    },
+    {
+      "meaning_id": "황갈색_일반명사-1",
+      "rationale_short": "색깔을 묘사하는 명확한 어휘.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현"
+    },
+    {
+      "meaning_id": "희다_형용사-1",
+      "rationale_short": "색깔을 묘사하는 명확한 어휘.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현"
+    },
+    {
+      "meaning_id": "가계_일반명사-1",
+      "rationale_short": "한 집안의 살림 형편을 나타내는 명확한 개념.",
+      "root": "주거와 일상",
+      "category_label_ko": "가정 경제"
+    },
+    {
+      "meaning_id": "가만히_일반부사-1",
+      "rationale_short": "움직임 없는 상태를 지시하는 명확한 부사.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "정지 상태"
+    },
+    {
+      "meaning_id": "가옥_일반명사-1",
+      "rationale_short": "사람이 사는 집을 나타내는 명확한 어휘.",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 건물"
+    },
+    {
+      "meaning_id": "각색_일반명사-1",
+      "rationale_short": "문화 콘텐츠의 변형 과정을 명확히 나타냄.",
+      "root": "문화와 사회",
+      "category_label_ko": "창작물 변형"
+    },
+    {
+      "meaning_id": "간격_일반명사-1",
+      "rationale_short": "두 대상 사이의 물리적 거리를 나타내는 명확한 수량/단위 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "거리 개념"
+    },
+    {
+      "meaning_id": "갈비탕_일반명사-1",
+      "rationale_short": "음식 재료/식기/조리도구/식당/조리행위는 `식생활`을 우선한다.",
+      "root": "식생활",
+      "category_label_ko": "한국 음식"
+    },
+    {
+      "meaning_id": "갈수록_일반부사-1",
+      "rationale_short": "시간의 경과에 따른 변화를 나타내는 명확한 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 경과"
+    },
+    {
+      "meaning_id": "감성_일반명사-1",
+      "rationale_short": "사람의 내면적인 감정적 특성을 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "마음의 성질"
+    },
+    {
+      "meaning_id": "감염_일반명사-1",
+      "rationale_short": "신체 부위/의료 증상은 `보건과 의료`를 우선한다.",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 발생"
+    },
+    {
+      "meaning_id": "강당_일반명사-1",
+      "rationale_short": "여러 사람이 모여 행사를 하는 공공 장소로, 문화적/사회적 활동이 이루어지는 공간.",
+      "root": "문화와 사회",
+      "category_label_ko": "공공 집회 공간"
+    },
+    {
+      "meaning_id": "강습_일반명사-1",
+      "rationale_short": "지식이나 기술을 가르치는 교육 활동을 명확히 나타냄.",
+      "root": "학교와 공부",
+      "category_label_ko": "단기 교육"
+    },
+    {
+      "meaning_id": "강우_일반명사-1",
+      "rationale_short": "자연 현상인 비 내림을 명확히 나타냄.",
+      "root": "날씨와 자연",
+      "category_label_ko": "비 내리는 현상"
+    },
+    {
+      "meaning_id": "개구리_일반명사-1",
+      "rationale_short": "자연에 속하는 동물을 명확히 나타냄.",
+      "root": "날씨와 자연",
+      "category_label_ko": "양서류 동물"
+    },
+    {
+      "meaning_id": "검증_일반명사-1",
+      "rationale_short": "어떤 사실이나 주장의 진위를 논리적으로 확인하는 행위.",
+      "root": "논리와 연결",
+      "category_label_ko": "사실 확인"
+    },
+    {
+      "meaning_id": "격려_일반명사-1",
+      "rationale_short": "타인에게 용기를 주는 사회적 상호작용 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "응원 행위"
+    },
+    {
+      "meaning_id": "결론_일반명사-1",
+      "rationale_short": "생각이나 논의의 최종적인 결과물을 명확히 나타냄.",
+      "root": "논리와 연결",
+      "category_label_ko": "최종 판단"
+    },
+    {
+      "meaning_id": "경력_일반명사-1",
+      "rationale_short": "직업 활동과 관련된 경험을 명확히 나타냄.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 경험"
+    },
+    {
+      "meaning_id": "경로_일반명사-1",
+      "rationale_short": "어떤 목적지로 향하는 길이나 일의 진행 과정을 나타내는 일반적인 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "진행 과정"
+    },
+    {
+      "meaning_id": "경사지다_동사-1",
+      "rationale_short": "물리적인 기울어진 상태를 묘사하는 명확한 어휘.",
+      "root": "감각과 묘사",
+      "category_label_ko": "기울어진 상태"
+    },
+    {
+      "meaning_id": "계란_일반명사-1",
+      "rationale_short": "음식 재료/식기/조리도구/식당/조리행위는 `식생활`을 우선한다.",
+      "root": "식생활",
+      "category_label_ko": "식재료"
+    },
+    {
+      "meaning_id": "고지서_일반명사-1",
+      "rationale_short": "공공 요금이나 세금 납부와 관련된 공식 문서를 명확히 나타냄.",
+      "root": "공공 서비스",
+      "category_label_ko": "요금 청구 문서"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "합격자_일반명사-1",
+      "rationale_short": "시험/심사 통과라는 특정 상황에 따른 사람의 상태를 나타내므로, 여러 관련 root에 걸쳐 있어 모호함.",
+      "root": "사람과 관계",
+      "candidate_reason": "특정 상황(시험, 심사)을 통해 얻는 사람의 상태/역할을 나타내며, `학교와 공부`나 `직장과 업무` 등 여러 root에 걸쳐 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "해설_일반명사-1",
+      "rationale_short": "일반적인 설명 행위로, 특정 장면이나 맥락에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장면보다는 일반적인 설명 행위를 나타내며, 여러 root에 걸쳐 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "향기_일반명사-1",
+      "rationale_short": "감각어이므로 `감각과 묘사` root에 적합하지만, 다른 감각어와의 일관성 검토 필요.",
+      "root": "감각과 묘사",
+      "candidate_reason": "감각적 인지에 해당하며, `감각과 묘사` root에 적합하나, 다른 감각어와의 분류 일관성 검토가 필요함."
+    },
+    {
+      "meaning_id": "혼잡_일반명사-1",
+      "rationale_short": "일반적인 상황 묘사로, 여러 root에 걸쳐 사용될 수 있어 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "특정 장면에 국한되지 않는 일반적인 상황 묘사이며, `감각과 묘사` 또는 `상황 지시/기타` 등 여러 root에 걸쳐 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "희생_일반명사-1",
+      "rationale_short": "가치 판단과 내면적 동기가 복합된 추상적 개념으로, 여러 root에 걸쳐 모호함.",
+      "root": "의견과 가치",
+      "candidate_reason": "가치 판단 및 내면적 동기와 관련된 추상적인 개념으로, `의견과 가치` 또는 `내면과 감정` 등 여러 root에 걸쳐 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "가꾸다_동사-1",
+      "rationale_short": "일반적인 돌봄/관리 행위로, 특정 장면이나 맥락에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장면보다는 일반적인 돌봄/관리 행위를 나타내며, 여러 root에 걸쳐 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "감추다_동사-1",
+      "rationale_short": "일반적인 숨기는 행위로, 특정 장면이나 맥락에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장면보다는 일반적인 숨기는 행위를 나타내며, 여러 root에 걸쳐 사용될 수 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "감칠맛_일반명사-1",
+      "rationale_short": "감각어이므로 `감각과 묘사` root에 적합하지만, 다른 감각어와의 일관성 검토 필요.",
+      "root": "감각과 묘사",
+      "candidate_reason": "맛에 대한 감각적 묘사로 `감각과 묘사` root에 적합하나, 다른 감각어와의 분류 일관성 검토가 필요함."
+    },
+    {
+      "meaning_id": "갚다_동사-1",
+      "rationale_short": "일반적인 상환/보답 행위로, 특정 장면이나 맥락에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "돈이나 은혜를 되돌려주는 일반적인 행위로, `쇼핑`이나 `사람과 관계` 등 여러 root에 걸쳐 사용될 수 있어 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

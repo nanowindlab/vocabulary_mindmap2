@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "순간_일반명사-1",
+      "rationale_short": "시간의 한 단위를 명확히 나타냄.",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 시간"
+    },
+    {
+      "meaning_id": "습관_일반명사-1",
+      "rationale_short": "개인의 행동 양식과 관련된 개념.",
+      "root": "성격과 태도",
+      "category_label_ko": "반복적 행동"
+    },
+    {
+      "meaning_id": "연필_일반명사-1",
+      "rationale_short": "학습 및 필기 활동에 사용되는 도구.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습용 필기구"
+    },
+    {
+      "meaning_id": "열_일반명사-1",
+      "rationale_short": "신체 건강과 관련된 명확한 증상.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 발열 증상"
+    },
+    {
+      "meaning_id": "예방_일반명사-1",
+      "rationale_short": "건강 및 안전 관리와 관련된 행위.",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 사고 방지"
+    },
+    {
+      "meaning_id": "오랜만_일반명사-1",
+      "rationale_short": "시간의 경과를 나타내는 명확한 표현.",
+      "root": "시간과 흐름",
+      "category_label_ko": "긴 시간 경과"
+    },
+    {
+      "meaning_id": "인사_일반명사-1",
+      "rationale_short": "사람 간의 관계에서 예의를 표현하는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 예의 표현"
+    },
+    {
+      "meaning_id": "지방_일반명사-1",
+      "rationale_short": "사회 및 지리적 구분을 나타내는 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "중심지 외 지역"
+    },
+    {
+      "meaning_id": "지방_일반명사-2",
+      "rationale_short": "신체 구성 요소 및 건강과 관련된 개념.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 에너지 성분"
+    },
+    {
+      "meaning_id": "카메라_일반명사-1",
+      "rationale_short": "여가 활동 및 취미 생활에 사용되는 도구.",
+      "root": "여가와 취미",
+      "category_label_ko": "사진 영상 기기"
+    },
+    {
+      "meaning_id": "피부_일반명사-1",
+      "rationale_short": "신체 구성 요소 중 하나.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 외피"
+    },
+    {
+      "meaning_id": "단체_일반명사-1",
+      "rationale_short": "사회를 구성하는 집단이나 조직을 나타냄.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 구성 조직"
+    },
+    {
+      "meaning_id": "독자_일반명사-1",
+      "rationale_short": "문화 활동(독서)에 참여하는 사람의 역할.",
+      "root": "문화와 사회",
+      "category_label_ko": "글 읽는 사람"
+    },
+    {
+      "meaning_id": "빛_일반명사-1",
+      "rationale_short": "자연 현상 중 하나인 빛을 나타냄.",
+      "root": "날씨와 자연",
+      "category_label_ko": "시각 에너지"
+    },
+    {
+      "meaning_id": "빛_일반명사-2",
+      "rationale_short": "사물의 시각적 특성을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "겉모습 색 윤기"
+    },
+    {
+      "meaning_id": "세기_일반명사-1",
+      "rationale_short": "시간의 단위를 나타내는 명확한 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "백 년 단위 기간"
+    },
+    {
+      "meaning_id": "시기_일반명사-1",
+      "rationale_short": "특정 사건이 발생하는 때나 기간을 나타냄.",
+      "root": "시간과 흐름",
+      "category_label_ko": "일 발생 시점"
+    },
+    {
+      "meaning_id": "시기_일반명사-2",
+      "rationale_short": "사람의 내면적인 감정을 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "타인 성공 질투"
+    },
+    {
+      "meaning_id": "심정_일반명사-1",
+      "rationale_short": "사람의 내면적인 감정이나 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "내면의 기분 상태"
+    },
+    {
+      "meaning_id": "안녕_일반명사-2",
+      "rationale_short": "사람 간의 관계에서 사용되는 인사말.",
+      "root": "사람과 관계",
+      "category_label_ko": "헤어짐 인사말"
+    },
+    {
+      "meaning_id": "연구소_일반명사-1",
+      "rationale_short": "직업 활동 중 연구를 수행하는 장소/기관.",
+      "root": "직장과 업무",
+      "category_label_ko": "연구 수행 기관"
+    },
+    {
+      "meaning_id": "의하다_동사-1",
+      "rationale_short": "논리적 관계나 근거를 나타내는 동사.",
+      "root": "논리와 연결",
+      "category_label_ko": "근거 바탕 삼다"
+    },
+    {
+      "meaning_id": "전기_일반명사-1",
+      "rationale_short": "과학 기술 및 현대 사회의 기반이 되는 에너지.",
+      "root": "문화와 사회",
+      "category_label_ko": "전하 에너지"
+    },
+    {
+      "meaning_id": "젊다_형용사-1",
+      "rationale_short": "사람의 나이와 관련된 특성을 나타냄.",
+      "root": "사람과 관계",
+      "category_label_ko": "나이 적은 상태"
+    },
+    {
+      "meaning_id": "타이어_일반명사-1",
+      "rationale_short": "교통수단인 차량의 구성 요소.",
+      "root": "교통",
+      "category_label_ko": "차량 바퀴 부품"
+    },
+    {
+      "meaning_id": "감기_일반명사-1",
+      "rationale_short": "건강 및 질병과 관련된 명확한 개념.",
+      "root": "보건과 의료",
+      "category_label_ko": "호흡기 질환"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "요소_일반명사-1",
+      "rationale_short": "추상적 개념으로, 특정 장면보다는 논리적 구성에 가깝지만, 다른 root와의 경계가 모호함.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, 여러 맥락에서 사용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "웃다_동사-1",
+      "rationale_short": "감정(즐거움)과 신체적 표현(입 모양, 소리)이 복합된 행위.",
+      "root": "내면과 감정",
+      "candidate_reason": "감정 표현과 신체적 행위가 결합되어 있어 분류 경계가 모호함."
+    },
+    {
+      "meaning_id": "잃어버리다_동사-1",
+      "rationale_short": "특정 장면보다는 일반적인 상황에서 발생하는 행위로, 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장면보다는 일반적인 상황에서 발생하는 행위로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "처리_일반명사-1",
+      "rationale_short": "매우 일반적인 행위로, 특정 장면이나 맥락에 한정하기 어려워 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 일반적인 행위로, 특정 장면이나 맥락에 한정하기 어려워 분류가 모호함."
+    },
+    {
+      "meaning_id": "커지다_동사-1",
+      "rationale_short": "크기 변화를 묘사하는 동사로, 일반적인 상태 변화를 나타내어 분류가 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "크기 변화를 묘사하는 동사로, 일반적인 상태 변화를 나타내어 분류가 모호함."
+    },
+    {
+      "meaning_id": "계산_일반명사-1",
+      "rationale_short": "'셈함'은 '수량과 단위' 또는 '학교와 공부', '값을 치름'은 '쇼핑'에 해당할 수 있어 모호함.",
+      "root": "쇼핑",
+      "candidate_reason": "'셈함'과 '값을 치름' 두 가지 의미가 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "느낌_일반명사-1",
+      "rationale_short": "내면의 감정과 신체적 감각 모두를 포함하여 분류 경계가 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면의 감정과 신체적 감각 모두를 포함하여 분류 경계가 모호함."
+    },
+    {
+      "meaning_id": "로봇_일반명사-1",
+      "rationale_short": "다양한 분야(산업, 일상, 과학)에서 활용될 수 있어 분류가 모호함.",
+      "root": "문화와 사회",
+      "candidate_reason": "다양한 분야(산업, 일상, 과학)에서 활용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "멀다_형용사-1",
+      "rationale_short": "거리와 시간이라는 두 가지 다른 개념을 동시에 묘사하여 분류가 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "거리와 시간이라는 두 가지 다른 개념을 동시에 묘사하여 분류가 모호함."
+    },
+    {
+      "meaning_id": "부드럽다_형용사-1",
+      "rationale_short": "촉감과 성격이라는 두 가지 다른 대상을 동시에 묘사하여 분류가 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "촉감과 성격이라는 두 가지 다른 대상을 동시에 묘사하여 분류가 모호함."
+    },
+    {
+      "meaning_id": "서다_동사-1",
+      "rationale_short": "특정 장면보다는 일반적인 신체 행위로, 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장면보다는 일반적인 신체 행위로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "안녕_일반명사-1",
+      "rationale_short": "건강, 평안, 일반적인 상태 등 여러 의미를 포함하여 분류가 모호함.",
+      "root": "보건과 의료",
+      "candidate_reason": "건강, 평안, 일반적인 상태 등 여러 의미를 포함하여 분류가 모호함."
+    },
+    {
+      "meaning_id": "주목_일반명사-1",
+      "rationale_short": "정신적 행위와 관심이라는 내면적 상태가 결합되어 분류가 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "정신적 행위와 관심이라는 내면적 상태가 결합되어 분류가 모호함."
+    },
+    {
+      "meaning_id": "갑자기_일반부사-1",
+      "rationale_short": "시간적 특성과 상황적 특성을 동시에 나타내어 분류가 모호함.",
+      "root": "시간과 흐름",
+      "candidate_reason": "시간적 특성과 상황적 특성을 동시에 나타내어 분류가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "다의어(polysemy)로 인해 여러 root에 걸쳐 분류될 수 있는 단어 (예: 지방, 빛, 시기, 안녕, 계산).",
+      "내면의 상태/감정과 외부의 신체적 행동/묘사를 동시에 나타내는 단어 (예: 웃다, 느낌, 부드럽다, 멀다, 주목).",
+      "특정 장면이나 도메인에 명확하게 속하지 않는 추상 명사 또는 일반적인 동사/형용사 (예: 요소, 잃어버리다, 처리, 커지다, 서다, 로봇, 갑자기)."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념이나 일반적인 상태/행위를 위한 '상황 지시/기타' 하위 root 또는 새로운 root 생성을 고려합니다.",
+      "내면과 감정'과 '감각과 묘사'가 겹치는 단어에 대해 '감정 표현 행위' 또는 '신체 감각 묘사'와 같은 명확한 분류 가이드라인 또는 전용 하위 root를 설정합니다.",
+      "candidate로 분류된 항목들을 주기적으로 검토하여 새로운 root 또는 하위 root를 발굴할 수 있는 패턴이 있는지 확인합니다."
+    ]
+  }
+}

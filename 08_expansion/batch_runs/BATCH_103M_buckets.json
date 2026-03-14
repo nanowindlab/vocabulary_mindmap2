@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "수강_일반명사-1",
+      "rationale_short": "명확한 학습 행위.",
+      "root": "학교와 공부",
+      "category_label_ko": "강의 학습 활동"
+    },
+    {
+      "meaning_id": "수시로_일반부사-1",
+      "rationale_short": "명확한 시간 관련 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "빈도 시간 부사"
+    },
+    {
+      "meaning_id": "수액_일반명사-1",
+      "rationale_short": "명확한 의료 관련 물질.",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 치료 물질"
+    },
+    {
+      "meaning_id": "숙소_일반명사-1",
+      "rationale_short": "명확한 거주/숙박 장소.",
+      "root": "주거와 일상",
+      "category_label_ko": "임시 거주 공간"
+    },
+    {
+      "meaning_id": "스케줄_일반명사-1",
+      "rationale_short": "명확한 시간 관리 및 계획 관련 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "일정 계획표"
+    },
+    {
+      "meaning_id": "시골집_일반명사-1",
+      "rationale_short": "명확한 주거 공간.",
+      "root": "주거와 일상",
+      "category_label_ko": "주택 종류"
+    },
+    {
+      "meaning_id": "시달리다_동사-1",
+      "rationale_short": "명확한 내면 감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "정신적 고통"
+    },
+    {
+      "meaning_id": "시들다_동사-1",
+      "rationale_short": "명확한 자연 현상/식물 상태.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 상태 변화"
+    },
+    {
+      "meaning_id": "시상식_일반명사-1",
+      "rationale_short": "명확한 사회/문화적 행사.",
+      "root": "문화와 사회",
+      "category_label_ko": "공식 행사"
+    },
+    {
+      "meaning_id": "식다_동사-1",
+      "rationale_short": "명확한 감각적 변화 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "온도 변화"
+    },
+    {
+      "meaning_id": "신경질_일반명사-1",
+      "rationale_short": "명확한 성격/태도 묘사.",
+      "root": "성격과 태도",
+      "category_label_ko": "성격 특성"
+    },
+    {
+      "meaning_id": "신뢰도_일반명사-1",
+      "rationale_short": "명확한 가치 판단 및 평가 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "평가 기준"
+    },
+    {
+      "meaning_id": "신문사_일반명사-1",
+      "rationale_short": "명확한 사회/문화 기관.",
+      "root": "문화와 사회",
+      "category_label_ko": "언론 기관"
+    },
+    {
+      "meaning_id": "신비_일반명사-1",
+      "rationale_short": "명확한 감각적/묘사적 특성.",
+      "root": "감각과 묘사",
+      "category_label_ko": "경이로운 특성"
+    },
+    {
+      "meaning_id": "신용_일반명사-1",
+      "rationale_short": "명확한 금융 관련 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "금융 거래 신뢰"
+    },
+    {
+      "meaning_id": "신용_일반명사-2",
+      "rationale_short": "명확한 내면 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "믿음의 감정"
+    },
+    {
+      "meaning_id": "신중히_일반부사-1",
+      "rationale_short": "명확한 태도/행동 방식 묘사.",
+      "root": "성격과 태도",
+      "category_label_ko": "행동 방식"
+    },
+    {
+      "meaning_id": "실감_일반명사-1",
+      "rationale_short": "명확한 감각적/묘사적 느낌.",
+      "root": "감각과 묘사",
+      "category_label_ko": "생생한 느낌"
+    },
+    {
+      "meaning_id": "실마리_일반명사-1",
+      "rationale_short": "명확한 논리적 문제 해결 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "문제 해결 단서"
+    },
+    {
+      "meaning_id": "실상_일반명사-1",
+      "rationale_short": "명확한 논리적 사실/현실 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "실제 상황"
+    },
+    {
+      "meaning_id": "실체_일반명사-1",
+      "rationale_short": "명확한 논리적 본질 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "본질적 존재"
+    },
+    {
+      "meaning_id": "실험실_일반명사-1",
+      "rationale_short": "명확한 학습/연구 공간.",
+      "root": "학교와 공부",
+      "category_label_ko": "연구 학습 공간"
+    },
+    {
+      "meaning_id": "심리학_일반명사-1",
+      "rationale_short": "명확한 학문 분야.",
+      "root": "학교와 공부",
+      "category_label_ko": "학문 분야"
+    },
+    {
+      "meaning_id": "심의_일반명사-1",
+      "rationale_short": "명확한 공공/행정적 논의 행위.",
+      "root": "공공 서비스",
+      "category_label_ko": "안건 논의"
+    },
+    {
+      "meaning_id": "심화_일반명사-1",
+      "rationale_short": "명확한 논리적/개념적 발전.",
+      "root": "논리와 연결",
+      "category_label_ko": "내용 발전"
+    },
+    {
+      "meaning_id": "십일_수사-1",
+      "rationale_short": "명확한 수량 표현.",
+      "root": "수량과 단위",
+      "category_label_ko": "기본 숫자"
+    },
+    {
+      "meaning_id": "싸다_동사-1",
+      "rationale_short": "명확한 일상 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 포장 행위"
+    },
+    {
+      "meaning_id": "쏠리다_동사-1",
+      "rationale_short": "명확한 물리적/추상적 움직임 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "방향성 움직임"
+    },
+    {
+      "meaning_id": "쑥쑥_일반부사-1",
+      "rationale_short": "명확한 감각적/묘사적 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "성장 묘사 부사"
+    },
+    {
+      "meaning_id": "쓸리다_동사-1",
+      "rationale_short": "명확한 신체 부상/의료 관련.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 상해"
+    },
+    {
+      "meaning_id": "아니야_감탄사-1",
+      "rationale_short": "명확한 지시/질문/응답 관련 표현.",
+      "root": "지시와 질문",
+      "category_label_ko": "부정 감탄사"
+    },
+    {
+      "meaning_id": "아열대_일반명사-1",
+      "rationale_short": "명확한 자연/기후 개념.",
+      "root": "날씨와 자연",
+      "category_label_ko": "기후 지역"
+    },
+    {
+      "meaning_id": "악영향_일반명사-1",
+      "rationale_short": "명확한 논리적 인과 관계/결과.",
+      "root": "논리와 연결",
+      "category_label_ko": "부정적 결과"
+    },
+    {
+      "meaning_id": "악취_일반명사-1",
+      "rationale_short": "명확한 감각적 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "불쾌한 냄새"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "수동_일반명사-1",
+      "rationale_short": "특정 장면보다는 일반적인 방식 묘사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 방식/특성 묘사로 분류 모호."
+    },
+    {
+      "meaning_id": "수렴_일반명사-1",
+      "rationale_short": "특정 장면보다는 일반적인 현상/행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 모임/집중 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "수법_일반명사-1",
+      "rationale_short": "특정 장면보다는 일반적인 방법 묘사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 방법/방식 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "수확_일반명사-1",
+      "rationale_short": "농업이라는 특정 분야의 행위이나, 허용 root 중 명확한 곳이 없어 임시 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "농업 활동으로 특정 root에 명확히 속하기 모호."
+    },
+    {
+      "meaning_id": "십상_일반명사-1",
+      "rationale_short": "특정 장면보다는 일반적인 상황 묘사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 경향/상황 묘사로 분류 모호."
+    },
+    {
+      "meaning_id": "아예_일반부사-1",
+      "rationale_short": "특정 장면보다는 일반적인 정도/방식 묘사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 정도/방식 묘사로 분류 모호."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 방식/상태를 나타내는 명사/부사는 '상황 지시/기타' 또는 '논리와 연결'로 분류하는 경향이 있음.",
+      "행위나 현상이 특정 root에 명확히 속하지 않을 때 '상황 지시/기타'를 임시 root로 활용."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root의 하위 카테고리 세분화 필요성 검토 (예: '방식/방법', '일반적 현상', '정도/경향').",
+      "농업 관련 어휘를 위한 새로운 root ('농업과 생산' 등) 또는 기존 root ('식생활', '날씨와 자연') 내 하위 카테고리 확장 검토."
+    ]
+  }
+}

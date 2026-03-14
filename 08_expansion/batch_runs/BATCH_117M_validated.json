@@ -1,0 +1,376 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "들이마시다_동사-1",
+      "bucket": "candidate",
+      "root": "보건과 의료",
+      "category_label_ko": null,
+      "candidate_reason": "신체 행위 (호흡) 또는 감각 (냄새)과 관련되어 분류 모호성이 있습니다.",
+      "exclusion_reason": null,
+      "rationale_short": "신체 행위 또는 감각과 관련되어 모호함."
+    },
+    {
+      "meaning_id": "들판_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "넓은 자연 지형",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 환경의 한 종류."
+    },
+    {
+      "meaning_id": "듬성듬성_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "간격 묘사 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 배치나 상태를 묘사하는 부사."
+    },
+    {
+      "meaning_id": "등용_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "인재 채용 및 배치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직무 관련 인력 배치 행위."
+    },
+    {
+      "meaning_id": "딛다_동사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "신체 움직임과 관련된 동사로, 일반적인 동작 묘사에 해당하지만 명확한 상위 개념이 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "신체 움직임 관련 동사로 분류 모호."
+    },
+    {
+      "meaning_id": "따라다니다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "사람 간의 관계 (동행) 또는 일반적인 이동 행위로 해석될 수 있어 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 관계 또는 일반적인 이동 행위로 모호함."
+    },
+    {
+      "meaning_id": "따라오다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "사람 간의 관계 (동행) 또는 일반적인 이동 행위로 해석될 수 있어 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 관계 또는 일반적인 이동 행위로 모호함."
+    },
+    {
+      "meaning_id": "딱하다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "안타까운 감정 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "타인에 대한 연민의 감정을 나타내는 형용사."
+    },
+    {
+      "meaning_id": "딸아이_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 호칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 구성원을 지칭하는 명사."
+    },
+    {
+      "meaning_id": "때때로_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "빈도 및 주기 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 빈도를 나타내는 부사."
+    },
+    {
+      "meaning_id": "떼_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "category_label_ko": null,
+      "candidate_reason": "사람이나 동물의 집합을 나타내며, '수량과 단위' 또는 '문화와 사회', '날씨와 자연' 등 여러 맥락에서 사용될 수 있어 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 동물의 집합을 나타내어 분류 모호."
+    },
+    {
+      "meaning_id": "똑같이_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "동일성 묘사 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 상태나 정도의 동일함을 묘사하는 부사."
+    },
+    {
+      "meaning_id": "뛰어오르다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 이동 동작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 움직임을 나타내는 동사."
+    },
+    {
+      "meaning_id": "뜨거워지다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "온도 변화 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "온도 변화와 관련된 감각을 묘사하는 동사."
+    },
+    {
+      "meaning_id": "레이더_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 기술 장치로, 일반적인 사물이나 기술 범주에 속하지만 명확한 상위 루트가 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 기술 장치로 분류 모호."
+    },
+    {
+      "meaning_id": "렌터카_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "대여용 자동차",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "이동 수단인 자동차의 한 종류."
+    },
+    {
+      "meaning_id": "리드_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "주도적 역할 수행",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "업무나 조직 내에서 주도하는 행위."
+    },
+    {
+      "meaning_id": "마감_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "종료 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 기간이나 일의 종료를 나타내는 명사."
+    },
+    {
+      "meaning_id": "마그네슘_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 과학 용어(원소)로, 일반적인 사물이나 개념 범주에 속하지만 명확한 상위 루트가 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 과학 용어로 분류 모호."
+    },
+    {
+      "meaning_id": "마음먹다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "결심과 의지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "내면의 결심을 나타내는 동사."
+    },
+    {
+      "meaning_id": "마주_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "대면 방향 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상대방과의 위치 관계를 묘사하는 부사."
+    },
+    {
+      "meaning_id": "마주하다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "서로 마주 보는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상대방과 대면하는 행위를 나타내는 동사."
+    },
+    {
+      "meaning_id": "마침_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "적절한 시점 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 적절성을 나타내는 부사."
+    },
+    {
+      "meaning_id": "막내_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 구성원 호칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 구성원을 지칭하는 명사."
+    },
+    {
+      "meaning_id": "만일_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "가정적 상황",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가정적인 상황을 나타내는 명사."
+    },
+    {
+      "meaning_id": "말미암다_동사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "원인과 결과",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일의 원인을 나타내는 동사."
+    },
+    {
+      "meaning_id": "망가지다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "손상 상태 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 손상된 상태를 묘사하는 동사."
+    },
+    {
+      "meaning_id": "망원경_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 관측 기구로, 일반적인 사물이나 기술 범주에 속하지만 명확한 상위 루트가 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 관측 기구로 분류 모호."
+    },
+    {
+      "meaning_id": "맞대다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "접촉 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "두 물체를 접촉시키는 행위를 나타내는 동사."
+    },
+    {
+      "meaning_id": "맞히다_동사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "정답을 찾다",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문제 해결 및 학습과 관련된 행위."
+    },
+    {
+      "meaning_id": "매듭_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "묶인 부분",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "줄이나 끈으로 만들어진 일상적인 형태."
+    },
+    {
+      "meaning_id": "매번_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "반복적 빈도 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 반복적인 빈도를 나타내는 부사."
+    },
+    {
+      "meaning_id": "맨_관형사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "노출 상태 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 겉모습이나 상태를 묘사하는 관형사."
+    },
+    {
+      "meaning_id": "맹신_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "맹목적 믿음",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 태도나 신념의 방식을 나타내는 명사."
+    },
+    {
+      "meaning_id": "맹장_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "소화 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "인체 내부의 특정 기관."
+    },
+    {
+      "meaning_id": "맺히다_동사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "이슬, 눈물 등 물리적 현상과 한(恨) 같은 내면의 감정 표현을 모두 포함하여 분류 모호성이 있습니다.",
+      "exclusion_reason": null,
+      "rationale_short": "물리적 현상 또는 내면의 감정 표현으로 모호함."
+    },
+    {
+      "meaning_id": "머리카락_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위 털",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "인체 외부의 특정 부위."
+    },
+    {
+      "meaning_id": "머릿결_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "머리카락 상태 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "머리카락의 상태를 묘사하는 명사."
+    },
+    {
+      "meaning_id": "머릿속_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "사고와 기억 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생각과 기억이 이루어지는 내면의 공간."
+    },
+    {
+      "meaning_id": "머뭇머뭇_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "주저하는 행동 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "행동의 주저하는 방식을 묘사하는 부사."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "신체 관련 동사 (딛다, 들이마시다)가 '보건과 의료'와 '감각과 묘사' 사이에서 모호성을 보임.",
+      "일반적인 이동 행위 동사 (따라다니다, 따라오다)가 '사람과 관계'와 '상황 지시/기타' 사이에서 모호성을 보임.",
+      "특정 기술 장치나 과학 용어 (레이더, 마그네슘, 망원경)는 '상황 지시/기타'로 임시 분류되지만, 더 세분화된 기술/과학 루트 필요성이 있음."
+    ],
+    "ia_suggestions": [
+      "신체 움직임과 관련된 동사들을 '감각과 묘사' 하위의 '신체 동작' 또는 '행위 묘사' 등으로 세분화하는 것을 고려합니다.",
+      "기술 및 과학 관련 용어를 위한 새로운 루트 ('과학과 기술' 또는 '도구와 장치') 신설을 검토하여 '상황 지시/기타'의 부담을 줄일 수 있습니다.",
+      "사람이나 동물의 집합을 나타내는 명사 '떼'와 같이, '수량과 단위' 내에 '집합 단위'와 같은 하위 카테고리를 추가하는 것을 고려합니다."
+    ]
+  }
+}

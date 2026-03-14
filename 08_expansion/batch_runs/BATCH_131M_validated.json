@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "지칭_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 언어 행위 개념으로, 특정 장면이나 구체적인 사물/행위로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "언어 행위의 추상적 개념으로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "지킴이_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "보호하는 사람",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 역할을 하는 사람을 지칭하며, '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "지혜_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "내면의 능력/자질을 나타내는 추상적인 개념으로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "내면의 능력에 해당하며, '감각/평가/내면/신체' 경계에 겹쳐 candidate로 분류."
+    },
+    {
+      "meaning_id": "지휘자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 공연 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음악 공연 분야의 직업/역할어로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "직무_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 업무 내용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장에서 맡은 일을 의미하며 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "직업인_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업을 가진 사람",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직업을 가진 사람을 의미하며 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "직후_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "사건 직후 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간적 순서를 나타내는 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "진땀_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "긴장 시 땀",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 반응 및 증상으로 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "진찰_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 진료 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "의료 행위로 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "진학_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "상급 학교 진입",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교육 관련 행위로 '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "짙다_형용사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "색상에 대한 묘사어로, 구체적인 장면보다는 감각적 표현에 가까움.",
+      "exclusion_reason": null,
+      "rationale_short": "색상 묘사어로 '감각과 묘사' 경계에 겹쳐 candidate로 분류."
+    },
+    {
+      "meaning_id": "쫓기다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 상황에서의 행위를 나타내며, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "추격 상황의 행위로, 구체적인 장면 분류가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "쭉_일반부사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "시간의 연속성을 나타내는 부사어로, 구체적인 장면이나 사물로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "시간의 연속성을 나타내는 부사어로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "찧다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 도구를 이용한 물리적 행위이나, 적용되는 장면이 다양하여 구체적인 root 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "물리적 행위이나 적용 장면이 다양하여 모호하므로 candidate로 분류."
+    },
+    {
+      "meaning_id": "차도_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "도로 차량 통행로",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통 시설의 일부로 '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "차라리_일반부사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "선택이나 비교의 의미를 나타내는 부사어로, 구체적인 장면이나 사물로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "선택/비교의 의미를 나타내는 부사어로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "차마_일반부사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "내면의 감정 상태로 인해 어떤 행위를 할 수 없음을 나타내는 부사어로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "내면의 감정 상태와 관련된 부사어로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "차비_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "교통수단 이용 요금",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단 이용에 필요한 비용으로 '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "차질_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "계획의 진행에 대한 추상적인 개념으로, 특정 장면이나 구체적인 사물/행위로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "계획 진행의 추상적 개념으로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "차츰_일반부사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "시간의 경과에 따른 변화를 나타내는 부사어로, 구체적인 장면이나 사물로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "시간의 경과에 따른 변화를 나타내는 부사어로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "착륙_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "항공기 지면 도착",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "비행기의 이동 행위로 '여행' 또는 '교통'에 해당하며, 여행 맥락이 강함."
+    },
+    {
+      "meaning_id": "참을성_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "사람의 성격이나 태도를 나타내는 추상적인 개념으로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "성격/태도에 해당하며, '감각/평가/내면/신체' 경계에 겹쳐 candidate로 분류."
+    },
+    {
+      "meaning_id": "참조_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "정보 활용 행위를 나타내는 추상적인 개념으로, 특정 장면이나 구체적인 사물/행위로 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "정보 활용 행위의 추상적 개념으로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "창밖_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "창문 외부 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주거 공간의 일부를 지칭하며 '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "채무_일반명사-1",
+      "bucket": "candidate",
+      "root": "공공 서비스",
+      "category_label_ko": null,
+      "candidate_reason": "금전적 또는 법적 책임을 나타내는 추상적인 개념으로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "금전적/법적 책임의 추상적 개념으로 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "채송화_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "알록달록한 꽃",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연의 식물로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "처제_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "아내의 여동생",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 관계를 나타내는 말로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "척추_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "등뼈 신체 부위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위로 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "천문학_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "우주 연구 학문",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학문의 한 분야로 '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "천민_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "과거 최하층 신분",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "과거 사회 계층을 나타내는 말로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "천재_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "사람의 뛰어난 재능을 평가하는 개념으로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "사람의 재능 평가에 해당하며, '감각/평가/내면/신체' 경계에 겹쳐 candidate로 분류."
+    },
+    {
+      "meaning_id": "천적_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "생태계 포식 동물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 생태계의 개념으로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "철학_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "인간 세상 학문",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학문의 한 분야로 '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "첨부_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "문서나 파일에 무언가를 덧붙이는 행위로, 적용되는 장면이 다양하여 구체적인 root 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "문서 관련 행위이나 적용 장면이 다양하여 모호하므로 candidate로 분류."
+    },
+    {
+      "meaning_id": "첫날_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시작되는 첫날",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간적 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "첫인상_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "사람을 처음 만났을 때의 주관적인 느낌이나 평가로, 구체적인 장면 분류가 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "주관적 느낌/평가에 해당하며, '감각/평가/내면/신체' 경계에 겹쳐 candidate로 분류."
+    },
+    {
+      "meaning_id": "청구_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "권리 행사 요구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정당한 권리 행사를 위한 요구 행위로 '공공 서비스'에 명확히 해당."
+    },
+    {
+      "meaning_id": "청취자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "방송 연설 듣는 사람",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "방송/연설을 듣는 사람의 역할로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "체내_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 내부 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 내부를 지칭하며 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "체형_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "몸의 형태 모양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체의 형태를 나타내는 말로 '보건과 의료'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 부사어는 특정 장면 분류가 어려워 candidate로 분류되는 경향이 있음.",
+      "내면의 감정, 성격, 평가와 관련된 어휘는 '내면과 감정' 또는 '성격과 태도' root의 candidate로 분류되는 경우가 많음."
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타' root에 추상적인 개념들이 많이 모이는 경향이 있으므로, 이 root의 하위 분류를 더 세분화하거나, '추상적 개념'과 같은 새로운 상위 root를 고려해볼 수 있음.",
+      "'감각과 묘사', '의견과 가치', '내면과 감정', '성격과 태도' root 간의 경계가 모호한 어휘들이 지속적으로 발생하므로, 이들 root의 정의를 더욱 명확히 하거나 통합/분리 가능성을 검토해야 함."
+    ]
+  }
+}

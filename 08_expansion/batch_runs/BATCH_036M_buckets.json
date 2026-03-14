@@ -1,0 +1,250 @@
+{
+  "core": [
+    {
+      "meaning_id": "휴일_일반명사-1",
+      "rationale_short": "일을 하지 않고 쉬는 날은 시간의 한 종류이자 특정 기간을 지칭합니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "쉬는 날"
+    },
+    {
+      "meaning_id": "가득_일반부사-1",
+      "rationale_short": "사물의 상태를 빈곳 없이 꽉 차게 묘사하는 부사입니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "꽉 찬 상태 묘사"
+    },
+    {
+      "meaning_id": "가슴_일반명사-1",
+      "rationale_short": "명확한 신체 부위로 '보건과 의료' root에 적합합니다.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위"
+    },
+    {
+      "meaning_id": "감각_일반명사-1",
+      "rationale_short": "외부 자극을 느끼는 능력 자체를 나타내는 명사입니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "외부 자극 인지"
+    },
+    {
+      "meaning_id": "강아지_일반명사-1",
+      "rationale_short": "자연계의 동물 중 어린 개를 지칭합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "어린 동물"
+    },
+    {
+      "meaning_id": "결국_일반명사-1",
+      "rationale_short": "여러 과정을 거친 끝에 이르게 된 마지막 상태로 시간의 흐름과 관련됩니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "최종 결과"
+    },
+    {
+      "meaning_id": "곡물_일반명사-1",
+      "rationale_short": "사람이 먹거나 가공하는 낟알 식물로 식생활의 핵심 재료입니다.",
+      "root": "식생활",
+      "category_label_ko": "주요 식량 작물"
+    },
+    {
+      "meaning_id": "관하다_동사-1",
+      "rationale_short": "어떤 대상과 관련되는 추상적인 관계를 나타내는 동사입니다.",
+      "root": "논리와 연결",
+      "category_label_ko": "대상 관련성"
+    },
+    {
+      "meaning_id": "금방_일반부사-1",
+      "rationale_short": "조금 전이나 조금 뒤의 아주 가까운 때를 나타내는 시간 부사입니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "가까운 시점"
+    },
+    {
+      "meaning_id": "기법_일반명사-1",
+      "rationale_short": "일을 하는 데 쓰는 특별한 방법이나 기술을 의미합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "특정 작업 방법"
+    },
+    {
+      "meaning_id": "기본_일반명사-1",
+      "rationale_short": "가장 바탕이 되는 것으로 논리적 기초를 의미합니다.",
+      "root": "논리와 연결",
+      "category_label_ko": "핵심 바탕"
+    },
+    {
+      "meaning_id": "기여_일반명사-1",
+      "rationale_short": "어떤 일이나 발전에 보탬이 되는 행위로 사회적 공헌과 관련됩니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "발전 공헌"
+    },
+    {
+      "meaning_id": "기증_일반명사-1",
+      "rationale_short": "물건이나 돈 등을 다른 사람이나 기관에 주는 행위로 사회적 나눔과 관련됩니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "물품 나눔"
+    },
+    {
+      "meaning_id": "닦다_동사-1",
+      "rationale_short": "더럽거나 묻은 것을 문질러 깨끗하게 하는 일상생활의 행위입니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "청결 유지 행위"
+    },
+    {
+      "meaning_id": "단순_일반명사-1",
+      "rationale_short": "복잡하지 않고 간단한 사물이나 상황의 특성을 묘사합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "간결한 특성"
+    },
+    {
+      "meaning_id": "대비_일반명사-1",
+      "rationale_short": "사전에 미리 준비하는 행위나 상태를 의미합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "사전 준비"
+    },
+    {
+      "meaning_id": "등록_일반명사-1",
+      "rationale_short": "명부나 장부에 이름이나 사항을 올려 적는 공식적인 행위입니다.",
+      "root": "공공 서비스",
+      "category_label_ko": "정보 기록"
+    },
+    {
+      "meaning_id": "뜨다_동사-1",
+      "rationale_short": "눈을 벌려 앞을 보는 시각과 관련된 신체 행위입니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "눈을 뜨는 행위"
+    },
+    {
+      "meaning_id": "뜨다_동사-2",
+      "rationale_short": "그릇으로 국이나 밥 등을 떠 올리는 식생활 관련 행위입니다.",
+      "root": "식생활",
+      "category_label_ko": "음식 덜기"
+    },
+    {
+      "meaning_id": "레몬_일반명사-1",
+      "rationale_short": "노란색 껍질에 신맛이 강한 과일로 식생활의 한 종류입니다.",
+      "root": "식생활",
+      "category_label_ko": "신맛 과일"
+    },
+    {
+      "meaning_id": "마라톤_일반명사-1",
+      "rationale_short": "약 42킬로미터를 달리는 장거리 달리기 경기로 여가 활동 중 하나입니다.",
+      "root": "여가와 취미",
+      "category_label_ko": "장거리 달리기"
+    },
+    {
+      "meaning_id": "무대_일반명사-1",
+      "rationale_short": "공연이나 발표를 하는 장소로 문화 활동이 이루어지는 곳입니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "공연 발표 장소"
+    },
+    {
+      "meaning_id": "물고기_일반명사-1",
+      "rationale_short": "물속에서 지느러미로 헤엄치며 사는 동물로 자연계의 생물입니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "수중 동물"
+    },
+    {
+      "meaning_id": "벽_일반명사-1",
+      "rationale_short": "공간을 나누거나 둘러싸는 세로로 선 구조물로 주거 공간의 핵심 요소입니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 구조물"
+    },
+    {
+      "meaning_id": "복원_일반명사-1",
+      "rationale_short": "헐리거나 변한 것을 옛 모습에 가깝게 다시 만드는 행위로 문화유산 등과 관련됩니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "옛 모습 재현"
+    },
+    {
+      "meaning_id": "살피다_동사-1",
+      "rationale_short": "상태를 자세히 알아보는 시각적 관찰 행위입니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "자세히 관찰"
+    },
+    {
+      "meaning_id": "선정_일반명사-1",
+      "rationale_short": "여럿 중에서 골라 뽑는 행위나 결정을 의미합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "선택 결정"
+    },
+    {
+      "meaning_id": "설탕_일반명사-1",
+      "rationale_short": "단맛을 내는 흰 결정 가루로 식생활의 조미료입니다.",
+      "root": "식생활",
+      "category_label_ko": "단맛 조미료"
+    },
+    {
+      "meaning_id": "성분_일반명사-1",
+      "rationale_short": "어떤 물질을 이루고 있는 각각의 요소로 논리적 구성과 관련됩니다.",
+      "root": "논리와 연결",
+      "category_label_ko": "물질 구성 요소"
+    },
+    {
+      "meaning_id": "수박_일반명사-1",
+      "rationale_short": "껍질이 두껍고 속이 붉으며 물이 많은 큰 열매로 식생활의 한 종류입니다.",
+      "root": "식생활",
+      "category_label_ko": "여름 과일"
+    },
+    {
+      "meaning_id": "시선_일반명사-1",
+      "rationale_short": "눈이 향하는 자리나 방향으로 시각과 관련된 개념입니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "눈의 방향"
+    },
+    {
+      "meaning_id": "신고_일반명사-1",
+      "rationale_short": "사실이나 사건을 관계 기관에 알리는 행위로 공공 서비스와 관련됩니다.",
+      "root": "공공 서비스",
+      "category_label_ko": "공식 알림"
+    },
+    {
+      "meaning_id": "알_일반명사-1",
+      "rationale_short": "새나 곤충, 물고기 등이 새끼를 낳기 전에 가지는 둥근 생식체로 자연계 생물과 관련됩니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 번식체"
+    },
+    {
+      "meaning_id": "알_일반명사-2",
+      "rationale_short": "곡식이나 과일, 약 등의 작은 둥근 알갱이로 사물의 형태를 묘사합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "작은 둥근 형태"
+    },
+    {
+      "meaning_id": "언어_일반명사-1",
+      "rationale_short": "생각을 말이나 글로 나타내는 체계로 인간 사회의 의사소통 수단이자 문화의 한 형태입니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "의사소통 체계"
+    },
+    {
+      "meaning_id": "여행사_일반명사-1",
+      "rationale_short": "여행 상품을 만들어 파는 회사로 여행과 직접적으로 관련된 기관입니다.",
+      "root": "여행",
+      "category_label_ko": "여행 상품 판매처"
+    },
+    {
+      "meaning_id": "오늘날_일반명사-1",
+      "rationale_short": "지금 이 시대를 나타내는 시간 표현입니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시대"
+    },
+    {
+      "meaning_id": "원고지_일반명사-1",
+      "rationale_short": "글을 쓰기 위해 칸을 나누어 놓은 종이로 학교 학습 도구에 해당합니다.",
+      "root": "학교와 공부",
+      "category_label_ko": "글쓰기 용지"
+    },
+    {
+      "meaning_id": "월_일반명사-1",
+      "rationale_short": "일 년을 나눈 단위로서의 달로 시간의 한 단위입니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 단위"
+    },
+    {
+      "meaning_id": "월요일_일반명사-1",
+      "rationale_short": "한 주의 둘째 날로 월요일이라 부르는 날로 시간의 한 단위인 요일입니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "요일 명칭"
+    }
+  ],
+  "candidate": [],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

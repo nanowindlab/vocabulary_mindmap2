@@ -1,0 +1,375 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "대대적_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "규모의 크기를 묘사하는 표현으로, 묘사 범주에 속하나 명확한 하위 분류가 없어 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "규모의 크기 묘사, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "대립_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "관계나 사회적 상황에서 발생하는 대치 상태를 나타내므로, 관계 또는 사회 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "관계 내 대치 상태, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "대본_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공연 예술 대본",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공연 예술 분야의 명확한 구성 요소."
+    },
+    {
+      "meaning_id": "대사관_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "외교 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국가 간 외교 업무를 수행하는 공공 기관."
+    },
+    {
+      "meaning_id": "대세_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "전반적인 상황이나 흐름을 나타내는 추상적인 개념으로, 명확한 분류가 어려워 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "전반적 상황/흐름, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "대왕_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "왕족 지위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 지위나 역할을 가진 사람을 지칭하는 명확한 어휘."
+    },
+    {
+      "meaning_id": "대응력_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "개인의 능력이나 특성을 나타내는 추상적인 개념으로, 명확한 분류가 어려워 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "개인의 능력/특성, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "대중문화_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "대중 예술",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회의 특정 문화 현상을 명확하게 지칭."
+    },
+    {
+      "meaning_id": "대폭_일반부사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "category_label_ko": null,
+      "candidate_reason": "정도나 범위를 나타내는 부사로, 수량/단위 또는 묘사 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "정도/범위 묘사, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "더럽다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청결 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 상태를 직접적으로 묘사하는 형용사."
+    },
+    {
+      "meaning_id": "더불다_동사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "사람 간의 관계나 공동 행위를 나타내는 동사로, 관계 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "관계/공동 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "더하다_동사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "category_label_ko": null,
+      "candidate_reason": "수량이나 정도를 증가시키는 행위를 나타내는 동사로, 수량/단위 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "수량/정도 증가 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "덧붙이다_동사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "정보나 내용을 추가하는 행위를 나타내는 동사로, 논리/연결 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "정보/내용 추가 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "덩굴_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연에 존재하는 특정 식물 종류를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "덮이다_동사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물의 물리적 상태 변화를 나타내는 동사로, 묘사 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "물리적 상태 변화, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "도달_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 목표나 지점에 이르는 상태를 나타내는 추상적인 개념으로, 명확한 분류가 어려워 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "목표/지점 도달 상태, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "도대체_일반부사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "강조 의문",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "질문이나 강조의 의미를 명확히 전달하는 부사."
+    },
+    {
+      "meaning_id": "도랑_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형 지물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 지형의 한 종류를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "도래_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "특정 시기나 상황의 시작을 나타내는 추상적인 개념으로, 시간/흐름 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "시기/상황 시작, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "도마뱀_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연에 존재하는 특정 동물 종류를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "도모_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "category_label_ko": null,
+      "candidate_reason": "목표 달성을 위한 계획 행위를 나타내는 추상적인 개념으로, 업무 또는 일반 행위 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "목표 달성 계획 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "도저히_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "부정 강조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "부정적인 의미를 강조하는 명확한 부사."
+    },
+    {
+      "meaning_id": "도출_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "생각이나 결론을 이끌어내는 행위를 나타내는 추상적인 개념으로, 논리/연결 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "생각/결론 도출 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "독버섯_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "위험 식물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연에 존재하는 특정 식물(버섯) 종류를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "독신_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "개인의 혼인 상태나 생활 방식을 나타내는 개념으로, 관계 또는 일상 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "혼인 상태/생활 방식, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "돋보이다_동사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물이나 사람의 외양 또는 인상을 묘사하는 동사로, 묘사 또는 평가 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "외양/인상 묘사, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "돋우다_동사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "감정이나 상태를 고조시키는 행위를 나타내는 동사로, 내면/감정 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "감정/상태 고조 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "돌기_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물의 물리적 형태나 특징을 나타내는 명사로, 묘사 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "물리적 형태/특징, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "돌잔치_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "가족 기념 행사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 문화적 관습이자 가족 행사를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "동상이몽_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "사람의 내면적 생각의 불일치나 관계의 이면을 나타내는 추상적인 개념으로, 내면/감정 또는 관계 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "내면 생각 불일치, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "동요_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "어린이 음악",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 장르의 음악을 명확하게 지칭."
+    },
+    {
+      "meaning_id": "동요_일반명사-2",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "마음이나 상황의 불안정한 상태를 나타내는 추상적인 개념으로, 내면/감정 또는 상황 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "마음/상황 불안정, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "동적_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물이나 현상의 움직이는 성질을 나타내는 명사로, 묘사 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "움직이는 성질 묘사, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "동종_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "사물이나 개념의 종류적 유사성을 나타내는 명사로, 논리/연결 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "종류적 유사성, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "동화책_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "어린이 문학",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 독자층을 위한 문학 작품을 명확하게 지칭."
+    },
+    {
+      "meaning_id": "되돌리다_동사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "원래 상태로 복원하거나 시간을 되돌리는 행위를 나타내는 동사로, 시간/흐름 또는 상황 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "원래 상태 복원/시간 되돌림, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "된장_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "발효 식품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식생활과 관련된 특정 음식 재료를 명확하게 지칭."
+    },
+    {
+      "meaning_id": "둔하다_형용사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "감각이나 움직임의 특성을 묘사하는 형용사로, 묘사 또는 성격 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "감각/움직임 특성 묘사, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "뒷걸음_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 방향으로의 이동 행위를 나타내는 명사로, 상황/기타 또는 묘사 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 방향 이동 행위, 모호하여 candidate."
+    },
+    {
+      "meaning_id": "들어서다_동사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "category_label_ko": null,
+      "candidate_reason": "특정 공간이나 시기로 진입하는 행위를 나타내는 동사로, 주거/일상 또는 시간/흐름 범주에 속하나 모호하여 candidate.",
+      "exclusion_reason": null,
+      "rationale_short": "공간/시기 진입 행위, 모호하여 candidate."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념, 상태, 행위를 묘사하는 어휘들이 여러 추상적인 root (예: '상황 지시/기타', '내면과 감정', '논리와 연결', '감각과 묘사', '수량과 단위', '시간과 흐름', '사람과 관계') 간에 모호하게 겹쳐 candidate로 분류되는 경향이 강함.",
+      "묘사적 특성을 가진 형용사/부사 또는 명사가 '감각과 묘사'와 '성격과 태도' 또는 '의견과 가치' 사이에서 경계가 모호하여 candidate로 분류됨."
+    ],
+    "ia_suggestions": [
+      "현재 'candidate'로 분류된 추상적인 개념들을 수용할 수 있도록 '상황 지시/기타' root 내에 '일반적 상태/변화', '추상적 개념' 등의 하위 분류를 신설하는 것을 검토.",
+      "'내면과 감정', '논리와 연결', '수량과 단위', '시간과 흐름', '사람과 관계' 등 추상적인 root들의 하위 분류를 더욱 세분화하여 모호성을 줄이고 core 분류를 늘릴 수 있는 방안 모색.",
+      "능력, 특성, 계획 등 개인의 역량이나 의지와 관련된 어휘들을 위한 '성격과 태도' 또는 '직장과 업무' root 내의 전용 하위 분류 신설을 고려."
+    ]
+  }
+}

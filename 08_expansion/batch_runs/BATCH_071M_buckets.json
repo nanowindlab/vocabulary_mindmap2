@@ -1,0 +1,258 @@
+{
+  "core": [
+    {
+      "meaning_id": "부과_일반명사-1",
+      "rationale_short": "세금이나 의무를 매기는 행위는 공공 서비스의 영역에 해당함.",
+      "root": "공공 서비스",
+      "category_label_ko": "세금 및 의무 부과"
+    },
+    {
+      "meaning_id": "부끄럽다_형용사-1",
+      "rationale_short": "남 앞에 나서기 민망하거나 잘못이 떠올라 마음이 불편한 감정 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "수치심과 민망함"
+    },
+    {
+      "meaning_id": "부부_일반명사-1",
+      "rationale_short": "결혼으로 맺어진 남편과 아내의 관계를 명확히 지칭함.",
+      "root": "사람과 관계",
+      "category_label_ko": "결혼 관계"
+    },
+    {
+      "meaning_id": "분비_일반명사-1",
+      "rationale_short": "몸 안의 기관이 물질을 만들어 내보내는 생리적 현상으로 신체 부위/의료 증상 규칙에 따라 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 기능"
+    },
+    {
+      "meaning_id": "뼈_일반명사-1",
+      "rationale_short": "몸을 지탱하는 단단한 부분으로 신체 부위/의료 증상 규칙에 따라 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위"
+    },
+    {
+      "meaning_id": "상공인_일반명사-1",
+      "rationale_short": "상업이나 공업에 종사하는 사람으로 직업/역할어 규칙에 따라 분류.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업인"
+    },
+    {
+      "meaning_id": "상관없이_일반부사-1",
+      "rationale_short": "영향을 받지 않는다는 논리적 관계를 나타내는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "관계 없음"
+    },
+    {
+      "meaning_id": "상영_일반명사-1",
+      "rationale_short": "영화나 영상을 스크린에 비추어 보여주는 문화 활동.",
+      "root": "문화와 사회",
+      "category_label_ko": "영화 관람"
+    },
+    {
+      "meaning_id": "샤워_일반명사-1",
+      "rationale_short": "물을 끼얹어 몸을 씻는 일상적인 위생 활동.",
+      "root": "주거와 일상",
+      "category_label_ko": "개인 위생"
+    },
+    {
+      "meaning_id": "서민_일반명사-1",
+      "rationale_short": "보통 살림을 하는 일반 사람들을 지칭하는 사회적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 계층"
+    },
+    {
+      "meaning_id": "석축_일반명사-1",
+      "rationale_short": "돌을 쌓아 만든 담이나 축대로, 주거 환경과 관련된 인공 구조물.",
+      "root": "주거와 일상",
+      "category_label_ko": "건축물"
+    },
+    {
+      "meaning_id": "설명회_일반명사-1",
+      "rationale_short": "어떤 내용에 대해 여러 사람에게 설명하는 모임으로, 주로 직장이나 공공기관의 업무와 관련됨.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 회의"
+    },
+    {
+      "meaning_id": "세다_동사-1",
+      "rationale_short": "수를 하나씩 헤아리는 행위로 수량 개념에 해당함.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 세기"
+    },
+    {
+      "meaning_id": "세제_일반명사-1",
+      "rationale_short": "때를 빼는 데 쓰는 가루나 액체로, 일상생활의 청소 용품에 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "청소 용품"
+    },
+    {
+      "meaning_id": "세탁기_일반명사-1",
+      "rationale_short": "옷을 자동으로 빨아 주는 기계로, 주거 환경의 가전제품에 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "가전제품"
+    },
+    {
+      "meaning_id": "소방_일반명사-1",
+      "rationale_short": "불을 끄고 화재를 막는 공공의 안전 서비스.",
+      "root": "공공 서비스",
+      "category_label_ko": "재난 안전"
+    },
+    {
+      "meaning_id": "소파_일반명사-1",
+      "rationale_short": "여러 사람이 함께 앉을 수 있는 푹신한 긴 의자로, 주거 환경의 가구에 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "가구"
+    },
+    {
+      "meaning_id": "수백_수사-1",
+      "rationale_short": "수가 몇백 정도 되는 것을 나타내는 수량 표현.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 표현"
+    },
+    {
+      "meaning_id": "수익금_일반명사-1",
+      "rationale_short": "얻어진 이익의 돈으로, 주로 직장이나 경제 활동에서 발생하는 재정 수입.",
+      "root": "직장과 업무",
+      "category_label_ko": "재정 수입"
+    },
+    {
+      "meaning_id": "수질_일반명사-1",
+      "rationale_short": "물의 성질과 상태를 나타내며, 자연 환경의 중요한 요소.",
+      "root": "날씨와 자연",
+      "category_label_ko": "환경 요소"
+    },
+    {
+      "meaning_id": "수출_일반명사-1",
+      "rationale_short": "물건을 다른 나라로 내보내는 경제 활동으로, 직장과 업무의 국제 무역 분야에 해당함.",
+      "root": "직장과 업무",
+      "category_label_ko": "국제 무역"
+    },
+    {
+      "meaning_id": "수험_일반명사-1",
+      "rationale_short": "시험을 보는 행위로, 학교와 공부 활동에 해당함.",
+      "root": "학교와 공부",
+      "category_label_ko": "시험 응시"
+    },
+    {
+      "meaning_id": "순위_일반명사-1",
+      "rationale_short": "정한 기준에 따른 등급으로, 수량적 서열 개념에 해당함.",
+      "root": "수량과 단위",
+      "category_label_ko": "서열 등급"
+    },
+    {
+      "meaning_id": "스며들다_동사-1",
+      "rationale_short": "액체나 기체 등이 틈 사이로 들어가 퍼지는 물리적 현상을 묘사함.",
+      "root": "감각과 묘사",
+      "category_label_ko": "물질 침투"
+    },
+    {
+      "meaning_id": "슬픔_일반명사-1",
+      "rationale_short": "마음이 아프고 서러운 감정 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "슬픈 감정"
+    },
+    {
+      "meaning_id": "시끄럽다_형용사-1",
+      "rationale_short": "소리가 많고 커서 조용하지 않은 상태를 감각적으로 묘사함.",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리 묘사"
+    },
+    {
+      "meaning_id": "시내_일반명사-1",
+      "rationale_short": "도시의 중심이 되는 번화한 거리나 지역으로, 주거 환경의 장소에 해당함.",
+      "root": "주거와 일상",
+      "category_label_ko": "도시 지역"
+    },
+    {
+      "meaning_id": "시내_일반명사-2",
+      "rationale_short": "물이 좁고 가늘게 흐르는 작은 내로, 자연 지형 지물에 해당함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형 지물"
+    },
+    {
+      "meaning_id": "시민운동_일반명사-1",
+      "rationale_short": "시민들이 사회 문제를 바로잡기 위해 벌이는 활동으로, 사회적 활동에 해당함.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 활동"
+    },
+    {
+      "meaning_id": "시범_일반명사-1",
+      "rationale_short": "본보기가 되도록 먼저 해 보이는 행위로, 특정 상황에서 지시적 역할을 함.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "본보기 제시"
+    },
+    {
+      "meaning_id": "시상_일반명사-1",
+      "rationale_short": "상을 주는 일로, 문화적 행사나 사회적 인정 활동에 해당함.",
+      "root": "문화와 사회",
+      "category_label_ko": "수상 행사"
+    },
+    {
+      "meaning_id": "시원하다_형용사-1",
+      "rationale_short": "온도가 적당히 낮아 상쾌하고 개운한 감각을 묘사함.",
+      "root": "감각과 묘사",
+      "category_label_ko": "온도 감각"
+    },
+    {
+      "meaning_id": "시점_일반명사-1",
+      "rationale_short": "어떤 일이 일어나거나 기준이 되는 순간으로, 시간 개념에 해당함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 순간"
+    },
+    {
+      "meaning_id": "시점_일반명사-2",
+      "rationale_short": "무엇을 바라보거나 생각하는 자리나 위치로, 의견이나 가치 판단의 관점에 해당함.",
+      "root": "의견과 가치",
+      "category_label_ko": "관점과 입장"
+    },
+    {
+      "meaning_id": "식빵_일반명사-1",
+      "rationale_short": "틀에 넣어 구운 네모난 빵으로, 음식 재료/식기/조리도구/식당/조리행위 규칙에 따라 분류.",
+      "root": "식생활",
+      "category_label_ko": "빵 종류"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "사로잡다_동사-1",
+      "rationale_short": "마음이나 시선을 강하게 끄는 심리적 작용과 행위적 측면이 공존하여 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "동사로서 추상적인 심리적 작용을 나타내므로, '내면과 감정'에 포함될 수 있으나, '끌어 붙들다'는 행위적 측면도 있어 모호함."
+    },
+    {
+      "meaning_id": "사외_일반명사-1",
+      "rationale_short": "회사나 조직의 바깥이라는 추상적인 위치 개념으로 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장소나 개념의 '외부'를 지칭하는 추상적인 위치/범위 개념으로, 명확한 root에 속하기 모호함."
+    },
+    {
+      "meaning_id": "상하다_동사-1",
+      "rationale_short": "다치거나 썩거나 나빠지는 등 다양한 상태 변화를 포괄하여 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "'다치다', '썩다', '나빠지다' 등 여러 의미를 포함하여 특정 root로 분류하기 모호함."
+    },
+    {
+      "meaning_id": "소진_일반명사-1",
+      "rationale_short": "에너지나 물건이 다 써져 없어지는 상태를 나타내며, 적용 범위가 넓어 분류가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "에너지, 물건 등 다양한 대상에 적용될 수 있는 '소모되어 없어지는 상태'를 나타내므로, 특정 root로 분류하기 모호함."
+    },
+    {
+      "meaning_id": "순수_일반명사-1",
+      "rationale_short": "섞이거나 더러움이 없다는 의미가 물질적 특성과 내면적 특성 모두에 적용될 수 있어 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물질의 순수함과 성격의 순수함 등 다양한 맥락에서 사용될 수 있어 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "다의어(polysemy) 중 의미가 여러 root에 걸쳐 모호한 경우 (예: 상하다, 순수)",
+      "추상적인 상태나 개념을 나타내는 명사 (예: 사외, 소진)는 분류가 어려움",
+      "동사 중 심리적 작용과 물리적 행위가 혼재된 경우 (예: 사로잡다)"
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타'로 분류된 후보군(사외, 소진, 시범)에 대해 더 구체적인 하위 root 또는 새로운 추상 개념 root 추가를 고려할 수 있음.",
+      "다의어의 경우, 각 의미별로 명확한 root를 할당하되, 모호성이 높은 의미는 candidate로 유지하며 추가 검토 필요."
+    ]
+  }
+}

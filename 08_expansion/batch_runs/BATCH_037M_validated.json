@@ -1,0 +1,376 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "적응_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 상태 변화 및 과정으로, 특정 핵심 root에 명확히 속하기보다 여러 상황에 걸쳐 나타날 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 상태 변화/과정, 분류 모호성."
+    },
+    {
+      "meaning_id": "제기_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 행위로, 특정 맥락에 한정되지 않아 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 행위, 맥락 한정 어려움."
+    },
+    {
+      "meaning_id": "지나치다_형용사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "정도나 한도를 평가하는 형용사로, '의견과 가치'에 가깝지만 다른 평가어와의 관계 정립 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "정도 평가 형용사, 다른 평가어와 관계 정립 필요."
+    },
+    {
+      "meaning_id": "지난번_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 시간 표현."
+    },
+    {
+      "meaning_id": "지붕_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 구조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주거 공간의 명확한 구성 요소."
+    },
+    {
+      "meaning_id": "지속_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "시간의 흐름과 관련된 상태를 나타내지만, 다른 유사 개념과의 관계 정립 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "시간 관련 상태, 유사 개념 관계 정립 필요."
+    },
+    {
+      "meaning_id": "차지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 행위 또는 상태로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 행위/상태, 다양한 맥락 사용."
+    },
+    {
+      "meaning_id": "초등학교_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 교육 기관."
+    },
+    {
+      "meaning_id": "추천_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "의견을 제시하는 행위이지만, '의견과 가치' 내 다른 개념과의 관계 정립 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "의견 제시 행위, 다른 개념과 관계 정립 필요."
+    },
+    {
+      "meaning_id": "콘서트_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "문화 공연",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여가 활동의 한 종류인 문화 공연."
+    },
+    {
+      "meaning_id": "콩_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식품 재료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 식재료."
+    },
+    {
+      "meaning_id": "토론_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "의사소통 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 의사소통 및 논의 활동."
+    },
+    {
+      "meaning_id": "팔리다_동사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 거래",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상품 거래 행위의 수동태."
+    },
+    {
+      "meaning_id": "풀다_동사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "category_label_ko": null,
+      "candidate_reason": "일상생활에서 흔히 일어나는 물리적 행위이지만, 다른 의미의 '풀다'와 함께 고려 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "일상 물리적 행위, 다의어 고려 필요."
+    },
+    {
+      "meaning_id": "풀다_동사-2",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "문제 해결",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학습 및 인지적 문제 해결 행위."
+    },
+    {
+      "meaning_id": "풀다_동사-3",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 해소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "감정을 다스리는 행위."
+    },
+    {
+      "meaning_id": "한국인_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "국적/민족",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 국적 또는 민족을 나타내는 개념."
+    },
+    {
+      "meaning_id": "해양_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 환경",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 자연 환경 요소."
+    },
+    {
+      "meaning_id": "허리띠_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 용품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 사용하는 의류 관련 용품."
+    },
+    {
+      "meaning_id": "화장품_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "미용 용품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "구매하여 사용하는 미용 관련 용품."
+    },
+    {
+      "meaning_id": "회복_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "상태 변화를 나타내는 추상 명사로, 건강 외 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 상태 변화, 다양한 맥락 사용."
+    },
+    {
+      "meaning_id": "후회_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "부정적 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 내면의 감정 표현."
+    },
+    {
+      "meaning_id": "가면_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "놀이/공연 소품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "놀이나 공연 등에 사용되는 소품."
+    },
+    {
+      "meaning_id": "간지럼_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "신체적 감각을 나타내는 명사로, '감각과 묘사'에 속하지만 다른 감각어와의 관계 정립 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "신체적 감각, 다른 감각어와 관계 정립 필요."
+    },
+    {
+      "meaning_id": "개성_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "개인 특성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 고유한 성격적 특성."
+    },
+    {
+      "meaning_id": "개최_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "행사를 진행하는 행위로, '문화와 사회'에 가깝지만 다른 유사 행위와의 관계 정립 필요.",
+      "exclusion_reason": null,
+      "rationale_short": "행사 진행 행위, 유사 행위와 관계 정립 필요."
+    },
+    {
+      "meaning_id": "객관_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "사고 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물을 대하는 태도나 관점."
+    },
+    {
+      "meaning_id": "경치_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 경관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 또는 도시의 시각적 모습."
+    },
+    {
+      "meaning_id": "계단_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 구조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "건물 내부의 명확한 구조물."
+    },
+    {
+      "meaning_id": "공사_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건축/수리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "건물 관련 작업 행위."
+    },
+    {
+      "meaning_id": "관람객_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "행사 참여자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 활동에 참여하는 사람을 지칭하는 역할어."
+    },
+    {
+      "meaning_id": "구성_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 구조 형성 개념으로, 다양한 분야에 적용되어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 구조 형성 개념, 다양한 분야 적용."
+    },
+    {
+      "meaning_id": "기구_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "도구/장치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 목적을 위한 도구나 장치."
+    },
+    {
+      "meaning_id": "기획_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 계획",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "업무 진행을 위한 구체적인 계획 수립 행위."
+    },
+    {
+      "meaning_id": "꺼내다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 이동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 물건을 이동시키는 구체적인 행위."
+    },
+    {
+      "meaning_id": "놀이터_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "놀이 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "아이들의 여가 활동을 위한 명확한 장소."
+    },
+    {
+      "meaning_id": "늘_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 빈도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 빈도를 나타내는 명확한 부사."
+    },
+    {
+      "meaning_id": "단순히_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "행위나 상태의 방식을 나타내는 부사로, 추상적이며 여러 맥락에 적용되어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "행위/상태 방식 부사, 추상적이고 다맥락적."
+    },
+    {
+      "meaning_id": "담기다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 보관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 물건이 용기에 들어가는 상태를 나타내는 행위."
+    },
+    {
+      "meaning_id": "당시_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "특정 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 과거 시점을 지칭하는 명확한 시간 표현."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위/상태 명사의 분류 (예: 적응, 제기, 지속, 차지, 구성, 개최, 회복)",
+      "다의어 동사의 의미별 분류 (예: 풀다_동사-1, 풀다_동사-2, 풀다_동사-3)",
+      "정도/방식을 나타내는 형용사/부사의 분류 (예: 지나치다, 단순히)"
+    ],
+    "ia_suggestions": [
+      "추상적 개념을 포괄하는 '상황 지시/기타' root의 하위 분류 세분화 검토 (예: '상태 변화', '일반적 행위', '개념적 요소').",
+      "다의어 동사의 경우, 각 의미가 가장 명확하게 연결되는 root를 우선하되, 모호한 경우 candidate로 분류하고 상세 rationale를 기록하여 추후 논의.",
+      "감각/평가/내면/신체와 경계가 겹치는 어휘에 대한 명확한 분류 가이드라인 강화."
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "주장_일반명사-1",
+      "rationale_short": "자기 의견을 내세우는 행위는 '의견과 가치'에 명확히 해당.",
+      "root": "의견과 가치",
+      "category_label_ko": "의견 표명 행위"
+    },
+    {
+      "meaning_id": "주장_일반명사-2",
+      "rationale_short": "운동 경기에서 팀을 이끄는 선수는 '사람과 관계'의 역할에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "팀 내 역할"
+    },
+    {
+      "meaning_id": "파악_일반명사-1",
+      "rationale_short": "상황이나 내용을 알아차리는 인지 과정은 '내면과 감정'에 명확히 해당.",
+      "root": "내면과 감정",
+      "category_label_ko": "정보 인지 과정"
+    },
+    {
+      "meaning_id": "홈페이지_일반명사-1",
+      "rationale_short": "인터넷 웹페이지는 '문화와 사회'의 정보 인프라에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "온라인 정보 공간"
+    },
+    {
+      "meaning_id": "그대로_일반부사-1",
+      "rationale_short": "아무 변화 없는 본래 상태는 '상황 지시/기타'의 일반적인 상태 묘사에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "변화 없는 상태"
+    },
+    {
+      "meaning_id": "그런_관형사-1",
+      "rationale_short": "앞서 언급된 내용을 지시하는 관형사는 '지시와 질문'에 명확히 해당.",
+      "root": "지시와 질문",
+      "category_label_ko": "앞 내용 지시"
+    },
+    {
+      "meaning_id": "및_일반부사-1",
+      "rationale_short": "내용을 덧붙여 연결하는 기능은 '논리와 연결'에 명확히 해당.",
+      "root": "논리와 연결",
+      "category_label_ko": "내용 추가 연결"
+    },
+    {
+      "meaning_id": "분야_일반명사-1",
+      "rationale_short": "활동이나 학문의 일정한 부분은 '상황 지시/기타'의 일반적인 개념에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "활동 학문 영역"
+    },
+    {
+      "meaning_id": "알아보다_동사-1",
+      "rationale_short": "누구인지 무엇인지 알아채는 인지 행위는 '내면과 감정'에 명확히 해당.",
+      "root": "내면과 감정",
+      "category_label_ko": "대상 인지 확인"
+    },
+    {
+      "meaning_id": "이루어지다_동사-1",
+      "rationale_short": "원하던 상태가 실제로 생기는 것은 '상황 지시/기타'의 일반적인 상태 변화에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상태 변화 발생"
+    },
+    {
+      "meaning_id": "적극_일반명사-1",
+      "rationale_short": "열심히 나서서 하는 태도는 '성격과 태도'에 명확히 해당.",
+      "root": "성격과 태도",
+      "category_label_ko": "능동적인 태도"
+    },
+    {
+      "meaning_id": "정리_일반명사-1",
+      "rationale_short": "흩어진 것을 가지런히 하는 행위는 '상황 지시/기타'의 일반적인 행위에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "사물 정돈 행위"
+    },
+    {
+      "meaning_id": "주변_일반명사-1",
+      "rationale_short": "어떤 곳을 둘러싼 가까운 곳은 '상황 지시/기타'의 공간 개념에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "가까운 공간"
+    },
+    {
+      "meaning_id": "직업_일반명사-1",
+      "rationale_short": "생계를 위한 지속적인 일은 '직장과 업무'에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "생계 유지 활동"
+    },
+    {
+      "meaning_id": "환자_일반명사-1",
+      "rationale_short": "병이 들어 치료받는 사람은 '보건과 의료'에 명확히 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 서비스 대상"
+    },
+    {
+      "meaning_id": "값_일반명사-1",
+      "rationale_short": "물건을 살 때 치르는 돈의 양은 '쇼핑'에 명확히 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 구매 비용"
+    },
+    {
+      "meaning_id": "게임_일반명사-1",
+      "rationale_short": "규칙을 정해 즐기는 놀이는 '여가와 취미'에 명확히 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "규칙 있는 놀이"
+    },
+    {
+      "meaning_id": "뇌_일반명사-1",
+      "rationale_short": "몸의 움직임과 생각을 다스리는 기관은 '보건과 의료'의 신체 부위에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 주요 기관"
+    },
+    {
+      "meaning_id": "미술관_일반명사-1",
+      "rationale_short": "미술 작품을 전시하는 곳은 '문화와 사회'의 문화 시설에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "미술 작품 전시"
+    },
+    {
+      "meaning_id": "사실_일반명사-1",
+      "rationale_short": "거짓이 아닌 실제 내용은 '의견과 가치'의 진실 개념에 해당.",
+      "root": "의견과 가치",
+      "category_label_ko": "실제 내용 진실"
+    },
+    {
+      "meaning_id": "새로_일반부사-1",
+      "rationale_short": "기존과 다르게 처음으로 하는 것은 '시간과 흐름'의 시작점에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "새로운 시작"
+    },
+    {
+      "meaning_id": "소득_일반명사-1",
+      "rationale_short": "일을 하거나 사업을 해서 벌어들인 돈은 '직장과 업무'의 경제 활동 결과에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "경제 활동 수입"
+    },
+    {
+      "meaning_id": "신문_일반명사-1",
+      "rationale_short": "세상 소식을 전달하는 간행물은 '문화와 사회'의 미디어에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달 매체"
+    },
+    {
+      "meaning_id": "일찍_일반부사-1",
+      "rationale_short": "보통보다 앞선 때는 '시간과 흐름'에 명확히 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "이른 시간"
+    },
+    {
+      "meaning_id": "전시회_일반명사-1",
+      "rationale_short": "전시물을 모아 공개하는 행사는 '문화와 사회'의 문화 행사에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "공개 전시 행사"
+    },
+    {
+      "meaning_id": "가깝다_형용사-1",
+      "rationale_short": "거리나 시간이 멀지 않은 상태는 '상황 지시/기타'의 일반적인 관계 묘사에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "거리 시간 근접"
+    },
+    {
+      "meaning_id": "교실_일반명사-1",
+      "rationale_short": "교육 활동이 이루어지는 방은 '학교와 공부'에 명확히 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 활동 공간"
+    },
+    {
+      "meaning_id": "금요일_일반명사-1",
+      "rationale_short": "한 주의 다섯 번째 요일은 '시간과 흐름'에 명확히 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "주중 요일"
+    },
+    {
+      "meaning_id": "무슨_관형사-1",
+      "rationale_short": "정체를 묻거나 강조할 때 쓰는 말은 '지시와 질문'에 명확히 해당.",
+      "root": "지시와 질문",
+      "category_label_ko": "질문 강조 지시"
+    },
+    {
+      "meaning_id": "비행기_일반명사-1",
+      "rationale_short": "사람이나 짐을 싣고 하늘을 나는 탈것은 '교통'에 명확히 해당.",
+      "root": "교통",
+      "category_label_ko": "항공 운송 수단"
+    },
+    {
+      "meaning_id": "상태_일반명사-1",
+      "rationale_short": "사물이나 일이 놓여 있는 모양이나 형편은 '상황 지시/기타'의 일반적인 개념에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "사물 일 형편"
+    },
+    {
+      "meaning_id": "세우다_동사-1",
+      "rationale_short": "기울어진 것을 바로 일으켜 놓는 행위는 '상황 지시/기타'의 일반적인 행위에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 바로 놓기"
+    },
+    {
+      "meaning_id": "우주_일반명사-1",
+      "rationale_short": "별, 행성, 공간을 모두 포함한 세계는 '날씨와 자연'의 광범위한 자연 개념에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "광대한 자연 공간"
+    },
+    {
+      "meaning_id": "정하다_동사-1",
+      "rationale_short": "기준이나 목표를 골라 정하는 행위는 '상황 지시/기타'의 일반적인 행위에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "기준 목표 설정"
+    },
+    {
+      "meaning_id": "팀_일반명사-1",
+      "rationale_short": "함께 일하거나 경기를 하는 사람들의 모임은 '사람과 관계'의 집단에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "공동 활동 집단"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "제작_일반명사-1",
+      "rationale_short": "생산/창작 행위의 일반성으로 인해 모호하여 candidate로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 생산/창작 행위로, 특정 분야에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "참가_일반명사-1",
+      "rationale_short": "모임, 경기, 행사 등 다양한 참여 행위로 모호하여 candidate로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "다양한 맥락에서 사용되는 일반적인 참여 행위."
+    },
+    {
+      "meaning_id": "아름답다_형용사-1",
+      "rationale_short": "묘사와 평가의 경계에 있어 모호하여 candidate로 분류.",
+      "root": "감각과 묘사",
+      "candidate_reason": "모습 묘사와 감탄이라는 평가적 요소가 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "알아보다_동사-2",
+      "rationale_short": "필요한 내용을 살펴보고 조사하는 행위는 다양한 맥락에서 사용되어 모호하여 candidate로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정보 탐색 및 조사 행위로, 다양한 맥락에서 사용되어 특정 root에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "표_일반명사-1",
+      "rationale_short": "다양한 서비스 이용 증표로, 특정 root에 한정하기 모호하여 candidate로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "버스, 기차, 공연 등 다양한 서비스/활동 이용을 위한 증표로, 특정 root에 한정하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "일반적인 행위/개념어 중 여러 root에 걸쳐 사용될 수 있는 경우 (예: 제작, 참가, 알아보다_동사-2, 표)",
+      "묘사/평가/내면 등 경계가 모호한 형용사 (예: 아름답다)"
+    ],
+    "ia_suggestions": [
+      "일반적인 행위/개념어에 대한 '상황 지시/기타' root의 하위 분류를 더 세분화하여 모호성을 줄일 필요가 있음.",
+      "감각/묘사, 내면/감정, 의견/가치 등 인접한 root 간의 분류 기준을 명확히 하는 가이드라인 보강 필요."
+    ]
+  }
+}

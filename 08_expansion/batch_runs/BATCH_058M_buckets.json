@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "추위_일반명사-1",
+      "rationale_short": "날씨 현상으로 명확하게 분류 가능.",
+      "root": "날씨와 자연",
+      "category_label_ko": "추운 날씨 상태"
+    },
+    {
+      "meaning_id": "출퇴근_일반명사-1",
+      "rationale_short": "직장 생활의 필수적인 행위로 명확하게 분류 가능.",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 이동 행위"
+    },
+    {
+      "meaning_id": "토마토_일반명사-1",
+      "rationale_short": "음식 재료로 명확하게 분류 가능.",
+      "root": "식생활",
+      "category_label_ko": "과일 채소"
+    },
+    {
+      "meaning_id": "통화_일반명사-1",
+      "rationale_short": "일상적인 통신 행위로 명확하게 분류 가능.",
+      "root": "주거와 일상",
+      "category_label_ko": "전화 대화"
+    },
+    {
+      "meaning_id": "통화_일반명사-2",
+      "rationale_short": "돈의 종류를 나타내는 명확한 개념으로 분류 가능.",
+      "root": "쇼핑",
+      "category_label_ko": "나라 화폐"
+    },
+    {
+      "meaning_id": "투명_일반명사-1",
+      "rationale_short": "사물의 시각적 특성을 묘사하는 개념으로 명확하게 분류 가능.",
+      "root": "감각과 묘사",
+      "category_label_ko": "사물 상태 묘사"
+    },
+    {
+      "meaning_id": "파란색_일반명사-1",
+      "rationale_short": "시각적 감각을 묘사하는 색깔의 한 종류로 명확하게 분류 가능.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 종류"
+    },
+    {
+      "meaning_id": "포도_일반명사-1",
+      "rationale_short": "음식 재료인 과일로 명확하게 분류 가능.",
+      "root": "식생활",
+      "category_label_ko": "과일 종류"
+    },
+    {
+      "meaning_id": "풀리다_동사-2",
+      "rationale_short": "감정의 변화를 나타내는 동사로 명확하게 분류 가능.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 변화"
+    },
+    {
+      "meaning_id": "합격_일반명사-1",
+      "rationale_short": "시험이나 심사의 결과로 명확하게 분류 가능.",
+      "root": "학교와 공부",
+      "category_label_ko": "시험 통과"
+    },
+    {
+      "meaning_id": "해파리_일반명사-1",
+      "rationale_short": "자연계의 동물로 명확하게 분류 가능.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 동물"
+    },
+    {
+      "meaning_id": "헤어지다_동사-1",
+      "rationale_short": "사람 간의 관계 변화를 나타내는 행위로 명확하게 분류 가능.",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 단절"
+    },
+    {
+      "meaning_id": "협조_일반명사-1",
+      "rationale_short": "사람 간의 상호작용 및 협력 행위로 명확하게 분류 가능.",
+      "root": "사람과 관계",
+      "category_label_ko": "상호 협력"
+    },
+    {
+      "meaning_id": "호랑이_일반명사-1",
+      "rationale_short": "자연계의 동물로 명확하게 분류 가능.",
+      "root": "날씨와 자연",
+      "category_label_ko": "육상 동물"
+    },
+    {
+      "meaning_id": "호박_일반명사-1",
+      "rationale_short": "음식 재료인 채소로 명확하게 분류 가능.",
+      "root": "식생활",
+      "category_label_ko": "채소 종류"
+    },
+    {
+      "meaning_id": "환하다_형용사-1",
+      "rationale_short": "시각적 감각을 묘사하는 형용사로 명확하게 분류 가능.",
+      "root": "감각과 묘사",
+      "category_label_ko": "밝기 묘사"
+    },
+    {
+      "meaning_id": "회전_일반명사-1",
+      "rationale_short": "물리적인 움직임의 한 형태로 명확하게 분류 가능.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물체 움직임"
+    },
+    {
+      "meaning_id": "후보자_일반명사-1",
+      "rationale_short": "특정 목적을 위해 선발 대상이 되는 사람의 역할로 명확하게 분류 가능.",
+      "root": "사람과 관계",
+      "category_label_ko": "선발 대상 인물"
+    },
+    {
+      "meaning_id": "가로_일반명사-1",
+      "rationale_short": "공간의 방향을 나타내는 명확한 개념으로 분류 가능.",
+      "root": "수량과 단위",
+      "category_label_ko": "공간 방향"
+    },
+    {
+      "meaning_id": "간판_일반명사-1",
+      "rationale_short": "상점이나 건물의 표시물로 명확하게 분류 가능.",
+      "root": "쇼핑",
+      "category_label_ko": "상점 표시물"
+    },
+    {
+      "meaning_id": "감탄_일반명사-1",
+      "rationale_short": "사람의 내면적인 감정 상태로 명확하게 분류 가능.",
+      "root": "내면과 감정",
+      "category_label_ko": "놀라움과 기쁨"
+    },
+    {
+      "meaning_id": "건립_일반명사-1",
+      "rationale_short": "건물 등을 세우는 행위로 명확하게 분류 가능.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 건설 행위"
+    },
+    {
+      "meaning_id": "건수_일반명사-1",
+      "rationale_short": "사건의 횟수를 나타내는 수량 개념으로 명확하게 분류 가능.",
+      "root": "수량과 단위",
+      "category_label_ko": "횟수 단위"
+    },
+    {
+      "meaning_id": "건축물_일반명사-1",
+      "rationale_short": "사람이 지은 구조물로 명확하게 분류 가능.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 구조물"
+    },
+    {
+      "meaning_id": "검은색_일반명사-1",
+      "rationale_short": "시각적 감각을 묘사하는 색깔의 한 종류로 명확하게 분류 가능.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 종류"
+    },
+    {
+      "meaning_id": "경찰관_일반명사-1",
+      "rationale_short": "공공 서비스를 제공하는 직업으로 명확하게 분류 가능.",
+      "root": "공공 서비스",
+      "category_label_ko": "공무원 직업"
+    },
+    {
+      "meaning_id": "경찰서_일반명사-1",
+      "rationale_short": "공공 서비스를 제공하는 기관의 장소로 명확하게 분류 가능.",
+      "root": "공공 서비스",
+      "category_label_ko": "경찰 기관 건물"
+    },
+    {
+      "meaning_id": "고무_일반명사-1",
+      "rationale_short": "특정 물리적 특성을 가진 물질로 명확하게 분류 가능.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "탄성 물질"
+    },
+    {
+      "meaning_id": "고생_일반명사-1",
+      "rationale_short": "힘들고 괴로운 경험이나 상태를 나타내는 개념으로 명확하게 분류 가능.",
+      "root": "내면과 감정",
+      "category_label_ko": "힘든 경험"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "창작_일반명사-1",
+      "rationale_short": "창작 행위의 광범위한 적용 범위로 인해 분류 모호.",
+      "root": "문화와 사회",
+      "candidate_reason": "창작 행위는 예술, 문학, 기술 등 다양한 분야에 걸쳐 발생하며, 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "찾아내다_동사-1",
+      "rationale_short": "일반적인 발견 행위 동사, 맥락에 따라 의미 변화.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 상황이나 맥락에 따라 의미가 달라질 수 있는 일반적인 동사로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "철저_일반명사-1",
+      "rationale_short": "상태/정도 묘사, 추상적 개념으로 분류 모호.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 상태나 행위의 정도를 나타내는 추상적인 개념으로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "터지다_동사-1",
+      "rationale_short": "물리적/비유적 사용으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 현상뿐 아니라 감정의 폭발 등 다양한 맥락에서 사용되어 분류가 모호함."
+    },
+    {
+      "meaning_id": "특이_일반명사-1",
+      "rationale_short": "특성 묘사 및 평가 뉘앙스 혼재로 분류 모호.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 특성이나 상태를 묘사하는 개념이지만, '평가'의 뉘앙스도 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "편의_일반명사-1",
+      "rationale_short": "추상적 개념으로 다양한 맥락에서 사용되어 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로, 특정 상황이나 제도 등 다양한 맥락에서 사용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "풀리다_동사-1",
+      "rationale_short": "물리적/비유적 상태 변화로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 상태 변화를 나타내지만, 비유적인 표현으로도 사용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "필수_일반명사-1",
+      "rationale_short": "가치 판단 포함 추상적 개념으로 분류 모호.",
+      "root": "의견과 가치",
+      "candidate_reason": "어떤 것이 반드시 필요하다는 가치 판단을 포함하는 추상적인 개념으로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "핵심_일반명사-1",
+      "rationale_short": "중요성/중심을 나타내는 추상적 개념으로 분류 모호.",
+      "root": "논리와 연결",
+      "candidate_reason": "어떤 것의 중심이나 중요성을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "활발히_일반부사-1",
+      "rationale_short": "행위 방식/태도 묘사, 성격/묘사 경계 모호.",
+      "root": "성격과 태도",
+      "candidate_reason": "행위의 방식이나 태도를 묘사하는 부사로, '성격'과 '묘사'의 경계가 모호함."
+    },
+    {
+      "meaning_id": "흡수_일반명사-1",
+      "rationale_short": "물리적/정보적 흡수 등 다양한 맥락으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 흡수와 정보 흡수 등 다양한 맥락에서 사용되어 분류가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 철저, 편의, 필수, 핵심): 여러 root에 걸쳐 모호하게 느껴질 수 있어 candidate로 분류하고 임시 root를 제안함. '의견과 가치', '감각과 묘사', '상황 지시/기타', '논리와 연결' 등 추상적 root 간의 경계가 모호함.",
+      "다의어 또는 비유적 표현이 가능한 동사 (예: 터지다, 풀리다_동사-1, 흡수): 물리적 현상과 비유적/감정적 현상을 모두 포함할 수 있어 candidate로 분류하고 가장 일반적인 root를 제안함."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 분류 가이드라인 강화: '의견과 가치', '성격과 태도', '감각과 묘사', '논리와 연결', '상황 지시/기타' 등 추상적 root의 정의와 포함/배제 기준을 더 명확히 하여 분류 일관성을 높일 필요가 있음.",
+      "동사의 다의성 처리 기준 명확화: 동사가 물리적 행위와 비유적/감정적 행위를 모두 나타낼 때, 어떤 root를 우선할지 또는 candidate로 보낼지 판단 기준을 구체화해야 함. (예: '풀리다'의 두 의미가 각각 '내면과 감정'과 '상황 지시/기타'로 나뉜 사례를 참고하여 가이드라인 보완)"
+    ]
+  }
+}

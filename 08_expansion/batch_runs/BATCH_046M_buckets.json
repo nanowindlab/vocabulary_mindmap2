@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "도심_일반명사-1",
+      "rationale_short": "도시의 중심 부분으로, 일상생활과 밀접한 장소 개념.",
+      "root": "주거와 일상",
+      "category_label_ko": "도시 중심 지역"
+    },
+    {
+      "meaning_id": "도자기_일반명사-1",
+      "rationale_short": "흙을 구워 만든 그릇으로, 주거 공간에서 사용되는 물건.",
+      "root": "주거와 일상",
+      "category_label_ko": "흙으로 만든 그릇"
+    },
+    {
+      "meaning_id": "돌고래_일반명사-1",
+      "rationale_short": "바다에 사는 포유류로, 자연 환경의 동물에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 포유류 동물"
+    },
+    {
+      "meaning_id": "돌보다_동사-1",
+      "rationale_short": "부족함이 없게 챙기고 살피는 행위로, 주로 사람 간의 관계에서 발생.",
+      "root": "사람과 관계",
+      "category_label_ko": "보살피는 행위"
+    },
+    {
+      "meaning_id": "등산객_일반명사-1",
+      "rationale_short": "산에 오르는 사람으로, 여가 활동인 등산과 관련된 역할어.",
+      "root": "여가와 취미",
+      "category_label_ko": "등산하는 사람"
+    },
+    {
+      "meaning_id": "따다_동사-1",
+      "rationale_short": "열매나 꽃 등을 가지에서 떼어내는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "열매 등을 떼어내다"
+    },
+    {
+      "meaning_id": "따다_동사-2",
+      "rationale_short": "병뚜껑 등을 열어 막힌 곳을 트는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "병뚜껑을 열다"
+    },
+    {
+      "meaning_id": "떨리다_동사-1",
+      "rationale_short": "몸이나 물체가 저절로 흔들리는 상태를 묘사하는 표현.",
+      "root": "감각과 묘사",
+      "category_label_ko": "흔들리는 상태"
+    },
+    {
+      "meaning_id": "마감일_일반명사-1",
+      "rationale_short": "일을 끝내야 하는 마지막 날로, 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "업무 종료 시점"
+    },
+    {
+      "meaning_id": "매년_일반부사-1",
+      "rationale_short": "해마다 빠지지 않고 발생하는 것으로, 시간의 반복을 나타냄.",
+      "root": "시간과 흐름",
+      "category_label_ko": "해마다 반복되는"
+    },
+    {
+      "meaning_id": "메일_일반명사-1",
+      "rationale_short": "전자적으로 주고받는 편지로, 주로 직장 업무 소통에 사용.",
+      "root": "직장과 업무",
+      "category_label_ko": "전자 우편"
+    },
+    {
+      "meaning_id": "목재_일반명사-1",
+      "rationale_short": "건축이나 제작에 쓰는 나무 재료로, 주거 환경 구성에 사용.",
+      "root": "주거와 일상",
+      "category_label_ko": "건축용 나무 재료"
+    },
+    {
+      "meaning_id": "무섭다_형용사-1",
+      "rationale_short": "두렵거나 겁이 많은 상태로, 내면의 감정을 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "두려움을 느끼는"
+    },
+    {
+      "meaning_id": "민간_일반명사-1",
+      "rationale_short": "정부나 군대가 아닌 일반 사회나 개인을 지칭하는 사회 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "일반 사회 영역"
+    },
+    {
+      "meaning_id": "발전소_일반명사-1",
+      "rationale_short": "전기를 만들어 내는 시설로, 공공 서비스 제공과 관련.",
+      "root": "공공 서비스",
+      "category_label_ko": "전력 생산 시설"
+    },
+    {
+      "meaning_id": "별_관형사-1",
+      "rationale_short": "보통과 달리 특별한 것을 묘사하는 표현.",
+      "root": "감각과 묘사",
+      "category_label_ko": "특별한 종류의"
+    },
+    {
+      "meaning_id": "보고서_일반명사-1",
+      "rationale_short": "조사나 업무의 결과를 적어 낸 글로, 직장 업무와 밀접.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 결과 문서"
+    },
+    {
+      "meaning_id": "볼펜_일반명사-1",
+      "rationale_short": "끝에 작은 구슬이 달린 필기 도구로, 일상생활에서 사용.",
+      "root": "주거와 일상",
+      "category_label_ko": "필기용 도구"
+    },
+    {
+      "meaning_id": "뵙다_동사-1",
+      "rationale_short": "윗사람을 만나 보는 행위로, 사람 간의 관계에서 발생.",
+      "root": "사람과 관계",
+      "category_label_ko": "윗사람을 만나다"
+    },
+    {
+      "meaning_id": "부동산_일반명사-1",
+      "rationale_short": "땅과 건물처럼 움직일 수 없는 재산으로, 주거와 밀접한 관련.",
+      "root": "주거와 일상",
+      "category_label_ko": "토지 건물 재산"
+    },
+    {
+      "meaning_id": "부장_일반명사-1",
+      "rationale_short": "부서나 부문을 맡아 책임지는 직책으로, 직장 업무와 관련.",
+      "root": "직장과 업무",
+      "category_label_ko": "부서 책임 직책"
+    },
+    {
+      "meaning_id": "분명_일반부사-1",
+      "rationale_short": "틀림없이 확실한 상태나 태도를 나타내는 표현.",
+      "root": "의견과 가치",
+      "category_label_ko": "확실하고 명확하게"
+    },
+    {
+      "meaning_id": "뿌리다_동사-1",
+      "rationale_short": "가루나 액체를 넓게 흩어지게 하는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "액체 가루 흩뿌리다"
+    },
+    {
+      "meaning_id": "사이트_일반명사-1",
+      "rationale_short": "인터넷 주소로 접속하는 가상 공간으로, 현대 사회 문화의 일부.",
+      "root": "문화와 사회",
+      "category_label_ko": "인터넷 접속 공간"
+    },
+    {
+      "meaning_id": "상어_일반명사-1",
+      "rationale_short": "바다에 사는 큰 육식 물고기로, 자연 환경의 동물에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 육식 물고기"
+    },
+    {
+      "meaning_id": "설립_일반명사-1",
+      "rationale_short": "기관이나 단체를 새로 세우는 행위로, 사회 제도 및 문화와 관련.",
+      "root": "문화와 사회",
+      "category_label_ko": "기관 단체 세움"
+    },
+    {
+      "meaning_id": "수면_일반명사-1",
+      "rationale_short": "잠을 자는 상태로, 일상생활의 중요한 부분.",
+      "root": "주거와 일상",
+      "category_label_ko": "잠자는 상태"
+    },
+    {
+      "meaning_id": "신분증_일반명사-1",
+      "rationale_short": "자신이 누구인지 증명하는 카드나 증서로, 공공 서비스 이용에 필수적.",
+      "root": "공공 서비스",
+      "category_label_ko": "신분 증명 서류"
+    },
+    {
+      "meaning_id": "아이디_일반명사-1",
+      "rationale_short": "컴퓨터나 인터넷에서 자신을 나타내는 계정 이름으로, 온라인 문화와 관련.",
+      "root": "문화와 사회",
+      "category_label_ko": "온라인 계정 이름"
+    },
+    {
+      "meaning_id": "약하다_형용사-1",
+      "rationale_short": "힘이나 세기가 강하지 않은 상태를 묘사하는 표현.",
+      "root": "감각과 묘사",
+      "category_label_ko": "힘 세기가 부족한"
+    },
+    {
+      "meaning_id": "업계_일반명사-1",
+      "rationale_short": "같은 종류의 일을 하는 분야로, 직장 업무와 밀접.",
+      "root": "직장과 업무",
+      "category_label_ko": "특정 산업 분야"
+    },
+    {
+      "meaning_id": "예보_일반명사-1",
+      "rationale_short": "앞으로의 날씨나 일을 미리 알리는 것으로, 날씨와 자연 현상 예측에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "날씨 등 미리 알림"
+    },
+    {
+      "meaning_id": "원작_일반명사-1",
+      "rationale_short": "다른 형태로 바꾸기 전의 처음 작품으로, 문화 예술 분야에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "최초의 예술 작품"
+    },
+    {
+      "meaning_id": "유학_일반명사-1",
+      "rationale_short": "외국에서 공부하는 행위로, 학교와 공부 활동에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "외국에서 학업"
+    },
+    {
+      "meaning_id": "일곱_수사-1",
+      "rationale_short": "숫자 '일곱'을 나타내는 수량 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 7"
+    },
+    {
+      "meaning_id": "일기_일반명사-1",
+      "rationale_short": "하루 동안 있었던 일을 적은 글로, 일상생활의 기록.",
+      "root": "주거와 일상",
+      "category_label_ko": "하루 기록 글"
+    },
+    {
+      "meaning_id": "일으키다_동사-1",
+      "rationale_short": "넘어진 것을 다시 서게 하는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "넘어진 것 세우다"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "따지다_동사-1",
+      "rationale_short": "이유나 옳고 그름을 꼼꼼히 헤아려 묻는 행위로, 추상적이며 여러 루트와 경계가 모호함.",
+      "root": "논리와 연결",
+      "candidate_reason": "행위의 성격이 추상적이며, '의견과 가치', '내면과 감정', '논리와 연결' 등 여러 추상적인 루트와 겹칠 수 있어 분류 모호성이 높음."
+    },
+    {
+      "meaning_id": "배출_일반명사-1",
+      "rationale_short": "사람이나 물질, 에너지를 밖으로 내보내는 행위로, 맥락에 따라 다양한 루트와 겹쳐 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "'배출'이라는 행위가 환경, 산업, 생리 현상 등 다양한 맥락에서 사용될 수 있어 특정 루트로 분류하기 모호함."
+    },
+    {
+      "meaning_id": "일으키다_동사-2",
+      "rationale_short": "사건이나 움직임을 생기게 하는 행위로, 추상적이며 여러 루트와 경계가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "'사건이나 움직임을 생기게 하다'는 추상적인 행위로, 다양한 맥락에서 사용될 수 있어 특정 루트로 분류하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위 동사/명사는 여러 루트와 경계가 모호하여 candidate로 분류될 가능성이 높음 (예: 따지다, 배출, 일으키다_동사-2).",
+      "일상생활과 관련된 명사/동사는 '주거와 일상' 루트에 많이 분류되지만, 다른 루트(예: 식생활, 사람과 관계)와도 겹칠 수 있어 세부 맥락 파악이 중요함."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' 루트의 하위 분류를 좀 더 구체화하여 추상적인 행위나 개념어를 명확히 분류할 수 있는 방안을 모색해야 함.",
+      "동사의 경우, 의미에 따라 여러 루트에 걸쳐 분류될 수 있으므로, 각 의미별로 가장 적합한 루트를 신중하게 결정하는 가이드라인을 강화해야 함."
+    ]
+  }
+}

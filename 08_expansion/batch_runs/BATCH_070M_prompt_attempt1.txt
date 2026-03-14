@@ -1,0 +1,57 @@
+너는 한국어 어휘 마인드맵 프로젝트의 데이터 전략가다.
+반드시 SDCP V1과 IA V4를 따른다.
+
+핵심 규칙:
+1. 100% 확실한 것만 core로 보낸다.
+2. 모호하면 candidate로 보낸다.
+3. negative examples: 세포, 문장, 가축, 박선호 같은 오분류를 절대 반복하지 마라.
+
+
+
+추가 프로필 규칙: general_inventory
+- exclusion은 아래 경우에만 허용한다:
+  - 고유명사
+  - 대명사
+  - 의존명사
+  - 조사/접사
+  - 욕설/비속어
+  - 시각화가 거의 불가능한 학습 비적합 파편어
+- 직업/역할어는 exclusion 하지 말고 관련 scene root를 우선 검토한다.
+- 신체 부위/의료 증상은 exclusion 하지 말고 `보건과 의료` 또는 candidate를 검토한다.
+- 음식 재료/식기/조리도구/식당/조리행위는 exclusion 하지 말고 `식생활` 또는 candidate를 검토한다.
+- 장소/장면/제도/직업/행위가 명확하면 core를 우선한다.
+- 감각/평가/내면/신체와 경계가 겹치면 candidate를 우선한다.
+
+허용 root 목록:
+["사람과 관계", "식생활", "주거와 일상", "쇼핑", "교통", "학교와 공부", "직장과 업무", "여가와 취미", "여행", "보건과 의료", "날씨와 자연", "공공 서비스", "문화와 사회", "상황 지시/기타", "내면과 감정", "성격과 태도", "감각과 묘사", "의견과 가치", "수량과 단위", "시간과 흐름", "논리와 연결", "지시와 질문"]
+
+반환 규칙:
+- JSON만 반환한다. 코드펜스 금지.
+- `decisions` 길이는 반드시 입력 개수와 같아야 한다.
+- 각 `meaning_id`는 정확히 한 번만 등장해야 한다.
+- 입력 순서를 유지한다.
+- bucket이 `candidate`이면 `root`를 반드시 채운다. 이 root는 `임시 제안 root`다.
+- root는 bucket이 core/candidate일 때만 쓴다.
+- category_label_ko는 bucket이 core일 때만 쓰고, root 이름을 반복하지 않는 2~4어절 한국어 라벨로 쓴다.
+
+반환 형식:
+{
+  "decisions": [
+    {
+      "meaning_id": "...",
+      "bucket": "core|candidate|exclusion",
+      "root": "...",
+      "category_label_ko": "...",
+      "candidate_reason": "...",
+      "exclusion_reason": "...",
+      "rationale_short": "..."
+    }
+  ],
+  "insights": {
+    "hard_patterns": ["..."],
+    "ia_suggestions": ["..."]
+  }
+}
+
+검토 대상 JSON:
+[{"meaning_id": "드물다_형용사-1", "lemma": "드물다", "pos_ko": "형용사", "meaning_kr": "숫자나 경우가 자주 있지 않다", "frequency": 6, "frequency_rank": 2818, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "때로_일반부사-1", "lemma": "때로", "pos_ko": "일반부사", "meaning_kr": "어느 때에는", "frequency": 6, "frequency_rank": 2819, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "떼다_동사-1", "lemma": "떼다", "pos_ko": "동사", "meaning_kr": "붙어 있던 것을 분리하여 떨어지게 하다", "frequency": 6, "frequency_rank": 2820, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "떼다_동사-2", "lemma": "떼다", "pos_ko": "동사", "meaning_kr": "일정한 몫이나 수량을 나누어 내다", "frequency": 6, "frequency_rank": 2821, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "뚜껑_일반명사-1", "lemma": "뚜껑", "pos_ko": "일반명사", "meaning_kr": "그릇이나 상자 위를 덮는 부분", "frequency": 6, "frequency_rank": 2822, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "리더십_일반명사-1", "lemma": "리더십", "pos_ko": "일반명사", "meaning_kr": "사람들을 이끌고 조직을 잘 이행하게 하는 능력", "frequency": 6, "frequency_rank": 2823, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "마직물_일반명사-1", "lemma": "마직물", "pos_ko": "일반명사", "meaning_kr": "마 줄기에서 얻은 섬유로 짠 옷감", "frequency": 6, "frequency_rank": 2824, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "마침내_일반부사-1", "lemma": "마침내", "pos_ko": "일반부사", "meaning_kr": "기다리던 끝에 드디어", "frequency": 6, "frequency_rank": 2825, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "만지다_동사-1", "lemma": "만지다", "pos_ko": "동사", "meaning_kr": "손으로 물건이나 몸을 대어 느끼다", "frequency": 6, "frequency_rank": 2826, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "만지다_동사-2", "lemma": "만지다", "pos_ko": "동사", "meaning_kr": "사물이나 일을 이리저리 다루다", "frequency": 6, "frequency_rank": 2827, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "매개_일반명사-1", "lemma": "매개", "pos_ko": "일반명사", "meaning_kr": "둘 사이를 이어 주거나 전해 주는 일", "frequency": 6, "frequency_rank": 2828, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "매다_동사-1", "lemma": "매다", "pos_ko": "동사", "meaning_kr": "끈이나 줄의 두 끝을 엮어 묶다", "frequency": 6, "frequency_rank": 2829, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "매다_동사-2", "lemma": "매다", "pos_ko": "동사", "meaning_kr": "넥타이, 가방 등을 몸에 걸거나 두르다", "frequency": 6, "frequency_rank": 2830, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "매력_일반명사-1", "lemma": "매력", "pos_ko": "일반명사", "meaning_kr": "사람을 끌어당기는 멋이나 힘", "frequency": 6, "frequency_rank": 2831, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "머무르다_동사-1", "lemma": "머무르다", "pos_ko": "동사", "meaning_kr": "어떤 곳에 일정 시간 동안 계속 있다", "frequency": 6, "frequency_rank": 2832, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "메달_일반명사-1", "lemma": "메달", "pos_ko": "일반명사", "meaning_kr": "경기나 대회에서 성적을 기념해 주는 작은 금속판", "frequency": 6, "frequency_rank": 2833, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "면허_일반명사-1", "lemma": "면허", "pos_ko": "일반명사", "meaning_kr": "특정 활동을 할 수 있도록 허가한 증서", "frequency": 6, "frequency_rank": 2834, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "명단_일반명사-1", "lemma": "명단", "pos_ko": "일반명사", "meaning_kr": "사람들의 이름을 적어 놓은 목록", "frequency": 6, "frequency_rank": 2835, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "명창_일반명사-1", "lemma": "명창", "pos_ko": "일반명사", "meaning_kr": "노래나 판소리를 아주 잘하는 사람", "frequency": 6, "frequency_rank": 2836, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "모금_일반명사-1", "lemma": "모금", "pos_ko": "일반명사", "meaning_kr": "도움이 필요한 사람이나 일을 위해 돈을 모음", "frequency": 6, "frequency_rank": 2837, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "모레_일반명사-1", "lemma": "모레", "pos_ko": "일반명사", "meaning_kr": "오늘에서 이틀 지난 날", "frequency": 6, "frequency_rank": 2838, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "모자라다_동사-1", "lemma": "모자라다", "pos_ko": "동사", "meaning_kr": "있어야 할 양에 미치지 못하다", "frequency": 6, "frequency_rank": 2839, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "묘사_일반명사-1", "lemma": "묘사", "pos_ko": "일반명사", "meaning_kr": "사물이나 모습을 자세히 그려 나타냄", "frequency": 6, "frequency_rank": 2840, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "무궁화_일반명사-1", "lemma": "무궁화", "pos_ko": "일반명사", "meaning_kr": "여름에 피는 큰 꽃나무로 한국을 상징함", "frequency": 6, "frequency_rank": 2841, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "물감_일반명사-1", "lemma": "물감", "pos_ko": "일반명사", "meaning_kr": "그림을 그릴 때 쓰는 색 있는 물질", "frequency": 6, "frequency_rank": 2842, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "물길_일반명사-1", "lemma": "물길", "pos_ko": "일반명사", "meaning_kr": "물이 흘러가는 길이나 방향", "frequency": 6, "frequency_rank": 2843, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "물리_일반명사-1", "lemma": "물리", "pos_ko": "일반명사", "meaning_kr": "힘·운동·에너지 등을 다루는 자연과학 분야", "frequency": 6, "frequency_rank": 2844, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "미끄러지다_동사-1", "lemma": "미끄러지다", "pos_ko": "동사", "meaning_kr": "미끄러운 곳에서 발이 밀려 넘어지거나 나아가다", "frequency": 6, "frequency_rank": 2845, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "바닷물_일반명사-1", "lemma": "바닷물", "pos_ko": "일반명사", "meaning_kr": "바다에 있는 짠물", "frequency": 6, "frequency_rank": 2846, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "반죽_일반명사-1", "lemma": "반죽", "pos_ko": "일반명사", "meaning_kr": "가루에 물이나 다른 재료를 섞어 이긴 것", "frequency": 6, "frequency_rank": 2847, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "발효_일반명사-1", "lemma": "발효", "pos_ko": "일반명사", "meaning_kr": "미생물이 작용하여 물질의 성질이 변하는 현상", "frequency": 6, "frequency_rank": 2848, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "배치_일반명사-1", "lemma": "배치", "pos_ko": "일반명사", "meaning_kr": "사물을 알맞은 자리에 놓거나 사람을 맡은 자리에 두는 일", "frequency": 6, "frequency_rank": 2849, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "버섯_일반명사-1", "lemma": "버섯", "pos_ko": "일반명사", "meaning_kr": "균류에 속하며 갓과 자루가 있는 식용 또는 독성 생물", "frequency": 6, "frequency_rank": 2850, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "법칙_일반명사-1", "lemma": "법칙", "pos_ko": "일반명사", "meaning_kr": "항상 같은 조건에서 똑같이 되풀이되는 규칙", "frequency": 6, "frequency_rank": 2851, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "벤치_일반명사-1", "lemma": "벤치", "pos_ko": "일반명사", "meaning_kr": "여러 사람이 함께 앉을 수 있는 긴 의자", "frequency": 6, "frequency_rank": 2852, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "별도_일반명사-1", "lemma": "별도", "pos_ko": "일반명사", "meaning_kr": "따로 나눈 부분이나 항목", "frequency": 6, "frequency_rank": 2853, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "보고회_일반명사-1", "lemma": "보고회", "pos_ko": "일반명사", "meaning_kr": "여러 사람 앞에서 조사나 사업 결과를 발표하는 모임", "frequency": 6, "frequency_rank": 2854, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "보자기_일반명사-1", "lemma": "보자기", "pos_ko": "일반명사", "meaning_kr": "물건을 싸는 데 쓰는 네모난 천", "frequency": 6, "frequency_rank": 2855, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "보조_일반명사-1", "lemma": "보조", "pos_ko": "일반명사", "meaning_kr": "옆에서 도와주는 일이나 역할", "frequency": 6, "frequency_rank": 2856, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "봉투_일반명사-1", "lemma": "봉투", "pos_ko": "일반명사", "meaning_kr": "종이로 만든, 편지나 돈 등을 넣어 봉하는 껍데기", "frequency": 6, "frequency_rank": 2857, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}]

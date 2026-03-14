@@ -1,0 +1,410 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "직물_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활용 직물",
+      "rationale_short": "생활 속에서 흔히 접하는 재료"
+    },
+    {
+      "meaning_id": "직선_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "직시_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "인지적 행위 또는 태도와 관련되어 여러 루트에 걸칠 수 있어 모호함."
+    },
+    {
+      "meaning_id": "직책_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 내 역할",
+      "rationale_short": "조직 내 역할과 책임에 대한 명확한 개념"
+    },
+    {
+      "meaning_id": "진공_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "candidate_reason": "물리적 상태를 나타내는 추상적인 개념으로 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "진도_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일과 공부 모두에 적용되는 진행 정도를 나타내는 개념으로, 특정 활동에 한정하기 어려움."
+    },
+    {
+      "meaning_id": "진보_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "상태나 수준의 개선을 나타내는 추상적인 개념으로 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "진술_일반명사-1",
+      "bucket": "candidate",
+      "root": "공공 서비스",
+      "candidate_reason": "보고, 질문에 대한 사실 전달 행위로, 공공 서비스, 직장 업무 등 여러 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "진열_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 전시",
+      "rationale_short": "상품 전시 행위"
+    },
+    {
+      "meaning_id": "진열장_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 전시 가구",
+      "rationale_short": "상품 전시를 위한 구체적인 가구"
+    },
+    {
+      "meaning_id": "진위_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "사실 여부를 판단하는 추상적인 개념으로, 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "진작_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "rationale_short": "시간의 흐름을 나타내는 부사"
+    },
+    {
+      "meaning_id": "진정하다_형용사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "사물의 본질이나 상태의 진실성을 나타내는 형용사로, 여러 맥락에서 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "진척_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일의 진행 정도를 나타내는 개념으로, 특정 활동에 한정하기 어려움."
+    },
+    {
+      "meaning_id": "진통_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "출산 관련 증상",
+      "rationale_short": "출산 관련 명확한 의료 증상"
+    },
+    {
+      "meaning_id": "진품_일반명사-1",
+      "bucket": "candidate",
+      "root": "쇼핑",
+      "candidate_reason": "물건의 진위 여부를 나타내는 개념으로, 쇼핑, 문화 등 여러 맥락에서 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "진행자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "행사 진행 역할",
+      "rationale_short": "방송/행사에서 역할을 맡은 사람"
+    },
+    {
+      "meaning_id": "진흙탕_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "질퍽한 땅",
+      "rationale_short": "자연 환경의 한 형태"
+    },
+    {
+      "meaning_id": "진흥_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "특정 분야의 발전과 활성화를 나타내는 추상적인 개념으로, 여러 사회적 맥락에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "진흥원_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "발전 지원 기관",
+      "rationale_short": "특정 분야 발전을 위한 공공 기관"
+    },
+    {
+      "meaning_id": "짐승_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 동물",
+      "rationale_short": "자연 속 동물을 지칭"
+    },
+    {
+      "meaning_id": "집계_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "candidate_reason": "여러 수를 모아 계산하는 행위로, 수량 개념과 업무 맥락 모두에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "집다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "손으로 잡기",
+      "rationale_short": "손을 이용한 기본적인 신체 행위"
+    },
+    {
+      "meaning_id": "집어내다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "선택하여 들기",
+      "rationale_short": "선택하여 드는 구체적인 행위"
+    },
+    {
+      "meaning_id": "집집_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "각 가정",
+      "rationale_short": "주거 공간의 반복적 표현"
+    },
+    {
+      "meaning_id": "집필_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "책이나 글을 쓰는 행위로, 학업, 직업, 취미 등 여러 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "집합_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람이나 물건이 모이는 행위 또는 상태로, 여러 장면에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "징검다리_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "개울 건너는 돌",
+      "rationale_short": "자연 환경 속 구체적인 구조물"
+    },
+    {
+      "meaning_id": "짖다_동사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 소리 내기",
+      "rationale_short": "동물의 구체적인 소리 행위"
+    },
+    {
+      "meaning_id": "짠맛_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "미각 표현",
+      "rationale_short": "오감 중 미각에 대한 명확한 표현"
+    },
+    {
+      "meaning_id": "짧아지다_동사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "candidate_reason": "길이와 시간 모두에 적용되는 변화를 나타내는 동사로, 두 가지 다른 루트에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "쪼개다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물건 나누기",
+      "rationale_short": "큰 것을 여러 조각으로 나누는 구체적인 행위"
+    },
+    {
+      "meaning_id": "차치_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "논의나 판단을 잠시 보류하는 추상적인 행위로, 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "착안_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "특정 점에 집중하여 생각하는 인지적 행위로, 내면적 사고 과정과 관련되어 모호함."
+    },
+    {
+      "meaning_id": "착오_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "잘못 생각하거나 처리한 결과를 나타내는 추상적인 개념으로, 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "찬_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식사 반찬",
+      "rationale_short": "식생활과 관련된 구체적인 음식"
+    },
+    {
+      "meaning_id": "찬반_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "의견 대립",
+      "rationale_short": "의견 대립을 나타내는 명확한 개념"
+    },
+    {
+      "meaning_id": "참모습_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "candidate_reason": "본래의 모습을 나타내는 추상적인 개념으로, 사람의 성격이나 사물의 본질 등 여러 맥락에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "참으로_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "강조 표현",
+      "rationale_short": "묘사나 강조를 위한 부사"
+    },
+    {
+      "meaning_id": "창구_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "민원 접수 공간",
+      "rationale_short": "공공 서비스 기관의 구체적인 공간"
+    },
+    {
+      "meaning_id": "창시자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "시작을 만든 사람",
+      "rationale_short": "새로운 것을 시작한 사람의 역할"
+    },
+    {
+      "meaning_id": "창제_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "새로운 제도, 글자, 법 등을 만드는 행위로, 문화, 사회, 공공 서비스 등 여러 맥락에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "창틀_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "창문 구조물",
+      "rationale_short": "주거 공간의 구체적인 구성 요소"
+    },
+    {
+      "meaning_id": "채광_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "햇빛 유입",
+      "rationale_short": "주거 환경과 관련된 구체적인 현상"
+    },
+    {
+      "meaning_id": "채권자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "채무 관계자",
+      "rationale_short": "금전적 관계에 있는 사람의 역할"
+    },
+    {
+      "meaning_id": "채널_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "방송 통로",
+      "rationale_short": "방송 매체의 구체적인 통로"
+    },
+    {
+      "meaning_id": "채택_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "여러 대안 중 하나를 선택하여 받아들이는 행위로, 의견, 정책, 기술 등 다양한 맥락에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "책무_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "책임과 의무를 아우르는 추상적인 개념으로, 직장, 사회 등 여러 맥락에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "처리장_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "폐기물 처리 시설",
+      "rationale_short": "공공 시설의 구체적인 장소"
+    },
+    {
+      "meaning_id": "처박히다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "깊이 박히다",
+      "rationale_short": "물리적 상태를 묘사하는 동사"
+    },
+    {
+      "meaning_id": "처방전_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 문서",
+      "rationale_short": "의료 행위와 관련된 구체적인 문서"
+    },
+    {
+      "meaning_id": "처우_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "근무 조건",
+      "rationale_short": "직장 내 근무 조건에 대한 명확한 개념"
+    },
+    {
+      "meaning_id": "처지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람이 놓인 형편이나 상황을 나타내는 추상적인 개념으로, 특정 장면 루트에 명확히 속하기 어려움."
+    },
+    {
+      "meaning_id": "처치_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 일을 다루어 해결하는 행위로, 여러 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "천만_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "큰 숫자",
+      "rationale_short": "구체적인 수량 표현"
+    },
+    {
+      "meaning_id": "천문대_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "천체 관측 시설",
+      "rationale_short": "천체 관측을 위한 구체적인 시설"
+    },
+    {
+      "meaning_id": "천연기념물_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "보호 자연물",
+      "rationale_short": "자연 보호 대상의 구체적인 명칭"
+    },
+    {
+      "meaning_id": "천오백_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "기본 숫자",
+      "rationale_short": "구체적인 수량 표현"
+    },
+    {
+      "meaning_id": "천장_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 내부 구조",
+      "rationale_short": "건물 내부의 구체적인 구조물"
+    },
+    {
+      "meaning_id": "천차만별_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "여러 사물이나 현상이 매우 다양함을 나타내는 추상적인 개념으로, 특정 장면 루트에 명확히 속하기 어려움."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어(예: 직선, 진공, 진보, 착오, 처지, 천차만별)는 특정 장면 루트에 명확히 속하기 어려워 '상황 지시/기타' 또는 인접한 추상 루트(예: 내면과 감정, 의견과 가치, 감각과 묘사)의 candidate로 분류되는 경향이 강함.",
+      "행위나 상태를 나타내는 동사/명사(예: 직시, 진술, 진흥, 집계, 집필, 집합, 짧아지다, 차치, 착안, 창제, 채택, 책무, 처치)는 여러 맥락(직장, 사회, 내면 등)에 걸쳐 사용될 수 있어 분류 모호성이 높음."
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타'로 분류된 추상적인 개념어들을 세분화하여 '진행/변화', '일반적 상태', '문제/해결' 등과 같은 하위 루트를 신설하는 것을 고려해 볼 수 있음.",
+      "인지적/내면적 행위와 관련된 어휘(예: 직시, 착안)에 대해 '내면과 감정' 루트 내에 '사고/인지'와 같은 하위 카테고리를 추가하여 명확성을 높일 수 있음.",
+      "역할어(예: 진행자, 창시자, 채권자)는 '사람과 관계' 또는 관련 장면 루트에 일관되게 분류되었으나, '사람과 관계' 루트 내에 '사회적 역할'과 같은 하위 카테고리를 두어 명확성을 강화할 수 있음."
+    ]
+  }
+}

@@ -1,0 +1,4229 @@
+{
+  "chunk_id": "chunk_021",
+  "data": {
+    "포착_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "형사들은 범죄 현장에서 결정적인 단서를 포착합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 이번 투자에서 기회를 포착하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "절대 놓치지 말고 기회를 포착하라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "카메라가 예상치 못한 순간을 포착했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 순간적으로 지나가는 영감을 포착했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 데이터로 추세 변화를 포착할 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "pochak"
+    },
+    "포함_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 가격에는 세금이 모두 포함되어 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 모든 항목을 포함하여 계산하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 목록에 너의 이름도 포함시켜라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "열 명을 포함한 인원이 회의에 참석했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 제 의견이 보고서에 포함된 것을 확인했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 조건에 추가 비용이 포함될까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "세금 포함 가격.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "영역",
+        "속하다",
+        "지표"
+      ],
+      "phonetic_romanization": "poham"
+    },
+    "폭_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 테이블의 폭을 잽니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 이 천의 폭이 얼마나 되는지 아십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "도로 폭을 넓혀 교통 체증을 줄여라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "강의 폭이 좁아졌다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 새로 산 가구의 폭이 좁아서 마음에 들었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 문은 폭이 너무 좁지 않을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "간격"
+      ],
+      "phonetic_romanization": "pok"
+    },
+    "폭넓다_형용사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 폭넓은 인간관계를 유지하려고 노력합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 폭넓은 지식을 가지고 계십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "폭넓은 경험이 사고를 유연하게 만든다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그녀는 폭넓은 분야에서 활동하고 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 폭넓게 책을 읽는 습관을 기르고 싶어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 분야는 폭넓게 공부해야 할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "세상을 폭넓게 이해하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "널리"
+      ],
+      "phonetic_romanization": "pokneoptta"
+    },
+    "표_일반명사-2": {
+      "attested_sentences": [
+        {
+          "ko": "저는 자료를 이해하기 쉽게 표로 정리합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 보고서에 들어갈 통계 표를 만드셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "결과를 표로 나타내라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "복잡한 내용을 표로 정리하면 쉽게 이해할 수 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 회의 자료에 중요한 내용을 표로 요약했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 표에 오류가 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "표를 그리다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "참조",
+        "확인",
+        "포괄"
+      ],
+      "phonetic_romanization": "pyo"
+    },
+    "표시_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 중요한 부분에 밑줄을 그어 표시합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 지도에 집 위치를 표시하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "위험 구역에 붉은색 표시를 해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "기계의 화면에 오류 표시가 나타났다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 달력에 기념일을 동그라미로 표시했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 표시는 무슨 의미일까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "가격 표시.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "경고",
+        "명칭",
+        "신호",
+        "지시",
+        "표지"
+      ],
+      "phonetic_romanization": "pyosi"
+    },
+    "표준_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "우리 회사는 국제 표준에 맞는 제품을 생산합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 모든 과정을 표준에 맞추어 진행하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "제품 생산 과정의 표준을 정하라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 기술은 산업의 새로운 표준이 되었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 모든 자료를 표준 형식에 맞게 정리했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 규격이 국제 표준으로 채택될 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "표준 시간.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "교정",
+        "기준",
+        "대조"
+      ],
+      "phonetic_romanization": "pyojun"
+    },
+    "표준시_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "우리나라는 동경 135도 기준의 표준시를 사용합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 해외여행을 위해 표준시를 조정하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "모든 업무는 표준시에 맞추어 진행하라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "나라마다 표준시가 다르다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 표준시를 확인하려고 시계탑을 찾아봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "표준시를 변경하면 어떤 영향이 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "동시",
+        "오전",
+        "오후"
+      ],
+      "phonetic_romanization": "pyojunsi"
+    },
+    "표지_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 위험을 알리는 경고 표지를 무시하지 않습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 책 표지에 그려진 그림을 보셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "길을 잃지 않게 표지를 남겨라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 건물 입구에 안내 표지가 붙어 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 산에 갔다가 길을 알려주는 표지를 따라갔어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이곳에 주차 금지 표지를 설치해야 할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "책 표지.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "경고",
+        "신호",
+        "이름표",
+        "지시",
+        "표시"
+      ],
+      "phonetic_romanization": "pyoji"
+    },
+    "표지판_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "운전자는 도로 위의 표지판을 잘 살펴야 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 표지판에 쓰인 내용을 정확하게 이해하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "속도 제한 표지판을 지켜라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "건설 현장 앞에 출입 금지 표지판이 세워져 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 길을 찾으려고 표지판을 자세히 봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 표지판이 너무 작아서 잘 안 보일까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "안내 표지판.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "가리키다"
+      ],
+      "phonetic_romanization": "pyojipan"
+    },
+    "풀다_동사-2": {
+      "attested_sentences": [
+        {
+          "ko": "저는 어려운 수학 문제를 공식에 대입하여 쉽게 풉니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 시험 문제는 시간이 오래 걸려서 풀기 어렵습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "탐정은 복잡한 사건의 실마리를 찾아 수수께끼를 풀었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "친구와 함께 머리를 맞대고 어려운 퍼즐을 풀어 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 매일 아침 간단한 퀴즈를 풀고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 문제를 풀려면 어떤 정보를 알아야 할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "나사를 풀다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "pulda"
+    },
+    "풀이_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 어려운 시의 내용을 이해하기 위해 해설서의 풀이를 참고합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "선생님께서 수학 문제의 풀이를 자세히 설명해 주셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "논문에서는 복잡한 이론에 대한 새로운 풀이가 제시되었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "궁금한 단어의 뜻을 사전에서 찾아 풀이를 확인해 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 시험 문제의 풀이가 이해가 안 돼서 친구에게 물어봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 문제집은 풀이가 친절하고 자세한가요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "정의"
+      ],
+      "phonetic_romanization": "puri"
+    },
+    "품목_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 쇼핑 목록에 적힌 품목들을 하나씩 확인합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 세일 기간에 할인되는 품목이 많습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "마트에서는 식품과 생활용품 등 다양한 품목을 판매했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "새로운 품목들을 추가하여 상품 구성을 다양하게 해 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 이 목록에서 빠진 품목이 없는지 확인했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "주문한 품목 중에서 재고가 없는 것이 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "배부",
+        "정가",
+        "출하량"
+      ],
+      "phonetic_romanization": "pummok"
+    },
+    "피크_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 휴가철이 피크인 시기를 피해 여행을 계획합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "교통량이 가장 많은 피크 시간이 언제입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "주식 가격은 지난달에 최고 피크를 찍고 하락세로 돌아섰다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "작업의 피크 시간대에는 집중력을 높여 효율을 극대화해 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 낮 12시가 점심 식사 피크 시간이라고 생각해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "전력 사용량이 피크일 때 전기 요금이 많이 나올까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "고등",
+        "만점"
+      ],
+      "phonetic_romanization": "pikeu"
+    },
+    "피하다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 시끄러운 소음을 피하여 조용한 곳으로 이동합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "약속 시간에 늦지 않도록 교통 체증을 피해야 합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 자신에게 닥친 위험을 현명하게 피하고 위기를 모면했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "예상치 못한 사고를 피하기 위해 항상 주변을 잘 살피자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 불편한 상황이 생길까 봐 그 사람을 피했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "피할 수 없는 일은 어떻게 대처하는 것이 좋을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "책임을 피하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "돌려보내다",
+        "숨다",
+        "챙기다"
+      ],
+      "phonetic_romanization": "pihada"
+    },
+    "필연_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 그들의 만남이 운명이 아닌 필연이었다고 믿습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "모든 결과에는 필연적인 원인이 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그의 성공은 우연이 아니라 노력의 필연적인 결과였다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "필연적으로 일어날 일이라면 두려워하지 말고 받아들이자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 이 사건의 결말이 필연적으로 정해져 있다고 생각했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "우연과 필연은 어떤 관계가 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "이유"
+      ],
+      "phonetic_romanization": "pilyeon"
+    },
+    "필요성_일반명사-1": {
+      "attested_sentences": [],
+      "related_vocab": [
+        "보편",
+        "본질",
+        "소용",
+        "필요조건"
+      ],
+      "phonetic_romanization": ""
+    },
+    "필요조건_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 성공을 위한 필요조건과 충분조건을 구분합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 시험에 응시하기 위한 필요조건은 무엇입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그의 능력이 이 프로젝트를 성공시키는 데 필요조건이 되었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "우리 팀에 필요한 필요조건들을 명확히 정리해 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 성실함이 좋은 직원이 되기 위한 필요조건이라고 생각했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "필요조건과 충분조건은 어떻게 다를까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "요건",
+        "절차",
+        "필요성"
+      ],
+      "phonetic_romanization": "pillyojogeon"
+    },
+    "하_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "수준을 상, 중, 하로 나누다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "상위",
+        "순위"
+      ],
+      "phonetic_romanization": ""
+    },
+    "하나_수사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 오늘 아침에 빵 하나와 우유 한 잔을 먹습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "팀원 중 단 하나라도 결석해서는 안 됩니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 사과 하나를 통째로 베어 물고 맛있게 먹었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "문제를 하나씩 차근차근 풀어 나가 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 친구에게 연필 하나를 빌려줬어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "손가락 하나로 숫자를 어떻게 셀 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "소원이 하나 있다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "다섯"
+      ],
+      "phonetic_romanization": "hana"
+    },
+    "하나하나_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 문제점을 하나하나 짚어 가며 해결책을 찾습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "포장된 선물들을 하나하나 열어 보아야 합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "어머니는 잃어버린 물건들을 하나하나 자세히 기억해 냈다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "해야 할 일들을 하나하나 메모하며 잊지 않도록 하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 친구들에게 궁금한 점을 하나하나 물어봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 상자 안의 물건들을 하나하나 꺼내 봐야 할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "하나하나 세다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "번호",
+        "순서",
+        "차례"
+      ],
+      "phonetic_romanization": "hanahana"
+    },
+    "하다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 내일부터 운동을 열심히 하려고 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "내일 할 일은 오늘 미리 준비해야 합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 아무리 어려운 일이라도 포기하지 않고 해냈다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "주어진 임무를 최선을 다해 완벽하게 해 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 오늘 숙제를 다 하고 늦게 잤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 어려운 일을 제가 혼자서 할 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "운동을 하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "동참",
+        "만지다"
+      ],
+      "phonetic_romanization": "hada"
+    },
+    "하루_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 하루 일과를 마치고 편안하게 잠자리에 듭니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "여행 첫날 일정을 모두 소화하는 것이 무리가 없습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 하루 종일 쉬지 않고 일에 몰두했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "즐거운 하루를 보내기 위해 아침 일찍 일어나 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 하루 동안 물을 2리터 마시려고 노력해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "하루에 몇 시간 정도 잠을 자야 충분할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "하루가 걸리다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "닷새",
+        "밤낮",
+        "수요일",
+        "종일",
+        "종일"
+      ],
+      "phonetic_romanization": "haru"
+    },
+    "하루빨리_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 하루빨리 시험이 끝나기를 기대합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "사고 현장이 하루빨리 복구될 수 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 하루빨리 고향에 돌아가 부모님을 뵙고 싶었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "새로운 프로젝트를 하루빨리 시작하여 성과를 내 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 하루빨리 이사를 가고 싶어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "고장 난 컴퓨터를 하루빨리 고쳐야 할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "haruppalli"
+    },
+    "하루하루_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 목표를 향해 하루하루 최선을 다해 살아갑니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "지루한 일상 속에서 하루하루가 똑같이 느껴집니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그녀는 힘든 상황 속에서도 하루하루를 감사하며 보냈다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "소중한 하루하루를 의미 있게 보내기 위해 계획을 세워 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 하루하루 성장하는 제 모습을 보며 뿌듯함을 느껴요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "하루하루 시간이 정말 빨리 지나가는 것 같지 않나요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "매일",
+        "요일",
+        "종일"
+      ],
+      "phonetic_romanization": "haruharu"
+    },
+    "하룻밤_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 여행지에서 하룻밤 묵을 숙소를 예약합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "하룻밤 사이에 날씨가 갑자기 추워졌습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 하룻밤을 꼬박 새워 중요한 보고서를 작성했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "숲속에서 하룻밤 캠핑하며 자연의 소리를 들어 보자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 친구 집에서 하룻밤 자고 왔어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "하룻밤 사이에 세상이 완전히 바뀔 수도 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "밤",
+        "종일"
+      ],
+      "phonetic_romanization": "harutbam"
+    },
+    "한가운데_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "한가운데에 놓다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": ""
+    },
+    "한가하다_형용사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이번 주는 한가하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "이어서",
+        "지속"
+      ],
+      "phonetic_romanization": ""
+    },
+    "한낮_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "한낮 더위.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "오후",
+        "정오"
+      ],
+      "phonetic_romanization": ""
+    },
+    "한동안_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "그는 무슨 생각을 하는지 한동안 말이 없었습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "저는 아파서 한동안 병원에 입원했습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "장마철이라 한동안 계속 비가 내렸다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그 소설가는 책을 한동안 발표하지 않았다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "사고 때문에 길이 막혀서 한동안 기다려야 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "친구와 싸운 후에 우리는 한동안 서로 연락하지 않았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "한동안 계속되다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "이내",
+        "당분간",
+        "오랫동안"
+      ],
+      "phonetic_romanization": "handongan"
+    },
+    "해_일반명사-2": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 매 해마다 해외여행을 갑니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "내년 해에는 더 좋은 일이 있으시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "새로운 해가 밝았다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "다음 해에는 목표를 이루도록 노력하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 올해부터 담배를 끊기로 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 해가 가기 전에 꼭 해 보고 싶은 일이 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "해가 뜨다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "매년",
+        "평소"
+      ],
+      "phonetic_romanization": "hae"
+    },
+    "해결_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 문제를 신속하게 해결해야 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "두 사람 사이의 갈등을 해결하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "정부는 물가 상승 문제를 해결해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "사건을 곧 해결할 것이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 어려운 숙제를 드디어 해결했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "어떻게 하면 이 상황을 해결할 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "문제 해결.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "해석"
+      ],
+      "phonetic_romanization": "haegyeol"
+    },
+    "해결책_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 이 사안에 대한 해결책을 찾았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 문제에 대한 가장 좋은 해결책은 무엇입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "정부는 실업 문제 해결책을 제시했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "다양한 해결책 중에서 하나를 선택해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "효과적인 해결책이 필요해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "서로 이야기해서 해결책을 찾아봅시다.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "개선책",
+        "관리법",
+        "비결",
+        "조치",
+        "해법"
+      ],
+      "phonetic_romanization": "haegyeolchaek"
+    },
+    "해내다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 그 어려운 일을 결국 해내고 말았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 주어진 임무를 기한 내에 해내시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 약속대로 힘든 일을 해냈다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "너도 이 정도 일은 쉽게 해낼 수 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "혼자서 그 많은 일을 다 해냈어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이번 프로젝트를 꼭 멋지게 해낼게요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "마치다",
+        "이루다",
+        "수습"
+      ],
+      "phonetic_romanization": "haenaeda"
+    },
+    "해답_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "문제의 해답을 찾기 위해 노력하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 시험 문제의 해답은 무엇이라고 생각하십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "답지에서 정답을 확인하니 해답이 맞았다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그는 모든 질문에 명확한 해답을 주었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "아직 이 질문에 대한 해답을 못 찾았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "수학 문제의 해답은 뒤쪽에 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "haedap"
+    },
+    "해당_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "해당 서류를 작성하여 제출해 주십시오.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 규칙이 모든 팀에 해당합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 정보는 해당 부서에만 전달된다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그는 해당 분야의 전문가이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 해당 사항이 없어서 체크하지 않았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 상품은 할인 대상에 해당하지 않아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "해당 부서.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "아니다",
+        "유효"
+      ],
+      "phonetic_romanization": "haedang"
+    },
+    "해독_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 이 고대 문서를 해독하려고 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그 암호를 해독하는 데 성공하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그림의 상징을 해독하는 것은 쉽지 않다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "숨겨진 의미를 해독하는 능력이 필요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "선생님께서 어려운 문장을 해독해 주셨어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "저는 외국어 문서를 해독하는 일을 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "편집",
+        "해석",
+        "요약"
+      ],
+      "phonetic_romanization": "haedok"
+    },
+    "해법_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 이 위기를 극복할 해법을 모색하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 문제의 가장 쉬운 해법을 아십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "선생님은 문제에 대한 해법을 제시했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "새로운 해법이 필요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 복잡한 문제의 해법을 찾아냈어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 수학 문제의 해법을 알려주실 수 있을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "개선책",
+        "관리법",
+        "비결",
+        "조치",
+        "해결책"
+      ],
+      "phonetic_romanization": "haebeop"
+    },
+    "해석_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 그 사건의 새로운 해석을 내놓았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 문장을 한국어로 어떻게 해석해야 합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "개인의 감정을 상황에 대한 해석과 분리해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그의 행동에는 여러 가지 해석이 가능하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 어려운 영어 문장을 쉽게 해석했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 영화는 해석이 정말 다양할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "영어로 설명서를 해석하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "검토",
+        "인용",
+        "해결",
+        "해독"
+      ],
+      "phonetic_romanization": "haeseok"
+    },
+    "해설_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "경기 전에 전문가의 해설을 들을 수 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그 시의 해설이 책에 잘 나와 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "작품의 배경에 대한 해설이 필요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "교과서에는 어려운 개념에 대한 해설이 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "영화감독의 해설을 들으면서 영화를 봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 책에는 문제 해설이 아주 자세해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "정답 해설.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "설명",
+        "보기"
+      ],
+      "phonetic_romanization": "haeseol"
+    },
+    "핵심_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 문제의 핵심을 파악하는 것이 중요합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "보고서의 핵심 내용을 간략하게 정리하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 기술은 프로젝트의 핵심이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "핵심적인 정보를 놓치지 않도록 주의해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 발표 자료의 핵심만 정리했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그녀는 팀의 핵심 인물이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "핵심 인물.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "강조",
+        "내역",
+        "초점",
+        "부각"
+      ],
+      "phonetic_romanization": "haeksim"
+    },
+    "행적_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 그 인물의 행적을 철저히 조사했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "도망자의 행적을 추적하고 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "역사가는 과거 위인의 행적을 연구한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "지난 일 년간의 행적을 기록해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "경찰이 용의자의 행적을 쫓고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "저는 그의 행적이 궁금해서 찾아봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "역대",
+        "지난날"
+      ],
+      "phonetic_romanization": "haengjeok"
+    },
+    "행하다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 고객의 요청에 따라 조치를 행하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 항상 선행을 행하시기를 바라십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "말이 아닌 행동으로 실천을 행해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "정부는 새로운 정책을 행했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저희는 매일 아침 명상을 행하고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "어제 봉사활동을 행하고 왔어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "폭력을 행하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "시도",
+        "완료"
+      ],
+      "phonetic_romanization": "haenghada"
+    },
+    "향후_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "향후 계획에 대해 간략하게 설명해 주십시오.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "향후 5년간의 목표를 설정하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "향후 몇 년 동안 이 프로젝트가 지속될 것이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "향후 전망은 밝다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "향후 일정은 아직 정해지지 않았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "향후의 일은 아무도 예측할 수 없어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "앞날"
+      ],
+      "phonetic_romanization": "hyanghu"
+    },
+    "헤아리다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "숫자를 헤아리다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "계산기"
+      ],
+      "phonetic_romanization": ""
+    },
+    "현_관형사-1": {
+      "attested_sentences": [
+        {
+          "ko": "현 정부의 경제 정책 방향은 무엇입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 서류는 현 주소를 정확하게 기입해야 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 현 회사를 설립한 창립자이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "현 상황을 파악하고 대책을 논의하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 자료는 현 시점의 통계 자료를 바탕으로 만들어졌어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "현 국회의원들은 다음 선거에 출마할 예정이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "기존"
+      ],
+      "phonetic_romanization": "hyeon"
+    },
+    "현대_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "현대 사회에서는 정보 기술이 매우 중요합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신이 생각하는 현대의 특징은 무엇입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "현대 문명은 급속도로 발전했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "현대의 삶에서 우리는 스트레스를 관리해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 현대 미술에는 아직 관심이 없어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "과학 기술 덕분에 우리는 편리한 현대를 살고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "현대의 과학 기술.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "오늘날",
+        "조만간"
+      ],
+      "phonetic_romanization": "hyeondae"
+    },
+    "현대사_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 한국 현대사에 깊은 관심을 갖고 공부합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "다음 학기에 현대사 강의를 수강하시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 책은 한 국가의 격동적인 현대사를 다루고 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "오늘의 우리를 이해하기 위해서는 현대사를 배워야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 학교에서 세계 현대사를 배웠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "시험 범위에 현대사 부분도 포함되나요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "중세"
+      ],
+      "phonetic_romanization": "hyeondaesa"
+    },
+    "현재_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 현재 진행 중인 프로젝트를 책임지고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "현재까지 특별한 문제점은 없었습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "과거보다는 현재의 삶에 충실해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "현재의 어려움에 좌절하지 말고 미래를 준비하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 현재 직장을 구하고 있는 중이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "현재 시간은 오후 3시 30분이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "현재 상황을 파악하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "오늘",
+        "오늘날",
+        "올해",
+        "이번",
+        "현행"
+      ],
+      "phonetic_romanization": "hyeonjae"
+    },
+    "현행_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "현행 규정으로는 이 문제를 해결하기 어렵습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "현행 법규를 정확히 알고 계십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "교육부는 현행 교과서를 개편할 계획이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "현행 제도의 문제점을 빠르게 개선하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 회사는 현행 시스템을 내년부터 바꿀 거예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "현행 법률에 따르면 이 행위는 불법이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "현재"
+      ],
+      "phonetic_romanization": "hyeonhaeng"
+    },
+    "호기_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이번 기회를 호기로 삼아 도약하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신에게 이직할 수 있는 좋은 호기가 찾아왔습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 실패를 다시 일어설 호기로 보았다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "적절한 때를 기다려 호기를 잡아라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 그 순간을 놓치지 않고 호기로 삼았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "지금이 바로 시작할 수 있는 절호의 호기예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "마감일"
+      ],
+      "phonetic_romanization": "hogi"
+    },
+    "혹은_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 커피 혹은 차를 마시겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 월요일 혹은 수요일에 오시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "여행은 기차 혹은 버스를 이용할 수 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "자유 혹은 평등, 무엇을 더 중요하게 생각하는가?",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 영화를 보거나 혹은 책을 읽으며 쉬어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "질문이 있다면 이메일 혹은 전화로 문의하세요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "아들 혹은 딸.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "기호",
+        "아니다",
+        "아니면",
+        "연결",
+        "연계"
+      ],
+      "phonetic_romanization": "hogeun"
+    },
+    "혼합_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 다양한 재료의 혼합으로 새로운 맛을 창조합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 음료는 여러 과일 주스의 혼합물입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "액체와 고체의 혼합은 화학 반응을 일으킨다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "색을 섞어 다양한 혼합 색을 만들어라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 두 가지 커피 원두를 혼합해서 마셔요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 복합 단지는 주거와 상업 시설이 혼합되어 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "honhap"
+    },
+    "홀수_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "엘리베이터가 홀수 층에 서다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "짝수"
+      ],
+      "phonetic_romanization": ""
+    },
+    "화두_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "환경 보호 문제가 요즘 사회의 중요한 화두로 떠오릅니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "오늘 회의의 화두는 무엇이라고 생각하십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그 학자의 새로운 이론이 학계의 뜨거운 화두가 되었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이번 발표의 화두는 인공 지능의 미래이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "친구들과 만나면 항상 옛날 추억이 우리의 화두가 돼요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "선거에서 경제 문제가 가장 큰 화두였어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "전제",
+        "화제"
+      ],
+      "phonetic_romanization": "hwadu"
+    },
+    "화요일_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "다음 주 화요일에 회의를 시작하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 주 화요일에 시간이 괜찮으십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "나는 화요일마다 수영 강습을 받는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "중요한 약속을 화요일 오전으로 정하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 화요일이 일주일 중에서 가장 바쁜 날이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "화요일 점심에는 친구와 식당에서 만났어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "화요일에 피아노를 배우다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "hwayoil"
+    },
+    "화제_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "그 드라마는 방영 직후부터 사회적으로 큰 화제가 되었습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "최근 친구들 사이에서 가장 큰 화제는 무엇입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "우리는 오랜만에 만나서 다양한 화제를 놓고 이야기했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "오늘의 화제는 건강한 식단 관리법이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 이 소설이 요즘 젊은 세대 사이에서 큰 화제가 되고 있는 것을 알아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그 가수의 새 앨범이 연일 화제예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "화제를 바꾸다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "전제",
+        "화두"
+      ],
+      "phonetic_romanization": "hwaje"
+    },
+    "확대_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "정부는 일자리 창출을 위해 투자를 확대할 계획입니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이미지의 특정 부분을 확대할 수 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시장 확대를 위해 새로운 마케팅 전략을 도입했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 문제를 해결하려면 논의 범위를 확대해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 사진을 확대해서 작은 글씨를 읽었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 제품은 해외 수출이 확대되고 있는 추세예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "투자 확대를 고민하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "소규모",
+        "축소"
+      ],
+      "phonetic_romanization": "hwakdae"
+    },
+    "확률_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 복권에 당첨될 확률은 매우 낮습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "내일 비가 올 확률이 몇 퍼센트라고 예측합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "과학자들은 특정 질병이 발생할 확률을 계산했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "우리는 확률에만 의존하지 말고 최선을 다해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 수학 시간에 확률 문제를 열심히 풀었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "벼락을 맞을 확률은 정말 낮다고 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "그래프",
+        "늘리다",
+        "반",
+        "진척"
+      ],
+      "phonetic_romanization": "hwangnyul"
+    },
+    "확보_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "정부는 국민의 안전을 위해 비상 식량을 확보했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "프로젝트 수행에 필요한 자금을 충분히 확보하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "우리는 다음 경기에서 승리하여 4강 진출을 확보했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "예상치 못한 상황에 대비하여 예비 자원을 미리 확보하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 이 행사에 참석하기 위해 미리 좌석을 확보했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "핵심 기술을 확보하는 것이 기업의 최우선 목표예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "인력 확보에 나서다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "넓히다"
+      ],
+      "phonetic_romanization": "hwakbo"
+    },
+    "확산_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "새로운 정보가 인터넷을 통해 빠르게 확산되고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "잘못된 소문이 확산되는 것을 막을 방법이 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "전염병의 확산을 막기 위해 모두 마스크를 착용했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 기술을 전 세계로 확산시키도록 노력하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 화재 시 연기가 위로 빠르게 확산된다는 것을 배웠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그 가수의 인기는 해외까지 확산되었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "전염병 확산을 막다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "늘어나다",
+        "증대",
+        "활동량"
+      ],
+      "phonetic_romanization": "hwaksan"
+    },
+    "확인_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 출발하기 전에 안전벨트를 확인하는 습관이 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "예약 내용이 정확한지 다시 한번 확인하시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 신분증 확인을 위해 잠시 멈춰 섰다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이메일로 받은 내용을 반드시 확인하고 회신해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 문이 잘 잠겼는지 확인하고 집을 나섰어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "저는 주문한 물품이 도착했는지 확인해 봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "금액 확인 후에 계약하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "깨닫다",
+        "깨달음",
+        "표",
+        "도로",
+        "참조"
+      ],
+      "phonetic_romanization": "hwagin"
+    },
+    "확장_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 사업 영역 확장을 위해 새로운 지사를 설립할 것입니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 주에 공장의 규모를 확장할 계획입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "우리는 독서를 통해 지식의 범위를 확장해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "주차 공간 확장을 위해 공터 일부를 사용하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 저장 공간 확장을 위해 외장 하드디스크를 샀어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 길은 차도를 넓히는 확장 공사를 진행 중이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "확장 공사를 실시하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "대폭"
+      ],
+      "phonetic_romanization": "hwakjang"
+    },
+    "확정_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이번 주 금요일에 회의 일정을 최종 확정하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 해외여행 계획을 모두 확정했습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "투표 결과, 당선자가 최종 확정되었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "휴가 일정을 확정하고 비행기 표를 예약해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 아직 이사 갈 날짜를 확정하지 못했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "재판 결과가 확정되어 형량이 정해졌어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "특정"
+      ],
+      "phonetic_romanization": "hwakjeong"
+    },
+    "환절기_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "환절기에는 감기에 걸리지 않도록 조심하십시오.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "환절기에 건강 관리를 철저히 하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "환절기는 면역력이 약해지기 쉬운 시기다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "환절기에는 옷차림에 신경 써야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 환절기만 되면 알레르기가 심해져요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "요즘 같은 환절기에는 비타민을 챙겨 먹어야 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "조기",
+        "초기"
+      ],
+      "phonetic_romanization": "hwanjeolgi"
+    },
+    "활동_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 청소년들의 사회 활동을 적극 지원합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "최근 봉사 활동을 얼마나 자주 하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "학생들은 동아리 활동을 통해 경험을 쌓는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그는 정치 활동을 중단했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 다양한 문화 활동에 참여하고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "산책은 가벼운 활동으로 좋아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "봉사 활동을 하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "hwaldong"
+    },
+    "활동량_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 건강을 위해 하루 활동량을 늘리려고 노력합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "어제보다 오늘의 활동량이 더 많았습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "활동량이 적으면 건강에 해롭다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "겨울에는 야외 활동량이 줄어든다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 만보기로 매일 활동량을 확인해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 운동은 다른 운동보다 활동량이 많아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "대규모",
+        "생산량",
+        "속도",
+        "확산"
+      ],
+      "phonetic_romanization": "hwaldongnyang"
+    },
+    "활성_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 효소 활성을 높이는 연구를 진행하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "뇌 활성을 높이는 데 도움이 되는 음식을 드셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "촉매는 화학 반응의 활성을 증가시킨다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "운동은 신진대사의 활성을 돕는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 비타민을 먹고 몸의 활성을 높이고 싶어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 물질은 특정 세포의 활성을 막는다고 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "퇴화",
+        "활용"
+      ],
+      "phonetic_romanization": "hwalseong"
+    },
+    "활약_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "우리 팀 선수의 맹활약으로 경기에 승리했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 지난 프로젝트에서 어떤 활약을 하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그 배우는 영화와 드라마에서 활약을 펼친다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "젊은 세대의 적극적인 활약이 요구된다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 팀의 승리를 위해 열심히 활약했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그 신인 선수의 활약이 대단했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "공헌",
+        "용어"
+      ],
+      "phonetic_romanization": "hwar-yak"
+    },
+    "활용_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 첨단 기술을 적극 활용하여 제품을 만듭니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 정보를 사업에 잘 활용하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시간을 효율적으로 활용하는 것이 중요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "폐기물을 재활용하는 방안을 찾아라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 인터넷 강의를 적극 활용해서 공부했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 앱은 다양한 기능을 활용할 수 있어서 좋아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "공간을 활용하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "냉각",
+        "처치",
+        "조절",
+        "응용",
+        "활성"
+      ],
+      "phonetic_romanization": "hwalyong"
+    },
+    "활용도_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 제품은 뛰어난 기능과 높은 활용도를 자랑합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "구매하신 가구의 활용도가 높습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "실용적인 디자인은 활용도를 높인다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "공공 시설의 활용도를 높여야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 활용도가 높은 만능 도구를 찾고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 프로그램은 활용도가 매우 높아서 좋아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "속도",
+        "의존도",
+        "재력"
+      ],
+      "phonetic_romanization": "hwalyongdo"
+    },
+    "황금연휴_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이번 황금연휴를 맞아 특별 이벤트를 준비했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "황금연휴 기간 동안 여행 계획이 있으십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "긴 황금연휴는 직장인들에게 큰 기쁨을 준다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "황금연휴 동안 고향을 방문했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 황금연휴에 가족들과 제주도에 갈 거예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "황금연휴에는 어딜 가도 사람이 많아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "나날이",
+        "연휴"
+      ],
+      "phonetic_romanization": "hwanggeumyeonhyu"
+    },
+    "회귀_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 자연으로의 회귀를 꿈꾸는 캠페인을 진행하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "연어는 태어난 강으로 회귀하는 습성이 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "원점으로의 회귀는 때로 새로운 시작을 의미한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 현상은 주기적인 회귀 패턴을 보인다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 옛날 좋았던 시절로 회귀하고 싶어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "정상적인 상태로의 회귀가 가능할까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "돌려보내다",
+        "되돌리다",
+        "퇴보",
+        "움직이다"
+      ],
+      "phonetic_romanization": "hoegwi"
+    },
+    "회복_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 환자분의 빠른 건강 회복을 기원합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "경제 상황이 곧 회복될 것으로 예상하십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "충분한 휴식은 피로 회복에 필수적이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "국가 간의 관계 회복을 위한 노력이 필요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 병원에서 빠른 회복을 위해 노력했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "경기가 언제쯤 회복될지 궁금해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "피로 회복.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "되돌리다",
+        "되살리다",
+        "변화",
+        "재현",
+        "증진"
+      ],
+      "phonetic_romanization": "hoebok"
+    },
+    "획득_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 이번 대회에서 금메달을 획득하는 영광을 안았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 그 자격증을 획득하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "선수는 꾸준한 노력으로 우승을 획득한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "지식 획득은 삶의 질을 높이는 데 중요하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 마침내 바라던 학위를 획득했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 상을 획득하기 위해 열심히 노력했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "계승",
+        "이루다"
+      ],
+      "phonetic_romanization": "hoekdeuk"
+    },
+    "횟수_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 고객의 방문 횟수에 따라 할인 혜택을 제공합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "하루에 식사하는 횟수가 몇 번이십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "운동 횟수를 점차 늘려야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "실험은 여러 번의 횟수를 거쳐야 정확한 결과를 얻는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 청소 횟수를 줄이고 싶어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이번 달에 영화 본 횟수가 다섯 번이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "횟수를 세다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "건수",
+        "번호",
+        "그때그때",
+        "드물다",
+        "뜸"
+      ],
+      "phonetic_romanization": "hoessu"
+    },
+    "효율_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "우리는 업무의 효율을 높이기 위해 새로운 시스템을 도입했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 기계의 에너지 효율은 얼마나 됩니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시간을 효율적으로 사용해야 원하는 목표를 이룰 수 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "더 높은 효율을 위해 불필요한 단계를 제거하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 공부 효율을 높이는 방법을 찾고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 방법은 작업 효율이 너무 낮아서 바꿔야 할 것 같아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "시청률",
+        "퍼센트"
+      ],
+      "phonetic_romanization": "hyoyul"
+    },
+    "후_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "회의 후에는 모든 참석자에게 자료를 배포하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "퇴근 후에도 개인적인 공부를 하십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "결혼 후 그녀의 삶은 완전히 바뀌었다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "밥을 먹은 후에는 잊지 말고 이를 닦아라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 운동 후에 마시는 물이 가장 맛있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "사고 후에도 한동안 고통을 겪었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "오 분 후에 시작하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "뒤",
+        "이따",
+        "이따가",
+        "이후",
+        "앞"
+      ],
+      "phonetic_romanization": "hu"
+    },
+    "후반_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "축구 경기의 후반전이 곧 시작될 예정입니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 프로젝트는 연말 후반기에 완료됩니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "팀은 경기 후반에 역전 골을 넣어 승리했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "인생의 후반을 위한 새로운 계획을 세우자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 여행 후반에 체력이 떨어져서 힘들었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그 선수는 경기의 후반까지 최선을 다해서 뛰었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "경기가 후반에 들어서다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "명맥",
+        "시기",
+        "지속"
+      ],
+      "phonetic_romanization": "huban"
+    },
+    "후세_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "우리는 후세를 위해 깨끗한 환경을 보존해야 합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "우리의 업적이 후세에까지 길이 기억될 수 있겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 이야기는 수많은 세월이 흘러 후세에 전해졌다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "후세가 우리를 자랑스럽게 여길 수 있도록 노력하자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 후세 사람들이 더 평화로운 세상에 살기를 바라요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 기록들은 후세에게 중요한 역사적 자료가 될 거예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "당대"
+      ],
+      "phonetic_romanization": "huse"
+    },
+    "훨씬_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 제품은 기존 모델보다 성능이 훨씬 향상되었습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이곳이 지난번에 갔던 곳보다 훨씬 넓지 않습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "기차를 타니 버스를 탔을 때보다 훨씬 빨리 도착했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "평소보다 훨씬 일찍 일어나 아침 식사를 해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 이 드레스가 저한테 훨씬 더 잘 어울리는 것 같아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "오늘 날씨가 어제보다 훨씬 따뜻해서 기분이 좋아요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "훨씬 많다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "굉장히",
+        "그지없다",
+        "너무나",
+        "무려",
+        "미니"
+      ],
+      "phonetic_romanization": "hweolssin"
+    },
+    "휴가철_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "휴가철에는 고속도로가 매우 혼잡하니 주의하십시오.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 휴가철이 되기 전에 미리 여행 계획을 세우십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "항공권 가격은 휴가철에 가장 비싸다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "사람이 붐비는 휴가철을 피해 여행을 떠나자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 휴가철에 해외여행을 가는 사람이 많다는 뉴스를 봤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "휴가철인데도 불구하고 저는 회사에 남아서 일했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "휴가철이 시작된다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "hyugacheol"
+    },
+    "휴일_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "다음 주 화요일은 공휴일로 지정되어 휴일입니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 휴일에 특별한 계획이 있으십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "나는 휴일에도 회사에 나가서 밀린 일을 했다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "긴 휴일 동안 가족과 함께 여행을 가자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 휴일이 짧아서 아쉽지만 잘 쉬었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "휴일이라서 박물관에 사람이 정말 많았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "휴일이 많다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "평상시"
+      ],
+      "phonetic_romanization": "hyuil"
+    },
+    "흐르다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "땀이 얼굴을 타고 쉴 새 없이 아래로 흐릅니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시간이 매우 빠르게 흐른다고 느끼십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시계는 멈췄지만 시간은 계속해서 흐른다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "강물이 바다로 흐르듯 자연의 순리를 따르자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 눈물을 흘려서 화장이 번졌어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "물이 아래로 흐르지 않게 바닥에 턱을 만들었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "물이 흐르다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "정기",
+        "생후",
+        "흘려보내다"
+      ],
+      "phonetic_romanization": "heureuda"
+    },
+    "흐름_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "전문가들은 최근 시장의 흐름을 분석하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 대화의 흐름을 잘 읽는 편이십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "우리는 강물의 흐름을 따라 배를 타고 내려갔다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "세계 경제의 흐름을 파악하여 투자 전략을 짜자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 강의를 들으면서 내용의 흐름을 놓치지 않으려고 노력했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "그는 최근 기술의 변화 흐름을 잘 알고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "강물의 흐름.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "영원히",
+        "발달",
+        "추세"
+      ],
+      "phonetic_romanization": "heureum"
+    },
+    "흔하다_형용사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희 회사의 디자인은 흔하지 않아 특별함을 드립니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "요즘 길거리에서 이 브랜드 옷을 흔하게 볼 수 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 지역에서는 이런 종류의 꽃이 흔하다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "아무리 돈이 많더라도 건강만큼 흔한 것은 없다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이런 종류의 실수는 흔해서 크게 걱정하지 않아도 돼요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "요즘 젊은이들 사이에서 쓰는 말은 정말 흔해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "흔하게 볼 수 있다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "골고루",
+        "가량",
+        "각종"
+      ],
+      "phonetic_romanization": "heunhada"
+    },
+    "흔히_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 흔히 볼 수 없는 희귀 자료를 전시하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 아침 식사로 빵을 흔히 드십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "사람들은 흔히 행복을 먼 곳에서 찾는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이러한 현상은 봄철에 흔히 나타난다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 흔히 사람들이 모르는 특별한 장소를 알고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 음식은 흔히 가정에서 해 먹는 반찬이에요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "흔히 보다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "심심찮다"
+      ],
+      "phonetic_romanization": "heunhi"
+    },
+    "흘러가다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 강물이 조용히 흘러가는 모습을 보며 생각에 잠겼습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "시간이 너무 빨리 흘러가서 아쉽지 않으십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "물은 높은 곳에서 낮은 곳으로 흘러간다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "세월이 강물처럼 빠르게 흘러간다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 좋았던 기억만 간직하고 안 좋은 기억은 흘러가게 두려고 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "바닷물이 계속 한 방향으로 흘러가고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "시냇물이 흘러가다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "점점",
+        "오래오래"
+      ],
+      "phonetic_romanization": "heulleogada"
+    },
+    "흘려보내다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 부정적인 감정을 흘려보내고 긍정적인 생각에 집중하도록 훈련합니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "소중한 시간을 헛되이 흘려보내지는 않으셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "강물에 나뭇잎을 띄워 흘려보낸다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "좋은 기회를 허무하게 흘려보내는 것은 어리석은 짓이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 지난 일은 깨끗이 잊고 마음속에서 흘려보내기로 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "수도관에 물을 흘려보내서 청소를 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "흐르다"
+      ],
+      "phonetic_romanization": "heullyeobonaeda"
+    },
+    "희귀_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희 연구소는 희귀 동물의 보호에 힘쓰고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 희귀한 보석을 보신 적이 있습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "희귀 식물은 특별히 보호해야 한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그 박물관에는 희귀한 유물이 많이 전시되어 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 희귀한 우표를 수집하는 취미가 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 책은 희귀본이라 구하기 힘들어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "막대하다"
+      ],
+      "phonetic_romanization": "higwi"
+    },
+    "희소_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희는 희소 가치가 높은 예술품을 주로 취급하고 있습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이 지역은 희소한 광물 자원이 많습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "천연자원의 희소 문제는 국제적인 관심사이다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "희소 자원의 가치는 시간이 지날수록 높아진다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 희소성 있는 물건을 수집하는 것을 좋아해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이곳은 인구 희소 지역이라 조용해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "감축",
+        "과다",
+        "급증",
+        "증가",
+        "미세"
+      ],
+      "phonetic_romanization": "hiso"
+    },
+    "힘껏_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저희 팀은 성공을 위해 오늘 하루도 힘껏 노력하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 기회를 잡기 위해 힘껏 달려가셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "그는 힘껏 던져 공을 멀리 보냈다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "힘껏 소리쳐서 내 뜻을 알려라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 팀을 응원하기 위해 힘껏 박수를 쳤어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "문이 잘 안 열려서 힘껏 밀었어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "책상을 힘껏 밀다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "몽땅",
+        "빠짐없이",
+        "완전히",
+        "전부"
+      ],
+      "phonetic_romanization": "himkkeot"
+    }
+  }
+}

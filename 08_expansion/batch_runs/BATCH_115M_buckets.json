@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "노동력_일반명사-1",
+      "rationale_short": "직업 활동과 직접 관련",
+      "root": "직장과 업무",
+      "category_label_ko": "일할 수 있는 힘"
+    },
+    {
+      "meaning_id": "노래방_일반명사-1",
+      "rationale_short": "여가 활동 장소",
+      "root": "여가와 취미",
+      "category_label_ko": "노래 부르는 시설"
+    },
+    {
+      "meaning_id": "노래자랑_일반명사-1",
+      "rationale_short": "여가 활동의 일종",
+      "root": "여가와 취미",
+      "category_label_ko": "노래 실력 겨루기"
+    },
+    {
+      "meaning_id": "노친_일반명사-1",
+      "rationale_short": "가족/사회적 관계의 인물",
+      "root": "사람과 관계",
+      "category_label_ko": "나이 많은 어른"
+    },
+    {
+      "meaning_id": "논_일반명사-1",
+      "rationale_short": "식량 생산 장소",
+      "root": "식생활",
+      "category_label_ko": "벼 재배지"
+    },
+    {
+      "meaning_id": "농경지_일반명사-1",
+      "rationale_short": "식량 생산 장소",
+      "root": "식생활",
+      "category_label_ko": "농사 짓는 땅"
+    },
+    {
+      "meaning_id": "농작물_일반명사-1",
+      "rationale_short": "식량 관련 생산물",
+      "root": "식생활",
+      "category_label_ko": "농사로 얻는 작물"
+    },
+    {
+      "meaning_id": "높낮이_일반명사-1",
+      "rationale_short": "물리적 상태 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "높고 낮은 정도"
+    },
+    {
+      "meaning_id": "눈발_일반명사-1",
+      "rationale_short": "날씨 현상",
+      "root": "날씨와 자연",
+      "category_label_ko": "내리는 눈의 기세"
+    },
+    {
+      "meaning_id": "눈병_일반명사-1",
+      "rationale_short": "의료 증상",
+      "root": "보건과 의료",
+      "category_label_ko": "눈에 생기는 질병"
+    },
+    {
+      "meaning_id": "눈코_일반명사-1",
+      "rationale_short": "신체 부위",
+      "root": "보건과 의료",
+      "category_label_ko": "눈과 코"
+    },
+    {
+      "meaning_id": "늑대_일반명사-1",
+      "rationale_short": "자연 속 동물",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 동물"
+    },
+    {
+      "meaning_id": "능동_일반명사-1",
+      "rationale_short": "행동 방식/태도",
+      "root": "성격과 태도",
+      "category_label_ko": "적극적인 행동"
+    },
+    {
+      "meaning_id": "늦어지다_동사-1",
+      "rationale_short": "시간의 변화",
+      "root": "시간과 흐름",
+      "category_label_ko": "예정보다 지연됨"
+    },
+    {
+      "meaning_id": "다소_일반부사-1",
+      "rationale_short": "양이나 정도를 나타냄",
+      "root": "수량과 단위",
+      "category_label_ko": "어느 정도의 양"
+    },
+    {
+      "meaning_id": "다운로드_일반명사-1",
+      "rationale_short": "일상적인 디지털 활동",
+      "root": "주거와 일상",
+      "category_label_ko": "파일 내려받기"
+    },
+    {
+      "meaning_id": "다음날_일반명사-1",
+      "rationale_short": "시간의 개념",
+      "root": "시간과 흐름",
+      "category_label_ko": "바로 그 다음 날"
+    },
+    {
+      "meaning_id": "다툼_일반명사-1",
+      "rationale_short": "사람 간의 갈등",
+      "root": "사람과 관계",
+      "category_label_ko": "서로 시비함"
+    },
+    {
+      "meaning_id": "닥치다_동사-1",
+      "rationale_short": "사건의 발생/도래",
+      "root": "상황 지시/기타",
+      "category_label_ko": "일이 임박함"
+    },
+    {
+      "meaning_id": "닦이다_동사-1",
+      "rationale_short": "일상적인 청소 행위",
+      "root": "주거와 일상",
+      "category_label_ko": "깨끗하게 됨"
+    },
+    {
+      "meaning_id": "단거리_일반명사-1",
+      "rationale_short": "거리의 측정",
+      "root": "수량과 단위",
+      "category_label_ko": "짧은 길이"
+    },
+    {
+      "meaning_id": "단말기_일반명사-1",
+      "rationale_short": "일상적인 전자기기",
+      "root": "주거와 일상",
+      "category_label_ko": "전자 시스템 기기"
+    },
+    {
+      "meaning_id": "단장_일반명사-1",
+      "rationale_short": "조직 내 역할",
+      "root": "직장과 업무",
+      "category_label_ko": "단체 대표자"
+    },
+    {
+      "meaning_id": "단절_일반명사-1",
+      "rationale_short": "관계의 변화",
+      "root": "사람과 관계",
+      "category_label_ko": "관계의 끊어짐"
+    },
+    {
+      "meaning_id": "단추_일반명사-1",
+      "rationale_short": "일상 용품",
+      "root": "주거와 일상",
+      "category_label_ko": "옷 여미는 조각"
+    },
+    {
+      "meaning_id": "달래다_동사-1",
+      "rationale_short": "감정 조절 행위",
+      "root": "내면과 감정",
+      "category_label_ko": "감정을 진정시킴"
+    },
+    {
+      "meaning_id": "달빛_일반명사-1",
+      "rationale_short": "자연 현상",
+      "root": "날씨와 자연",
+      "category_label_ko": "달에서 비치는 빛"
+    },
+    {
+      "meaning_id": "닳다_동사-1",
+      "rationale_short": "물리적 상태 변화 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "낡거나 없어짐"
+    },
+    {
+      "meaning_id": "답변_일반명사-1",
+      "rationale_short": "질문에 대한 응답",
+      "root": "지시와 질문",
+      "category_label_ko": "질문에 대한 대답"
+    },
+    {
+      "meaning_id": "답사_일반명사-1",
+      "rationale_short": "일반적인 조사 행위",
+      "root": "상황 지시/기타",
+      "category_label_ko": "현장 직접 조사"
+    },
+    {
+      "meaning_id": "당뇨_일반명사-1",
+      "rationale_short": "의료 증상",
+      "root": "보건과 의료",
+      "category_label_ko": "소변에 당 나오는 병"
+    },
+    {
+      "meaning_id": "대단하다_형용사-1",
+      "rationale_short": "평가/가치 판단",
+      "root": "의견과 가치",
+      "category_label_ko": "매우 뛰어남"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "냉각_일반명사-1",
+      "rationale_short": "물리적 현상/행위의 모호성",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 물리적 현상/행위로, 특정 생활 영역에 국한하기 모호함."
+    },
+    {
+      "meaning_id": "네안데르탈인_일반명사-1",
+      "rationale_short": "인류학적/역사적 맥락",
+      "root": "문화와 사회",
+      "candidate_reason": "고대 인류의 한 종류로, '사람과 관계'보다는 인류학적/역사적 맥락이 강함."
+    },
+    {
+      "meaning_id": "녹화_일반명사-1",
+      "rationale_short": "미디어 기술/활동의 모호성",
+      "root": "문화와 사회",
+      "candidate_reason": "미디어 기술 및 활동과 관련이 깊으나, 특정 생활 영역에 국한하기 모호함."
+    },
+    {
+      "meaning_id": "다각_일반명사-1",
+      "rationale_short": "추상적 개념의 모호성",
+      "root": "논리와 연결",
+      "candidate_reason": "여러 관점이나 방향을 의미하는 추상적 개념으로, '감각과 묘사'와 '논리와 연결' 사이에서 모호함."
+    },
+    {
+      "meaning_id": "단련_일반명사-1",
+      "rationale_short": "일반적 훈련 행위의 모호성",
+      "root": "상황 지시/기타",
+      "candidate_reason": "몸이나 기술을 강하게 하는 일반적인 행위로, 특정 생활 영역에 국한하기 모호함."
+    },
+    {
+      "meaning_id": "단편_일반명사-1",
+      "rationale_short": "장르와 조각의 모호성",
+      "root": "문화와 사회",
+      "candidate_reason": "문학/영화 장르를 의미하거나 일반적인 조각을 의미할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "담아내다_동사-1",
+      "rationale_short": "물리적/추상적 행위의 모호성",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적으로 담는 행위와 추상적으로 표현하는 행위 모두를 포함하여 모호함."
+    },
+    {
+      "meaning_id": "당첨금_일반명사-1",
+      "rationale_short": "돈의 획득/사용 맥락 모호성",
+      "root": "쇼핑",
+      "candidate_reason": "당첨으로 얻는 돈으로, '쇼핑' (돈의 사용) 또는 '여가와 취미' (복권 등)와 연관될 수 있어 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 행위는 여러 루트에 걸쳐 모호성을 가질 수 있음 (예: 냉각, 다각, 단련, 담아내다).",
+      "특정 분야(예: 인류학, 미디어 기술)에 특화된 명사는 '문화와 사회' 또는 '상황 지시/기타' 사이에서 고민이 필요함 (예: 네안데르탈인, 녹화, 단편).",
+      "돈과 관련된 개념은 '쇼핑', '여가와 취미', '공공 서비스' 등 여러 경제 활동과 연결될 수 있어 모호함 (예: 당첨금)."
+    ],
+    "ia_suggestions": [
+      "IA V5에서 '기술과 미디어' 또는 '과학과 학문'과 같은 루트를 추가하여 '네안데르탈인', '녹화', '단말기', '단편'과 같은 어휘의 분류 명확성을 높일 수 있습니다.",
+      "IA V5에서 '경제와 금융' 루트를 신설하여 '당첨금'과 같은 돈 관련 어휘를 더 명확하게 분류할 수 있습니다.",
+      "IA V5에서 '추상적 개념' 또는 '일반적 속성'과 같은 루트를 고려하여 '냉각', '다각', '단련', '담아내다'와 같이 여러 영역에 걸쳐 사용될 수 있는 어휘의 분류를 개선할 수 있습니다."
+    ]
+  }
+}

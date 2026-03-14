@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "초대장_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "모임 행사 문서",
+      "rationale_short": "모임이나 행사에 관련된 문서."
+    },
+    {
+      "meaning_id": "촉감_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "만져지는 느낌",
+      "rationale_short": "오감 중 촉각에 해당하는 감각."
+    },
+    {
+      "meaning_id": "총동원_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위/상태 개념으로, 특정 root에 100% 확실하게 속하기 모호함.",
+      "rationale_short": "자원 활용의 개념으로, 특정 행위나 장면에 국한되지 않음."
+    },
+    {
+      "meaning_id": "총무과_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "회사 행정 부서",
+      "rationale_short": "회사 내 특정 업무를 담당하는 부서."
+    },
+    {
+      "meaning_id": "최대한_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "가장 많은 정도",
+      "rationale_short": "정도나 양의 최대치를 나타내는 부사."
+    },
+    {
+      "meaning_id": "최상_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "최고 수준 상태",
+      "rationale_short": "어떤 것의 가장 좋은 상태나 수준을 나타냄."
+    },
+    {
+      "meaning_id": "최저_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "최하 수준 정도",
+      "rationale_short": "어떤 것의 가장 낮은 수준이나 정도를 나타냄."
+    },
+    {
+      "meaning_id": "최적_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "가장 좋은 조건",
+      "rationale_short": "가장 적합하고 좋은 조건을 나타내는 개념."
+    },
+    {
+      "meaning_id": "추세_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 흐름이나 방향을 나타내는 개념으로, 특정 root에 100% 확실하게 속하기 모호함.",
+      "rationale_short": "일의 전반적인 방향을 나타내는 추상적 개념."
+    },
+    {
+      "meaning_id": "추적_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "대상 뒤쫓아 찾기",
+      "rationale_short": "대상을 뒤쫓아 찾는 행위."
+    },
+    {
+      "meaning_id": "추측_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "불확실한 일 짐작",
+      "rationale_short": "확실하지 않은 일을 짐작하는 내면의 행위."
+    },
+    {
+      "meaning_id": "출구_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 나가는 문",
+      "rationale_short": "건물이나 공간에서 밖으로 나가는 통로."
+    },
+    {
+      "meaning_id": "출처_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정보나 물건의 근원을 나타내는 추상적 개념으로, 특정 root에 100% 확실하게 속하기 모호함.",
+      "rationale_short": "정보나 물건의 근원을 나타내는 개념."
+    },
+    {
+      "meaning_id": "출하량_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "시장 물건 공급량",
+      "rationale_short": "생산된 물건이 시장에 공급된 양."
+    },
+    {
+      "meaning_id": "춤추다_동사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "음악 맞춰 몸 움직임",
+      "rationale_short": "음악에 맞춰 몸을 움직이는 행위."
+    },
+    {
+      "meaning_id": "충실히_일반부사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "모자람 없는 태도",
+      "rationale_short": "어떤 일을 수행하는 태도나 방식을 묘사하는 부사."
+    },
+    {
+      "meaning_id": "충원_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "부족 인원 채용",
+      "rationale_short": "부족한 인력을 보충하는 행위."
+    },
+    {
+      "meaning_id": "충치_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "썩은 치아 질병",
+      "rationale_short": "치아에 발생하는 질병의 일종."
+    },
+    {
+      "meaning_id": "충혈_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "피 몰린 신체 증상",
+      "rationale_short": "신체에 나타나는 의학적 증상."
+    },
+    {
+      "meaning_id": "취급_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물건이나 일을 다루는 일반적인 행위 개념으로, 특정 root에 100% 확실하게 속하기 모호함.",
+      "rationale_short": "물건이나 일을 다루는 일반적인 행위."
+    },
+    {
+      "meaning_id": "취향_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "개인 선호도",
+      "rationale_short": "개인이 선호하는 바를 나타내는 내면의 개념."
+    },
+    {
+      "meaning_id": "치약_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "치아 위생 용품",
+      "rationale_short": "이를 닦는 데 사용하는 생활 용품."
+    },
+    {
+      "meaning_id": "치중_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "한 부분 집중",
+      "rationale_short": "어떤 한 부분에 집중하는 행위나 상태."
+    },
+    {
+      "meaning_id": "친근감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "가깝고 반가운 감정",
+      "rationale_short": "사람 간에 느끼는 친밀한 감정."
+    },
+    {
+      "meaning_id": "칠판_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습용 판",
+      "rationale_short": "학교나 강의실에서 사용하는 학습 도구."
+    },
+    {
+      "meaning_id": "침입_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "허락 없는 진입",
+      "rationale_short": "허락 없이 타인의 공간에 들어가는 행위."
+    },
+    {
+      "meaning_id": "카드사_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "카드 발급 기관",
+      "rationale_short": "신용카드 관련 금융 서비스를 제공하는 회사."
+    },
+    {
+      "meaning_id": "카센터_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "자동차 수리점",
+      "rationale_short": "자동차를 수리하고 점검하는 장소."
+    },
+    {
+      "meaning_id": "캐스팅_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "배우 배역 선정",
+      "rationale_short": "영화나 공연에서 배우를 선정하는 행위."
+    },
+    {
+      "meaning_id": "캡슐_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "약물 포장 용기",
+      "rationale_short": "약이나 물건을 담는 작은 용기."
+    },
+    {
+      "meaning_id": "쿠키_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "구운 과자류",
+      "rationale_short": "대표적인 간식류 음식."
+    },
+    {
+      "meaning_id": "타협_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "의견 조율 행위",
+      "rationale_short": "서로 의견을 조율하여 합의하는 행위."
+    },
+    {
+      "meaning_id": "타협점_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "합의 가능한 지점",
+      "rationale_short": "의견 조율을 통해 도달하는 합의 지점."
+    },
+    {
+      "meaning_id": "탈_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "얼굴 가리는 가면",
+      "rationale_short": "얼굴에 쓰는 가면 형태의 물건."
+    },
+    {
+      "meaning_id": "탈_일반명사-2",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "몸이나 일에 생기는 문제라는 추상적 개념으로, 특정 root에 100% 확실하게 속하기 모호함.",
+      "rationale_short": "몸이나 일에 발생하는 문제나 이상."
+    },
+    {
+      "meaning_id": "탈의실_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "옷 갈아입는 공간",
+      "rationale_short": "옷을 갈아입는 용도의 공간."
+    },
+    {
+      "meaning_id": "탐험가_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "미지 탐사 직업인",
+      "rationale_short": "미지의 세계를 탐사하는 직업을 가진 사람."
+    },
+    {
+      "meaning_id": "탑승_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "교통수단 이용",
+      "rationale_short": "교통수단에 올라타는 행위."
+    },
+    {
+      "meaning_id": "탑재_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운송 물건 싣기",
+      "rationale_short": "탈것이나 장비에 물건을 싣는 행위."
+    },
+    {
+      "meaning_id": "태극_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음양 조화 문양",
+      "rationale_short": "음양의 조화를 상징하는 전통 문양."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위, 상태, 개념을 나타내는 명사 및 부사의 분류 (예: 총동원, 추세, 출처, 취급, 탈_일반명사-2). 이들은 특정 장면이나 행위에 국한되지 않아 '상황 지시/기타'로 분류되는 경향이 있음.",
+      "정도나 양을 나타내는 부사/명사(예: 최대한, 최상, 최저, 최적)가 '수량과 단위' 또는 '의견과 가치' 중 어디에 더 적합한지 판단하는 경계."
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타'로 분류된 추상적인 개념어들이 많으므로, 해당 root의 하위 분류를 세분화하거나, '개념/추상'과 같은 새로운 root를 고려하여 분류의 명확성을 높일 필요가 있음.",
+      "감각, 평가, 내면, 신체와 경계가 겹치는 단어들에 대한 명확한 가이드라인을 추가하여 'candidate'로 보낼지 'core'로 보낼지 판단 기준을 강화할 필요가 있음."
+    ]
+  }
+}

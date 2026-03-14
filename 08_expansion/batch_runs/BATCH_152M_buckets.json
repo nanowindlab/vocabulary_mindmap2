@@ -1,0 +1,377 @@
+{
+  "core": [
+    {
+      "meaning_id": "상품명_일반명사-1",
+      "rationale_short": "상품의 이름으로, 쇼핑 활동과 직접적으로 연관됨.",
+      "root": "쇼핑",
+      "category_label_ko": "상품 정보 이름"
+    },
+    {
+      "meaning_id": "상하_일반명사-1",
+      "rationale_short": "위치와 방향을 나타내는 묘사 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "위치 방향 묘사"
+    },
+    {
+      "meaning_id": "상해_일반명사-1",
+      "rationale_short": "몸을 다치는 행위는 보건 및 의료와 직접 관련됨.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부상"
+    },
+    {
+      "meaning_id": "상호_일반명사-1",
+      "rationale_short": "가게나 회사의 이름으로, 쇼핑 및 경제 활동과 관련됨.",
+      "root": "쇼핑",
+      "category_label_ko": "상점 회사 이름"
+    },
+    {
+      "meaning_id": "새로움_일반명사-1",
+      "rationale_short": "낡지 않고 색다른 느낌을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "특성 상태 묘사"
+    },
+    {
+      "meaning_id": "새우_일반명사-1",
+      "rationale_short": "음식 재료로 식생활과 직접 관련됨.",
+      "root": "식생활",
+      "category_label_ko": "해산물 식재료"
+    },
+    {
+      "meaning_id": "새우다_동사-1",
+      "rationale_short": "자지 않고 밤을 지내는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 생활 행위"
+    },
+    {
+      "meaning_id": "새집_일반명사-1",
+      "rationale_short": "새로 이사한 집으로 주거 공간에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 공간"
+    },
+    {
+      "meaning_id": "새침_일반명사-1",
+      "rationale_short": "사람의 성격이나 태도를 나타냄.",
+      "root": "성격과 태도",
+      "category_label_ko": "사람의 태도"
+    },
+    {
+      "meaning_id": "샛별_일반명사-1",
+      "rationale_short": "이른 새벽에 보이는 별로 자연 현상에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "천체 현상"
+    },
+    {
+      "meaning_id": "생동감_일반명사-1",
+      "rationale_short": "살아 움직이는 듯한 느낌을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "생생한 느낌"
+    },
+    {
+      "meaning_id": "생리_일반명사-1",
+      "rationale_short": "몸 안에서 일어나는 자연스러운 기능으로 보건 및 의료와 관련됨.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 기능"
+    },
+    {
+      "meaning_id": "생물학자_일반명사-1",
+      "rationale_short": "생물을 연구하는 사람으로 직업/역할어에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 역할"
+    },
+    {
+      "meaning_id": "생산자_일반명사-1",
+      "rationale_short": "물건을 만드는 사람이나 단체로 직업/역할어에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 역할"
+    },
+    {
+      "meaning_id": "생생히_일반부사-1",
+      "rationale_short": "마치 눈앞에서 보는 듯 뚜렷하게 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "상태 묘사 부사"
+    },
+    {
+      "meaning_id": "생소하다_형용사-1",
+      "rationale_short": "익숙하지 않고 낯선 감정 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 상태"
+    },
+    {
+      "meaning_id": "생수_일반명사-1",
+      "rationale_short": "먹는 물로 식생활과 직접 관련됨.",
+      "root": "식생활",
+      "category_label_ko": "음료 종류"
+    },
+    {
+      "meaning_id": "생업_일반명사-1",
+      "rationale_short": "살기 위해 주로 하는 일로 직업 활동에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 활동"
+    },
+    {
+      "meaning_id": "생활고_일반명사-1",
+      "rationale_short": "먹고 사는 일이 어려운 형편으로 일상생활의 어려움에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활의 어려움"
+    },
+    {
+      "meaning_id": "생활양식_일반명사-1",
+      "rationale_short": "살아가는 습관과 방식으로 문화 및 사회와 관련됨.",
+      "root": "문화와 사회",
+      "category_label_ko": "생활 문화 방식"
+    },
+    {
+      "meaning_id": "생활용품_일반명사-1",
+      "rationale_short": "일상생활에 쓰는 물건으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 생활용품"
+    },
+    {
+      "meaning_id": "생활환경_일반명사-1",
+      "rationale_short": "사람이 살고 있는 주변 조건으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "주변 생활 환경"
+    },
+    {
+      "meaning_id": "생후_일반명사-1",
+      "rationale_short": "태어난 뒤의 시간으로 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 경과"
+    },
+    {
+      "meaning_id": "샴푸_일반명사-1",
+      "rationale_short": "머리카락을 감는 데 쓰는 생활용품으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "위생 생활용품"
+    },
+    {
+      "meaning_id": "서당_일반명사-1",
+      "rationale_short": "옛날에 아이들이 글을 배우던 곳으로 교육 기관에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 기관"
+    },
+    {
+      "meaning_id": "서러움_일반명사-1",
+      "rationale_short": "억울하고 슬픈 감정을 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "슬픈 감정"
+    },
+    {
+      "meaning_id": "서럽다_형용사-1",
+      "rationale_short": "억울하고 눈물이 날 만큼 슬픈 감정을 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "슬픈 감정"
+    },
+    {
+      "meaning_id": "서리_일반명사-1",
+      "rationale_short": "찬 기운에 맺히는 얼음 알갱이로 기상 현상에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "기상 현상"
+    },
+    {
+      "meaning_id": "서양식_일반명사-1",
+      "rationale_short": "서양에서 쓰는 방식이나 스타일로 문화 양식에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "문화 양식"
+    },
+    {
+      "meaning_id": "서울행_일반명사-1",
+      "rationale_short": "목적지가 서울인 교통편으로 교통과 직접 관련됨.",
+      "root": "교통",
+      "category_label_ko": "교통편 목적지"
+    },
+    {
+      "meaning_id": "서점가_일반명사-1",
+      "rationale_short": "서점들이 모여 있는 거리로 쇼핑 장소에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "쇼핑 장소"
+    },
+    {
+      "meaning_id": "서쪽_일반명사-1",
+      "rationale_short": "해가 지는 방향으로 방향 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "방향 위치 묘사"
+    },
+    {
+      "meaning_id": "서툴다_형용사-1",
+      "rationale_short": "능숙하지 않아 실수하는 태도나 능력을 나타냄.",
+      "root": "성격과 태도",
+      "category_label_ko": "능력 태도"
+    },
+    {
+      "meaning_id": "석_관형사-1",
+      "rationale_short": "대략 세 개쯤 되는 수를 나타내는 관형사로 수량과 단위에 해당.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 표현"
+    },
+    {
+      "meaning_id": "석탑_일반명사-1",
+      "rationale_short": "돌로 쌓아 올린 탑으로 문화유산 건축물에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "문화유산 건축물"
+    },
+    {
+      "meaning_id": "선구자_일반명사-1",
+      "rationale_short": "새로운 일을 남보다 먼저 시작한 사람으로 사람의 역할에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "사람의 역할"
+    },
+    {
+      "meaning_id": "선뜻_일반부사-1",
+      "rationale_short": "망설임 없이 바로 행동하는 태도를 나타냄.",
+      "root": "성격과 태도",
+      "category_label_ko": "행동 방식"
+    },
+    {
+      "meaning_id": "선서_일반명사-1",
+      "rationale_short": "약속이나 다짐을 말로 선언하는 행위로 공공 서비스와 관련됨.",
+      "root": "공공 서비스",
+      "category_label_ko": "사회적 약속"
+    },
+    {
+      "meaning_id": "선언서_일반명사-1",
+      "rationale_short": "선언 내용을 적은 문서로 공공 서비스와 관련됨.",
+      "root": "공공 서비스",
+      "category_label_ko": "공식 문서"
+    },
+    {
+      "meaning_id": "선임_일반명사-1",
+      "rationale_short": "먼저 뽑거나 뽑힌 사람으로 직장 내 인사 및 직위와 관련됨.",
+      "root": "직장과 업무",
+      "category_label_ko": "인사 직위"
+    },
+    {
+      "meaning_id": "선조_일반명사-1",
+      "rationale_short": "윗대의 조상으로 사람 간의 관계에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계"
+    },
+    {
+      "meaning_id": "선착순_일반명사-1",
+      "rationale_short": "먼저 도착한 순서대로 정하는 방식으로 일반적인 규칙에 해당.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "순서 방식"
+    },
+    {
+      "meaning_id": "선착장_일반명사-1",
+      "rationale_short": "배가 사람을 태우고 내리는 곳으로 교통 시설에 해당.",
+      "root": "교통",
+      "category_label_ko": "교통 시설"
+    },
+    {
+      "meaning_id": "선출_일반명사-1",
+      "rationale_short": "투표 등으로 대표를 뽑는 행위로 공공 서비스와 관련됨.",
+      "root": "공공 서비스",
+      "category_label_ko": "대표 선출"
+    },
+    {
+      "meaning_id": "선행_일반명사-1",
+      "rationale_short": "남을 위해 베푸는 착한 행동으로 도덕적 가치에 해당.",
+      "root": "의견과 가치",
+      "category_label_ko": "도덕적 가치"
+    },
+    {
+      "meaning_id": "선호도_일반명사-1",
+      "rationale_short": "얼마나 좋아하는지를 나타내는 정도로 의견 및 가치 평가에 해당.",
+      "root": "의견과 가치",
+      "category_label_ko": "선호 평가"
+    },
+    {
+      "meaning_id": "선후배_일반명사-1",
+      "rationale_short": "선배와 후배를 아울러 이르는 말로 사람 간의 관계에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "사회적 관계"
+    },
+    {
+      "meaning_id": "섣부르다_형용사-1",
+      "rationale_short": "충분히 생각하지 않고 성급한 성격이나 태도를 나타냄.",
+      "root": "성격과 태도",
+      "category_label_ko": "성격 태도"
+    },
+    {
+      "meaning_id": "설레다_동사-1",
+      "rationale_short": "가슴이 두근거리며 들뜨는 감정을 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "긍정적 감정"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "새다_동사-1",
+      "rationale_short": "물리적 현상으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "액체나 기체가 빠져나가는 물리적 현상으로, 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "생명력_일반명사-1",
+      "rationale_short": "추상적 개념으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "살아 있으려는 강한 힘이라는 추상적인 개념으로, 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "생사_일반명사-1",
+      "rationale_short": "근원적 개념으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "삶과 죽음이라는 근원적 개념으로, 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "생성_일반명사-1",
+      "rationale_short": "추상적 행위/상태로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "새로 생겨나는 추상적인 행위/상태로, 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "서장_일반명사-1",
+      "rationale_short": "문서 구성 요소로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "문서나 책의 첫 부분에 붙이는 글로, 정보 구성 요소로 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "석회_일반명사-1",
+      "rationale_short": "물질의 종류로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "석회석을 가공해 만든 흰 가루 물질로, 특정 용도가 명확하지 않아 분류 모호함."
+    },
+    {
+      "meaning_id": "섞이다_동사-1",
+      "rationale_short": "상태 변화 동사로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "여러 가지가 한데 뒤섞인 상태가 되는 동사로, 상태 변화를 나타내며 분류 모호함."
+    },
+    {
+      "meaning_id": "선도_일반명사-1",
+      "rationale_short": "추상적 행위/역할로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "앞장서 이끌어가는 추상적인 행위/역할로, 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "선두_일반명사-1",
+      "rationale_short": "위치, 순서, 역할 복합 개념으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "맨 앞의 위치나 사람을 의미하며, 위치, 순서, 역할을 모두 포함하여 분류 모호함."
+    },
+    {
+      "meaning_id": "설명서_일반명사-1",
+      "rationale_short": "정보 전달 문서로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사용법이나 내용을 적어 놓은 안내 글로, 정보 전달 문서로 특정 root에 명확히 분류하기 모호함."
+    },
+    {
+      "meaning_id": "설비_일반명사-1",
+      "rationale_short": "기계나 시설 개념으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 일을 하기 위해 갖춘 기계나 시설을 통칭하는 개념으로, 특정 root에 명확히 분류하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념, 행위, 상태를 나타내는 명사/동사/형용사는 '상황 지시/기타' 또는 '감각과 묘사' 사이에서 모호성을 보임.",
+      "물질이나 문서의 구성 요소와 같이 특정 용도가 명확하지 않은 일반 명사는 '상황 지시/기타'로 임시 분류되는 경향이 있음."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root 내에 '추상적 개념', '물리적 현상', '정보/문서 구성', '도구/시설' 등의 하위 카테고리 신설을 고려하여 분류의 명확성을 높일 수 있음.",
+      "'감각과 묘사' root 내에 '위치/방향 묘사', '상태/특성 묘사' 등 세분화된 카테고리를 추가하여 분류의 일관성을 강화할 수 있음."
+    ]
+  }
+}

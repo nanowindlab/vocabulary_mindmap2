@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "시가_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "시장 가격",
+      "rationale_short": "물건의 시장 가치를 나타내는 경제 개념."
+    },
+    {
+      "meaning_id": "시가_일반명사-2",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "남편 가족 집",
+      "rationale_short": "남편의 부모가 사는 집으로 가족 관계 및 주거 공간을 나타냄."
+    },
+    {
+      "meaning_id": "시너지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "여러 힘이 합쳐져 더 큰 효과가 생기는 추상적 개념."
+    },
+    {
+      "meaning_id": "시댁_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "남편 부모 집",
+      "rationale_short": "결혼한 여자의 남편 쪽 부모가 사는 집으로 가족 관계를 나타냄."
+    },
+    {
+      "meaning_id": "시설물_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 구조물",
+      "rationale_short": "시설로 만들어 놓은 건물이나 구조물로 주거 및 일상 환경과 관련."
+    },
+    {
+      "meaning_id": "시세_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "시장 거래 가격",
+      "rationale_short": "물건이나 부동산의 일반적인 가격 수준으로 쇼핑 및 경제 활동과 관련."
+    },
+    {
+      "meaning_id": "시야_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "눈 보이는 범위",
+      "rationale_short": "눈에 보이는 범위로 시각적 감각과 관련."
+    },
+    {
+      "meaning_id": "시일_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "일정 기간 날짜",
+      "rationale_short": "어느 날부터 어느 날까지의 일정한 날짜로 시간 개념을 나타냄."
+    },
+    {
+      "meaning_id": "시집_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "시 모음 책",
+      "rationale_short": "여러 편의 시를 모아 엮은 책으로 문화 및 문학 분야에 해당."
+    },
+    {
+      "meaning_id": "시집_일반명사-2",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "결혼 후 남편 집",
+      "rationale_short": "여자가 결혼하여 들어가는 남편의 집으로 가족 관계를 나타냄."
+    },
+    {
+      "meaning_id": "시행착오_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 과정 개념으로 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "잘못을 거쳐 올바른 방법을 찾아가는 과정이라는 추상적 개념."
+    },
+    {
+      "meaning_id": "식료품_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "먹을거리 물건",
+      "rationale_short": "먹을거리로 파는 물건들로 식생활과 직접 관련."
+    },
+    {
+      "meaning_id": "식별_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "인지적 행위로, '감각과 묘사' 또는 '내면과 감정' 등 여러 root와 경계가 모호함.",
+      "rationale_short": "사물이나 사람을 구별해 알아보는 인지적 행위."
+    },
+    {
+      "meaning_id": "식비_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식사 비용",
+      "rationale_short": "밥을 먹는 데 드는 돈으로 식생활과 직접 관련."
+    },
+    {
+      "meaning_id": "식히다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "온도 낮추기",
+      "rationale_short": "뜨거운 것을 차갑게 만드는 행위로 온도 변화 묘사와 관련."
+    },
+    {
+      "meaning_id": "신고자_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "관계 기관 알린 사람",
+      "rationale_short": "어떤 일을 관계 기관에 알린 사람으로 공공 서비스 이용자와 관련."
+    },
+    {
+      "meaning_id": "신나다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "즐거운 기분",
+      "rationale_short": "기분이 들떠 아주 즐겁게 느끼는 감정 상태."
+    },
+    {
+      "meaning_id": "신설_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "행위나 과정에 대한 추상적인 개념으로, 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "새로 기관이나 시설을 만드는 행위 또는 과정."
+    },
+    {
+      "meaning_id": "실루엣_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물체 윤곽 그림자",
+      "rationale_short": "빛을 등지고 본 물체의 윤곽이나 그림자 모양으로 시각적 묘사와 관련."
+    },
+    {
+      "meaning_id": "실무_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "실제 업무 처리",
+      "rationale_short": "현장에서 직접 처리하는 실제 업무로 직장 및 업무 활동과 관련."
+    },
+    {
+      "meaning_id": "실습_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "실제 학습 경험",
+      "rationale_short": "배운 내용을 실제로 해 보며 익히는 것으로 학교 및 학습 활동과 관련."
+    },
+    {
+      "meaning_id": "실외_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 외부 공간",
+      "rationale_short": "방이나 건물의 밖으로 주거 및 일상 공간과 관련."
+    },
+    {
+      "meaning_id": "실장_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "부서 책임자",
+      "rationale_short": "어떤 부서나 실을 맡아 책임지는 사람으로 직업 및 역할에 해당."
+    },
+    {
+      "meaning_id": "심각하다_형용사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "상황의 위태로움",
+      "rationale_short": "상황이 가볍지 않고 매우 중요하고 위태로운 상태를 평가하는 표현."
+    },
+    {
+      "meaning_id": "심급_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "재판 단계",
+      "rationale_short": "법원에서 재판을 하는 단계로 공공 서비스 중 사법 제도와 관련."
+    },
+    {
+      "meaning_id": "심리학자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "심리학 연구자",
+      "rationale_short": "심리학을 연구하는 사람으로 직업 및 역할에 해당."
+    },
+    {
+      "meaning_id": "심문_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "사실 확인 질문",
+      "rationale_short": "사실을 밝히기 위해 자세히 묻고 따져 묻는 행위로 공공 서비스 중 수사/사법 행위와 관련."
+    },
+    {
+      "meaning_id": "심야_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "깊은 밤 시간",
+      "rationale_short": "밤이 깊은 시간으로 시간 개념을 나타냄."
+    },
+    {
+      "meaning_id": "심장_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "혈액 순환 기관",
+      "rationale_short": "피를 온몸에 보내는 몸속의 기관으로 신체 부위 및 의료와 관련."
+    },
+    {
+      "meaning_id": "심지어_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "극단적 경우 연결",
+      "rationale_short": "보통 정도를 넘는 극단적인 경우까지 덧붙여 말할 때 쓰는 연결 표현."
+    },
+    {
+      "meaning_id": "심혈관_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "심장 혈관 계통",
+      "rationale_short": "심장과 그에 연결된 혈관 계통으로 신체 부위 및 의료와 관련."
+    },
+    {
+      "meaning_id": "십시일반_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공동체 협력",
+      "rationale_short": "여럿이 조금씩 힘이나 돈을 보태는 사회적 협력 개념."
+    },
+    {
+      "meaning_id": "싸움_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "다툼 공격 행위",
+      "rationale_short": "서로 다투거나 공격하는 일로 사람 간의 관계 및 갈등과 관련."
+    },
+    {
+      "meaning_id": "싹_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 어린 줄기",
+      "rationale_short": "씨에서 처음 돋아나는 작은 줄기나 잎으로 자연 및 식물과 관련."
+    },
+    {
+      "meaning_id": "쓰임새_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건의 용도",
+      "rationale_short": "어디에 어떻게 쓰일 수 있는가 하는 용도로 사물의 기능과 관련."
+    },
+    {
+      "meaning_id": "아나운서_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "방송 진행 직업",
+      "rationale_short": "방송에서 뉴스를 읽거나 프로그램을 진행하는 사람으로 직업 및 역할에 해당."
+    },
+    {
+      "meaning_id": "아냐_감탄사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "부드러운 부정 표현",
+      "rationale_short": "상대의 말이나 생각을 부드럽게 부정할 때 쓰는 표현."
+    },
+    {
+      "meaning_id": "아니면_접속부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "선택 연결 표현",
+      "rationale_short": "앞의 것이 아니고 다른 것을 제시할 때 쓰는 연결 표현."
+    },
+    {
+      "meaning_id": "아랫부분_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "아래쪽 위치",
+      "rationale_short": "어떤 것의 아래쪽 부분으로 위치 및 방향을 나타냄."
+    },
+    {
+      "meaning_id": "아무것_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "불특정 사물 지칭",
+      "rationale_short": "특정하지 않은 어떤 것을 가리키는 말로 불특정 지시와 관련."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 과정, 인지적 행위는 여러 root와 경계가 모호하여 candidate로 분류될 가능성이 높음.",
+      "직업/역할어는 '직장과 업무' 또는 관련 '문화와 사회', '공공 서비스' 등 여러 root를 고려해야 함."
+    ],
+    "ia_suggestions": [
+      "추상적 개념(시너지, 시행착오)을 위한 '개념과 원리' 또는 '과정'과 같은 하위 root를 '상황 지시/기타' 내에 추가하는 것을 고려해 볼 수 있습니다.",
+      "인지적 행위(식별)에 대해 '감각과 묘사'와 '내면과 감정' 사이의 경계를 명확히 하는 가이드라인이 필요합니다."
+    ]
+  }
+}

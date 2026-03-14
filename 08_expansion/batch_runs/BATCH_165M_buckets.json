@@ -1,0 +1,377 @@
+{
+  "core": [
+    {
+      "meaning_id": "주연_일반명사-2",
+      "rationale_short": "손님을 초대해 베푸는 술자리나 잔치로, 식생활 및 사회적 모임과 관련된 명확한 개념.",
+      "root": "식생활",
+      "category_label_ko": "손님 초대 잔치"
+    },
+    {
+      "meaning_id": "주유소_일반명사-1",
+      "rationale_short": "자동차에 기름을 넣어 주는 곳으로, 교통 관련 시설에 해당.",
+      "root": "교통",
+      "category_label_ko": "자동차 연료 공급처"
+    },
+    {
+      "meaning_id": "주일_일반명사-1",
+      "rationale_short": "기독교에서 예배를 드리는 날인 일요일로, 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "기독교 예배일"
+    },
+    {
+      "meaning_id": "주중_일반명사-1",
+      "rationale_short": "한 주의 가운데 부분인 평일로, 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "한 주 평일"
+    },
+    {
+      "meaning_id": "주황색_일반명사-1",
+      "rationale_short": "붉은색과 노란색의 중간쯤 되는 색으로, 색상 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현"
+    },
+    {
+      "meaning_id": "준법_일반명사-1",
+      "rationale_short": "법을 잘 지키는 행위로, 사회 규범 및 문화와 관련.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 규범 준수"
+    },
+    {
+      "meaning_id": "준수_일반명사-1",
+      "rationale_short": "규칙이나 약속을 잘 지키는 행위로, 사회 규범 및 문화와 관련.",
+      "root": "문화와 사회",
+      "category_label_ko": "규칙 약속 지킴"
+    },
+    {
+      "meaning_id": "준수_일반명사-2",
+      "rationale_short": "얼굴이나 생김새가 단정하고 보기 좋음을 나타내며, 외모 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "외모 묘사"
+    },
+    {
+      "meaning_id": "줄곧_일반부사-1",
+      "rationale_short": "처음부터 지금까지 내내를 의미하는 시간 관련 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 지속 부사"
+    },
+    {
+      "meaning_id": "줄무늬_일반명사-1",
+      "rationale_short": "가늘고 긴 선이 여러 개 나란히 있는 무늬로, 시각적 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "무늬 묘사"
+    },
+    {
+      "meaning_id": "줄줄_일반부사-1",
+      "rationale_short": "액체가 계속 이어져 흐르는 모양을 나타내며, 상태 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "액체 흐름 묘사"
+    },
+    {
+      "meaning_id": "줄줄이_일반부사-1",
+      "rationale_short": "여럿이 한 줄로 이어진 모양을 나타내며, 배열 상태 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "연속 배열 묘사"
+    },
+    {
+      "meaning_id": "중개업_일반명사-1",
+      "rationale_short": "사람들 사이의 거래를 대신 알선해 주는 직업이나 사업으로, 직업/업무에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "거래 알선 직업"
+    },
+    {
+      "meaning_id": "중계방송_일반명사-1",
+      "rationale_short": "현장에서 벌어지는 일을 바로 전하여 내보내는 방송으로, 미디어 및 사회 활동에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "현장 실시간 방송"
+    },
+    {
+      "meaning_id": "중고품_일반명사-1",
+      "rationale_short": "이미 쓰였던 뒤에 다시 파는 물건으로, 쇼핑 및 거래 관련 물건에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "재활용 물건"
+    },
+    {
+      "meaning_id": "중독_일반명사-1",
+      "rationale_short": "약물이나 게임 등에 지나치게 빠져 벗어나기 어려운 상태로, 건강 및 심리 상태에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "과도 몰입 상태"
+    },
+    {
+      "meaning_id": "중반_일반명사-1",
+      "rationale_short": "전체의 가운데에 해당하는 시기나 부분으로, 시간 및 부분 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "중간 시기 부분"
+    },
+    {
+      "meaning_id": "중복_일반명사-1",
+      "rationale_short": "겹쳐서 두 번 이상 있음을 나타내는 논리적 상태 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "겹침 반복 상태"
+    },
+    {
+      "meaning_id": "중상위_일반명사-1",
+      "rationale_short": "중간보다 약간 위에 속하는 수준으로, 수량 및 정도 개념에 해당.",
+      "root": "수량과 단위",
+      "category_label_ko": "중간 이상 수준"
+    },
+    {
+      "meaning_id": "중언부언_일반명사-1",
+      "rationale_short": "같은 말을 자꾸 되풀이하며 말함을 나타내며, 언어 표현 방식 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "말 반복 표현"
+    },
+    {
+      "meaning_id": "중얼거리다_동사-1",
+      "rationale_short": "작은 소리로 혼자 계속 말하는 행위로, 언어 표현 방식 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "작은 소리 말하기"
+    },
+    {
+      "meaning_id": "중요도_일반명사-1",
+      "rationale_short": "얼마나 중요한지를 나타내는 정도로, 가치 판단 개념에 해당.",
+      "root": "의견과 가치",
+      "category_label_ko": "가치 판단 정도"
+    },
+    {
+      "meaning_id": "중재자_일반명사-1",
+      "rationale_short": "다툼이나 갈등을 사이에서 조정해 주는 사람으로, 사람 간의 관계 역할에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "갈등 조정 역할"
+    },
+    {
+      "meaning_id": "중첩_일반명사-1",
+      "rationale_short": "여러 겹으로 포개어 겹침을 나타내는 논리적 상태 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "여러 겹 포개짐"
+    },
+    {
+      "meaning_id": "중학교_일반명사-1",
+      "rationale_short": "초등학교 다음의 의무 교육 학교로, 교육 기관에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "의무 교육 기관"
+    },
+    {
+      "meaning_id": "쥐어뜯다_동사-1",
+      "rationale_short": "세게 잡아당겨 떼어 내는 명확한 물리적 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "세게 잡아 떼기"
+    },
+    {
+      "meaning_id": "즉각_일반명사-1",
+      "rationale_short": "바로 그 때, 지체 없이 하는 일로, 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "지체 없는 시간"
+    },
+    {
+      "meaning_id": "즉시_일반명사-1",
+      "rationale_short": "바로 그 순간, 지체 없는 때로, 시간 개념에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "바로 그 순간"
+    },
+    {
+      "meaning_id": "즉위_일반명사-1",
+      "rationale_short": "왕의 자리에 오르는 행위로, 사회/역사적 행위에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "왕위 계승"
+    },
+    {
+      "meaning_id": "즉흥_일반명사-1",
+      "rationale_short": "미리 준비하지 않고 그때 그때 떠오르는 대로 하는 것으로, 행동 방식/태도에 해당.",
+      "root": "성격과 태도",
+      "category_label_ko": "즉각적 행동 방식"
+    },
+    {
+      "meaning_id": "증권사_일반명사-1",
+      "rationale_short": "주식이나 채권을 사고파는 일을 하는 회사로, 직업/사업 기관에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "금융 투자 회사"
+    },
+    {
+      "meaning_id": "증인_일반명사-1",
+      "rationale_short": "어떤 일을 실제로 본 사람으로서 사실을 말해 주는 사람으로, 사람 역할에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "사건 목격자"
+    },
+    {
+      "meaning_id": "지겹다_형용사-1",
+      "rationale_short": "너무 오래 계속되어 싫고 질리는 느낌이 드는 것으로, 감정 묘사에 해당.",
+      "root": "내면과 감정",
+      "category_label_ko": "싫증 나는 감정"
+    },
+    {
+      "meaning_id": "지그시_일반부사-1",
+      "rationale_short": "힘주어 천천히 누르거나 참는 모양을 나타내며, 행동 방식 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "힘주어 누르는 모양"
+    },
+    {
+      "meaning_id": "지금껏_일반부사-1",
+      "rationale_short": "지금까지 줄곧을 의미하는 시간 관련 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재까지 계속"
+    },
+    {
+      "meaning_id": "지나다니다_동사-1",
+      "rationale_short": "어떤 곳을 여러 번 오고 가는 행위로, 이동 행위에 해당.",
+      "root": "교통",
+      "category_label_ko": "여러 번 왕래"
+    },
+    {
+      "meaning_id": "지나오다_동사-1",
+      "rationale_short": "어떤 곳을 거쳐 이쪽으로 오는 행위로, 이동 행위에 해당.",
+      "root": "교통",
+      "category_label_ko": "어떤 곳 거쳐 오다"
+    },
+    {
+      "meaning_id": "지르다_동사-1",
+      "rationale_short": "큰 소리를 갑자기 내는 행위로, 소리 관련 행위에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "큰 소리 내기"
+    },
+    {
+      "meaning_id": "지름_일반명사-1",
+      "rationale_short": "원의 한쪽 가장자리에서 가운데를 지나 맞은쪽까지 잰 길이로, 수량/측정 개념에 해당.",
+      "root": "수량과 단위",
+      "category_label_ko": "원형 길이 측정"
+    },
+    {
+      "meaning_id": "지름길_일반명사-1",
+      "rationale_short": "가장 빠르고 바로 갈 수 있는 길로, 교통/경로 개념에 해당.",
+      "root": "교통",
+      "category_label_ko": "빠른 이동 경로"
+    },
+    {
+      "meaning_id": "지리_일반명사-1",
+      "rationale_short": "땅의 모양, 기후, 사람 사는 모습 등을 연구하는 학문으로, 학문 분야에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "지구 환경 학문"
+    },
+    {
+      "meaning_id": "지반_일반명사-1",
+      "rationale_short": "건물을 받치는 땅이나 바닥으로, 주거/건축 관련 개념에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 기초 땅"
+    },
+    {
+      "meaning_id": "지배인_일반명사-1",
+      "rationale_short": "호텔이나 가게 등에서 전체 운영을 맡아 책임지는 사람으로, 직업/역할에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "운영 책임자"
+    },
+    {
+      "meaning_id": "지양_일반명사-1",
+      "rationale_short": "낮은 단계나 바람직하지 않은 것을 버리고 더 높은 단계로 나아감을 나타내는 논리/철학적 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "단계적 발전 개념"
+    },
+    {
+      "meaning_id": "지열_일반명사-1",
+      "rationale_short": "땅속에서 나오는 열로, 자연 현상에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "땅속 자연열"
+    },
+    {
+      "meaning_id": "지원금_일반명사-1",
+      "rationale_short": "도움으로 주는 돈으로, 공공/재정 지원 개념에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "재정적 도움 금액"
+    },
+    {
+      "meaning_id": "지원단_일반명사-1",
+      "rationale_short": "어떤 활동을 돕기 위해 꾸린 사람들의 모임으로, 사람들의 모임/조직에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "활동 보조 모임"
+    },
+    {
+      "meaning_id": "지저분하다_형용사-1",
+      "rationale_short": "정리가 안 되어 어수선하고 깨끗하지 않음을 나타내며, 상태 묘사에 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "정돈 안 된 상태"
+    },
+    {
+      "meaning_id": "지팡이_일반명사-1",
+      "rationale_short": "걷기 힘든 사람이 짚고 다니는 막대기로, 보건/의료 보조 도구에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "보행 보조 도구"
+    },
+    {
+      "meaning_id": "지향_일반명사-1",
+      "rationale_short": "어떤 방향이나 목표로 마음을 두고 나아감을 나타내는 의견/가치 지향 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "목표 설정 방향"
+    },
+    {
+      "meaning_id": "직거래_일반명사-1",
+      "rationale_short": "중간 상인 없이 팔 사람과 살 사람이 바로 서로 거래하는 것으로, 쇼핑/거래 방식에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "중개 없는 거래"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "주체_일반명사-1",
+      "rationale_short": "추상적 개념으로 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 일을 실제로 하는 사람이나 집단이라는 추상적인 개념으로, 특정 활동이나 관계에 국한되지 않아 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "주파수_일반명사-1",
+      "rationale_short": "과학적 추상 개념, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "파동이 일정한 시간 동안 되풀이되는 횟수를 나타내는 과학/기술 용어로, 특정 생활 영역에 직접 연결하기 어려움."
+    },
+    {
+      "meaning_id": "준비물_일반명사-1",
+      "rationale_short": "광범위한 적용, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "미리 챙겨 두어야 할 물건이라는 광범위한 개념으로, 다양한 상황에 적용될 수 있어 특정 root에 고정하기 모호함."
+    },
+    {
+      "meaning_id": "줄짓다_동사-1",
+      "rationale_short": "일반적 행동 동사, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람이나 물건이 죽 이어서 줄을 이루는 일반적인 행동 동사로, 특정 상황에 국한되지 않아 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "줄행랑_일반명사-1",
+      "rationale_short": "감정과 행동 복합, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "겁이 나거나 일이 잘못되어 급히 도망가는 일로, 감정(겁)과 행동(도망)이 복합적으로 얽혀 있어 어느 root에 더 비중을 둘지 모호함."
+    },
+    {
+      "meaning_id": "중화_일반명사-1",
+      "rationale_short": "다의어, 의미별 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "강한 성질을 서로 섞어 균형 있게 만들거나, 중국 문화로 물들이는 일이라는 두 가지 의미가 매우 달라 분류가 모호하며, 특히 두 번째 의미는 특정 문화권에 대한 개념으로 일반화하기 어려움."
+    },
+    {
+      "meaning_id": "중흥_일반명사-1",
+      "rationale_short": "추상적 상태 변화, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "쇠퇴하던 것이 다시 일어나 잘되게 됨이라는 추상적인 상태 변화 개념으로, 특정 생활 영역에 직접 연결하기 모호함."
+    },
+    {
+      "meaning_id": "지지부진_일반명사-1",
+      "rationale_short": "추상적 상황 상태, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일이 좀처럼 나아가지 않고 늘어지는 상태라는 추상적인 상황의 진행 상태를 나타내는 개념으로, 특정 root에 고정하기 모호함."
+    },
+    {
+      "meaning_id": "직면_일반명사-1",
+      "rationale_short": "추상적 상황 대면, 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어려운 일이나 상황과 직접 마주침이라는 추상적인 상황과의 대면을 나타내는 개념으로, 특정 root에 고정하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 상태 변화를 나타내는 명사는 '상황 지시/기타'로 분류하는 경향이 있음.",
+      "다의어의 경우, 의미가 상이하면 'candidate'로 분류하여 추가 검토가 필요함."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념을 포괄할 수 있는 '개념과 사상' 또는 '추상적 상태'와 같은 새로운 root를 고려하여 '상황 지시/기타' root의 과부하를 줄일 수 있음.",
+      "다의어 처리 시, 각 의미를 분리하여 개별 meaning_id로 관리하는 방안을 검토하여 명확성을 높일 수 있음."
+    ]
+  }
+}

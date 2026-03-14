@@ -1,0 +1,251 @@
+{
+  "core": [
+    {
+      "meaning_id": "대륙_일반명사-1",
+      "rationale_short": "지리적 자연 환경의 명확한 요소.",
+      "root": "날씨와 자연",
+      "category_label_ko": "지구의 큰 땅"
+    },
+    {
+      "meaning_id": "동시_일반명사-1",
+      "rationale_short": "시간을 나타내는 명확한 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "같은 시점"
+    },
+    {
+      "meaning_id": "동시_일반명사-2",
+      "rationale_short": "문학 장르로 문화 영역에 명확히 속함.",
+      "root": "문화와 사회",
+      "category_label_ko": "어린이 문학 장르"
+    },
+    {
+      "meaning_id": "동식물_일반명사-1",
+      "rationale_short": "자연 생물에 대한 명확한 개념.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 총칭"
+    },
+    {
+      "meaning_id": "동쪽_일반명사-1",
+      "rationale_short": "공간적 방향을 나타내는 명확한 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방향 지시"
+    },
+    {
+      "meaning_id": "둘째_수사-1",
+      "rationale_short": "순서를 나타내는 명확한 수량 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "순서 숫자"
+    },
+    {
+      "meaning_id": "둘째_수사-2",
+      "rationale_short": "가족 관계를 나타내는 명확한 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 구성원"
+    },
+    {
+      "meaning_id": "떨다_동사-1",
+      "rationale_short": "신체 움직임에 대한 명확한 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 움직임"
+    },
+    {
+      "meaning_id": "떨다_동사-2",
+      "rationale_short": "내면의 감정 상태를 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "불안한 감정"
+    },
+    {
+      "meaning_id": "똑같다_형용사-1",
+      "rationale_short": "사물의 상태를 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "동일한 상태"
+    },
+    {
+      "meaning_id": "뛰다_동사-1",
+      "rationale_short": "신체 움직임에 대한 명확한 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 이동"
+    },
+    {
+      "meaning_id": "라디오_일반명사-1",
+      "rationale_short": "일상생활에서 사용하는 기기로 명확.",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 가전 기기"
+    },
+    {
+      "meaning_id": "마치_일반부사-1",
+      "rationale_short": "문장 간의 논리적 연결을 돕는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "비유적 연결"
+    },
+    {
+      "meaning_id": "망설이다_동사-1",
+      "rationale_short": "내면의 심리적 상태를 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "결정 지연 심리"
+    },
+    {
+      "meaning_id": "멋지다_형용사-1",
+      "rationale_short": "대상에 대한 긍정적 평가를 나타내는 형용사.",
+      "root": "의견과 가치",
+      "category_label_ko": "긍정적 평가"
+    },
+    {
+      "meaning_id": "명절_일반명사-1",
+      "rationale_short": "사회적 관습 및 기념일로 명확.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 기념일"
+    },
+    {
+      "meaning_id": "명함_일반명사-1",
+      "rationale_short": "업무 상황에서 사용되는 도구로 명확.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무용 정보 카드"
+    },
+    {
+      "meaning_id": "몇몇_관형사-1",
+      "rationale_short": "불특정한 적은 수량을 나타내는 관형사.",
+      "root": "수량과 단위",
+      "category_label_ko": "불특정 소수"
+    },
+    {
+      "meaning_id": "무사히_일반부사-1",
+      "rationale_short": "상황의 안전한 상태를 묘사하는 부사.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "안전한 상태"
+    },
+    {
+      "meaning_id": "무선_일반명사-1",
+      "rationale_short": "일상생활과 관련된 통신 기술 개념.",
+      "root": "주거와 일상",
+      "category_label_ko": "통신 기술 방식"
+    },
+    {
+      "meaning_id": "문구_일반명사-1",
+      "rationale_short": "언어 및 글쓰기 관련 명확한 개념.",
+      "root": "학교와 공부",
+      "category_label_ko": "글쓰기 표현"
+    },
+    {
+      "meaning_id": "바위_일반명사-1",
+      "rationale_short": "자연 환경의 명확한 요소.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 지형물"
+    },
+    {
+      "meaning_id": "반사_일반명사-1",
+      "rationale_short": "자연에서 일어나는 물리적 현상으로 명확.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 물리 현상"
+    },
+    {
+      "meaning_id": "백성_일반명사-1",
+      "rationale_short": "사회 구성원을 나타내는 명확한 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 구성원"
+    },
+    {
+      "meaning_id": "번역_일반명사-1",
+      "rationale_short": "언어 및 지식 전달과 관련된 명확한 개념.",
+      "root": "학교와 공부",
+      "category_label_ko": "언어 간 변환"
+    },
+    {
+      "meaning_id": "번호판_일반명사-1",
+      "rationale_short": "교통수단과 관련된 명확한 사물.",
+      "root": "교통",
+      "category_label_ko": "차량 식별판"
+    },
+    {
+      "meaning_id": "벌다_동사-1",
+      "rationale_short": "경제 활동 및 직업과 관련된 명확한 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "경제적 소득 활동"
+    },
+    {
+      "meaning_id": "복사_일반명사-1",
+      "rationale_short": "일상생활 및 사무에서 흔히 일어나는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "문서 복제 행위"
+    },
+    {
+      "meaning_id": "부담감_일반명사-1",
+      "rationale_short": "내면의 감정 상태를 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "심리적 압박감"
+    },
+    {
+      "meaning_id": "분자_일반명사-1",
+      "rationale_short": "과학 분야의 명확한 기본 개념.",
+      "root": "학교와 공부",
+      "category_label_ko": "과학 기본 개념"
+    },
+    {
+      "meaning_id": "불안_일반명사-1",
+      "rationale_short": "내면의 감정 상태를 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "걱정스러운 마음"
+    },
+    {
+      "meaning_id": "브랜드_일반명사-1",
+      "rationale_short": "쇼핑 및 경제 활동과 관련된 명확한 개념.",
+      "root": "쇼핑",
+      "category_label_ko": "상품 식별 상표"
+    },
+    {
+      "meaning_id": "비록_일반부사-1",
+      "rationale_short": "문장 간의 논리적 연결을 돕는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "양보적 연결"
+    },
+    {
+      "meaning_id": "비슷하다_형용사-1",
+      "rationale_short": "사물의 상태를 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "유사한 상태"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "대처_일반명사-1",
+      "rationale_short": "추상적 행위, 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위로, 특정 장면보다는 일반적인 상황 처리 맥락."
+    },
+    {
+      "meaning_id": "대체_일반명사-1",
+      "rationale_short": "추상적 행위, 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위로, 특정 장면보다는 일반적인 상황 처리 맥락."
+    },
+    {
+      "meaning_id": "무장_일반명사-1",
+      "rationale_short": "군사/안보 관련 개념이나, 일반적 행위로도 쓰여 모호.",
+      "root": "공공 서비스",
+      "candidate_reason": "군사/안보 관련 개념이지만, 일반적인 행위로도 쓰일 수 있어 모호성 존재."
+    },
+    {
+      "meaning_id": "발사_일반명사-1",
+      "rationale_short": "특정 분야 행위이나, 일반적 행위로도 쓰여 모호.",
+      "root": "공공 서비스",
+      "candidate_reason": "군사, 우주 개발 등 특정 분야에 주로 사용되지만, 일반적인 '쏘아 올림' 행위로도 볼 수 있어 모호성 존재."
+    },
+    {
+      "meaning_id": "변사_일반명사-1",
+      "rationale_short": "의료/법의학 전문 용어이나, 일반적 죽음의 형태로도 쓰여 모호.",
+      "root": "보건과 의료",
+      "candidate_reason": "의료/법의학 관련 전문 용어에 가깝지만, 일반적인 죽음의 한 형태로 볼 수도 있어 모호성 존재."
+    },
+    {
+      "meaning_id": "부여_일반명사-1",
+      "rationale_short": "추상적 행위, 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위로, 특정 장면보다는 일반적인 상황 처리 맥락."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

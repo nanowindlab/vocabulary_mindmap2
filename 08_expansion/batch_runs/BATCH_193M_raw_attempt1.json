@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"decisions\": [],\n  \"insights\": {\n    \"hard_patterns\": [],\n    \"ia_suggestions\": []\n  }\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 714,
+    "candidatesTokenCount": 35,
+    "totalTokenCount": 892,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 714
+      }
+    ],
+    "thoughtsTokenCount": 143
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "0KavaZSMDsq80-kPzsKcmAo"
+}

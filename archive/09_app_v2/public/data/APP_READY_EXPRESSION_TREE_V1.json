@@ -1,0 +1,987 @@
+[
+  {
+    "id": "lemma__거의__일반부사__0",
+    "word": "거의",
+    "def_en": "almost",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "전부에서 조금 모자라게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 20,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 866
+    }
+  },
+  {
+    "id": "lemma__너무__일반부사__0",
+    "word": "너무",
+    "def_en": "too, very",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "일정한 정도나 한계를 훨씬 넘어선 상태로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 74,
+      "source_count": 35,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 364
+    }
+  },
+  {
+    "id": "lemma__다__일반부사__0",
+    "word": "다",
+    "def_en": "all",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "남거나 빠진 것이 없이 모두.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 126,
+      "source_count": 50,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 184
+    }
+  },
+  {
+    "id": "lemma__다르다__형용사__0",
+    "word": "다르다",
+    "def_en": "different",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "두 개의 대상이 서로 같지 아니하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 122,
+      "source_count": 42,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 192
+    }
+  },
+  {
+    "id": "lemma__더__일반부사__0",
+    "word": "더",
+    "def_en": "more",
+    "routing": "expression_core_candidate",
+    "original_cluster": "general_actions",
+    "surface": "expression_core",
+    "def_ko": "보태어 계속해서.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 431,
+      "source_count": 66,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 52
+    }
+  },
+  {
+    "id": "lemma__많다__형용사__0",
+    "word": "많다",
+    "def_en": "many",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "수나 양, 정도 등이 일정한 기준을 넘다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 627,
+      "source_count": 75,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 34
+    }
+  },
+  {
+    "id": "lemma__많이__일반부사__0",
+    "word": "많이",
+    "def_en": "a lot",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "수나 양, 정도 등이 일정한 기준보다 넘게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 362,
+      "source_count": 67,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 63
+    }
+  },
+  {
+    "id": "lemma__맛있다__형용사__0",
+    "word": "맛있다",
+    "def_en": "delicious",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "맛이 좋다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 91,
+      "source_count": 41,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 294
+    }
+  },
+  {
+    "id": "lemma__매우__일반부사__0",
+    "word": "매우",
+    "def_en": "very",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "보통보다 훨씬 더.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 36,
+      "source_count": 25,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 763
+    }
+  },
+  {
+    "id": "lemma__모두__일반부사__0",
+    "word": "모두",
+    "def_en": "all",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "남거나 빠진 것이 없는 전체.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 95,
+      "source_count": 46,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 279
+    }
+  },
+  {
+    "id": "lemma__못__일반부사__0",
+    "word": "못",
+    "def_en": "cannot",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "가늘고 끝이 뾰족해 두 사물을 이어 붙여 고정하거나 벽에 박아 어떤 물건을 거는 데 쓰는 쇠로 만든 물건.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 270,
+      "source_count": 66,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 75
+    }
+  },
+  {
+    "id": "lemma__별로__일반부사__0",
+    "word": "별로",
+    "def_en": "not particularly",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "특별히 따로. 또는 그러한 정도로 다르게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 40,
+      "source_count": 30,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 692
+    }
+  },
+  {
+    "id": "lemma__쉽다__형용사__0",
+    "word": "쉽다",
+    "def_en": "easy",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "하기에 힘들거나 어렵지 않다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 173,
+      "source_count": 52,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 117
+    }
+  },
+  {
+    "id": "lemma__아주__일반부사__0",
+    "word": "아주",
+    "def_en": "very",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "보통 정도보다 훨씬 더 넘어선 상태로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 72,
+      "source_count": 39,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 380
+    }
+  },
+  {
+    "id": "lemma__아직__일반부사__0",
+    "word": "아직",
+    "def_en": "still / yet",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "어떤 일이나 상태 또는 어떻게 되기까지 시간이 더 지나야 함을 나타내거나, 어떤 일이나 상태가 끝나지 않고 계속 이어지고 있음을 나타내는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 106,
+      "source_count": 46,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 241
+    }
+  },
+  {
+    "id": "lemma__안__일반부사__0",
+    "word": "안",
+    "def_en": "not",
+    "routing": "expression_core_candidate",
+    "original_cluster": "general_actions",
+    "surface": "expression_core",
+    "def_ko": "어떤 물체나 공간의 둘레에서 가운데로 향한 쪽. 또는 그러한 부분.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 368,
+      "source_count": 64,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 61
+    }
+  },
+  {
+    "id": "lemma__어렵다__형용사__0",
+    "word": "어렵다",
+    "def_en": "difficult",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "하기가 복잡하거나 힘이 들다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 175,
+      "source_count": 55,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 113
+    }
+  },
+  {
+    "id": "lemma__없다__형용사__0",
+    "word": "없다",
+    "def_en": "not exist",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "어떤 사실이나 현상이 현실로 존재하지 않는 상태이다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 719,
+      "source_count": 70,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 31
+    }
+  },
+  {
+    "id": "lemma__예쁘다__형용사__0",
+    "word": "예쁘다",
+    "def_en": "pretty",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "생긴 모양이 눈으로 보기에 좋을 만큼 아름답다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 66,
+      "source_count": 34,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 424
+    }
+  },
+  {
+    "id": "lemma__있다__형용사__0",
+    "word": "있다",
+    "def_en": "exist",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "사람이나 동물이 어느 곳에 떠나거나 벗어나지 않고 머물다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 1570,
+      "source_count": 80,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 8
+    }
+  },
+  {
+    "id": "lemma__자주__일반부사__0",
+    "word": "자주",
+    "def_en": "often",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "같은 일이 되풀이되는 간격이 짧게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 166,
+      "source_count": 56,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 125
+    }
+  },
+  {
+    "id": "lemma__잘__일반부사__0",
+    "word": "잘",
+    "def_en": "well",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "분명하고 정확하게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 598,
+      "source_count": 71,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 38
+    }
+  },
+  {
+    "id": "lemma__재미있다__형용사__0",
+    "word": "재미있다",
+    "def_en": "fun",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "즐겁고 유쾌한 느낌이 있다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 103,
+      "source_count": 50,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 252
+    }
+  },
+  {
+    "id": "lemma__정말__일반부사__0",
+    "word": "정말",
+    "def_en": "really",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "거짓이 없이 진짜로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 113,
+      "source_count": 48,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 222
+    }
+  },
+  {
+    "id": "lemma__조금__일반부사__0",
+    "word": "조금",
+    "def_en": "a little",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "분량이나 정도가 적게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 55,
+      "source_count": 31,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 523
+    }
+  },
+  {
+    "id": "lemma__좋다__형용사__0",
+    "word": "좋다",
+    "def_en": "good",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "어떤 것의 성질이나 내용 등이 훌륭하여 만족할 만하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 784,
+      "source_count": 76,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 27
+    }
+  },
+  {
+    "id": "lemma__중요__일반명사__0",
+    "word": "중요",
+    "def_en": "importance",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "귀중하고 꼭 필요함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 207,
+      "source_count": 47,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 97
+    }
+  },
+  {
+    "id": "lemma__지금__일반명사__0",
+    "word": "지금",
+    "def_en": "now",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "말을 하고 있는 바로 이 때.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 83,
+      "source_count": 44,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 324
+    }
+  },
+  {
+    "id": "lemma__크다__형용사__0",
+    "word": "크다",
+    "def_en": "big",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "동식물이 자라다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 254,
+      "source_count": 60,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 81
+    }
+  },
+  {
+    "id": "lemma__특히__일반부사__0",
+    "word": "특히",
+    "def_en": "especially",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "보통과 다르게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 34,
+      "source_count": 22,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 815
+    }
+  },
+  {
+    "id": "lemma__필요__일반명사__0",
+    "word": "필요",
+    "def_en": "need",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "꼭 있어야 함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 371,
+      "source_count": 59,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 60
+    }
+  },
+  {
+    "id": "lemma__항상__일반부사__0",
+    "word": "항상",
+    "def_en": "always",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "어느 때에나 변함없이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 38,
+      "source_count": 26,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 739
+    }
+  },
+  {
+    "id": "lemma__혼자__일반명사__0",
+    "word": "혼자",
+    "def_en": "alone",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "다른 사람 없이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 80,
+      "source_count": 44,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 341
+    }
+  },
+  {
+    "id": "lemma__힘들다__형용사__0",
+    "word": "힘들다",
+    "def_en": "hard, tough",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "힘이 많이 쓰이는 면이 있다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 121,
+      "source_count": 49,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 195
+    }
+  },
+  {
+    "id": "meta__가끔__0",
+    "word": "가끔",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "written_discourse",
+    "surface": "expression_core",
+    "def_ko": "어쩌다가 한 번씩.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 21,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 863
+    }
+  },
+  {
+    "id": "meta__가장__0",
+    "word": "가장",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "test_instruction",
+    "surface": "expression_core",
+    "def_ko": "한 가족을 대표하고 책임지는 사람. 주로 집안의 남자 어른.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__같다__0",
+    "word": "같다",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "test_instruction",
+    "surface": "expression_core",
+    "def_ko": "서로 다르지 않다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 775,
+      "source_count": 69,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 28
+    }
+  },
+  {
+    "id": "meta__괜찮다__0",
+    "word": "괜찮다",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "spoken_discourse",
+    "surface": "expression_core",
+    "def_ko": "꽤 좋다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 67,
+      "source_count": 38,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 411
+    }
+  },
+  {
+    "id": "meta__나쁘다__0",
+    "word": "나쁘다",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "written_discourse",
+    "surface": "expression_core",
+    "def_ko": "좋지 아니하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 29,
+      "source_count": 20,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 930
+    }
+  },
+  {
+    "id": "meta__작다__0",
+    "word": "작다",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "written_discourse",
+    "surface": "expression_core",
+    "def_ko": "길이, 넓이, 부피 등이 다른 것이나 보통보다 덜하다.",
+    "related_vocab": [
+      "얼굴이 작다"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 103,
+      "source_count": 45,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 251
+    }
+  },
+  {
+    "id": "meta__함께__0",
+    "word": "함께",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "written_discourse",
+    "surface": "expression_core",
+    "def_ko": "여럿이서 한꺼번에 같이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 155,
+      "source_count": 52,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 140
+    }
+  },
+  {
+    "id": "lemma__다시__일반부사__0",
+    "word": "다시",
+    "def_en": "again",
+    "routing": "expression_core_candidate",
+    "original_cluster": "unmapped_high_frequency",
+    "surface": "expression_core",
+    "def_ko": "같은 말이나 행동을 반복해서 또.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 129,
+      "source_count": 52,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 175
+    }
+  },
+  {
+    "id": "meta__매일__0",
+    "word": "매일",
+    "def_en": "",
+    "routing": "expression_core_candidate",
+    "original_cluster": "written_discourse",
+    "surface": "expression_core",
+    "def_ko": "하루하루마다 빠짐없이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 66,
+      "source_count": 39,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 422
+    }
+  }
+]

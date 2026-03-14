@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "뜻_일반명사-2",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 내면의 상태를 나타내므로 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "내면의 마음이나 목표를 나타내는 추상적 개념."
+    },
+    {
+      "meaning_id": "방지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 행위의 개념으로, 특정 root에 명확히 속하기 어려워 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 일어나지 못하게 막는 추상적 행위."
+    },
+    {
+      "meaning_id": "시계_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 생활 용품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 시간을 확인하는 데 사용하는 명확한 사물."
+    },
+    {
+      "meaning_id": "시청자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사회적 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "텔레비전 방송을 보는 사람의 역할을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "신청서_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "행정 문서",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공공 서비스, 직장, 학교 등 다양한 맥락에서 사용되는 공식 문서."
+    },
+    {
+      "meaning_id": "오랫동안_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 길이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 길이를 명확하게 나타내는 어휘."
+    },
+    {
+      "meaning_id": "이동_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "움직임과 이동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 물건이 장소를 옮기는 행위를 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "이미_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 상태를 나타내는 명확한 부사."
+    },
+    {
+      "meaning_id": "자극_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "물리적, 감정적 등 다양한 맥락에서 사용될 수 있는 추상적인 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 반응을 일으키는 추상적인 작용."
+    },
+    {
+      "meaning_id": "정원_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집과 관련된 외부 공간을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "정원_일반명사-2",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "인원 제한",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정해진 사람의 수를 나타내는 명확한 수량 개념."
+    },
+    {
+      "meaning_id": "조심_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "사람의 태도나 마음가짐을 나타내므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "다치거나 실수하지 않도록 살피는 태도."
+    },
+    {
+      "meaning_id": "차이_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "사물이나 개념 간의 관계를 나타내는 추상적인 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "서로 같지 않고 다른 점을 나타내는 추상적 개념."
+    },
+    {
+      "meaning_id": "책임_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "사회적, 도덕적 의무와 관련된 추상적인 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일에 대해 맡아 해야 할 의무와 결과를 감당하는 상태."
+    },
+    {
+      "meaning_id": "크기_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "측정 단위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 물리적 속성을 나타내는 명확한 측정 개념."
+    },
+    {
+      "meaning_id": "택시_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "대중교통 수단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "돈을 내고 이용하는 대중교통 수단인 자동차."
+    },
+    {
+      "meaning_id": "포장_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 포장",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 보호하거나 보기 좋게 싸는 행위."
+    },
+    {
+      "meaning_id": "화분_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "원예 용품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식물을 기르는 데 사용하는 명확한 생활 용품."
+    },
+    {
+      "meaning_id": "확보_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것을 얻거나 지키는 추상적인 행위의 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "필요한 것을 손에 넣어 가지는 추상적 행위."
+    },
+    {
+      "meaning_id": "휴가_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "휴식과 여가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장이나 학교에서 쉬는 기간을 명확하게 나타내며 여가 활동과 연결됨."
+    },
+    {
+      "meaning_id": "감상_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "작품이나 경치를 통해 느끼는 내면의 감정이나 생각을 나타내므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "작품이나 경치를 보며 느끼고 생각하는 내면적 행위."
+    },
+    {
+      "meaning_id": "구체_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "형태와 모양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 형태를 명확하게 나타내는 어휘."
+    },
+    {
+      "meaning_id": "나중_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "미래 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 순서를 명확하게 나타내는 어휘."
+    },
+    {
+      "meaning_id": "단_접속부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "조건/예외 연결",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문장 간의 논리적 관계를 명확하게 연결하는 어휘."
+    },
+    {
+      "meaning_id": "담다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 넣기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 용기 안에 넣는 구체적인 행위."
+    },
+    {
+      "meaning_id": "담다_동사-2",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "생각이나 감정을 표현하는 추상적인 행위이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "생각이나 감정을 글이나 말 속에 포함시키는 추상적 행위."
+    },
+    {
+      "meaning_id": "도덕_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 윤리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회 구성원이 지켜야 할 행동 기준을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "매출_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "경제 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사업 활동의 경제적 성과를 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "벌_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 제재",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잘못된 행동에 대한 사회적 또는 법적 결과를 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "산책_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "일상 여가 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가볍게 걷는 여가 활동을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "소설_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "문학 작품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문학의 한 장르를 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "소통_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 형성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 생각 교환 행위를 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "시골_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 환경",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "도시와 대비되는 자연 친화적인 지역을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "실시_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "계획을 실행하는 추상적인 행위의 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "계획한 일을 실제로 행하는 추상적 행위."
+    },
+    {
+      "meaning_id": "아르바이트_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "단기 직업",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정식 직업이 아닌 단기적인 일을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "야구_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 종목",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "구체적인 스포츠 종목을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "에너지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일을 하게 하는 추상적인 힘의 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "일을 하게 하는 추상적인 힘."
+    },
+    {
+      "meaning_id": "에어컨_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가전제품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "실내 환경 조절에 사용되는 명확한 가전제품."
+    },
+    {
+      "meaning_id": "의사_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 직업",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "병을 치료하는 전문 직업인을 명확하게 나타냄."
+    },
+    {
+      "meaning_id": "이기다_동사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "경쟁 승리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "경쟁에서 우위를 차지하는 행위를 명확하게 나타냄."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어는 여러 root에 걸쳐 모호성을 가질 수 있어 candidate로 분류하는 경향이 있음 (예: 뜻, 방지, 자극, 책임, 확보, 감상, 실시, 에너지).",
+      "동일한 lemma라도 의미에 따라 다른 bucket 또는 root로 분류될 수 있음 (예: 담다_동사-1 vs 담다_동사-2, 정원_일반명사-1 vs 정원_일반명사-2)."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root에 너무 많은 추상적인 개념어가 모이지 않도록, 추후 세분화된 하위 카테고리 또는 새로운 root 추가를 고려해야 합니다.",
+      "내면과 감정, 성격과 태도 등 추상적인 영역의 어휘에 대한 분류 기준을 더욱 명확히 할 필요가 있습니다."
+    ]
+  }
+}

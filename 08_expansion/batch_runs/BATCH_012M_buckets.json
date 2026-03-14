@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "저녁_일반명사-1",
+      "rationale_short": "명확한 시간 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "하루 중 시간"
+    },
+    {
+      "meaning_id": "저녁_일반명사-2",
+      "rationale_short": "명확한 식생활 관련 개념.",
+      "root": "식생활",
+      "category_label_ko": "저녁 식사"
+    },
+    {
+      "meaning_id": "어제_일반부사-1",
+      "rationale_short": "명확한 시간 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거의 시간"
+    },
+    {
+      "meaning_id": "판매_일반명사-1",
+      "rationale_short": "명확한 쇼핑/상업 행위.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 거래 행위"
+    },
+    {
+      "meaning_id": "산_일반명사-1",
+      "rationale_short": "명확한 자연 환경 요소.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 지형"
+    },
+    {
+      "meaning_id": "소비자_일반명사-1",
+      "rationale_short": "쇼핑 행위와 관련된 사람의 역할.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 구매자"
+    },
+    {
+      "meaning_id": "시민_일반명사-1",
+      "rationale_short": "사회 및 공공 생활의 구성원.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 구성원"
+    },
+    {
+      "meaning_id": "제목_일반명사-1",
+      "rationale_short": "문화 콘텐츠의 명칭.",
+      "root": "문화와 사회",
+      "category_label_ko": "작품의 이름"
+    },
+    {
+      "meaning_id": "커피_일반명사-1",
+      "rationale_short": "명확한 식생활 관련 음료.",
+      "root": "식생활",
+      "category_label_ko": "음료 종류"
+    },
+    {
+      "meaning_id": "회의_일반명사-1",
+      "rationale_short": "직장 및 업무 관련 활동.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 논의 모임"
+    },
+    {
+      "meaning_id": "도착_일반명사-1",
+      "rationale_short": "이동 및 교통 관련 행위.",
+      "root": "교통",
+      "category_label_ko": "목적지 도달"
+    },
+    {
+      "meaning_id": "돕다_동사-1",
+      "rationale_short": "사람 간의 관계 및 상호작용 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "상호 협력 행위"
+    },
+    {
+      "meaning_id": "발표_일반명사-1",
+      "rationale_short": "직장, 학교 등에서 정보를 알리는 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "정보 공개 행위"
+    },
+    {
+      "meaning_id": "역할_일반명사-1",
+      "rationale_short": "사람의 사회적, 직업적 임무.",
+      "root": "사람과 관계",
+      "category_label_ko": "맡은 임무"
+    },
+    {
+      "meaning_id": "연락_일반명사-1",
+      "rationale_short": "사람 간의 소통 및 관계 유지 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "소통 행위"
+    },
+    {
+      "meaning_id": "위치_일반명사-1",
+      "rationale_short": "사물의 공간적 위치를 나타내는 일반적인 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "사물의 자리"
+    },
+    {
+      "meaning_id": "증가_일반명사-1",
+      "rationale_short": "수량의 변화를 나타내는 명확한 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 증대"
+    },
+    {
+      "meaning_id": "관리_일반명사-1",
+      "rationale_short": "일이나 시설을 책임지고 돌보는 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 운영"
+    },
+    {
+      "meaning_id": "능력_일반명사-1",
+      "rationale_short": "사람의 잠재력이나 기술을 나타내는 개념.",
+      "root": "성격과 태도",
+      "category_label_ko": "개인의 역량"
+    },
+    {
+      "meaning_id": "모양_일반명사-1",
+      "rationale_short": "사물의 시각적 특징을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "사물의 형태"
+    },
+    {
+      "meaning_id": "인터넷_일반명사-1",
+      "rationale_short": "현대 사회의 핵심 정보 통신 인프라.",
+      "root": "공공 서비스",
+      "category_label_ko": "정보 통신망"
+    },
+    {
+      "meaning_id": "극장_일반명사-1",
+      "rationale_short": "문화 활동이 이루어지는 장소.",
+      "root": "문화와 사회",
+      "category_label_ko": "공연 상영 장소"
+    },
+    {
+      "meaning_id": "우산_일반명사-1",
+      "rationale_short": "날씨 변화에 대비하는 도구.",
+      "root": "날씨와 자연",
+      "category_label_ko": "비 눈 가림 도구"
+    },
+    {
+      "meaning_id": "일어나다_동사-1",
+      "rationale_short": "일상적인 신체 움직임.",
+      "root": "주거와 일상",
+      "category_label_ko": "몸을 세우다"
+    },
+    {
+      "meaning_id": "목적_일반명사-1",
+      "rationale_short": "어떤 행위나 계획의 지향점을 나타내는 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "행위의 목표"
+    },
+    {
+      "meaning_id": "시_일반명사-1",
+      "rationale_short": "문화 예술의 한 형태인 문학 작품.",
+      "root": "문화와 사회",
+      "category_label_ko": "문학 작품"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "얻다_동사-1",
+      "rationale_short": "획득의 의미가 다양한 맥락에 적용되어 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "의미가 광범위하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "없이_일반부사-1",
+      "rationale_short": "부정적 상태를 나타내는 부사로 일반적인 상황에 해당.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "상태를 나타내는 부사로, 특정 핵심 루트에 분류하기 모호함."
+    },
+    {
+      "meaning_id": "꼭_일반부사-1",
+      "rationale_short": "필수 또는 강조의 의미로 일반적인 상황에 해당.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "강조를 나타내는 부사로, 특정 핵심 루트에 분류하기 모호함."
+    },
+    {
+      "meaning_id": "발생_일반명사-1",
+      "rationale_short": "사건의 발생이라는 일반적인 상황을 나타냄.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 사건의 발생을 의미하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "아주_일반부사-1",
+      "rationale_short": "정도를 강조하는 부사로 묘사적 표현에 사용.",
+      "root": "감각과 묘사",
+      "candidate_reason": "정도를 나타내는 부사로, 특정 핵심 루트에 분류하기 모호함."
+    },
+    {
+      "meaning_id": "행동_일반명사-1",
+      "rationale_short": "사람의 일반적인 움직임이나 처신을 나타내어 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람의 일반적인 움직임이나 처신을 의미하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "가치_일반명사-1",
+      "rationale_short": "중요성이라는 추상적 개념으로, 평가와 관련되나 모호함.",
+      "root": "의견과 가치",
+      "candidate_reason": "추상적인 개념으로, 여러 맥락에서 사용될 수 있어 분류에 모호성이 있음."
+    },
+    {
+      "meaning_id": "늘다_동사-1",
+      "rationale_short": "수량, 정도의 증가를 나타내는 동사로 적용 범위가 넓어 모호함.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량이나 정도의 변화를 나타내는 동사로, 적용 범위가 넓어 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "줄이다_동사-1",
+      "rationale_short": "수량, 양, 크기의 감소를 나타내는 동사로 적용 범위가 넓어 모호함.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량이나 크기의 변화를 나타내는 동사로, 적용 범위가 넓어 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "진행_일반명사-1",
+      "rationale_short": "일의 흐름이나 과정을 나타내는 일반적인 상황.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 일의 흐름이나 과정을 의미하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "성장_일반명사-1",
+      "rationale_short": "다양한 주체의 발달을 의미하여 일반적인 상황에 해당.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "몸, 조직, 경제 등 다양한 주체의 발달을 의미하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "일어나다_동사-2",
+      "rationale_short": "사건이나 일이 생기는 일반적인 상황을 나타냄.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 사건의 발생을 의미하여 특정 핵심 루트에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "괜찮다_형용사-1",
+      "rationale_short": "상태나 평가를 나타내며, 감각/평가/내면과 경계가 겹쳐 모호함.",
+      "root": "의견과 가치",
+      "candidate_reason": "상태나 평가를 나타내는 형용사로, 여러 맥락에서 사용될 수 있어 분류에 모호성이 있음."
+    },
+    {
+      "meaning_id": "보통_일반부사-1",
+      "rationale_short": "평상시와 다르지 않은 일반적인 상태를 나타냄.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 상태나 빈도를 나타내는 부사로, 특정 핵심 루트에 분류하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 및 광범위한 동사/부사는 특정 핵심 루트에 100% 확실하게 분류하기 어려워 candidate로 분류되는 경향이 있음.",
+      "상태, 정도, 발생 등 일반적인 상황을 묘사하는 어휘는 '상황 지시/기타' 또는 '감각과 묘사', '의견과 가치' 등 여러 루트와 경계가 모호하여 candidate로 분류됨."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' 루트 내에 '일반적 행위', '일반적 상태', '일반적 변화' 등의 하위 카테고리를 고려하여 candidate 어휘들의 분류 명확성을 높일 수 있습니다.",
+      "정도 부사('아주', '꼭', '보통')와 같은 어휘는 '감각과 묘사' 또는 '의견과 가치' 루트 내에 '강조/정도'와 같은 하위 카테고리를 신설하여 분류를 구체화할 수 있습니다."
+    ]
+  }
+}

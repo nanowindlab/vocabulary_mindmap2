@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "체육관_일반명사-1",
+      "rationale_short": "운동 활동을 위한 명확한 장소.",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 시설"
+    },
+    {
+      "meaning_id": "치마_일반명사-1",
+      "rationale_short": "일상생활에서 입는 명확한 의류 품목.",
+      "root": "주거와 일상",
+      "category_label_ko": "의류 종류"
+    },
+    {
+      "meaning_id": "캠핑_일반명사-1",
+      "rationale_short": "명확한 여가 활동.",
+      "root": "여가와 취미",
+      "category_label_ko": "야외 활동"
+    },
+    {
+      "meaning_id": "콩나물_일반명사-1",
+      "rationale_short": "명확한 음식 재료.",
+      "root": "식생활",
+      "category_label_ko": "식재료"
+    },
+    {
+      "meaning_id": "통_일반명사-1",
+      "rationale_short": "물건을 담는 명확한 생활 용품.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 용기"
+    },
+    {
+      "meaning_id": "필름_일반명사-1",
+      "rationale_short": "사진이나 영화 기록에 사용되는 명확한 매체.",
+      "root": "여가와 취미",
+      "category_label_ko": "사진/영상 매체"
+    },
+    {
+      "meaning_id": "행사장_일반명사-1",
+      "rationale_short": "행사가 열리는 명확한 장소.",
+      "root": "문화와 사회",
+      "category_label_ko": "행사 장소"
+    },
+    {
+      "meaning_id": "화학_일반명사-1",
+      "rationale_short": "물질을 연구하는 명확한 학문 분야.",
+      "root": "학교와 공부",
+      "category_label_ko": "학문 분야"
+    },
+    {
+      "meaning_id": "감동_일반명사-1",
+      "rationale_short": "마음이 크게 움직이는 명확한 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "마음 움직임"
+    },
+    {
+      "meaning_id": "거래처_일반명사-1",
+      "rationale_short": "물건을 사고파는 명확한 비즈니스 관계 대상.",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 관계"
+    },
+    {
+      "meaning_id": "고대_일반명사-1",
+      "rationale_short": "아주 오래전 명확한 시대 구분.",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시대"
+    },
+    {
+      "meaning_id": "고등학교_일반명사-1",
+      "rationale_short": "명확한 교육 기관.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 기관"
+    },
+    {
+      "meaning_id": "그러므로_접속부사-1",
+      "rationale_short": "앞뒤 문장의 인과 관계를 연결하는 명확한 접속 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "인과 관계 연결"
+    },
+    {
+      "meaning_id": "그렇지만_접속부사-1",
+      "rationale_short": "앞뒤 문장의 대조 관계를 연결하는 명확한 접속 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "대조 관계 연결"
+    },
+    {
+      "meaning_id": "글쓴이_일반명사-1",
+      "rationale_short": "글을 쓴 사람이라는 명확한 역할어.",
+      "root": "사람과 관계",
+      "category_label_ko": "글 작성자"
+    },
+    {
+      "meaning_id": "깨다_동사-1",
+      "rationale_short": "잠에서 깨는 명확한 일상생활 활동.",
+      "root": "주거와 일상",
+      "category_label_ko": "수면 활동"
+    },
+    {
+      "meaning_id": "내려오다_동사-1",
+      "rationale_short": "위에서 아래로 이동하는 명확한 움직임.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "하향 이동"
+    },
+    {
+      "meaning_id": "노트북_일반명사-1",
+      "rationale_short": "휴대할 수 있는 명확한 개인용 전자기기.",
+      "root": "주거와 일상",
+      "category_label_ko": "휴대용 전자기기"
+    },
+    {
+      "meaning_id": "단백질_일반명사-1",
+      "rationale_short": "몸을 이루는 명확한 영양소.",
+      "root": "식생활",
+      "category_label_ko": "필수 영양소"
+    },
+    {
+      "meaning_id": "대다_동사-1",
+      "rationale_short": "물건을 다른 것에 갖다 대는 명확한 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물체 접촉"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "최대_일반명사-1",
+      "rationale_short": "정도나 범위를 나타내는 추상어.",
+      "root": "수량과 단위",
+      "candidate_reason": "가장 큰 정도를 나타내는 추상적인 개념으로, '수량과 단위' 또는 '감각과 묘사'와 경계가 모호함."
+    },
+    {
+      "meaning_id": "탐사_일반명사-1",
+      "rationale_short": "조사 행위의 맥락이 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "조사하고 살펴보는 행위는 여러 맥락(학문, 여가, 업무 등)에서 발생할 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "통신_일반명사-1",
+      "rationale_short": "정보 교환 행위의 맥락이 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정보를 주고받는 행위는 '직장과 업무', '공공 서비스', '문화와 사회' 등 다양한 분야에 걸쳐 있어 모호함."
+    },
+    {
+      "meaning_id": "품질_일반명사-1",
+      "rationale_short": "물건의 좋고 나쁨을 평가하는 추상어.",
+      "root": "의견과 가치",
+      "candidate_reason": "물건의 성능이나 수준을 평가하는 추상적인 개념으로, '의견과 가치' 또는 '감각과 묘사'와 경계가 모호함."
+    },
+    {
+      "meaning_id": "향상_일반명사-1",
+      "rationale_short": "능력/수준 변화를 나타내는 추상어.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "능력이나 수준이 나아지는 추상적인 상태 변화로, 특정 분야에 한정하기 어려워 모호함."
+    },
+    {
+      "meaning_id": "협력_일반명사-1",
+      "rationale_short": "협동 행위의 맥락이 모호함.",
+      "root": "사람과 관계",
+      "candidate_reason": "힘을 합쳐 돕는 행위는 '사람과 관계', '직장과 업무', '문화와 사회' 등 다양한 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "환수_일반명사-1",
+      "rationale_short": "돈/물건 회수 행위의 맥락이 모호함.",
+      "root": "직장과 업무",
+      "candidate_reason": "돈이나 물건을 다시 거둬들이는 행위는 주로 '직장과 업무' 또는 '공공 서비스'와 관련되지만, 일반적인 행위로서 모호함."
+    },
+    {
+      "meaning_id": "환영_일반명사-1",
+      "rationale_short": "기쁨의 감정 표현과 관계 행위의 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "기쁘게 맞이하는 행위는 '내면과 감정'과 '사람과 관계'의 경계에 있어 모호함."
+    },
+    {
+      "meaning_id": "훼손_일반명사-1",
+      "rationale_short": "가치/모습 손상 행위의 맥락이 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "가치나 겉모습을 해치거나 망가뜨리는 행위는 '상황 지시/기타' 또는 '의견과 가치'와 경계가 모호함."
+    },
+    {
+      "meaning_id": "가입_일반명사-1",
+      "rationale_short": "그룹 가입 행위의 맥락이 모호함.",
+      "root": "사람과 관계",
+      "candidate_reason": "무리에 들어 속하는 행위는 '사람과 관계', '공공 서비스', '직장과 업무' 등 다양한 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "계기_일반명사-1",
+      "rationale_short": "원인/기회를 나타내는 추상어.",
+      "root": "논리와 연결",
+      "candidate_reason": "어떤 일이 일어나는 원인이나 기회를 나타내는 추상적인 개념으로, '논리와 연결' 또는 '시간과 흐름'과 경계가 모호함."
+    },
+    {
+      "meaning_id": "고정_일반명사-1",
+      "rationale_short": "움직이지 않는 상태/행위의 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "움직이지 않도록 붙이는 행위나 상태는 '상황 지시/기타' 또는 '감각과 묘사'와 경계가 모호함."
+    },
+    {
+      "meaning_id": "공개_일반명사-1",
+      "rationale_short": "정보 공개 행위의 맥락이 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "숨기지 않고 드러내는 행위는 '문화와 사회', '직장과 업무' 등 다양한 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "규칙_일반명사-1",
+      "rationale_short": "사회적 약속의 적용 범위가 모호함.",
+      "root": "문화와 사회",
+      "candidate_reason": "여럿이 지키는 약속이나 법칙은 '문화와 사회', '직장과 업무', '학교와 공부' 등 다양한 맥락에서 적용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "금지_일반명사-1",
+      "rationale_short": "행동 규제 행위의 맥락이 모호함.",
+      "root": "문화와 사회",
+      "candidate_reason": "어떤 행동을 못하게 막는 행위는 '문화와 사회', '공공 서비스' 등 다양한 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "나서다_동사-1",
+      "rationale_short": "행동 시작의 맥락이 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "앞에 나와 어떤 일을 하려는 행위는 '성격과 태도' 또는 일반적인 '행동'으로 분류될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "나타내다_동사-1",
+      "rationale_short": "표현 행위의 대상이 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "마음이나 생각을 겉으로 드러내는 행위는 '내면과 감정' 또는 '감각과 묘사'와 경계가 모호함."
+    },
+    {
+      "meaning_id": "내부_일반명사-1",
+      "rationale_short": "위치/부분 개념의 적용 범위가 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 공간이나 조직의 안쪽 부분을 나타내는 개념으로, '상황 지시/기타' 또는 '주거와 일상' 등 다양한 맥락에서 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "논의_일반명사-1",
+      "rationale_short": "의견 교환 행위의 맥락이 모호함.",
+      "root": "사람과 관계",
+      "candidate_reason": "서로 의견을 나누는 행위는 '사람과 관계', '직장과 업무', '학교와 공부' 등 다양한 맥락에서 발생할 수 있어 모호함."
+    },
+    {
+      "meaning_id": "대형_일반명사-1",
+      "rationale_short": "크기 묘사 개념의 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "크기가 큰 것을 나타내는 개념으로, '감각과 묘사' 또는 '수량과 단위'와 경계가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 최대, 품질, 향상, 계기)",
+      "다양한 맥락에서 사용될 수 있는 행위어 (예: 탐사, 통신, 협력, 환수, 가입, 공개, 금지, 나서다, 나타내다, 논의)",
+      "위치나 상태를 나타내는 일반적인 명사 (예: 내부, 고정)"
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 '상황 지시/기타' 또는 '의견과 가치', '감각과 묘사' 등의 루트 내 하위 분류 기준을 명확히 할 필요가 있습니다.",
+      "행위어의 경우, 해당 행위가 주로 발생하는 '장소/장면/제도/직업'을 기준으로 분류하거나, 맥락이 모호할 경우 '상황 지시/기타' 내에서 더 세분화된 하위 분류를 고려해야 합니다.",
+      "동사/형용사 파생 명사(예: 향상, 훼손, 공개, 금지)에 대한 일관된 분류 원칙을 수립해야 합니다."
+    ]
+  }
+}

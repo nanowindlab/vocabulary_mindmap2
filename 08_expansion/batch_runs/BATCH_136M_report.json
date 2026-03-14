@@ -1,0 +1,9 @@
+{
+  "model": "gemini-2.5-flash",
+  "profile": "general_inventory",
+  "input_count": 60,
+  "core_count": 53,
+  "candidate_count": 7,
+  "exclusion_count": 0,
+  "validation_issues": []
+}

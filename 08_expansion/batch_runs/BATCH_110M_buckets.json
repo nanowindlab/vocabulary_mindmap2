@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "포스터_일반명사-1",
+      "rationale_short": "광고 및 홍보를 위한 시각물로, 문화와 사회 활동의 일환.",
+      "root": "문화와 사회",
+      "category_label_ko": "광고 홍보물"
+    },
+    {
+      "meaning_id": "폭력_일반명사-1",
+      "rationale_short": "사회적 문제 또는 행위의 한 형태로, 문화와 사회 영역에 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 행위"
+    },
+    {
+      "meaning_id": "표준_일반명사-1",
+      "rationale_short": "비교 및 판단의 기준이 되는 추상적 개념으로, 의견과 가치 영역에 적합.",
+      "root": "의견과 가치",
+      "category_label_ko": "판단 기준"
+    },
+    {
+      "meaning_id": "풀어내다_동사-1",
+      "rationale_short": "물리적으로 얽힌 것을 해결하는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "얽힌 것 풀기"
+    },
+    {
+      "meaning_id": "풀어내다_동사-2",
+      "rationale_short": "내면의 생각이나 감정을 외부로 표현하는 행위.",
+      "root": "내면과 감정",
+      "category_label_ko": "생각 표현"
+    },
+    {
+      "meaning_id": "품다_동사-1",
+      "rationale_short": "사람이나 대상을 가슴에 안는 행위로, 관계적 의미를 포함.",
+      "root": "사람과 관계",
+      "category_label_ko": "가슴에 안기"
+    },
+    {
+      "meaning_id": "품다_동사-2",
+      "rationale_short": "생각이나 감정을 마음속에 간직하는 내면적 행위.",
+      "root": "내면과 감정",
+      "category_label_ko": "생각 감정 가지기"
+    },
+    {
+      "meaning_id": "피겨_일반명사-1",
+      "rationale_short": "여가 활동 및 스포츠의 한 종류.",
+      "root": "여가와 취미",
+      "category_label_ko": "빙상 스포츠"
+    },
+    {
+      "meaning_id": "피부병_일반명사-1",
+      "rationale_short": "피부에 발생하는 질병으로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "피부 질환"
+    },
+    {
+      "meaning_id": "필기_일반명사-1",
+      "rationale_short": "학습 활동의 일환으로 글자를 기록하는 행위.",
+      "root": "학교와 공부",
+      "category_label_ko": "글자 기록"
+    },
+    {
+      "meaning_id": "학계_일반명사-1",
+      "rationale_short": "학문을 연구하는 사람들의 모임으로, 학교와 공부 영역에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "학문 연구 사회"
+    },
+    {
+      "meaning_id": "학술_일반명사-1",
+      "rationale_short": "학문과 기술에 관한 이론과 지식으로, 학교와 공부 영역에 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "학문 지식"
+    },
+    {
+      "meaning_id": "함부로_일반부사-1",
+      "rationale_short": "조심성 없는 행동 방식을 나타내며, 성격과 태도 영역에 적합.",
+      "root": "성격과 태도",
+      "category_label_ko": "부주의한 태도"
+    },
+    {
+      "meaning_id": "함유_일반명사-1",
+      "rationale_short": "어떤 성분을 안에 가지고 있는 일반적인 상태.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "성분 포함"
+    },
+    {
+      "meaning_id": "항암제_일반명사-1",
+      "rationale_short": "암 치료에 사용되는 약으로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "암 치료약"
+    },
+    {
+      "meaning_id": "해녀_일반명사-1",
+      "rationale_short": "특정 직업군에 속하는 사람으로, 직장과 업무 영역에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "해산물 채취 직업"
+    },
+    {
+      "meaning_id": "해조_일반명사-1",
+      "rationale_short": "바다에 서식하는 식물로, 날씨와 자연 영역에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 식물"
+    },
+    {
+      "meaning_id": "행인_일반명사-1",
+      "rationale_short": "길을 지나가는 사람으로, 교통 상황과 관련된 인물.",
+      "root": "교통",
+      "category_label_ko": "길거리 사람"
+    },
+    {
+      "meaning_id": "현_관형사-1",
+      "rationale_short": "현재 시점을 나타내는 표현으로, 시간과 흐름 영역에 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점"
+    },
+    {
+      "meaning_id": "혈당_일반명사-1",
+      "rationale_short": "피 속 포도당 양으로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "혈액 포도당"
+    },
+    {
+      "meaning_id": "혈액_일반명사-1",
+      "rationale_short": "몸속을 도는 피로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "몸속 피"
+    },
+    {
+      "meaning_id": "호흡_일반명사-1",
+      "rationale_short": "숨을 들이쉬고 내쉬는 생리 현상으로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "숨쉬는 현상"
+    },
+    {
+      "meaning_id": "혼잣말_일반명사-1",
+      "rationale_short": "상대 없이 스스로에게 하는 말로, 내면의 생각 표현과 관련.",
+      "root": "내면과 감정",
+      "category_label_ko": "스스로에게 말하기"
+    },
+    {
+      "meaning_id": "홀로_일반부사-1",
+      "rationale_short": "다른 사람 없이 혼자 있는 상태를 나타내며, 사람과 관계 영역에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "혼자 있는 상태"
+    },
+    {
+      "meaning_id": "홈런_일반명사-1",
+      "rationale_short": "야구 경기의 특정 행위로, 여가와 취미 영역에 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "야구 용어"
+    },
+    {
+      "meaning_id": "환경부_일반명사-1",
+      "rationale_short": "환경 보호 정책을 담당하는 정부 부처로, 공공 서비스 영역에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "정부 기관"
+    },
+    {
+      "meaning_id": "환불_일반명사-1",
+      "rationale_short": "지불한 돈을 돌려받는 행위로, 쇼핑 및 상거래 영역에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "돈 돌려받기"
+    },
+    {
+      "meaning_id": "활약_일반명사-1",
+      "rationale_short": "어떤 분야에서 두드러지게 활동하는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "열심히 활동함"
+    },
+    {
+      "meaning_id": "활짝_일반부사-1",
+      "rationale_short": "크게 열리거나 벌어진 모양을 묘사하는 표현.",
+      "root": "감각과 묘사",
+      "category_label_ko": "크게 열린 모양"
+    },
+    {
+      "meaning_id": "회식_일반명사-1",
+      "rationale_short": "직장 동료들과 함께 식사하는 행위로, 직장 문화의 일환.",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 동료 식사"
+    },
+    {
+      "meaning_id": "회장_일반명사-1",
+      "rationale_short": "회나 단체를 대표하는 직책으로, 직장과 업무 영역에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "단체 대표자"
+    },
+    {
+      "meaning_id": "획기적_일반명사-1",
+      "rationale_short": "시대를 바꿀 만한 새로운 성격을 가짐을 평가하는 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "새로운 변화"
+    },
+    {
+      "meaning_id": "효능_일반명사-1",
+      "rationale_short": "약이나 물질이 나타내는 좋은 작용으로, 보건과 의료 영역에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "약물 효과"
+    },
+    {
+      "meaning_id": "후손_일반명사-1",
+      "rationale_short": "자손과 그 다음으로 이어지는 세대로, 사람과 관계 영역에 해당.",
+      "root": "사람과 관계",
+      "category_label_ko": "이어지는 세대"
+    },
+    {
+      "meaning_id": "휴게소_일반명사-1",
+      "rationale_short": "고속도로 등에서 쉬는 장소로, 교통 시설에 해당.",
+      "root": "교통",
+      "category_label_ko": "도로 휴식 공간"
+    },
+    {
+      "meaning_id": "휴지_일반명사-1",
+      "rationale_short": "닦거나 싸는 데 쓰는 얇은 종이로, 주거와 일상 생활용품.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활용 종이"
+    },
+    {
+      "meaning_id": "가량_일반명사-1",
+      "rationale_short": "대략적인 정도의 수를 나타내는 표현으로, 수량과 단위 영역에 해당.",
+      "root": "수량과 단위",
+      "category_label_ko": "대략적인 수량"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "한눈_일반명사-1",
+      "rationale_short": "의미 모호성 및 감각/내면과의 경계 겹침으로 candidate.",
+      "root": "감각과 묘사",
+      "candidate_reason": "의미가 '한 번에 보는 눈길'과 '주의를 기울이지 않음' 등 모호하게 사용될 수 있으며, 감각/내면과 경계가 겹침."
+    },
+    {
+      "meaning_id": "현실감_일반명사-1",
+      "rationale_short": "느낌에 대한 개념으로, 내면/감각과 경계 겹침으로 candidate.",
+      "root": "내면과 감정",
+      "candidate_reason": "실제로 있는 일처럼 느껴지는 '느낌'으로, 내면과 감정 또는 감각과 묘사 영역과 경계가 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "황금_일반명사-1",
+      "rationale_short": "물질과 재산 두 가지 의미로 모호하여 candidate.",
+      "root": "주거와 일상",
+      "candidate_reason": "물질로서의 '금'과 재산으로서의 '돈'이라는 두 가지 의미를 포함하여 모호함. 물질적 측면을 우선하여 임시 root 지정."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 감각/내면과 관련된 어휘는 여러 root와 경계가 겹쳐 candidate로 분류될 가능성이 높음.",
+      "한 단어가 여러 의미를 가질 때, 각 의미가 다른 root에 속할 수 있어 candidate로 분류됨."
+    ],
+    "ia_suggestions": [
+      "감각/내면/평가와 관련된 어휘의 분류 기준을 명확히 하는 가이드라인 추가 필요.",
+      "다의어의 경우, 각 의미별로 분리하여 분류하는 방안 검토 또는 대표 의미를 기준으로 분류하는 원칙 수립 필요."
+    ]
+  }
+}

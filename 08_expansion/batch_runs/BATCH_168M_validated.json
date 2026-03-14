@@ -1,0 +1,556 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "칼륨_일반명사-1",
+      "bucket": "candidate",
+      "root": "보건과 의료",
+      "category_label_ko": null,
+      "candidate_reason": "우리 몸에 중요한 원소라는 의미에서 '보건과 의료'와 연관되지만, 화학 원소로서의 분류 모호성이 있어 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "화학 원소이자 인체 필수 성분으로 분류 모호성."
+    },
+    {
+      "meaning_id": "캄캄_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "어둠 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "빛이 없는 상태를 묘사하는 부사입니다."
+    },
+    {
+      "meaning_id": "캥거루_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 동물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연에 서식하는 동물입니다."
+    },
+    {
+      "meaning_id": "컨닝_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 부정행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시험과 관련된 부정행위입니다."
+    },
+    {
+      "meaning_id": "컨디션_일반명사-1",
+      "bucket": "candidate",
+      "root": "보건과 의료",
+      "category_label_ko": null,
+      "candidate_reason": "몸과 마음의 상태를 모두 포함하여 '보건과 의료' 또는 '내면과 감정'으로 분류될 수 있어 모호합니다. 주로 신체 상태를 지칭하는 경우가 많아 '보건과 의료'로 임시 제안합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "신체 및 정신 상태를 아우르는 개념으로 분류 모호성."
+    },
+    {
+      "meaning_id": "컴퓨터실_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 시설",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교 내 학습 공간입니다."
+    },
+    {
+      "meaning_id": "케첩_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "조미료 소스",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식에 사용하는 소스입니다."
+    },
+    {
+      "meaning_id": "코드_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "전기선, 정보 전달, 규칙 기호 등 여러 의미를 포함하여 특정 root로 분류하기 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "다의어로 여러 root에 걸쳐 분류 모호성."
+    },
+    {
+      "meaning_id": "콕_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "행동의 모양이나 방식을 묘사하는 부사로, '감각과 묘사'에 해당하지만, 다른 부사들과의 일관된 분류를 위해 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "행동의 모양을 묘사하는 부사로 분류 일관성 검토 필요."
+    },
+    {
+      "meaning_id": "콘서트장_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "공연 시설",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "콘서트를 위한 공연 장소입니다."
+    },
+    {
+      "meaning_id": "콘크리트_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건축 재료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "건물을 짓는 데 사용되는 재료입니다."
+    },
+    {
+      "meaning_id": "콜센터_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "고객 서비스",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "고객 상담 업무를 수행하는 장소입니다."
+    },
+    {
+      "meaning_id": "쾌거_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "긍정적 성과",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기쁘고 자랑할 만한 성과를 나타냅니다."
+    },
+    {
+      "meaning_id": "쿠폰_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "할인 수단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "할인이나 사은품을 받을 수 있는 수단입니다."
+    },
+    {
+      "meaning_id": "큰딸_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 구성원",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 내 관계를 나타내는 명사입니다."
+    },
+    {
+      "meaning_id": "큰비_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "강수 현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "많은 양의 비가 내리는 자연 현상입니다."
+    },
+    {
+      "meaning_id": "큰소리_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "목청을 높여 지르는 소리(감각)와 잘난 듯이 하는 말(성격/태도) 두 가지 의미를 포함하여 분류 모호성이 있습니다.",
+      "exclusion_reason": null,
+      "rationale_short": "두 가지 의미(소리, 말)로 분류 모호성."
+    },
+    {
+      "meaning_id": "큰일_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "매우 중요한 일이나 심각한 사건을 지칭하며, 특정 root에 명확히 속하기보다 일반적인 상황을 나타내므로 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "사건의 중요성/심각성을 나타내는 일반적 상황어."
+    },
+    {
+      "meaning_id": "큰코다치다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "잘못된 행동의 결과를 나타내는 관용구로, 특정 행위나 감정보다는 상황적 결과를 지시하므로 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "행동의 부정적 결과를 나타내는 관용구로 분류 모호성."
+    },
+    {
+      "meaning_id": "클래식_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 음악",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "서양의 전통 예술 음악 장르입니다."
+    },
+    {
+      "meaning_id": "타도_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "정치적 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정권이나 세력을 무너뜨리는 행위입니다."
+    },
+    {
+      "meaning_id": "타들다_동사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "불에 타는 물리적 현상을 나타내며, '날씨와 자연' 또는 '감각과 묘사'로 분류될 수 있어 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "불에 타는 물리적 현상으로 분류 모호성."
+    },
+    {
+      "meaning_id": "타령_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "불평 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "불평이나 푸념을 되풀이하는 행위입니다."
+    },
+    {
+      "meaning_id": "타이르다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "조언 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상대방을 이해시키고 깨닫게 하는 행위입니다."
+    },
+    {
+      "meaning_id": "타파_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 변화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "낡은 제도나 생각을 깨뜨려 없애는 행위입니다."
+    },
+    {
+      "meaning_id": "탁_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "소리나 모양을 묘사하는 부사로, '감각과 묘사'에 해당하지만, 다른 부사들과의 일관된 분류를 위해 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "소리/모양을 묘사하는 부사로 분류 일관성 검토 필요."
+    },
+    {
+      "meaning_id": "탁자_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 놓거나 작업하는 데 쓰는 가구입니다."
+    },
+    {
+      "meaning_id": "탄산_일반명사-1",
+      "bucket": "candidate",
+      "root": "식생활",
+      "category_label_ko": null,
+      "candidate_reason": "음료의 맛과 관련된 성분으로 '식생활'과 연관되지만, 화학 성분으로서의 분류 모호성이 있어 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "음료의 맛 성분이나 화학 성분으로 분류 모호성."
+    },
+    {
+      "meaning_id": "탄산음료_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "탄산이 들어간 음료입니다."
+    },
+    {
+      "meaning_id": "탄식_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "답답하거나 슬픈 감정을 한숨으로 표현하는 것입니다."
+    },
+    {
+      "meaning_id": "탈자_일반명사-1",
+      "bucket": "candidate",
+      "root": "학교와 공부",
+      "category_label_ko": null,
+      "candidate_reason": "글쓰기나 인쇄 과정에서의 오류를 지칭하며, '학교와 공부' 또는 '직장과 업무' (출판 등)와 연관될 수 있어 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "글쓰기 오류로 학습/업무 관련 분류 모호성."
+    },
+    {
+      "meaning_id": "탈출_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위기 탈출",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "위험한 곳에서 벗어나는 행위입니다."
+    },
+    {
+      "meaning_id": "탐방_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "방문 탐색",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 곳을 찾아가 둘러보는 행위입니다."
+    },
+    {
+      "meaning_id": "탐색_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "찾는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "이곳저곳을 더듬어 찾아보는 행위입니다."
+    },
+    {
+      "meaning_id": "탐지_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "존재 감지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "보이지 않는 것을 장비로 알아내는 행위입니다."
+    },
+    {
+      "meaning_id": "탑승구_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "공항 시설",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공항에서 비행기 탑승을 위한 출입구입니다."
+    },
+    {
+      "meaning_id": "태산_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "아주 크고 높은 산에 비유하여 '매우 크고 중요한 존재'를 의미하는 비유적 표현으로, 특정 root에 명확히 속하기 모호합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "비유적 표현으로 분류 모호성."
+    },
+    {
+      "meaning_id": "태세_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "준비 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일에 대비한 자세나 준비 상태입니다."
+    },
+    {
+      "meaning_id": "택하다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "선택 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 가지 중에서 하나를 고르는 행위입니다."
+    },
+    {
+      "meaning_id": "터전_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 기반",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "살림이나 활동의 바탕이 되는 장소입니다."
+    },
+    {
+      "meaning_id": "턱짓_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "몸짓 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "턱을 이용한 몸짓을 나타냅니다."
+    },
+    {
+      "meaning_id": "털_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 동물의 피부에 나는 신체 부위입니다."
+    },
+    {
+      "meaning_id": "테두리_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "경계 부분",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물의 가장자리나 둘레를 나타냅니다."
+    },
+    {
+      "meaning_id": "테러_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "폭력 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정치적 목적의 폭력 행위입니다."
+    },
+    {
+      "meaning_id": "테러리스트_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "폭력 가해자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "테러를 일으키는 사람을 지칭합니다."
+    },
+    {
+      "meaning_id": "토속_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "지역 풍속",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "그 고장 고유의 풍속이나 방식입니다."
+    },
+    {
+      "meaning_id": "토요_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "요일 관련",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "토요일과 관련된 것을 나타냅니다."
+    },
+    {
+      "meaning_id": "토질_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "흙의 특성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "흙의 성질이나 상태를 나타냅니다."
+    },
+    {
+      "meaning_id": "통기_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "공기 순환",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공기가 잘 드나드는 현상입니다."
+    },
+    {
+      "meaning_id": "통지서_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공식 문서",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공식적으로 내용을 알려주는 문서입니다."
+    },
+    {
+      "meaning_id": "퇴보_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상태 악화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "예전보다 나쁜 상태로 물러나는 것입니다."
+    },
+    {
+      "meaning_id": "퇴색_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "빛깔이 흐려지는 물리적 현상과 명성이 흐려지는 추상적 현상 두 가지 의미를 포함하여 분류 모호성이 있습니다.",
+      "exclusion_reason": null,
+      "rationale_short": "두 가지 의미(빛깔, 명성)로 분류 모호성."
+    },
+    {
+      "meaning_id": "퇴소_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "시설 이탈",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시설이나 기관에서 나가 떠나는 행위입니다."
+    },
+    {
+      "meaning_id": "투영_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "빛 그림자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "빛이나 모습을 비추어 나타내는 것입니다."
+    },
+    {
+      "meaning_id": "투우_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "경기 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이 소와 싸우는 경기입니다."
+    },
+    {
+      "meaning_id": "툭_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "소리나 모양을 묘사하는 부사로, '감각과 묘사'에 해당하지만, 다른 부사들과의 일관된 분류를 위해 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "소리/모양을 묘사하는 부사로 분류 일관성 검토 필요."
+    },
+    {
+      "meaning_id": "퉁_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "소리나 모양을 묘사하는 부사로, '감각과 묘사'에 해당하지만, 다른 부사들과의 일관된 분류를 위해 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "소리/모양을 묘사하는 부사로 분류 일관성 검토 필요."
+    },
+    {
+      "meaning_id": "튕기다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물체 튀기기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물체를 당겼다가 놓아 튀게 하는 행위입니다."
+    },
+    {
+      "meaning_id": "트럭_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운송 수단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "짐을 실어 나르는 자동차입니다."
+    },
+    {
+      "meaning_id": "특_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "특별함이나 특별한 대우를 뜻하는 추상적인 개념으로, '의견과 가치' 또는 '상황 지시/기타'로 분류될 수 있어 보류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "특별함의 가치를 나타내는 추상적 개념으로 분류 모호성."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "다의어: 하나의 어휘가 여러 root에 걸쳐 분류될 수 있는 경우 (예: 코드, 큰소리, 퇴색)",
+      "비유적 표현: 문자적 의미와 다른 추상적 의미를 가질 때 (예: 태산, 큰코다치다)",
+      "부사어의 분류: 행동의 모양이나 소리를 묘사하는 부사어들의 일관된 분류 기준 마련 필요 (예: 콕, 탁, 툭, 퉁)"
+    ],
+    "ia_suggestions": [
+      "다의어의 경우, 가장 빈번하거나 대표적인 의미를 기준으로 core로 분류하고, 다른 의미는 별도의 meaning_id로 분리하거나 '상황 지시/기타' 하위에 '다의어'와 같은 세부 카테고리를 고려할 수 있습니다.",
+      "부사어의 경우, '감각과 묘사' root 하위에 '소리 묘사', '움직임 묘사' 등 세분화된 카테고리를 추가하여 일관성을 높일 수 있습니다.",
+      "추상적인 개념이나 비유적 표현이 많은 경우, '상황 지시/기타' root 하위에 '추상적 개념', '비유적 표현' 등의 세부 카테고리를 두어 관리하는 것을 제안합니다."
+    ]
+  }
+}

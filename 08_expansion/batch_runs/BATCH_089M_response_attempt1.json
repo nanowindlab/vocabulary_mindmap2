@@ -1,0 +1,368 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "삽입_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일반적인 행위이나, 맥락에 따라 다양한 의미를 가질 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "일반 행위이나 맥락 모호"
+    },
+    {
+      "meaning_id": "상당히_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도와 양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "양이나 정도를 나타내는 부사"
+    },
+    {
+      "meaning_id": "상속_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "재산 승계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회 제도 및 법률 관련 개념"
+    },
+    {
+      "meaning_id": "새벽_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "하루의 시간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간을 나타내는 명확한 어휘"
+    },
+    {
+      "meaning_id": "새해_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "연간 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간을 나타내는 명확한 어휘"
+    },
+    {
+      "meaning_id": "서랍_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가구와 수납",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주거 공간의 가구"
+    },
+    {
+      "meaning_id": "서술_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일반적인 행위이나, 언어/정보 전달 맥락에서 더 구체화될 필요가 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "일반 행위이나 맥락 모호"
+    },
+    {
+      "meaning_id": "서운하다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "섭섭한 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "감정을 나타내는 형용사"
+    },
+    {
+      "meaning_id": "성실_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "정직한 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 성격이나 태도"
+    },
+    {
+      "meaning_id": "세부_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것의 부분이나 상세함을 나타내지만, 맥락에 따라 분류가 달라질 수 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "부분/상세함 개념, 맥락 모호"
+    },
+    {
+      "meaning_id": "소속_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "단체 관계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "단체나 기관과의 관계"
+    },
+    {
+      "meaning_id": "소유자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "재산 관계인",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 관계에 있는 사람"
+    },
+    {
+      "meaning_id": "소장_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "기관 책임자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직업/역할어"
+    },
+    {
+      "meaning_id": "손쉽다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "쉬운 정도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일의 난이도를 묘사"
+    },
+    {
+      "meaning_id": "수고_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 노력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일을 하는 데 드는 노력"
+    },
+    {
+      "meaning_id": "수업료_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학비 지불",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교와 공부 관련 어휘"
+    },
+    {
+      "meaning_id": "수온_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물의 온도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 현상 및 측정"
+    },
+    {
+      "meaning_id": "수용_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "의견이나 조건을 받아들이는 행위로, '의견과 가치'와 관련이 깊으나, 다른 맥락에서도 사용될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "의견 수용 행위, 맥락 모호"
+    },
+    {
+      "meaning_id": "수컷_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 성별",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "동물의 성별"
+    },
+    {
+      "meaning_id": "숙이다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "몸 굽히기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 움직임"
+    },
+    {
+      "meaning_id": "순찰_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "안전 감시",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공공 안전 및 감시 행위"
+    },
+    {
+      "meaning_id": "숨구멍_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "호흡 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생명체의 호흡 관련 신체 부위"
+    },
+    {
+      "meaning_id": "스물_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "기본 숫자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수량을 나타내는 수사"
+    },
+    {
+      "meaning_id": "스타_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "유명 인사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 직업/역할을 가진 사람"
+    },
+    {
+      "meaning_id": "스피커_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "음향 기기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활 전자기기"
+    },
+    {
+      "meaning_id": "승용차_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "개인 차량",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단"
+    },
+    {
+      "meaning_id": "승차_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "차량 탑승",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단 이용 행위"
+    },
+    {
+      "meaning_id": "시인_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "문학가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 직업/역할을 가진 사람"
+    },
+    {
+      "meaning_id": "식수_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "마시는 물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식생활 관련 어휘"
+    },
+    {
+      "meaning_id": "신라인_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "역사 속 인물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 시대의 사람들을 지칭"
+    },
+    {
+      "meaning_id": "신분_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 지위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 지위 관련 개념"
+    },
+    {
+      "meaning_id": "신중_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "조심스러운 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 성격이나 태도"
+    },
+    {
+      "meaning_id": "싣다_동사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "물건 싣기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단에 물건 싣는 행위"
+    },
+    {
+      "meaning_id": "실적_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 성과",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장과 업무의 결과"
+    },
+    {
+      "meaning_id": "실정_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 상황이나 형편을 나타내지만, 추상적이고 다양한 맥락에서 사용될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "상황/형편 개념, 맥락 모호"
+    },
+    {
+      "meaning_id": "실행_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "계획 이행",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "계획된 일을 실제로 하는 행위"
+    },
+    {
+      "meaning_id": "실효_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 조치나 규정의 효과를 나타내지만, 추상적이고 맥락에 따라 분류가 달라질 수 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "효과 개념, 맥락 모호"
+    },
+    {
+      "meaning_id": "싸우다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "갈등 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 갈등 행위"
+    },
+    {
+      "meaning_id": "쏘다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "발사 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 도구를 사용한 발사 행위"
+    },
+    {
+      "meaning_id": "씻기다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "청결 유지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활의 청결 유지 행위"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

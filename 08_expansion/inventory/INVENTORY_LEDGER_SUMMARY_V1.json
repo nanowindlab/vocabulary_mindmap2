@@ -1,0 +1,11 @@
+{
+  "total": 8139,
+  "current_bucket_counts": {
+    "system_candidate": 7553,
+    "excluded": 450,
+    "core": 136
+  },
+  "audit_status_counts": {
+    "audited": 8139
+  }
+}

@@ -1,0 +1,57 @@
+너는 한국어 어휘 마인드맵 프로젝트의 데이터 전략가다.
+반드시 SDCP V1과 IA V4를 따른다.
+
+핵심 규칙:
+1. 100% 확실한 것만 core로 보낸다.
+2. 모호하면 candidate로 보낸다.
+3. negative examples: 세포, 문장, 가축, 박선호 같은 오분류를 절대 반복하지 마라.
+
+
+
+추가 프로필 규칙: general_inventory
+- exclusion은 아래 경우에만 허용한다:
+  - 고유명사
+  - 대명사
+  - 의존명사
+  - 조사/접사
+  - 욕설/비속어
+  - 시각화가 거의 불가능한 학습 비적합 파편어
+- 직업/역할어는 exclusion 하지 말고 관련 scene root를 우선 검토한다.
+- 신체 부위/의료 증상은 exclusion 하지 말고 `보건과 의료` 또는 candidate를 검토한다.
+- 음식 재료/식기/조리도구/식당/조리행위는 exclusion 하지 말고 `식생활` 또는 candidate를 검토한다.
+- 장소/장면/제도/직업/행위가 명확하면 core를 우선한다.
+- 감각/평가/내면/신체와 경계가 겹치면 candidate를 우선한다.
+
+허용 root 목록:
+["사람과 관계", "식생활", "주거와 일상", "쇼핑", "교통", "학교와 공부", "직장과 업무", "여가와 취미", "여행", "보건과 의료", "날씨와 자연", "공공 서비스", "문화와 사회", "상황 지시/기타", "내면과 감정", "성격과 태도", "감각과 묘사", "의견과 가치", "수량과 단위", "시간과 흐름", "논리와 연결", "지시와 질문"]
+
+반환 규칙:
+- JSON만 반환한다. 코드펜스 금지.
+- `decisions` 길이는 반드시 입력 개수와 같아야 한다.
+- 각 `meaning_id`는 정확히 한 번만 등장해야 한다.
+- 입력 순서를 유지한다.
+- bucket이 `candidate`이면 `root`를 반드시 채운다. 이 root는 `임시 제안 root`다.
+- root는 bucket이 core/candidate일 때만 쓴다.
+- category_label_ko는 bucket이 core일 때만 쓰고, root 이름을 반복하지 않는 2~4어절 한국어 라벨로 쓴다.
+
+반환 형식:
+{
+  "decisions": [
+    {
+      "meaning_id": "...",
+      "bucket": "core|candidate|exclusion",
+      "root": "...",
+      "category_label_ko": "...",
+      "candidate_reason": "...",
+      "exclusion_reason": "...",
+      "rationale_short": "..."
+    }
+  ],
+  "insights": {
+    "hard_patterns": ["..."],
+    "ia_suggestions": ["..."]
+  }
+}
+
+검토 대상 JSON:
+[{"meaning_id": "겨울옷_일반명사-1", "lemma": "겨울옷", "pos_ko": "일반명사", "meaning_kr": "겨울에 입는 따뜻한 옷", "frequency": 2, "frequency_rank": 4640, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "견제_일반명사-1", "lemma": "견제", "pos_ko": "일반명사", "meaning_kr": "상대가 마음대로 하지 못하게 막거나 누르는 일", "frequency": 2, "frequency_rank": 4641, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "견학_일반명사-1", "lemma": "견학", "pos_ko": "일반명사", "meaning_kr": "공장이나 기관 등을 직접 둘러보며 배우는 일", "frequency": 2, "frequency_rank": 4642, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "결과물_일반명사-1", "lemma": "결과물", "pos_ko": "일반명사", "meaning_kr": "일을 한 뒤에 실제로 얻은 것", "frequency": 2, "frequency_rank": 4643, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "경영난_일반명사-1", "lemma": "경영난", "pos_ko": "일반명사", "meaning_kr": "회사를 운영하기 어려운 경제적 곤란", "frequency": 2, "frequency_rank": 4645, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "곁_일반명사-1", "lemma": "곁", "pos_ko": "일반명사", "meaning_kr": "아주 가까운 옆이나 주변", "frequency": 2, "frequency_rank": 4646, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "계산대_일반명사-1", "lemma": "계산대", "pos_ko": "일반명사", "meaning_kr": "가게에서 값과 돈을 주고받는 곳", "frequency": 2, "frequency_rank": 4647, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "계세_일반명사-1", "lemma": "계세", "pos_ko": "일반명사", "meaning_kr": "세상의 형편이나 흘러가는 형세", "frequency": 2, "frequency_rank": 4648, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "계승_일반명사-1", "lemma": "계승", "pos_ko": "일반명사", "meaning_kr": "앞에서 하던 것을 이어받아 계속함", "frequency": 2, "frequency_rank": 4649, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "계열_일반명사-1", "lemma": "계열", "pos_ko": "일반명사", "meaning_kr": "서로 관계가 있는 같은 줄기나 무리", "frequency": 2, "frequency_rank": 4650, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고가_일반명사-1", "lemma": "고가", "pos_ko": "일반명사", "meaning_kr": "값이 매우 비쌈", "frequency": 2, "frequency_rank": 4651, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고난_일반명사-1", "lemma": "고난", "pos_ko": "일반명사", "meaning_kr": "몹시 고되고 어려운 일", "frequency": 2, "frequency_rank": 4652, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고령_일반명사-1", "lemma": "고령", "pos_ko": "일반명사", "meaning_kr": "나이가 많은 상태", "frequency": 2, "frequency_rank": 4653, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고분_일반명사-1", "lemma": "고분", "pos_ko": "일반명사", "meaning_kr": "옛날에 만든 무덤", "frequency": 2, "frequency_rank": 4654, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고사하고_일반부사-1", "lemma": "고사하고", "pos_ko": "일반부사", "meaning_kr": "그보다 쉬운 것조차 제쳐 두고", "frequency": 2, "frequency_rank": 4655, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고소득자_일반명사-1", "lemma": "고소득자", "pos_ko": "일반명사", "meaning_kr": "다른 사람보다 벌이가 많은 사람", "frequency": 2, "frequency_rank": 4656, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고속도로_일반명사-1", "lemma": "고속도로", "pos_ko": "일반명사", "meaning_kr": "자동차가 빠르게 달리도록 만든 넓은 도로", "frequency": 2, "frequency_rank": 4657, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고스란히_일반부사-1", "lemma": "고스란히", "pos_ko": "일반부사", "meaning_kr": "본래 모습 그대로", "frequency": 2, "frequency_rank": 4658, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고안_일반명사-1", "lemma": "고안", "pos_ko": "일반명사", "meaning_kr": "새로운 것을 생각해 냄", "frequency": 2, "frequency_rank": 4659, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고유어_일반명사-1", "lemma": "고유어", "pos_ko": "일반명사", "meaning_kr": "다른 언어에서 빌려오지 않은 토박이말", "frequency": 2, "frequency_rank": 4660, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고작_일반부사-1", "lemma": "고작", "pos_ko": "일반부사", "meaning_kr": "기대보다 매우 적게", "frequency": 2, "frequency_rank": 4661, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "골든타임_일반명사-1", "lemma": "골든타임", "pos_ko": "일반명사", "meaning_kr": "응급 상황에서 생명을 구할 수 있는 결정적 시간", "frequency": 2, "frequency_rank": 4664, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "골프장_일반명사-1", "lemma": "골프장", "pos_ko": "일반명사", "meaning_kr": "골프를 치는 장소", "frequency": 2, "frequency_rank": 4665, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "곰_일반명사-1", "lemma": "곰", "pos_ko": "일반명사", "meaning_kr": "몸집이 크고 털이 많은 동물", "frequency": 2, "frequency_rank": 4666, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공감대_일반명사-1", "lemma": "공감대", "pos_ko": "일반명사", "meaning_kr": "서로 비슷한 생각이나 감정을 함께 느끼는 바탕", "frequency": 2, "frequency_rank": 4667, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공금_일반명사-1", "lemma": "공금", "pos_ko": "일반명사", "meaning_kr": "여러 사람이 함께 쓰는 돈", "frequency": 2, "frequency_rank": 4668, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공론_일반명사-1", "lemma": "공론", "pos_ko": "일반명사", "meaning_kr": "여러 사람이 함께 논의한 의견", "frequency": 2, "frequency_rank": 4669, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공무원_일반명사-1", "lemma": "공무원", "pos_ko": "일반명사", "meaning_kr": "국가나 공공기관에서 일하는 사람", "frequency": 2, "frequency_rank": 4670, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공법_일반명사-1", "lemma": "공법", "pos_ko": "일반명사", "meaning_kr": "공공단체나 국가와 개인 사이의 법", "frequency": 2, "frequency_rank": 4671, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공익_일반명사-1", "lemma": "공익", "pos_ko": "일반명사", "meaning_kr": "여러 사람에게 도움이 되는 이익", "frequency": 2, "frequency_rank": 4672, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공존_일반명사-1", "lemma": "공존", "pos_ko": "일반명사", "meaning_kr": "함께 존재함", "frequency": 2, "frequency_rank": 4673, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공중_일반명사-1", "lemma": "공중", "pos_ko": "일반명사", "meaning_kr": "땅 위에 떠 있는 공간", "frequency": 2, "frequency_rank": 4674, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "공포_일반명사-1", "lemma": "공포", "pos_ko": "일반명사", "meaning_kr": "몹시 두려워하는 느낌", "frequency": 2, "frequency_rank": 4675, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "과다_일반명사-1", "lemma": "과다", "pos_ko": "일반명사", "meaning_kr": "정도나 양이 지나침", "frequency": 2, "frequency_rank": 4676, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "과반수_일반명사-1", "lemma": "과반수", "pos_ko": "일반명사", "meaning_kr": "전체 수의 절반이 넘는 수", "frequency": 2, "frequency_rank": 4677, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "과수_일반명사-1", "lemma": "과수", "pos_ko": "일반명사", "meaning_kr": "열매를 맺는 나무", "frequency": 2, "frequency_rank": 4678, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "과유불급_일반명사-1", "lemma": "과유불급", "pos_ko": "일반명사", "meaning_kr": "지나친 것은 모자람과 같다는 뜻", "frequency": 2, "frequency_rank": 4679, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "과학관_일반명사-1", "lemma": "과학관", "pos_ko": "일반명사", "meaning_kr": "과학을 전시하거나 배우는 시설", "frequency": 2, "frequency_rank": 4680, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "관념_일반명사-1", "lemma": "관념", "pos_ko": "일반명사", "meaning_kr": "어떤 대상에 대한 생각이나 느낌", "frequency": 2, "frequency_rank": 4681, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "관람료_일반명사-1", "lemma": "관람료", "pos_ko": "일반명사", "meaning_kr": "공연이나 전시를 보기 위해 내는 돈", "frequency": 2, "frequency_rank": 4682, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}]

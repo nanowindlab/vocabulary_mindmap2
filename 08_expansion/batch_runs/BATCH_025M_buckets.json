@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "학원_일반명사-1",
+      "rationale_short": "학교 밖 교육 기관으로 명확하게 분류 가능.",
+      "root": "학교와 공부",
+      "category_label_ko": "사설 교육 기관"
+    },
+    {
+      "meaning_id": "한복_일반명사-1",
+      "rationale_short": "한국의 전통 의복으로 문화적 요소가 강함.",
+      "root": "문화와 사회",
+      "category_label_ko": "전통 의복"
+    },
+    {
+      "meaning_id": "경찰_일반명사-1",
+      "rationale_short": "공공의 치안과 질서를 담당하는 기관 및 직업.",
+      "root": "공공 서비스",
+      "category_label_ko": "치안 유지 기관"
+    },
+    {
+      "meaning_id": "곧_일반부사-1",
+      "rationale_short": "시간의 경과를 나타내는 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 부사"
+    },
+    {
+      "meaning_id": "기관_일반명사-2",
+      "rationale_short": "신체 부위로 명확하게 분류 가능.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 내부 부위"
+    },
+    {
+      "meaning_id": "나쁘다_형용사-1",
+      "rationale_short": "사물이나 상황에 대한 부정적인 평가를 나타내는 형용사.",
+      "root": "의견과 가치",
+      "category_label_ko": "부정적 평가"
+    },
+    {
+      "meaning_id": "미안_일반명사-1",
+      "rationale_short": "불편함과 관련된 내면의 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "죄책감 표현"
+    },
+    {
+      "meaning_id": "반갑다_형용사-1",
+      "rationale_short": "만남에 대한 긍정적인 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "기쁨의 감정"
+    },
+    {
+      "meaning_id": "밝다_형용사-1",
+      "rationale_short": "빛의 상태를 묘사하는 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 상태"
+    },
+    {
+      "meaning_id": "복지_일반명사-1",
+      "rationale_short": "사회 구성원의 삶의 질과 관련된 공공의 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "사회적 삶의 질"
+    },
+    {
+      "meaning_id": "성격_일반명사-1",
+      "rationale_short": "사람의 고유한 생각과 행동의 특징.",
+      "root": "성격과 태도",
+      "category_label_ko": "개인의 특성"
+    },
+    {
+      "meaning_id": "세금_일반명사-1",
+      "rationale_short": "국가 운영에 필요한 재정적 의무.",
+      "root": "공공 서비스",
+      "category_label_ko": "국가 재정 부담"
+    },
+    {
+      "meaning_id": "신다_동사-1",
+      "rationale_short": "일상생활에서 신발이나 양말을 착용하는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "신발 착용 행위"
+    },
+    {
+      "meaning_id": "아빠_일반명사-1",
+      "rationale_short": "가족 구성원 중 아버지를 친근하게 부르는 호칭.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 호칭"
+    },
+    {
+      "meaning_id": "악기_일반명사-1",
+      "rationale_short": "음악 활동에 사용되는 도구.",
+      "root": "여가와 취미",
+      "category_label_ko": "음악 연주 도구"
+    },
+    {
+      "meaning_id": "약국_일반명사-1",
+      "rationale_short": "의약품 판매 및 조제 장소.",
+      "root": "보건과 의료",
+      "category_label_ko": "의약품 판매처"
+    },
+    {
+      "meaning_id": "엄마_일반명사-1",
+      "rationale_short": "가족 구성원 중 어머니를 친근하게 부르는 호칭.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 호칭"
+    },
+    {
+      "meaning_id": "인구_일반명사-1",
+      "rationale_short": "특정 지역에 거주하는 사람들의 총수.",
+      "root": "문화와 사회",
+      "category_label_ko": "지역 거주민 수"
+    },
+    {
+      "meaning_id": "인류_일반명사-1",
+      "rationale_short": "지구상의 모든 사람을 통칭하는 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "전체 인간 집단"
+    },
+    {
+      "meaning_id": "제출_일반명사-1",
+      "rationale_short": "문서나 과제를 공식적으로 내는 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "서류/과제 제출"
+    },
+    {
+      "meaning_id": "주차장_일반명사-1",
+      "rationale_short": "자동차를 주차하는 특정 장소.",
+      "root": "교통",
+      "category_label_ko": "차량 보관 장소"
+    },
+    {
+      "meaning_id": "줄다_동사-1",
+      "rationale_short": "수량, 양, 크기의 감소를 나타내는 동사.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 감소"
+    },
+    {
+      "meaning_id": "편리_일반명사-1",
+      "rationale_short": "사용의 용이성과 관련된 긍정적 평가.",
+      "root": "의견과 가치",
+      "category_label_ko": "사용 용이성"
+    },
+    {
+      "meaning_id": "현재_일반명사-1",
+      "rationale_short": "현재의 시점을 나타내는 명사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점"
+    },
+    {
+      "meaning_id": "확대_일반명사-1",
+      "rationale_short": "크기나 범위의 증가를 나타내는 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "크기/범위 증가"
+    },
+    {
+      "meaning_id": "감독_일반명사-1",
+      "rationale_short": "특정 업무나 사람을 지휘하고 관리하는 역할.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 지휘자"
+    },
+    {
+      "meaning_id": "겨울_일반명사-1",
+      "rationale_short": "자연의 계절 중 하나.",
+      "root": "날씨와 자연",
+      "category_label_ko": "계절 명칭"
+    },
+    {
+      "meaning_id": "경영_일반명사-1",
+      "rationale_short": "조직이나 회사를 운영하는 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "조직 운영"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "가져오다_동사-1",
+      "rationale_short": "일반적인 행위 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 이동 및 소유 관련 동사로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "거리_일반명사-1",
+      "rationale_short": "추상적인 거리 개념.",
+      "root": "수량과 단위",
+      "candidate_reason": "물리적 간격을 나타내는 추상적 개념으로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "계시다_동사-1",
+      "rationale_short": "높임말 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "존재를 나타내는 높임말 동사로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "기관_일반명사-1",
+      "rationale_short": "매우 일반적인 조직 개념.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "'기관'이라는 단어 자체가 매우 포괄적이고 다양한 맥락에서 사용될 수 있어 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "달리다_동사-1",
+      "rationale_short": "일반적인 이동 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 신체 이동 행위로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "달리다_동사-2",
+      "rationale_short": "일반적인 상태 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물건의 부착 상태를 나타내는 동사로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "상대_일반명사-1",
+      "rationale_short": "관계를 나타내는 일반 명사.",
+      "root": "사람과 관계",
+      "candidate_reason": "함께 행동하거나 마주 서 있는 '사람이나 대상'을 지칭하는 관계로, '사람과 관계' root가 가장 적절하나, '대상'의 포괄성으로 인해 모호성 존재."
+    },
+    {
+      "meaning_id": "예상_일반명사-1",
+      "rationale_short": "미래 예측 행위.",
+      "root": "내면과 감정",
+      "candidate_reason": "미래를 짐작하는 인지적 행위로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "올라가다_동사-1",
+      "rationale_short": "일반적인 이동 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 이동 행위로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "특성_일반명사-1",
+      "rationale_short": "사물의 고유한 성질.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 고유한 성질을 나타내는 추상적 개념으로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "넘다_동사-1",
+      "rationale_short": "일반적인 이동 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 경계를 통과하는 일반적인 이동 행위로, 특정 root에 100% 확실하게 속하기 모호함."
+    },
+    {
+      "meaning_id": "다녀오다_동사-1",
+      "rationale_short": "일반적인 이동 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장소에 갔다가 돌아오는 일반적인 이동 행위로, 특정 root에 100% 확실하게 속하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "일반적인 행위/상태 동사는 여러 root에 걸쳐 모호성을 가질 수 있어 '상황 지시/기타' 또는 'candidate'로 분류되는 경향이 있음.",
+      "추상적인 개념어(예: 거리, 특성)는 특정 root에 명확히 속하기 어려워 'candidate'로 분류될 가능성이 높음."
+    ],
+    "ia_suggestions": [
+      "일반적인 동사 및 추상 명사를 위한 '상황 지시/기타' root 내 하위 분류 체계 강화 검토.",
+      "'사람과 관계' root에 '상대'와 같이 관계를 나타내는 일반 명사를 포함할지, 아니면 '상황 지시/기타'로 보류할지 명확한 가이드라인 필요."
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "master_pool_total": 8744,
+  "core_count": 8545,
+  "system_cand_count": 54,
+  "cat_cand_count": 145,
+  "status_counts": {
+    "CORE": 8545,
+    "SYSTEM_CAND": 54,
+    "CAT_CAND": 145
+  },
+  "missing_source_ids": []
+}

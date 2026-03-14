@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "재채기_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 반응",
+      "rationale_short": "신체 증상 및 반응으로 '보건과 의료'에 해당."
+    },
+    {
+      "meaning_id": "저가_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "가격 수준",
+      "rationale_short": "상품의 가격과 관련된 개념으로 '쇼핑'에 해당."
+    },
+    {
+      "meaning_id": "저작_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "창작물",
+      "rationale_short": "글, 그림, 음악 등 창작 활동의 결과물로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "저장고_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 보관 장소",
+      "rationale_short": "물건을 보관하는 장소로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "적당히_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "부사어의 추상성 및 묘사적 성격",
+      "rationale_short": "정도나 방식을 묘사하는 부사로, 명확한 core 분류가 어려워 '감각과 묘사'에 임시 제안."
+    },
+    {
+      "meaning_id": "적합_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "추상적인 개념으로, 판단/평가와 관련되나 명확한 core 분류가 어려움",
+      "rationale_short": "조건이나 목적에 대한 평가 개념으로, '의견과 가치'에 임시 제안."
+    },
+    {
+      "meaning_id": "전문점_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "특정 상품 가게",
+      "rationale_short": "특정 상품을 파는 가게로 '쇼핑'에 해당."
+    },
+    {
+      "meaning_id": "전부_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "전체 수량",
+      "rationale_short": "수량의 전체를 나타내는 개념으로 '수량과 단위'에 해당."
+    },
+    {
+      "meaning_id": "전송_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "행위 자체를 나타내며, 특정 맥락(업무, 일상)에 따라 분류가 달라질 수 있어 모호함",
+      "rationale_short": "문서나 데이터를 보내는 행위로, 일반적인 행위이므로 '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "전용_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 목적을 위한 사용이라는 추상적인 개념으로, 명확한 core 분류가 어려움",
+      "rationale_short": "특정 목적을 위한 사용이라는 상태를 나타내므로 '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "전원_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "전기 공급",
+      "rationale_short": "기계 작동을 위한 전기 공급으로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "전적_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "과거의 행동이나 업적이라는 추상적인 개념으로, 특정 맥락에 따라 분류가 달라질 수 있어 모호함",
+      "rationale_short": "과거의 행동이나 업적을 나타내는 추상적인 개념으로 '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "전파_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물리적 현상",
+      "rationale_short": "전자기적 진동이 퍼져 나가는 물리적 현상으로 '날씨와 자연'에 해당."
+    },
+    {
+      "meaning_id": "전화벨_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "전화 소리",
+      "rationale_short": "전화와 관련된 소리 장치로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "접착력_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 특성을 나타내는 추상적인 개념으로, 명확한 core 분류가 어려움",
+      "rationale_short": "물건이 붙는 물리적 힘을 묘사하는 개념이므로 '감각과 묘사'에 임시 제안."
+    },
+    {
+      "meaning_id": "정거장_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "대중교통 승하차지",
+      "rationale_short": "기차나 버스가 서는 장소로 '교통'에 해당."
+    },
+    {
+      "meaning_id": "정비_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "시설 관리",
+      "rationale_short": "기계나 시설을 점검하고 고치는 일로 '직장과 업무'에 해당."
+    },
+    {
+      "meaning_id": "정수기_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가전제품",
+      "rationale_short": "물을 깨끗하게 거르는 기계로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "정신없이_일반부사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "심리적 상태나 행동 방식을 나타내는 부사로, 명확한 core 분류가 어려움",
+      "rationale_short": "바쁘거나 급한 심리적 상태를 묘사하는 부사이므로 '내면과 감정'에 임시 제안."
+    },
+    {
+      "meaning_id": "정의_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "개념 설명",
+      "rationale_short": "말이나 개념의 뜻을 설명하는 것으로 '논리와 연결'에 해당."
+    },
+    {
+      "meaning_id": "정의_일반명사-2",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "도덕적 가치",
+      "rationale_short": "옳고 바른 도리나 공정함이라는 가치 개념으로 '의견과 가치'에 해당."
+    },
+    {
+      "meaning_id": "조상_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계",
+      "rationale_short": "먼 윗대의 어른들로 '사람과 관계'에 해당."
+    },
+    {
+      "meaning_id": "조용하다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리 상태",
+      "rationale_short": "소리의 유무를 묘사하는 형용사로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "조용히_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "행동 방식",
+      "rationale_short": "시끄럽지 않은 행동 방식을 묘사하는 부사로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "조종사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "항공 직업",
+      "rationale_short": "비행기 등을 모는 직업으로 '직장과 업무'에 해당."
+    },
+    {
+      "meaning_id": "졸업식_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 행사",
+      "rationale_short": "졸업을 축하하는 공식 행사로 '학교와 공부'에 해당."
+    },
+    {
+      "meaning_id": "종합_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "요소 결합",
+      "rationale_short": "여러 가지를 한데 모아 합치는 개념으로 '논리와 연결'에 해당."
+    },
+    {
+      "meaning_id": "좌우_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방향 지시",
+      "rationale_short": "왼쪽과 오른쪽이라는 방향을 지시하는 개념으로 '상황 지시/기타'에 해당."
+    },
+    {
+      "meaning_id": "좌절_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "실망감",
+      "rationale_short": "계획이나 희망이 무너지는 감정 상태로 '내면과 감정'에 해당."
+    },
+    {
+      "meaning_id": "주거_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 공간",
+      "rationale_short": "사람이 살면서 머무르는 일이나 집으로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "주되다_동사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "중요성을 나타내는 추상적인 동사로, 명확한 core 분류가 어려움",
+      "rationale_short": "전체에서 가장 중요한 부분이 되는 것을 평가하는 개념이므로 '의견과 가치'에 임시 제안."
+    },
+    {
+      "meaning_id": "주시_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "관찰 행위",
+      "rationale_short": "눈여겨 보면서 살피는 행위로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "주입_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "액체나 생각 등을 넣는 행위로, 물리적/추상적 맥락에 따라 분류가 달라질 수 있어 모호함",
+      "rationale_short": "액체나 생각 따위를 안으로 넣는 일반적인 행위이므로 '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "주제문_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "글쓰기 요소",
+      "rationale_short": "문단에서 중심 생각을 나타내는 문장으로 '학교와 공부'에 해당."
+    },
+    {
+      "meaning_id": "주화_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "화폐 종류",
+      "rationale_short": "금속으로 만든 돈으로 '쇼핑'에 해당."
+    },
+    {
+      "meaning_id": "중도_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "진행 과정",
+      "rationale_short": "어떤 일을 하다가 그만둔 시점으로 '시간과 흐름'에 해당."
+    },
+    {
+      "meaning_id": "중점_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "중요 요소",
+      "rationale_short": "가장 힘을 쏟는 부분이나 핵심 내용으로 '의견과 가치'에 해당."
+    },
+    {
+      "meaning_id": "쥐_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 종류",
+      "rationale_short": "작고 꼬리가 긴 설치류 동물로 '날씨와 자연'에 해당."
+    },
+    {
+      "meaning_id": "쥐다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 동작",
+      "rationale_short": "손가락을 굽혀 무엇을 잡는 신체 동작으로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "증거_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "사실 근거",
+      "rationale_short": "어떤 사실을 밝히거나 믿게 하는 근거로 '논리와 연결'에 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 부사/명사의 분류 모호성 (예: 적당히, 적합, 전송, 전용, 전적, 접착력, 정신없이, 주되다, 주입)",
+      "행위/상태를 나타내는 명사/부사의 맥락 의존성 (예: 전송, 전용, 전적, 주입)"
+    ],
+    "ia_suggestions": [
+      "추상적인 부사 및 명사의 경우, '감각과 묘사', '의견과 가치', '상황 지시/기타', '내면과 감정' 등 추상적 개념을 포괄하는 root 내에 세부 카테고리 추가를 고려하여 분류 명확성을 높일 수 있습니다.",
+      "행위나 상태를 나타내는 단어 중 여러 root에 걸쳐 사용될 수 있는 경우, '상황 지시/기타'를 임시 root로 활용하되, 향후 사용 빈도 및 맥락 분석을 통해 더 적합한 세부 카테고리 또는 새로운 root를 제안할 필요가 있습니다."
+    ]
+  }
+}

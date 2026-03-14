@@ -1,0 +1,11 @@
+.env
+.env.local
+.DS_Store
+node_modules/
+dist/
+*.log
+
+__pycache__/
+.gemini/
+05_source/extracted_corpus/snapshot_20260309/Example_Sentences.jsonl
+05_source/extracted_corpus/snapshot_20260309/Word_Occurrences.jsonl

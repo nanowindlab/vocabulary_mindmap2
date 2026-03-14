@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "은퇴_일반명사-1",
+      "rationale_short": "직업 활동의 명확한 행위이므로 '직장과 업무' core로 분류함.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 활동 종료"
+    },
+    {
+      "meaning_id": "은행나무_일반명사-1",
+      "rationale_short": "자연의 한 요소인 나무의 종류이므로 '날씨와 자연' core로 분류함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 종류"
+    },
+    {
+      "meaning_id": "은행원_일반명사-1",
+      "rationale_short": "명확한 직업/역할어이므로 '직장과 업무' core로 분류함.",
+      "root": "직장과 업무",
+      "category_label_ko": "금융업 종사자"
+    },
+    {
+      "meaning_id": "음악가_일반명사-1",
+      "rationale_short": "음악은 문화의 한 분야이며, 음악가는 그 분야의 직업이므로 '문화와 사회' core로 분류함.",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 분야 직업"
+    },
+    {
+      "meaning_id": "응급조치_일반명사-1",
+      "rationale_short": "위급한 상황에서의 의료 행위이므로 '보건과 의료' core로 분류함.",
+      "root": "보건과 의료",
+      "category_label_ko": "긴급 의료 행위"
+    },
+    {
+      "meaning_id": "의욕_일반명사-1",
+      "rationale_short": "무엇을 하고자 하는 마음의 상태이므로 '내면과 감정' core로 분류함.",
+      "root": "내면과 감정",
+      "category_label_ko": "마음의 상태"
+    },
+    {
+      "meaning_id": "의학_일반명사-1",
+      "rationale_short": "병을 연구하고 고치는 학문이므로 '보건과 의료' core로 분류함.",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 관련 학문"
+    },
+    {
+      "meaning_id": "이공_일반명사-1",
+      "rationale_short": "숫자를 나타내는 명사이므로 '수량과 단위' core로 분류함.",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 표현"
+    },
+    {
+      "meaning_id": "이만_수사-1",
+      "rationale_short": "숫자를 나타내는 수사이므로 '수량과 단위' core로 분류함.",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 표현"
+    },
+    {
+      "meaning_id": "이성_일반명사-1",
+      "rationale_short": "이치에 따라 생각하고 판단하는 내면의 능력이므로 '내면과 감정' core로 분류함.",
+      "root": "내면과 감정",
+      "category_label_ko": "사고 능력"
+    },
+    {
+      "meaning_id": "이성_일반명사-2",
+      "rationale_short": "자기와 성별이 다른 사람을 지칭하므로 '사람과 관계' core로 분류함.",
+      "root": "사람과 관계",
+      "category_label_ko": "성별 구분"
+    },
+    {
+      "meaning_id": "이용료_일반명사-1",
+      "rationale_short": "시설이나 서비스를 이용하기 위해 지불하는 비용이므로 '쇼핑' core로 분류함.",
+      "root": "쇼핑",
+      "category_label_ko": "서비스 사용 비용"
+    },
+    {
+      "meaning_id": "이자_일반명사-1",
+      "rationale_short": "돈을 빌리고 갚는 금융 거래와 관련된 비용이므로 '쇼핑' core로 분류함.",
+      "root": "쇼핑",
+      "category_label_ko": "금융 거래 비용"
+    },
+    {
+      "meaning_id": "인격_일반명사-1",
+      "rationale_short": "사람으로서 가지는 품성과 성품이므로 '성격과 태도' core로 분류함.",
+      "root": "성격과 태도",
+      "category_label_ko": "사람의 품성"
+    },
+    {
+      "meaning_id": "인내심_일반명사-1",
+      "rationale_short": "참고 견디는 마음의 태도이므로 '성격과 태도' core로 분류함.",
+      "root": "성격과 태도",
+      "category_label_ko": "참는 마음"
+    },
+    {
+      "meaning_id": "인맥_일반명사-1",
+      "rationale_short": "사람과 사람 사이에 얽힌 관계이므로 '사람과 관계' core로 분류함.",
+      "root": "사람과 관계",
+      "category_label_ko": "인간 관계망"
+    },
+    {
+      "meaning_id": "인명_일반명사-1",
+      "rationale_short": "사람의 목숨은 보건과 의료의 중요한 대상이므로 '보건과 의료' core로 분류함.",
+      "root": "보건과 의료",
+      "category_label_ko": "생명 존엄성"
+    },
+    {
+      "meaning_id": "인생관_일반명사-1",
+      "rationale_short": "인생을 어떻게 보는지에 대한 생각과 가치관이므로 '의견과 가치' core로 분류함.",
+      "root": "의견과 가치",
+      "category_label_ko": "삶에 대한 견해"
+    },
+    {
+      "meaning_id": "인원수_일반명사-1",
+      "rationale_short": "사람의 수를 나타내는 개념이므로 '수량과 단위' core로 분류함.",
+      "root": "수량과 단위",
+      "category_label_ko": "사람 숫자"
+    },
+    {
+      "meaning_id": "인화_일반명사-1",
+      "rationale_short": "사진을 종이에 뽑는 행위는 여가/취미 활동과 관련이 깊으므로 '여가와 취미' core로 분류함.",
+      "root": "여가와 취미",
+      "category_label_ko": "사진 현상 작업"
+    },
+    {
+      "meaning_id": "인화_일반명사-2",
+      "rationale_short": "사람들 사이의 화목한 관계를 의미하므로 '사람과 관계' core로 분류함.",
+      "root": "사람과 관계",
+      "category_label_ko": "화목한 관계"
+    },
+    {
+      "meaning_id": "일회용품_일반명사-1",
+      "rationale_short": "일상생활에서 사용하고 버리는 물건이므로 '주거와 일상' core로 분류함.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 소모품"
+    },
+    {
+      "meaning_id": "임무_일반명사-1",
+      "rationale_short": "맡아서 해야 하는 일이므로 '직장과 업무' core로 분류함.",
+      "root": "직장과 업무",
+      "category_label_ko": "맡은 직책"
+    },
+    {
+      "meaning_id": "임신_일반명사-1",
+      "rationale_short": "아기를 잉태한 신체 상태이므로 '보건과 의료' core로 분류함.",
+      "root": "보건과 의료",
+      "category_label_ko": "생식 건강 상태"
+    },
+    {
+      "meaning_id": "입사_일반명사-1",
+      "rationale_short": "회사나 기관에 들어가는 행위이므로 '직장과 업무' core로 분류함.",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 생활 시작"
+    },
+    {
+      "meaning_id": "입상자_일반명사-1",
+      "rationale_short": "경기나 대회에서 상을 받은 사람이므로 '여가와 취미' core로 분류함.",
+      "root": "여가와 취미",
+      "category_label_ko": "대회 수상자"
+    },
+    {
+      "meaning_id": "입점_일반명사-1",
+      "rationale_short": "가게가 상가나 온라인몰에 새로 들어가는 상업 행위이므로 '쇼핑' core로 분류함.",
+      "root": "쇼핑",
+      "category_label_ko": "상점 개설"
+    },
+    {
+      "meaning_id": "자격증_일반명사-1",
+      "rationale_short": "자격을 공식적으로 인정해 주는 증서로 직업 활동과 관련이 깊으므로 '직장과 업무' core로 분류함.",
+      "root": "직장과 업무",
+      "category_label_ko": "공식 인정 증서"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "융합_일반명사-1",
+      "rationale_short": "추상적 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적 개념으로, '문화와 사회', '논리와 연결', '상황 지시/기타' 등 여러 root에 걸쳐 사용될 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "음성_일반명사-1",
+      "rationale_short": "감각과 신체적 행위의 경계가 모호하여 candidate로 분류하고 임시 root를 지정함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사람이 내는 소리라는 감각적 요소와 신체적 발성 행위가 겹치며, '감각과 묘사'와 '보건과 의료' (발성 기관) 사이에서 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "응답자_일반명사-1",
+      "rationale_short": "일반적인 역할어로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "사람과 관계",
+      "candidate_reason": "특정 직업이나 관계가 아닌 일반적인 역할어로, '사람과 관계'와 '상황 지시/기타' 사이에서 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "의존도_일반명사-1",
+      "rationale_short": "추상적인 정도를 나타내는 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 정도를 나타내는 개념으로, '수량과 단위', '논리와 연결', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "이러하다_형용사-1",
+      "rationale_short": "지시와 묘사의 경계가 모호하여 candidate로 분류하고 임시 root를 지정함.",
+      "root": "지시와 질문",
+      "candidate_reason": "앞에서 말한 것을 지시하는 의미와 상태를 묘사하는 의미가 함께 있어 '지시와 질문'과 '감각과 묘사' 사이에서 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "이해관계_일반명사-1",
+      "rationale_short": "관계의 한 종류이나 추상적 개념이 얽혀 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "사람과 관계",
+      "candidate_reason": "사람 간의 관계를 나타내지만, 이익과 손해라는 추상적 개념이 얽혀 있어 '사람과 관계'와 '논리와 연결' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "인증_일반명사-1",
+      "rationale_short": "일반적인 증명 행위로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 사실을 증명하는 일반적인 행위로, '공공 서비스', '직장과 업무', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "인지도_일반명사-1",
+      "rationale_short": "추상적인 정도를 나타내는 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "얼마나 널리 알려져 있는지의 정도를 나타내는 추상적 개념으로, '문화와 사회', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "일대_일반명사-1",
+      "rationale_short": "일반적인 공간 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장소에 한정되지 않는 일반적인 공간 개념으로, '주거와 일상', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "일종_일반명사-1",
+      "rationale_short": "분류 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "논리와 연결",
+      "candidate_reason": "분류나 범주를 나타내는 추상적 개념으로, '논리와 연결'과 '상황 지시/기타' 사이에서 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "임하다_동사-1",
+      "rationale_short": "일반적인 동사로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 행위나 상황에 국한되지 않는 일반적인 동사로, '직장과 업무', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "자동_일반명사-1",
+      "rationale_short": "기계 작동 방식의 일반적 개념으로 분류 모호성이 있어 candidate로 분류하고 임시 root를 지정함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "기계의 작동 방식을 나타내는 일반적인 개념으로, '주거와 일상', '직장과 업무', '상황 지시/기타' 등 여러 root와 겹칠 수 있어 분류가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념어는 여러 root와 겹쳐 분류 모호성이 높음 (융합, 의존도, 인지도, 일종).",
+      "일반적인 행위나 상태를 나타내는 동사/형용사는 특정 root에 한정하기 어려움 (이러하다, 임하다, 자동).",
+      "감각/신체/내면과 관련된 어휘는 경계가 모호하여 candidate로 우선 검토 필요 (음성)."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어의 분류 기준을 명확히 하는 가이드라인 추가 필요 (예: '상황 지시/기타'의 역할 정의 강화).",
+      "동음이의어의 경우 각 의미별로 명확한 분류 기준을 제시하여 혼란을 줄여야 함 (예: 이성_1, 이성_2).",
+      "직업/역할어의 경우, 해당 역할이 주로 수행되는 '장면' root를 우선 고려하는 원칙을 일관되게 적용."
+    ]
+  }
+}

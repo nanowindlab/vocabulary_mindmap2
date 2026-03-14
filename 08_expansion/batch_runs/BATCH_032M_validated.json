@@ -1,0 +1,296 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "퇴근_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 종료",
+      "rationale_short": "하루의 업무를 마치고 직장을 떠나는 명확한 직장 관련 행위."
+    },
+    {
+      "meaning_id": "특허_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "발명에 대한 독점적 권리 개념으로, 기업 활동과 밀접하지만 법률/제도적 측면도 있어 분류가 모호함.",
+      "rationale_short": "기업 활동과 관련된 권리 개념으로, 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "혹시_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "가능성을 나타내는 부사로, 특정 상황이나 논리적 연결 등 여러 맥락에서 사용될 수 있어 모호함.",
+      "rationale_short": "가능성을 나타내는 부사로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "경쟁력_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "경쟁에서 이길 수 있는 능력이라는 추상적인 개념으로, 비즈니스, 사회, 개인 등 다양한 맥락에서 사용되어 모호함.",
+      "rationale_short": "추상적인 능력 개념으로, 여러 맥락에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "고장_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "candidate_reason": "기계나 장치의 작동 불능 상태를 나타내며, 주거, 직장, 교통 등 여러 생활 영역에서 발생할 수 있어 모호함.",
+      "rationale_short": "기계 상태를 나타내며, 여러 생활 영역에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "공급_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "필요한 것을 대어주는 경제 활동의 한 부분으로, 쇼핑, 공공 서비스 등 여러 루트와 연관될 수 있어 모호함.",
+      "rationale_short": "경제 활동의 개념으로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "기념품_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "여행 기념 물품",
+      "rationale_short": "여행이나 특별한 일을 기억하기 위한 물건으로, 여행과 밀접하게 연관됨."
+    },
+    {
+      "meaning_id": "낚시_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "물고기 잡기",
+      "rationale_short": "낚싯대를 이용한 물고기 잡는 행위는 명확한 여가 활동임."
+    },
+    {
+      "meaning_id": "도구_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "candidate_reason": "일을 할 때 쓰는 기구나 장치를 의미하는 매우 일반적인 개념으로, 특정 활동에 국한되지 않고 여러 루트에서 사용될 수 있어 모호함.",
+      "rationale_short": "매우 일반적인 도구 개념으로, 여러 활동에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "들리다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청각 인지",
+      "rationale_short": "소리가 귀에 느껴지는 명확한 감각 동사."
+    },
+    {
+      "meaning_id": "마찬가지_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "비슷하거나 같은 상태를 나타내는 추상적인 개념으로, 논리적 비교 또는 상황 지시 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "유사성을 나타내는 추상적 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "막히다_동사-1",
+      "bucket": "candidate",
+      "root": "교통",
+      "candidate_reason": "길이나 구멍이 통하지 않게 되는 물리적인 현상으로, 교통, 주거와 일상 등 여러 루트에 적용될 수 있어 모호함.",
+      "rationale_short": "물리적인 막힘 현상으로, 여러 루트에 적용될 수 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "맡다_동사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "일이나 역할을 책임지고 하게 되는 행위로, 직장과 업무 외에 사람과 관계 등 여러 맥락에서 사용될 수 있어 모호함.",
+      "rationale_short": "책임을 맡는 행위로, 여러 맥락에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "맡다_동사-2",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "후각 인지",
+      "rationale_short": "코로 냄새를 느끼는 명확한 감각 동사."
+    },
+    {
+      "meaning_id": "모시다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "윗사람 공경",
+      "rationale_short": "윗사람을 공경하며 돌보는 명확한 사람 간의 관계 행위."
+    },
+    {
+      "meaning_id": "모집_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "사람이나 물건을 모으는 행위로, 직장과 업무(채용), 학교와 공부(학생 모집), 공공 서비스(자원봉사 모집) 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "사람이나 물건을 모으는 행위로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "봄_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "계절 봄",
+      "rationale_short": "겨울 다음에 오는 따뜻한 계절로, 명확한 자연 현상/계절."
+    },
+    {
+      "meaning_id": "비판_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "판단과 평가",
+      "rationale_short": "옳고 그름을 가려 판단하는 명확한 의견 및 가치 판단 행위."
+    },
+    {
+      "meaning_id": "사건_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정한 일이 일어나는 것을 의미하는 매우 일반적인 개념으로, 특정 루트에 국한하기 어려워 모호함.",
+      "rationale_short": "일의 발생을 의미하는 일반적 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "사항_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정해 놓은 내용이나 조건을 의미하는 추상적인 개념으로, 논리, 공공 서비스 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "내용이나 조건을 의미하는 추상적 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "수술_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 시술",
+      "rationale_short": "의사가 몸 안을 고치는 명확한 의료 행위."
+    },
+    {
+      "meaning_id": "숲_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 숲",
+      "rationale_short": "나무와 풀이 빽빽한 곳으로, 명확한 자연 환경."
+    },
+    {
+      "meaning_id": "시각_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "특정 시점",
+      "rationale_short": "어느 일을 기준으로 한 일정한 때로, 명확한 시간 개념."
+    },
+    {
+      "meaning_id": "시각_일반명사-2",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "생각과 견해",
+      "rationale_short": "어떤 대상을 바라보는 생각이나 견해로, 명확한 의견/가치 판단 개념."
+    },
+    {
+      "meaning_id": "심하다_형용사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "정도가 보통보다 훨씬 크다는 것을 나타내는 형용사로, 상태의 정도 묘사 또는 평가 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "정도의 크기를 묘사하는 형용사로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "아까_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "rationale_short": "지금보다 조금 전을 의미하는 명확한 시간 부사."
+    },
+    {
+      "meaning_id": "어서_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "빨리 또는 서둘러 행동을 재촉하는 부사로, 행동 지시 또는 속도 묘사 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "행동을 재촉하는 부사로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "운동장_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "운동 경기 장소",
+      "rationale_short": "운동이나 경기를 하는 넓은 장소로, 학교와 밀접한 관련이 있음."
+    },
+    {
+      "meaning_id": "움직임_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "움직이는 상태나 정도를 나타내는 추상적인 개념으로, 움직임 묘사 또는 일반적인 상황 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "움직이는 상태를 나타내는 추상적 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "의심_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "불신 감정",
+      "rationale_short": "믿지 못하는 명확한 내면의 감정."
+    },
+    {
+      "meaning_id": "인공_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "사람이 만들거나 꾸민 것을 의미하는 추상적인 개념으로, 문화와 사회(인공물) 또는 자연의 반대 개념 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "사람이 만든 것을 의미하는 추상적 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "자라다_동사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "candidate_reason": "사람이나 동식물이 크고 성숙해지는 행위로, 날씨와 자연(생물 성장) 또는 사람과 관계(인간 성장) 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "생물의 성장 행위로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "적용_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "알맞은 경우에 방법이나 규칙을 실제로 쓰는 행위로, 논리적 연결 외에 직장과 업무, 학교와 공부 등 여러 맥락에서 사용될 수 있어 모호함.",
+      "rationale_short": "규칙을 실제에 쓰는 행위로, 여러 맥락에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "전국_일반명사-1",
+      "bucket": "candidate",
+      "root": "공공 서비스",
+      "candidate_reason": "한 나라의 모든 지역을 의미하는 개념으로, 공공 서비스(국가 단위 행정) 외에 문화와 사회 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "한 나라의 모든 지역을 의미하는 개념으로, 분류가 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "점검_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "상태나 잘못된 부분을 살펴보는 행위로, 직장과 업무, 주거와 일상, 보건과 의료 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "상태를 확인하는 행위로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "접수_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "서류 신청 처리",
+      "rationale_short": "서류나 신청을 받아들이는 명확한 공공 서비스 또는 행정 처리 행위."
+    },
+    {
+      "meaning_id": "제일_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "최상급 정도",
+      "rationale_short": "여럿 가운데 가장을 의미하는 명확한 최상급 표현."
+    },
+    {
+      "meaning_id": "조절_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "알맞게 맞추거나 조정하는 행위로, 직장과 업무, 주거와 일상 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "알맞게 맞추는 행위로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    },
+    {
+      "meaning_id": "주차_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "차량 정차",
+      "rationale_short": "자동차를 한곳에 세워 두는 명확한 교통 관련 행위."
+    },
+    {
+      "meaning_id": "참가자_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "candidate_reason": "행사나 모임에 참여하는 사람을 지칭하며, 여가와 취미, 학교와 공부, 직장과 업무 등 여러 루트에 걸쳐 있을 수 있어 모호함.",
+      "rationale_short": "특정 활동에 참여하는 사람으로, 여러 루트에 걸쳐 있어 모호하여 후보군으로 분류."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 경쟁력, 공급, 사항, 인공): 여러 루트에 걸쳐 사용될 수 있어 분류가 모호함.",
+      "일반적인 행위/상태 동사 및 명사 (예: 고장, 도구, 막히다, 맡다, 모집, 사건, 점검, 조절, 움직임, 자라다, 적용): 특정 맥락에 국한되지 않고 다양한 상황에 적용될 수 있어 모호함.",
+      "부사어 (예: 혹시, 어서): 문장 전체의 의미나 상황을 지시하는 경우가 많아 특정 루트에 명확히 연결하기 어려움."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 '개념/원리' 또는 '일반 개념'과 같은 새로운 루트 추가를 고려하여 분류 모호성을 줄일 수 있습니다.",
+      "일반적인 행위/상태 동사 및 명사의 경우, '일반 행위/상태'와 같은 포괄적인 루트를 신설하거나, 가장 대표적인 사용 맥락을 기준으로 임시 루트를 지정하고 추후 세분화하는 전략을 검토할 필요가 있습니다.",
+      "부사어의 경우, '상황 지시/기타' 루트를 더 세분화하여 '시간 부사', '정도 부사', '양태 부사' 등으로 나누는 것을 고려할 수 있습니다."
+    ]
+  }
+}

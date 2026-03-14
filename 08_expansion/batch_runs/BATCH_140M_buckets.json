@@ -1,0 +1,377 @@
+{
+  "core": [
+    {
+      "meaning_id": "기재_일반명사-2",
+      "rationale_short": "일상생활 및 작업에 사용되는 기계와 설비를 의미하여 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "기계 설비"
+    },
+    {
+      "meaning_id": "기혼_일반명사-1",
+      "rationale_short": "결혼 여부와 관련된 상태를 나타내므로 '사람과 관계'에 적합합니다.",
+      "root": "사람과 관계",
+      "category_label_ko": "결혼 상태"
+    },
+    {
+      "meaning_id": "기획자_일반명사-1",
+      "rationale_short": "직업/역할어는 관련 scene root를 우선 검토하며, '기획자'는 '직장과 업무'에 명확히 해당합니다.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 계획자"
+    },
+    {
+      "meaning_id": "긴팔_일반명사-1",
+      "rationale_short": "의류 품목으로 '쇼핑' 루트에 적합합니다.",
+      "root": "쇼핑",
+      "category_label_ko": "긴 소매 옷"
+    },
+    {
+      "meaning_id": "길가_일반명사-1",
+      "rationale_short": "길의 물리적인 부분으로 '교통' 루트에 명확히 해당합니다.",
+      "root": "교통",
+      "category_label_ko": "도로 가장자리"
+    },
+    {
+      "meaning_id": "길바닥_일반명사-1",
+      "rationale_short": "길의 물리적인 부분으로 '교통' 루트에 명확히 해당합니다.",
+      "root": "교통",
+      "category_label_ko": "도로 바닥"
+    },
+    {
+      "meaning_id": "깊숙이_일반부사-1",
+      "rationale_short": "깊이의 정도를 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "깊이 정도"
+    },
+    {
+      "meaning_id": "깊어지다_동사-1",
+      "rationale_short": "깊이의 변화를 묘사하는 동사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "깊이 변화"
+    },
+    {
+      "meaning_id": "까맣다_형용사-1",
+      "rationale_short": "색깔을 묘사하는 형용사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 검정"
+    },
+    {
+      "meaning_id": "깨어나다_동사-1",
+      "rationale_short": "일상적인 수면과 각성 행위로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "잠에서 깨어남"
+    },
+    {
+      "meaning_id": "깨어지다_동사-1",
+      "rationale_short": "물리적인 파손 현상을 나타내는 일반적인 동사로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 부서짐"
+    },
+    {
+      "meaning_id": "꺼지다_동사-1",
+      "rationale_short": "불이나 빛이 사라지는 현상을 나타내는 일반적인 동사로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "불빛 소멸"
+    },
+    {
+      "meaning_id": "껑충_일반부사-1",
+      "rationale_short": "뛰는 동작을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "뛰는 모양"
+    },
+    {
+      "meaning_id": "꼬물꼬물_일반부사-1",
+      "rationale_short": "작은 움직임을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "작은 움직임"
+    },
+    {
+      "meaning_id": "꼬박꼬박_일반부사-1",
+      "rationale_short": "행위의 지속성과 반복성을 나타내는 부사로 '시간과 흐름'에 적합합니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "지속 반복"
+    },
+    {
+      "meaning_id": "꼬치꼬치_일반부사-1",
+      "rationale_short": "묻는 행위의 자세한 방식을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "자세히 묻는 모양"
+    },
+    {
+      "meaning_id": "꼴딱_일반부사-1",
+      "rationale_short": "삼키는 소리나 모양을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "삼키는 소리"
+    },
+    {
+      "meaning_id": "꼼지락거리다_동사-1",
+      "rationale_short": "느리게 움직이는 동작을 묘사하는 동사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "느린 움직임"
+    },
+    {
+      "meaning_id": "꼼짝없이_일반부사-1",
+      "rationale_short": "어떤 상황에서 벗어날 수 없는 상태를 나타내는 부사로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "벗어날 수 없는 상태"
+    },
+    {
+      "meaning_id": "꼽히다_동사-1",
+      "rationale_short": "여럿 중 하나로 세어지는 행위로 '수량과 단위'에 적합합니다.",
+      "root": "수량과 단위",
+      "category_label_ko": "하나로 세어짐"
+    },
+    {
+      "meaning_id": "꽂다_동사-1",
+      "rationale_short": "일상생활에서 물건을 고정하는 행위로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 고정"
+    },
+    {
+      "meaning_id": "꽃가루_일반명사-1",
+      "rationale_short": "식물의 구성 요소로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 꽃가루"
+    },
+    {
+      "meaning_id": "꽃길_일반명사-1",
+      "rationale_short": "자연 경관의 일부로 '날씨와 자연'에 적합합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "꽃 피는 길"
+    },
+    {
+      "meaning_id": "꽃다발_일반명사-1",
+      "rationale_short": "꽃으로 이루어진 물건으로 '날씨와 자연'에 적합합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "묶은 꽃"
+    },
+    {
+      "meaning_id": "꽃말_일반명사-1",
+      "rationale_short": "꽃이 상징하는 의미는 문화적 요소이므로 '문화와 사회'에 적합합니다.",
+      "root": "문화와 사회",
+      "category_label_ko": "꽃 상징 의미"
+    },
+    {
+      "meaning_id": "꽃망울_일반명사-1",
+      "rationale_short": "식물의 구성 요소로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "피지 않은 꽃"
+    },
+    {
+      "meaning_id": "꽃샘_일반명사-1",
+      "rationale_short": "날씨 현상으로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "꽃 필 무렵 추위"
+    },
+    {
+      "meaning_id": "꽃잎_일반명사-1",
+      "rationale_short": "식물의 구성 요소로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "꽃 구성 조각"
+    },
+    {
+      "meaning_id": "꽉_일반부사-1",
+      "rationale_short": "정도나 방식을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "단단히 정도"
+    },
+    {
+      "meaning_id": "꾸리다_동사-1",
+      "rationale_short": "일상생활에서 짐이나 살림을 정리하는 행위로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "짐 살림 싸다"
+    },
+    {
+      "meaning_id": "꾸벅꾸벅_일반부사-1",
+      "rationale_short": "졸거나 인사하는 동작을 묘사하는 부사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "머리 숙이는 모양"
+    },
+    {
+      "meaning_id": "끄떡없다_형용사-1",
+      "rationale_short": "튼튼하고 흔들림 없는 상태를 묘사하는 형용사로 '감각과 묘사'에 적합합니다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "흔들림 없는 상태"
+    },
+    {
+      "meaning_id": "끈_일반명사-1",
+      "rationale_short": "일상생활에서 사용되는 도구로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "묶는 줄"
+    },
+    {
+      "meaning_id": "끊어지다_동사-1",
+      "rationale_short": "물리적인 연결이 단절되는 현상을 나타내는 일반적인 동사로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "연결 끊어짐"
+    },
+    {
+      "meaning_id": "끊이다_동사-1",
+      "rationale_short": "이어지던 것이 중단되는 시간적 흐름의 변화를 나타내므로 '시간과 흐름'에 적합합니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "연속성 중단"
+    },
+    {
+      "meaning_id": "끌어안다_동사-1",
+      "rationale_short": "사람 간의 신체적 접촉 및 관계적 행위로 '사람과 관계'에 적합합니다.",
+      "root": "사람과 관계",
+      "category_label_ko": "팔로 감싸 안다"
+    },
+    {
+      "meaning_id": "끌어오다_동사-1",
+      "rationale_short": "물리적으로 당겨서 가져오는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "당겨 가져오다"
+    },
+    {
+      "meaning_id": "끌어올리다_동사-1",
+      "rationale_short": "물리적으로 아래에서 위로 올리는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "아래서 위로 올리다"
+    },
+    {
+      "meaning_id": "끝없이_일반부사-1",
+      "rationale_short": "시간적 지속성을 나타내는 부사로 '시간과 흐름'에 적합합니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "한계 없는 지속"
+    },
+    {
+      "meaning_id": "끼우다_동사-1",
+      "rationale_short": "일상생활에서 물건을 틈에 넣어 고정하는 행위로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "틈에 넣어 고정"
+    },
+    {
+      "meaning_id": "나날이_일반부사-1",
+      "rationale_short": "시간의 경과에 따른 지속성을 나타내는 부사로 '시간과 흐름'에 적합합니다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "매일 계속"
+    },
+    {
+      "meaning_id": "나들이_일반명사-1",
+      "rationale_short": "집을 떠나 가까운 곳으로 가는 여가 활동으로 '여가와 취미'에 적합합니다.",
+      "root": "여가와 취미",
+      "category_label_ko": "짧은 외출"
+    },
+    {
+      "meaning_id": "나르다_동사-1",
+      "rationale_short": "물건이나 사람을 옮기는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 사람 옮기다"
+    },
+    {
+      "meaning_id": "나무라다_동사-1",
+      "rationale_short": "사람 간의 상호작용 중 꾸짖는 행위로 '사람과 관계'에 적합합니다.",
+      "root": "사람과 관계",
+      "category_label_ko": "잘못 꾸짖다"
+    },
+    {
+      "meaning_id": "나물_일반명사-1",
+      "rationale_short": "음식의 한 종류로 '식생활'에 명확히 해당합니다.",
+      "root": "식생활",
+      "category_label_ko": "채소 반찬"
+    },
+    {
+      "meaning_id": "나사_일반명사-1",
+      "rationale_short": "일상생활에서 사용되는 도구로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 고정 도구"
+    },
+    {
+      "meaning_id": "낙타_일반명사-1",
+      "rationale_short": "동물의 한 종류로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "사막 동물"
+    },
+    {
+      "meaning_id": "낚다_동사-1",
+      "rationale_short": "낚시라는 여가 활동의 핵심 행위로 '여가와 취미'에 적합합니다.",
+      "root": "여가와 취미",
+      "category_label_ko": "물고기 잡기"
+    },
+    {
+      "meaning_id": "난_일반명사-1",
+      "rationale_short": "감당하기 힘든 상황이나 소동을 나타내는 일반적인 명사로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "어려운 일 소동"
+    },
+    {
+      "meaning_id": "난_일반명사-2",
+      "rationale_short": "식물의 한 종류로 '날씨와 자연'에 명확히 해당합니다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "난초과 식물"
+    },
+    {
+      "meaning_id": "난_일반명사-3",
+      "rationale_short": "종이나 신문의 물리적인 구성 요소로 '주거와 일상'에 적합합니다.",
+      "root": "주거와 일상",
+      "category_label_ko": "신문 종이 칸"
+    },
+    {
+      "meaning_id": "날리다_동사-1",
+      "rationale_short": "바람에 의해 움직이게 하는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "바람에 움직이게 하다"
+    },
+    {
+      "meaning_id": "날아다니다_동사-1",
+      "rationale_short": "곳곳을 날아서 이동하는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "자주 날아다니다"
+    },
+    {
+      "meaning_id": "날아들다_동사-1",
+      "rationale_short": "날아서 특정 장소로 들어오는 일반적인 행위로 '상황 지시/기타'에 적합합니다.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "날아 들어오다"
+    },
+    {
+      "meaning_id": "남녀노소_일반명사-1",
+      "rationale_short": "모든 사람을 아우르는 표현으로 '사람과 관계'에 적합합니다.",
+      "root": "사람과 관계",
+      "category_label_ko": "모든 연령 성별"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "기제_일반명사-1",
+      "rationale_short": "추상적인 개념으로 여러 루트에 걸쳐 모호하여 candidate로 분류합니다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "분류 모호성: '제도'와 '장치'라는 개념이 추상적이며, '문화와 사회' 또는 '상황 지시/기타' 등 여러 루트에 걸쳐 모호합니다."
+    },
+    {
+      "meaning_id": "깃들다_동사-1",
+      "rationale_short": "추상적인 느낌의 스며듦을 나타내며, 내면과 감각의 경계가 모호하여 candidate로 분류합니다.",
+      "root": "내면과 감정",
+      "candidate_reason": "분류 모호성: '느낌이나 기운'은 '내면과 감정'에 가깝지만, '스며 있다'는 묘사적인 측면이 있어 '감각과 묘사'와 경계가 모호합니다."
+    },
+    {
+      "meaning_id": "끌리다_동사-1",
+      "rationale_short": "마음이나 시선이 쏠리는 내면적/감각적 현상으로, 경계가 모호하여 candidate로 분류합니다.",
+      "root": "내면과 감정",
+      "candidate_reason": "분류 모호성: '마음이나 시선'은 '내면과 감정'에 가깝지만, '쏠리다'는 묘사적인 측면이 있어 '감각과 묘사'와 경계가 모호합니다."
+    },
+    {
+      "meaning_id": "낌새_일반명사-1",
+      "rationale_short": "어떤 일이 일어날 듯한 기운을 감지하는 내면적/상황적 개념으로, 경계가 모호하여 candidate로 분류합니다.",
+      "root": "내면과 감정",
+      "candidate_reason": "분류 모호성: '기운이나 낌'은 내면적인 감지나 예측과 관련되지만, 동시에 외부 상황의 징후를 나타내므로 '내면과 감정'과 '상황 지시/기타'의 경계가 모호합니다."
+    }
+  ],
+  "exclusion": [
+    {
+      "meaning_id": "낚싯_일반명사-1",
+      "rationale_short": "다른 단어와 결합하여 의미를 형성하는 파편어로, 단독으로 시각화하기 어렵습니다.",
+      "exclusion_reason": "시각화가 거의 불가능한 학습 비적합 파편어"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 상태를 나타내는 명사/동사/형용사/부사가 여러 루트(예: 내면과 감정, 감각과 묘사, 상황 지시/기타)의 경계에 걸쳐 모호하게 분류될 수 있음.",
+      "특정 행위나 현상이 물리적인 측면과 내면적인 측면을 동시에 가질 때 분류가 어려움."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념을 다루는 '상황 지시/기타' 루트 내에 '개념/현상'과 같은 하위 카테고리를 추가하여 모호한 명사/동사/형용사/부사를 수용하는 방안을 고려합니다.",
+      "'내면과 감정'과 '감각과 묘사'의 경계가 모호한 경우를 대비하여, 두 루트의 상호 참조를 강화하거나, '인지/감지'와 같은 중간 성격의 카테고리 신설을 검토합니다."
+    ]
+  }
+}

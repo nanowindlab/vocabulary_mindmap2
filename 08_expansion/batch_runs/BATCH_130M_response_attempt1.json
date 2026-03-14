@@ -1,0 +1,375 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "정식_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "형식과 절차를 의미하는 추상적 개념으로, 특정 장면보다는 상황 지시적 의미가 강함.",
+      "exclusion_reason": null,
+      "rationale_short": "형식과 절차를 의미하는 추상적 개념."
+    },
+    {
+      "meaning_id": "정식_일반명사-2",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식사 메뉴",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식 차림을 명확히 지칭."
+    },
+    {
+      "meaning_id": "정차_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운행 정지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단의 운행 행위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "제법_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "정도를 나타내는 부사로, 묘사적 표현에 해당.",
+      "exclusion_reason": null,
+      "rationale_short": "정도를 나타내는 부사."
+    },
+    {
+      "meaning_id": "제자리_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 위치를 지칭하는 추상적 개념.",
+      "exclusion_reason": null,
+      "rationale_short": "원래 있던 위치를 지칭하는 추상적 개념."
+    },
+    {
+      "meaning_id": "제자리걸음_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "진행 상태를 나타내는 비유적 표현.",
+      "exclusion_reason": null,
+      "rationale_short": "진행 상태를 나타내는 비유적 표현."
+    },
+    {
+      "meaning_id": "제작진_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 관련 인력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 업무를 수행하는 사람들의 집단을 명확히 지칭."
+    },
+    {
+      "meaning_id": "제철_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "산업 분야",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 산업 분야를 명확히 지칭."
+    },
+    {
+      "meaning_id": "조각가_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 분야 직업",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "예술 분야의 직업을 명확히 지칭."
+    },
+    {
+      "meaning_id": "조선업_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "산업 분야",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 산업 분야를 명확히 지칭."
+    },
+    {
+      "meaning_id": "졸리다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "수면 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잠이 오는 신체적, 내면적 상태를 명확히 지칭."
+    },
+    {
+      "meaning_id": "졸음_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "수면 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잠이 오려는 내면적 상태를 명확히 지칭."
+    },
+    {
+      "meaning_id": "종가_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 관계 내 특정 지위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "종가_일반명사-2",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "경제 금융 용어",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "경제/금융 분야의 특정 용어를 명확히 지칭."
+    },
+    {
+      "meaning_id": "종교_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 문화 제도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회 문화적 제도 및 신념 체계를 명확히 지칭."
+    },
+    {
+      "meaning_id": "종묘_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "역사 유적",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "역사적 장소 및 문화유산을 명확히 지칭."
+    },
+    {
+      "meaning_id": "종사자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 관련 인물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 업무에 종사하는 사람을 명확히 지칭."
+    },
+    {
+      "meaning_id": "종자_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 씨앗",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연의 식물 요소를 명확히 지칭."
+    },
+    {
+      "meaning_id": "주류_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음료 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식생활 관련 음료를 명확히 지칭."
+    },
+    {
+      "meaning_id": "주류_일반명사-2",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "사회 집단의 특성을 나타내는 추상적 개념.",
+      "exclusion_reason": null,
+      "rationale_short": "사회 집단의 중심이 되는 무리를 지칭."
+    },
+    {
+      "meaning_id": "주름_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "외형적 특징",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사물이나 신체의 외형적 특징을 명확히 묘사."
+    },
+    {
+      "meaning_id": "주무_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "주요 업무",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "업무의 핵심적인 부분을 명확히 지칭."
+    },
+    {
+      "meaning_id": "주무시다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "수면 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수면과 관련된 행위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "주식_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "경제 금융 용어",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "경제/금융 분야의 특정 용어를 명확히 지칭."
+    },
+    {
+      "meaning_id": "주저앉다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 동작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체의 특정 동작을 명확히 묘사."
+    },
+    {
+      "meaning_id": "주택가_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 지역",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주거와 관련된 특정 장소를 명확히 지칭."
+    },
+    {
+      "meaning_id": "주행_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운행 이동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단의 운행 행위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "죽음_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "생명 현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생명과 관련된 중요한 현상을 명확히 지칭."
+    },
+    {
+      "meaning_id": "죽이다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "생명 관련 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생명과 관련된 행위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "준칙_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "기본 규칙",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 행위의 기본 규칙을 명확히 지칭."
+    },
+    {
+      "meaning_id": "줄거리_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "이야기 구성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문화 콘텐츠의 구성 요소를 명확히 지칭."
+    },
+    {
+      "meaning_id": "중립_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "입장 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 상황에서의 태도를 명확히 지칭."
+    },
+    {
+      "meaning_id": "중산_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형 지물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연의 지형 지물을 명확히 지칭."
+    },
+    {
+      "meaning_id": "중학_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 과정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교 교육 과정을 명확히 지칭."
+    },
+    {
+      "meaning_id": "즐거워하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "긍정적 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "긍정적인 내면의 감정을 명확히 지칭."
+    },
+    {
+      "meaning_id": "지난_관형사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 흐름을 나타내는 표현."
+    },
+    {
+      "meaning_id": "지불_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "결제 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건 구매 및 거래 시의 결제 행위를 명확히 지칭."
+    },
+    {
+      "meaning_id": "지원서_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 관련 서류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직업 또는 학업 관련 신청 서류를 명확히 지칭."
+    },
+    {
+      "meaning_id": "지원책_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "정책 제도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공공의 지원을 위한 정책적 방법을 명확히 지칭."
+    },
+    {
+      "meaning_id": "지참_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 상황에서 물건을 가져가는 행위를 지칭.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 상황에서 물건을 가져가는 행위."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념어의 분류: '정식(형식)', '제자리', '제자리걸음' 등은 특정 장면보다는 '상황 지시/기타'의 하위 개념(규칙, 위치, 상태)으로 분류하는 경향이 있음.",
+      "정도 부사의 분류: '제법'과 같은 정도를 나타내는 부사는 '감각과 묘사'에 포함하여 묘사적 표현으로 처리함.",
+      "다의어 처리: '정식', '종가', '주류'와 같이 여러 의미를 가진 단어는 각 의미별로 적절한 루트를 찾아 분류함."
+    ],
+    "ia_suggestions": [
+      "IA V4의 '상황 지시/기타' 루트 아래에 '규칙/절차', '위치/방향', '상태/진행' 등의 하위 카테고리 추가를 고려하여 추상적 개념어의 분류 명확성을 높일 수 있음.",
+      "IA V4의 '감각과 묘사' 루트 아래에 '정도/상태 부사'와 같은 하위 카테고리 추가를 고려하여 부사어 분류의 일관성을 확보할 수 있음."
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "먹잇감_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 속 동물",
+      "rationale_short": "자연 생태계의 동물 관련 개념으로 '날씨와 자연'에 분류한다."
+    },
+    {
+      "meaning_id": "면접관_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 역할",
+      "rationale_short": "직업/역할어 규칙에 따라 '직장과 업무'에 분류한다."
+    },
+    {
+      "meaning_id": "면접시험_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "채용 과정",
+      "rationale_short": "직업 활동의 한 과정으로 '직장과 업무'에 분류한다."
+    },
+    {
+      "meaning_id": "명칭_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적 개념으로 일반적인 사물/개념을 지칭하며, 특정 카테고리에 명확히 속하기 어렵다.",
+      "rationale_short": "일반적인 사물의 이름을 뜻하는 추상명사로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "모락모락_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "모양새 묘사",
+      "rationale_short": "김이나 연기가 피어오르는 모양을 묘사하는 부사로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "모래밭_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 지형",
+      "rationale_short": "자연 지형의 한 종류로 '날씨와 자연'에 분류한다."
+    },
+    {
+      "meaning_id": "모범_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "본받을 만한 행동이나 상태를 의미하는 추상적 개념으로, 가치 판단과 관련이 깊다.",
+      "rationale_short": "가치 판단과 관련된 추상적 개념으로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "모순_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "논리적 불일치",
+      "rationale_short": "논리적 관계의 불일치를 나타내는 개념으로 '논리와 연결'에 분류한다."
+    },
+    {
+      "meaning_id": "모여들다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사람 모임",
+      "rationale_short": "여러 사람이 한곳으로 모이는 행위로 '사람과 관계'에 분류한다."
+    },
+    {
+      "meaning_id": "모처럼_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 경과",
+      "rationale_short": "시간의 흐름과 관련된 부사로 '시간과 흐름'에 분류한다."
+    },
+    {
+      "meaning_id": "목걸이_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "개인 장신구",
+      "rationale_short": "일상생활에서 착용하는 장신구로 '주거와 일상'에 분류한다."
+    },
+    {
+      "meaning_id": "몸짓_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 표현",
+      "rationale_short": "감정이나 의사를 몸으로 표현하는 행위로 '내면과 감정'에 분류한다."
+    },
+    {
+      "meaning_id": "몹시_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도 강조",
+      "rationale_short": "정도의 크기를 나타내는 부사로 '수량과 단위'에 분류한다."
+    },
+    {
+      "meaning_id": "못난이_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "외모 묘사",
+      "rationale_short": "생김새를 묘사하는 표현으로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "못마땅하다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "불만족 감정",
+      "rationale_short": "마음에 들지 않는 감정 상태를 나타내는 형용사로 '내면과 감정'에 분류한다."
+    },
+    {
+      "meaning_id": "못생기다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "외모 묘사",
+      "rationale_short": "겉모습을 묘사하는 형용사로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "못하다_형용사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "능력 평가",
+      "rationale_short": "능력이나 수준을 평가하는 형용사로 '의견과 가치'에 분류한다."
+    },
+    {
+      "meaning_id": "무려_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 강조",
+      "rationale_short": "수량의 많음을 강조하는 부사로 '수량과 단위'에 분류한다."
+    },
+    {
+      "meaning_id": "무력_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "힘이나 능력의 부재를 나타내는 추상적 개념으로, 능력에 대한 평가와 관련이 깊다.",
+      "rationale_short": "능력의 부재를 나타내는 추상적 개념으로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "무릎_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "rationale_short": "신체 부위 규칙에 따라 '보건과 의료'에 분류한다."
+    },
+    {
+      "meaning_id": "무지_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "아는 것이 없는 상태를 의미하는 추상적 개념으로, 지적 상태나 내면적 결핍과 관련이 있다.",
+      "rationale_short": "지식의 부재를 나타내는 추상적 개념으로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "무턱대고_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "깊이 생각하지 않고 행동하는 방식을 나타내는 부사로, 특정 상황에 국한되지 않는 일반적인 행위의 태도를 묘사한다.",
+      "rationale_short": "행동의 방식을 나타내는 부사로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "묵묵히_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "행동 방식 묘사",
+      "rationale_short": "아무 말 없이 조용한 행동 방식을 묘사하는 부사로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "문어_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "해양 동물",
+      "rationale_short": "바다에 사는 동물로 '날씨와 자연'에 분류한다."
+    },
+    {
+      "meaning_id": "물놀이_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "여가 활동",
+      "rationale_short": "물속에서 하는 놀이로 '여가와 취미'에 분류한다."
+    },
+    {
+      "meaning_id": "물다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "신체 행위",
+      "rationale_short": "이로 깨무는 일반적인 신체 행위 동사로 '상황 지시/기타'에 분류한다."
+    },
+    {
+      "meaning_id": "물불_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물과 불을 넘어 온갖 위험한 상황을 비유적으로 지칭하는 표현으로, 일반적인 상황을 나타낸다.",
+      "rationale_short": "위험한 상황을 비유적으로 나타내는 표현으로, 분류 모호성이 있어 candidate로 보류한다."
+    },
+    {
+      "meaning_id": "물살_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 현상",
+      "rationale_short": "흘러가는 물의 빠르기와 세기로 '날씨와 자연'에 분류한다."
+    },
+    {
+      "meaning_id": "미관_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "외형적 아름다움",
+      "rationale_short": "겉모습이 주는 아름다움을 나타내는 개념으로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "미끄럽다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "표면 상태 묘사",
+      "rationale_short": "표면의 상태를 묘사하는 형용사로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "미달_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 부족",
+      "rationale_short": "정해진 기준이나 수에 미치지 못하는 상태로 '수량과 단위'에 분류한다."
+    },
+    {
+      "meaning_id": "미모_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "얼굴 아름다움",
+      "rationale_short": "얼굴의 아름다움을 나타내는 개념으로 '감각과 묘사'에 분류한다."
+    },
+    {
+      "meaning_id": "미술가_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 직업",
+      "rationale_short": "미술 작품을 만드는 직업으로 '문화와 사회'에 분류한다."
+    },
+    {
+      "meaning_id": "미용_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "외모 관리",
+      "rationale_short": "겉모습을 아름답게 가꾸는 일로 '주거와 일상'에 분류한다."
+    },
+    {
+      "meaning_id": "밀도_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "같은 부피 안의 양의 정도를 나타내는 개념으로 '수량과 단위'에 분류한다."
+    },
+    {
+      "meaning_id": "밀어내다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물리적 행위",
+      "rationale_short": "물리적으로 밀거나 내쫓는 일반적인 행위 동사로 '상황 지시/기타'에 분류한다."
+    },
+    {
+      "meaning_id": "바나나_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "과일 종류",
+      "rationale_short": "음식 재료 규칙에 따라 '식생활'에 분류한다."
+    },
+    {
+      "meaning_id": "바닷길_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "해상 교통로",
+      "rationale_short": "배가 다니는 길로 '교통'에 분류한다."
+    },
+    {
+      "meaning_id": "바닷속_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "해양 공간",
+      "rationale_short": "바다의 안쪽 공간으로 '날씨와 자연'에 분류한다."
+    },
+    {
+      "meaning_id": "바로잡다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "오류 수정",
+      "rationale_short": "잘못된 것을 올바르게 고치는 일반적인 행위 동사로 '상황 지시/기타'에 분류한다."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념어의 분류: '명칭', '모범', '무력', '무지', '물불' 등 추상적인 명사나 비유적 표현은 여러 루트에 걸쳐 모호성을 띠기 쉬워 candidate로 분류하는 경향이 있다. 특히 '상황 지시/기타', '의견과 가치', '내면과 감정' 등 추상적 루트 간의 경계가 모호하다.",
+      "행동 방식 부사의 분류: '무턱대고', '묵묵히'와 같이 행동의 방식을 묘사하는 부사는 '감각과 묘사', '성격과 태도', '상황 지시/기타' 등 여러 루트에 걸쳐 분류될 수 있어 신중한 판단이 필요하다."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어에 대한 세부 가이드라인 강화: '개념/정의', '가치/평가', '상태/속성' 등 추상어 분류를 위한 하위 기준을 명확히 하여 모호성을 줄일 필요가 있다.",
+      "부사 분류 기준 구체화: 행동의 '방식'을 묘사하는 부사와 '정도'를 묘사하는 부사를 구분하여 각각 '감각과 묘사' 또는 '상황 지시/기타', '수량과 단위' 등으로 명확히 분류할 수 있는 기준을 마련한다."
+    ]
+  }
+}

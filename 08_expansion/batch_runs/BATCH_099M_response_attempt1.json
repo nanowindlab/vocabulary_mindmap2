@@ -1,0 +1,376 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "동결_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "자연 현상(얼어서 굳어짐)과 인위적 행위(그렇게 함)의 경계가 모호하여 분류 보류",
+      "exclusion_reason": null,
+      "rationale_short": "자연 현상과 인위적 행위의 모호성"
+    },
+    {
+      "meaning_id": "동경_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "간절히 그리워함",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 내면의 감정"
+    },
+    {
+      "meaning_id": "동상_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "조형 예술 작품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "예술 및 공공 장소의 조형물"
+    },
+    {
+      "meaning_id": "동상_일반명사-2",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "추위로 인한 질병",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 신체 부위 및 의료 증상"
+    },
+    {
+      "meaning_id": "동원_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "사람이나 물자를 모으는 행위가 특정 분야(군사, 사회, 업무 등)에 한정되지 않고 일반적인 행위로 분류 모호성",
+      "exclusion_reason": null,
+      "rationale_short": "특정 분야 한정 없는 일반 행위"
+    },
+    {
+      "meaning_id": "동의서_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "찬성 허락 문서",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공적인 동의를 나타내는 문서"
+    },
+    {
+      "meaning_id": "동참_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일에 함께 참여하는 행위가 특정 분야에 한정되지 않고 일반적인 행위로 분류 모호성",
+      "exclusion_reason": null,
+      "rationale_short": "특정 분야 한정 없는 일반 행위"
+    },
+    {
+      "meaning_id": "동창회_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "졸업생 친목 모임",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교 관련 명확한 모임"
+    },
+    {
+      "meaning_id": "되도록_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "가능한 한 정도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 정도나 방향을 지시하는 부사"
+    },
+    {
+      "meaning_id": "되돌아보다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "과거 회상 성찰",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지나간 일을 생각하는 내면의 행위"
+    },
+    {
+      "meaning_id": "되풀이_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "반복되는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 반복 행위나 상태"
+    },
+    {
+      "meaning_id": "두께_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "물체의 물리적 두께",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물리적 속성 및 측정 단위"
+    },
+    {
+      "meaning_id": "두레_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "전통 농촌 공동체",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 전통 사회 조직"
+    },
+    {
+      "meaning_id": "두려움_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "무서운 마음 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 내면의 감정"
+    },
+    {
+      "meaning_id": "두려워하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "무서움을 느끼다",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 내면의 감정 표현 동사"
+    },
+    {
+      "meaning_id": "두렵다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "무섭고 걱정되는",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 내면의 감정 표현 형용사"
+    },
+    {
+      "meaning_id": "두통_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "머리 아픈 증상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 신체 부위 및 의료 증상"
+    },
+    {
+      "meaning_id": "뒤늦다_형용사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "때가 너무 늦은",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간과 관련된 명확한 형용사"
+    },
+    {
+      "meaning_id": "뒤집다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "뒤바꾸는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 물리적 행위"
+    },
+    {
+      "meaning_id": "드림_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "희망하는 꿈",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "내면의 희망이나 상상과 관련된 개념"
+    },
+    {
+      "meaning_id": "들여다보다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "안쪽을 자세히 봄",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시각적 감각 및 행위"
+    },
+    {
+      "meaning_id": "등급_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "분류 단계 수준",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "분류 및 수준을 나타내는 개념"
+    },
+    {
+      "meaning_id": "등기_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공적 기록 등록",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공적인 행정 절차 및 기록"
+    },
+    {
+      "meaning_id": "등산로_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "산 오르는 길",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여가 활동과 관련된 장소"
+    },
+    {
+      "meaning_id": "딴_관형사-1",
+      "bucket": "exclusion",
+      "root": null,
+      "category_label_ko": null,
+      "candidate_reason": null,
+      "exclusion_reason": "관형사는 어휘 마인드맵의 핵심 대상이 아니며, 문법적 기능어에 해당함",
+      "rationale_short": "문법적 기능어 (관형사)"
+    },
+    {
+      "meaning_id": "떠넘기다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "책임 전가 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 책임과 관련된 행위"
+    },
+    {
+      "meaning_id": "떡국_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "얇은 떡 국",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 음식 재료 및 음식"
+    },
+    {
+      "meaning_id": "똑바로_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "곧고 바르게",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "모양이나 방향을 묘사하는 부사"
+    },
+    {
+      "meaning_id": "로비_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 입구 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "건물 내 특정 장소"
+    },
+    {
+      "meaning_id": "로션_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "피부 관리 화장품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활 용품 (화장품)"
+    },
+    {
+      "meaning_id": "막상_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "실제 상황 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 상황의 시점을 나타내는 부사"
+    },
+    {
+      "meaning_id": "만화가_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "만화 그리는 직업인",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 직업/역할어"
+    },
+    {
+      "meaning_id": "맛보다_동사-2",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일이나 감정을 겪는 비유적인 표현으로, 일반적인 경험 행위와 내면의 감정 경험 사이의 분류 모호성",
+      "exclusion_reason": null,
+      "rationale_short": "비유적 표현, 경험 행위의 모호성"
+    },
+    {
+      "meaning_id": "맞서다_동사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "어려움에 맞서는",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어려움에 대한 태도와 관련된 행위"
+    },
+    {
+      "meaning_id": "매달다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 걸어 늘어뜨림",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상적인 물리적 행위"
+    },
+    {
+      "meaning_id": "매달리다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건이 걸려 늘어짐",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상적인 물리적 상태"
+    },
+    {
+      "meaning_id": "매달리다_동사-2",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일이나 사람에게 온 힘을 쏟아 의지하는 비유적인 표현으로, 감정적 의존과 행위적 몰입의 경계가 모호함",
+      "exclusion_reason": null,
+      "rationale_short": "비유적 표현, 감정/행위의 모호성"
+    },
+    {
+      "meaning_id": "매매_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "물건 사고팔기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 구매/판매 행위"
+    },
+    {
+      "meaning_id": "매표소_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "표 판매 장소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공공 시설 및 서비스 관련 장소"
+    },
+    {
+      "meaning_id": "멋_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "보기 좋은 분위기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "미적 감각 및 묘사와 관련된 개념"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "비유적/추상적 의미를 가진 동사의 분류 (예: 맛보다_동사-2, 매달리다_동사-2)",
+      "자연 현상과 인위적 행위가 혼재된 명사의 분류 (예: 동결_일반명사-1)",
+      "특정 분야에 한정되지 않는 일반적인 행위 명사의 분류 (예: 동원_일반명사-1, 동참_일반명사-1)"
+    ],
+    "ia_suggestions": [
+      "비유적/추상적 동사의 경우, 해당 의미가 가장 강하게 연결되는 root를 우선 고려하고, 모호할 경우 '상황 지시/기타' 또는 '내면과 감정'을 임시 제안 root로 활용하는 가이드라인 강화",
+      "일반적인 행위 명사의 경우, '상황 지시/기타' root의 하위 카테고리를 세분화하여 '일반적 행위', '일반적 상태' 등으로 명확성을 높이는 방안 검토",
+      "관형사 등 문법적 기능어에 대한 exclusion 기준을 명확히 문서화하여 일관성 유지"
+    ]
+  }
+}

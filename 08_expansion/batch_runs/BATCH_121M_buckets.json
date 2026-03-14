@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "비치다_동사-1",
+      "rationale_short": "빛이 나는 자연 현상을 나타냄.",
+      "root": "날씨와 자연",
+      "category_label_ko": "빛 발생/현상"
+    },
+    {
+      "meaning_id": "비치다_동사-2",
+      "rationale_short": "모습이나 형체가 시각적으로 나타나는 것을 묘사함.",
+      "root": "감각과 묘사",
+      "category_label_ko": "모습 나타남"
+    },
+    {
+      "meaning_id": "빈도_일반명사-1",
+      "rationale_short": "어떤 일이 되풀이되는 시간적 정도를 나타내는 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "반복되는 정도"
+    },
+    {
+      "meaning_id": "빚어지다_동사-1",
+      "rationale_short": "어떤 일이나 현상이 새로 생겨나는 상황을 나타냄.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상황 발생"
+    },
+    {
+      "meaning_id": "빛깔_일반명사-1",
+      "rationale_short": "눈으로 보이는 색의 차이를 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색상/색채"
+    },
+    {
+      "meaning_id": "빠짐없이_일반부사-1",
+      "rationale_short": "부분 없이 모두를 의미하는 전체성 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "전체성/완전함"
+    },
+    {
+      "meaning_id": "빨판_일반명사-1",
+      "rationale_short": "동물의 특정 신체 기관을 지칭함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 신체 기관"
+    },
+    {
+      "meaning_id": "빼앗다_동사-1",
+      "rationale_short": "타인의 것을 억지로 취하는 사람 간의 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "강탈/탈취"
+    },
+    {
+      "meaning_id": "뿌듯하다_형용사-1",
+      "rationale_short": "마음이 기쁘고 만족스러운 감정 상태를 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "만족감/성취감"
+    },
+    {
+      "meaning_id": "사립문_일반명사-1",
+      "rationale_short": "집의 출입문으로 주거 공간의 구성 요소.",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 출입문"
+    },
+    {
+      "meaning_id": "사물놀이_일반명사-1",
+      "rationale_short": "한국의 전통 음악 공연 형식.",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 음악"
+    },
+    {
+      "meaning_id": "사방_일반명사-1",
+      "rationale_short": "여러 방향을 지칭하는 공간적 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "여러 방향"
+    },
+    {
+      "meaning_id": "사업비_일반명사-1",
+      "rationale_short": "사업 수행에 필요한 재정적 비용.",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 운영 비용"
+    },
+    {
+      "meaning_id": "사유_일반명사-1",
+      "rationale_short": "어떤 일이 일어난 까닭을 나타내는 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "원인/이유"
+    },
+    {
+      "meaning_id": "사절_일반명사-1",
+      "rationale_short": "국가 간의 공식적인 대표 역할.",
+      "root": "공공 서비스",
+      "category_label_ko": "외교 대표"
+    },
+    {
+      "meaning_id": "사태_일반명사-1",
+      "rationale_short": "어떤 일이 벌어진 상태나 현상.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상황/현상"
+    },
+    {
+      "meaning_id": "사회생활_일반명사-1",
+      "rationale_short": "사회 구성원으로서 겪는 활동 전반.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 활동"
+    },
+    {
+      "meaning_id": "삭제_일반명사-1",
+      "rationale_short": "어떤 것을 없애거나 지우는 행위 또는 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "제거/지움"
+    },
+    {
+      "meaning_id": "산골_일반명사-1",
+      "rationale_short": "산이 많은 지역의 마을을 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "산간 마을"
+    },
+    {
+      "meaning_id": "산길_일반명사-1",
+      "rationale_short": "산속에 있는 길을 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "산악 도로"
+    },
+    {
+      "meaning_id": "산새_일반명사-1",
+      "rationale_short": "산에 서식하는 새를 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "산림 조류"
+    },
+    {
+      "meaning_id": "산조_일반명사-1",
+      "rationale_short": "한국 전통 기악 독주 형식.",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 기악"
+    },
+    {
+      "meaning_id": "살림_일반명사-1",
+      "rationale_short": "집안일을 꾸려 나가는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "가정 관리"
+    },
+    {
+      "meaning_id": "삼월_일반명사-1",
+      "rationale_short": "한 해의 세 번째 달을 지칭하는 시간 단위.",
+      "root": "시간과 흐름",
+      "category_label_ko": "세 번째 달"
+    },
+    {
+      "meaning_id": "상공업_일반명사-1",
+      "rationale_short": "상업과 공업을 아우르는 경제 분야.",
+      "root": "직장과 업무",
+      "category_label_ko": "산업 경제"
+    },
+    {
+      "meaning_id": "상관_일반명사-1",
+      "rationale_short": "직장이나 조직 내 윗사람의 역할.",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 상사"
+    },
+    {
+      "meaning_id": "상관관계_일반명사-1",
+      "rationale_short": "두 대상이 서로 관련되는 관계를 나타내는 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "상호 연관성"
+    },
+    {
+      "meaning_id": "상권_일반명사-1",
+      "rationale_short": "가게들이 영향을 미치는 상업 지역.",
+      "root": "쇼핑",
+      "category_label_ko": "상업 활동 지역"
+    },
+    {
+      "meaning_id": "상급_일반명사-1",
+      "rationale_short": "등급이나 단계가 높은 쪽을 나타내는 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "높은 등급"
+    },
+    {
+      "meaning_id": "상담원_일반명사-1",
+      "rationale_short": "상담 업무를 맡은 직업/역할.",
+      "root": "직장과 업무",
+      "category_label_ko": "상담 업무 직원"
+    },
+    {
+      "meaning_id": "상류_일반명사-1",
+      "rationale_short": "강이나 냇물의 위쪽 부분을 지칭하는 지형.",
+      "root": "날씨와 자연",
+      "category_label_ko": "강 상류"
+    },
+    {
+      "meaning_id": "상비약_일반명사-1",
+      "rationale_short": "집에 늘 준비해 두는 의약품.",
+      "root": "보건과 의료",
+      "category_label_ko": "가정 비치 약"
+    },
+    {
+      "meaning_id": "상세히_일반부사-1",
+      "rationale_short": "자세하고 낱낱이 묘사하는 방식을 나타냄.",
+      "root": "감각과 묘사",
+      "category_label_ko": "자세한 묘사"
+    },
+    {
+      "meaning_id": "상소문_일반명사-1",
+      "rationale_short": "윗사람에게 사정을 적어 올리는 글의 형식.",
+      "root": "문화와 사회",
+      "category_label_ko": "진정서/청원서"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "비우다_동사-1",
+      "rationale_short": "다양한 맥락에 적용되는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 행위 동사로, 물리적/추상적 맥락 모두에 사용되어 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "비틀다_동사-1",
+      "rationale_short": "다양한 대상에 적용되는 일반적인 물리적 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 행위 동사이나, 특정 맥락에 강하게 연결되지 않아 분류 모호함."
+    },
+    {
+      "meaning_id": "빚다_동사-1",
+      "rationale_short": "음식 조리 외 다른 창작 행위에도 사용 가능.",
+      "root": "식생활",
+      "candidate_reason": "주로 음식(가루 반죽)과 관련되지만, 도자기 등을 만드는 창작 행위에도 사용될 수 있어 분류 모호함."
+    },
+    {
+      "meaning_id": "뽑아내다_동사-1",
+      "rationale_short": "다양한 대상에 적용되는 일반적인 추출 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "안에 있는 것을 꺼내는 일반적인 행위 동사로, 다양한 맥락에 사용되어 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "사유서_일반명사-1",
+      "rationale_short": "특정 목적을 가진 문서로 여러 제도적 맥락에 걸쳐 사용.",
+      "root": "공공 서비스",
+      "candidate_reason": "이유를 적은 문서로, 직장, 학교, 공공기관 등 다양한 특정 상황에서 사용되어 분류 모호함."
+    },
+    {
+      "meaning_id": "살리초_일반명사-1",
+      "rationale_short": "전문 화학 용어, 분류 모호.",
+      "root": "날씨와 자연",
+      "candidate_reason": "전문적인 화학 용어로, 일반적인 한국어 어휘 학습 맥락에서 분류하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "일반적인 행위 동사 (비우다, 비틀다, 뽑아내다)는 여러 맥락에 걸쳐 사용되어 특정 root에 100% 확실하게 분류하기 어려움. '상황 지시/기타' 또는 가장 대표적인 맥락을 임시 root로 제안하는 경향이 있음.",
+      "문서류 명사 (사유서)는 사용되는 제도적 맥락(직장, 학교, 공공 서비스)이 다양하여 분류 모호성이 발생할 수 있음.",
+      "전문적인 과학 용어 (살리초)는 일반적인 어휘 학습 맥락에서 분류하기 어려워 '날씨와 자연' 또는 '상황 지시/기타'와 같은 넓은 root로 분류될 수 있음."
+    ],
+    "ia_suggestions": [
+      "일반적인 행위 동사(e.g., 비우다, 비틀다, 뽑아내다)에 대해 '상황 지시/기타' root 내에 '일반 행위' 또는 '동작'과 같은 하위 카테고리 신설을 고려하여 모호성을 줄일 수 있습니다.",
+      "문서류 명사(e.g., 사유서)의 경우, '공공 서비스' root 내에 '행정 문서' 또는 '제도 관련 문서'와 같은 하위 카테고리를 구체화하여 분류의 일관성을 높일 수 있습니다.",
+      "전문 과학 용어에 대해 '날씨와 자연' root 내에 '과학/학술 용어' 또는 '자연 현상/개념'과 같은 하위 카테고리 신설을 고려하여 분류의 명확성을 높일 수 있습니다."
+    ]
+  }
+}

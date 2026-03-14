@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "법원_일반명사-1",
+      "rationale_short": "재판을 하는 국가 기관으로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "사법 기관"
+    },
+    {
+      "meaning_id": "베란다_일반명사-1",
+      "rationale_short": "집의 일부 공간으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "주택 외부 공간"
+    },
+    {
+      "meaning_id": "벼룩시장_일반명사-1",
+      "rationale_short": "물건을 사고파는 장소로 쇼핑에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "중고 거래 장소"
+    },
+    {
+      "meaning_id": "벽돌_일반명사-1",
+      "rationale_short": "건물을 짓는 재료로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "건축 자재"
+    },
+    {
+      "meaning_id": "별점_일반명사-1",
+      "rationale_short": "별을 보고 앞날을 점치는 문화적 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "점성술 행위"
+    },
+    {
+      "meaning_id": "병사_일반명사-1",
+      "rationale_short": "군대에서 임무를 수행하는 직업/역할어.",
+      "root": "직장과 업무",
+      "category_label_ko": "군인 역할"
+    },
+    {
+      "meaning_id": "보리_일반명사-1",
+      "rationale_short": "밥이나 차를 만드는 곡식으로 식생활에 해당.",
+      "root": "식생활",
+      "category_label_ko": "곡물 재료"
+    },
+    {
+      "meaning_id": "보석_일반명사-1",
+      "rationale_short": "값비싼 돌 또는 장신구로 쇼핑 품목에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "귀금속 장신구"
+    },
+    {
+      "meaning_id": "보안_일반명사-1",
+      "rationale_short": "비밀이나 안전을 지키는 일로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "안전 유지 활동"
+    },
+    {
+      "meaning_id": "보조금_일반명사-1",
+      "rationale_short": "나라나 기관에서 돕기 위해 주는 돈으로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "정부 지원금"
+    },
+    {
+      "meaning_id": "보증금_일반명사-1",
+      "rationale_short": "계약을 위해 맡기는 돈으로 주거와 일상(부동산 계약 등)에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "계약 이행 금액"
+    },
+    {
+      "meaning_id": "보험_일반명사-1",
+      "rationale_short": "사고 대비 금융 제도로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "금융 보장 제도"
+    },
+    {
+      "meaning_id": "보험사_일반명사-1",
+      "rationale_short": "보험 상품을 파는 회사로 직장과 업무에 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "보험 회사"
+    },
+    {
+      "meaning_id": "복도_일반명사-1",
+      "rationale_short": "건물 내부 공간으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 내부 통로"
+    },
+    {
+      "meaning_id": "복용_일반명사-1",
+      "rationale_short": "약을 먹는 행위로 보건과 의료에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "약물 섭취 행위"
+    },
+    {
+      "meaning_id": "복장_일반명사-1",
+      "rationale_short": "몸에 걸친 옷차림으로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "옷차림 상태"
+    },
+    {
+      "meaning_id": "복지법_일반명사-1",
+      "rationale_short": "사회 약자를 돕는 법으로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "사회 복지 법규"
+    },
+    {
+      "meaning_id": "부담금_일반명사-1",
+      "rationale_short": "특정 목적을 위해 내는 돈으로 공공 서비스에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "특정 목적 비용"
+    },
+    {
+      "meaning_id": "부피_일반명사-1",
+      "rationale_short": "물체가 차지하는 공간의 크기로 수량과 단위에 해당.",
+      "root": "수량과 단위",
+      "category_label_ko": "공간 차지 크기"
+    },
+    {
+      "meaning_id": "분실_일반명사-1",
+      "rationale_short": "물건을 잃어버리는 일로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 잃어버림"
+    },
+    {
+      "meaning_id": "불꽃_일반명사-1",
+      "rationale_short": "불에서 튀어나오는 작은 불덩이로 날씨와 자연에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "불의 작은 조각"
+    },
+    {
+      "meaning_id": "불면증_일반명사-1",
+      "rationale_short": "잠이 잘 오지 않는 병적 증세로 보건과 의료에 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "수면 장애 증상"
+    },
+    {
+      "meaning_id": "불빛_일반명사-1",
+      "rationale_short": "불에서 나오는 빛으로 날씨와 자연에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "불에서 나는 빛"
+    },
+    {
+      "meaning_id": "비디오_일반명사-1",
+      "rationale_short": "영상 신호를 녹화/재생하는 장치/파일로 여가와 취미에 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "영상 매체 장치"
+    },
+    {
+      "meaning_id": "비지_일반명사-1",
+      "rationale_short": "두부를 만들고 남은 찌꺼기로 식생활에 해당.",
+      "root": "식생활",
+      "category_label_ko": "콩 부산물"
+    },
+    {
+      "meaning_id": "빗길_일반명사-1",
+      "rationale_short": "비가 내려 젖어 있는 길로 날씨와 자연에 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "비에 젖은 도로"
+    },
+    {
+      "meaning_id": "사다리_일반명사-1",
+      "rationale_short": "위아래를 오르내리는 도구로 주거와 일상에 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "오르내리는 도구"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "벗겨지다_동사-1",
+      "rationale_short": "물리적 상태 변화 묘사 동사.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 상태 변화를 묘사하는 동사로, '감각과 묘사' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "변수_일반명사-1",
+      "rationale_short": "상황 변화 요인을 나타내는 추상 개념.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, '논리와 연결' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "변천_일반명사-1",
+      "rationale_short": "시간에 걸친 상태 변화.",
+      "root": "시간과 흐름",
+      "candidate_reason": "시간의 흐름에 따른 변화를 나타내는 추상 명사로, '시간과 흐름' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "보물_일반명사-1",
+      "rationale_short": "귀하고 소중한 물건의 가치.",
+      "root": "의견과 가치",
+      "candidate_reason": "물건의 가치를 나타내는 명사로, '의견과 가치' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "보태다_동사-1",
+      "rationale_short": "모자란 것을 더하여 채우는 행위.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량을 늘리는 행위를 나타내는 동사로, '수량과 단위' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "부딪히다_동사-1",
+      "rationale_short": "다른 것에 세게 닿는 행위.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 충돌 행위를 나타내는 동사로, '감각과 묘사' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "부러지다_동사-1",
+      "rationale_short": "단단한 것이 꺾이거나 나뉘는 상태 변화.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 상태 변화를 묘사하는 동사로, '감각과 묘사' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "부합_일반명사-1",
+      "rationale_short": "서로 딱 맞거나 뜻이 들어맞는 상태.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 일치/적합 개념으로, '논리와 연결' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "불리_일반명사-1",
+      "rationale_short": "형편이나 조건이 좋지 않은 상태.",
+      "root": "의견과 가치",
+      "candidate_reason": "상황에 대한 부정적 평가를 나타내는 추상 명사로, '의견과 가치' 또는 '상황 지시/기타' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "비극_일반명사-1",
+      "rationale_short": "슬프고 가엾은 결말을 가진 일.",
+      "root": "내면과 감정",
+      "candidate_reason": "강한 부정적 감정을 유발하는 사건/이야기를 나타내는 추상 명사로, '내면과 감정' 또는 '문화와 사회' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "비법_일반명사-1",
+      "rationale_short": "남이 모르는 특별한 방법.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특별한 방법을 나타내는 추상 명사로, '상황 지시/기타' 또는 '의견과 가치' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "뻔하다_형용사-1",
+      "rationale_short": "어찌 될지가 뚜렷하거나 분명하다.",
+      "root": "의견과 가치",
+      "candidate_reason": "상황에 대한 판단/확실성을 나타내는 형용사로, '의견과 가치' 또는 '감각과 묘사' 중 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "사고방식_일반명사-1",
+      "rationale_short": "생각하고 판단하는 일정한 틀.",
+      "root": "내면과 감정",
+      "candidate_reason": "개인의 내면적 사고 과정을 나타내는 추상 명사로, '내면과 감정' 또는 '성격과 태도' 중 모호하여 candidate로 분류."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어의 분류 (예: 변수, 변천, 보물, 불리, 비극, 비법, 사고방식) - '상황 지시/기타', '의견과 가치', '내면과 감정', '논리와 연결' 등 여러 루트와 겹칠 수 있어 모호성 발생.",
+      "물리적 상태 변화를 묘사하는 동사 (예: 벗겨지다, 부딪히다, 부러지다) - '감각과 묘사'와 '상황 지시/기타' 사이의 경계가 모호함."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 분류 가이드라인을 강화하여 '상황 지시/기타' 루트의 역할을 명확히 하고, 다른 추상 루트(내면/감정, 의견/가치, 논리/연결)와의 차이점을 구체화할 필요가 있습니다.",
+      "물리적 변화 동사에 대해 '감각과 묘사'와 '상황 지시/기타' 중 어느 쪽에 더 중점을 둘지 기준을 명확히 하는 논의가 필요합니다. (예: 시각적/촉각적 묘사가 강하면 '감각과 묘사', 단순한 사건 발생이면 '상황 지시/기타')"
+    ]
+  }
+}

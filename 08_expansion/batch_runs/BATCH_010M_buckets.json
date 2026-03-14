@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "축제_일반명사-1",
+      "rationale_short": "사회적, 문화적 활동의 한 형태로 명확히 분류 가능.",
+      "root": "문화와 사회",
+      "category_label_ko": "공동체 행사"
+    },
+    {
+      "meaning_id": "날_일반명사-1",
+      "rationale_short": "시간 개념을 명확히 나타내는 어휘.",
+      "root": "시간과 흐름",
+      "category_label_ko": "특정 시점"
+    },
+    {
+      "meaning_id": "날_일반명사-2",
+      "rationale_short": "칼, 송곳 등 일상생활 도구의 구체적인 부분을 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "도구의 부분"
+    },
+    {
+      "meaning_id": "수업_일반명사-1",
+      "rationale_short": "학교 및 교육 기관에서의 핵심 활동을 명확히 지칭.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 활동"
+    },
+    {
+      "meaning_id": "작품_일반명사-1",
+      "rationale_short": "예술 및 문학 분야의 결과물을 명확히 지칭.",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 창작물"
+    },
+    {
+      "meaning_id": "국가_일반명사-1",
+      "rationale_short": "사회 및 정치 체제를 구성하는 핵심 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "정치 공동체"
+    },
+    {
+      "meaning_id": "나라_일반명사-1",
+      "rationale_short": "사회 및 정치 체제를 구성하는 핵심 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "민족 공동체"
+    },
+    {
+      "meaning_id": "느끼다_동사-1",
+      "rationale_short": "감정 및 감각을 인지하는 행위를 명확히 지칭.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정/감각 인지"
+    },
+    {
+      "meaning_id": "문_일반명사-1",
+      "rationale_short": "주거 공간의 구체적인 구성 요소를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 출입구"
+    },
+    {
+      "meaning_id": "속_일반명사-2",
+      "rationale_short": "신체 내부 장기를 명확히 지칭하며, '신체 부위/의료 증상' 규칙에 따라 보건과 의료로 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "내부 장기"
+    },
+    {
+      "meaning_id": "고객_일반명사-1",
+      "rationale_short": "물건 구매 행위와 관련된 사람을 명확히 지칭.",
+      "root": "쇼핑",
+      "category_label_ko": "구매자"
+    },
+    {
+      "meaning_id": "이상_일반명사-1",
+      "rationale_short": "수량 및 정도를 나타내는 명확한 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "기준 초과"
+    },
+    {
+      "meaning_id": "태도_일반명사-1",
+      "rationale_short": "사람의 성격 및 행동 방식을 명확히 지칭.",
+      "root": "성격과 태도",
+      "category_label_ko": "마음가짐/행동"
+    },
+    {
+      "meaning_id": "기간_일반명사-1",
+      "rationale_short": "시간의 길이를 나타내는 명확한 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 길이"
+    },
+    {
+      "meaning_id": "돈_일반명사-1",
+      "rationale_short": "물건 구매 및 경제 활동의 핵심 수단을 명확히 지칭.",
+      "root": "쇼핑",
+      "category_label_ko": "화폐"
+    },
+    {
+      "meaning_id": "찍다_동사-1",
+      "rationale_short": "일상생활에서 도장을 사용하는 구체적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "도장 사용"
+    },
+    {
+      "meaning_id": "찍다_동사-2",
+      "rationale_short": "여가 활동 중 하나인 사진 및 영상 촬영 행위.",
+      "root": "여가와 취미",
+      "category_label_ko": "사진/영상 촬영"
+    },
+    {
+      "meaning_id": "교육_일반명사-1",
+      "rationale_short": "학교 및 학습 활동의 핵심 개념.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 지도"
+    },
+    {
+      "meaning_id": "동물_일반명사-1",
+      "rationale_short": "자연계의 생명체를 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물"
+    },
+    {
+      "meaning_id": "행복_일반명사-1",
+      "rationale_short": "마음의 상태와 감정을 명확히 지칭.",
+      "root": "내면과 감정",
+      "category_label_ko": "만족감/즐거움"
+    },
+    {
+      "meaning_id": "사업_일반명사-1",
+      "rationale_short": "이익 추구를 목적으로 하는 조직적인 활동을 명확히 지칭.",
+      "root": "직장과 업무",
+      "category_label_ko": "영리 활동"
+    },
+    {
+      "meaning_id": "지금_일반명사-1",
+      "rationale_short": "현재 시점을 명확히 나타내는 어휘.",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점"
+    },
+    {
+      "meaning_id": "또_일반부사-1",
+      "rationale_short": "행위의 반복 또는 추가를 나타내는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "반복/추가"
+    },
+    {
+      "meaning_id": "또_일반부사-2",
+      "rationale_short": "정보의 추가를 나타내는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "추가 정보"
+    },
+    {
+      "meaning_id": "몸_일반명사-1",
+      "rationale_short": "사람이나 동물의 신체 전체를 명확히 지칭하며, '신체 부위' 규칙에 따라 보건과 의료로 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 전체"
+    },
+    {
+      "meaning_id": "병원_일반명사-1",
+      "rationale_short": "환자를 치료하는 의료 기관을 명확히 지칭하며, '의료 증상' 규칙에 따라 보건과 의료로 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 기관"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "나타나다_동사-1",
+      "rationale_short": "일반적인 동사로, 특정 카테고리에 명확히 속하기 어려움.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 상태 변화 동사로, 특정 장면이나 구체적인 개념에 속하기보다 광범위하게 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "프로그램_일반명사-1",
+      "rationale_short": "여러 맥락에서 사용되는 추상적인 개념.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "방송, 행사, 컴퓨터 등 다양한 분야에서 사용되는 추상적인 개념으로, 특정 root에 명확히 귀속되기 어려움."
+    },
+    {
+      "meaning_id": "과정_일반명사-1",
+      "rationale_short": "추상적인 개념으로, 특정 카테고리에 명확히 속하기 어려움.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "시간의 흐름 속에서 발생하는 추상적인 개념으로, 특정 root에 명확히 귀속되기 어려움."
+    },
+    {
+      "meaning_id": "열다_동사-1",
+      "rationale_short": "광범위하게 사용되는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 문을 여는 행위 외에도 행사나 마음을 여는 등 다양한 맥락에서 사용되는 일반적인 동사로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "넣다_동사-1",
+      "rationale_short": "광범위하게 사용되는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물건을 공간에 두는 행위 외에도 추상적인 개념을 포함하는 등 광범위하게 사용되는 일반적인 동사로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "속_일반명사-1",
+      "rationale_short": "물리적/추상적 의미를 모두 포함하여 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 공간의 안쪽을 의미하기도 하고, 마음이나 내면과 같은 추상적인 개념을 의미하기도 하여 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "영향_일반명사-1",
+      "rationale_short": "추상적인 개념으로, 특정 카테고리에 명확히 속하기 어려움.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, 다양한 상황에서 발생하며 특정 root에 명확히 귀속되기 어려움."
+    },
+    {
+      "meaning_id": "이상_일반명사-2",
+      "rationale_short": "광범위한 의미를 포함하여 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정상적이지 않은 상태를 의미하며, 물리적/정신적/사회적 등 다양한 맥락에서 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "이상_일반명사-3",
+      "rationale_short": "추상적인 내면적 가치 개념.",
+      "root": "내면과 감정",
+      "candidate_reason": "개인이 바라는 완벽한 상태를 의미하는 추상적인 개념으로, 내면적 가치와 관련되나 명확한 root 분류에 모호성이 있음."
+    },
+    {
+      "meaning_id": "개발_일반명사-1",
+      "rationale_short": "광범위한 의미를 포함하는 추상적 행위.",
+      "root": "직장과 업무",
+      "candidate_reason": "제품 개발, 능력 개발, 토지 개발 등 다양한 맥락에서 사용되는 추상적인 행위 개념으로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "나가다_동사-1",
+      "rationale_short": "광범위하게 사용되는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 이동 외에도 직장을 나가거나 소문이 나가는 등 다양한 맥락에서 사용되는 일반적인 동사로 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "대상_일반명사-1",
+      "rationale_short": "추상적인 개념으로, 특정 카테고리에 명확히 속하기 어려움.",
+      "root": "논리와 연결",
+      "candidate_reason": "어떤 행위나 생각의 목표 또는 객체를 의미하는 추상적인 개념으로, 특정 root에 명확히 귀속되기 어려움."
+    },
+    {
+      "meaning_id": "성공_일반명사-1",
+      "rationale_short": "추상적인 성취 개념.",
+      "root": "내면과 감정",
+      "candidate_reason": "목표 달성이라는 추상적인 개념으로, 개인의 내면적 만족과 관련되나 광범위한 맥락에서 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "해결_일반명사-1",
+      "rationale_short": "추상적인 문제 해결 개념.",
+      "root": "논리와 연결",
+      "candidate_reason": "문제나 어려움을 해소하는 추상적인 행위 개념으로, 다양한 상황에 적용되어 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "일반적인 동사 (예: 나타나다, 열다, 넣다, 나가다)는 특정 장면이나 개념에 명확히 귀속되기 어려워 '상황 지시/기타'로 분류되는 경향이 강함.",
+      "추상적인 명사 (예: 프로그램, 과정, 영향, 이상-2, 이상-3, 개발, 성공, 해결)는 여러 맥락에서 사용되어 분류 모호성이 높으며, '상황 지시/기타', '논리와 연결', '내면과 감정', '직장과 업무' 등 다양한 임시 root로 분산됨.",
+      "동음이의어 (예: 날, 이상, 또)는 의미별로 명확히 구분하여 다른 root 또는 category_label_ko를 부여해야 함."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root 아래에 '일반 행위/상태 동사' 또는 '추상적 개념'과 같은 하위 카테고리를 추가하여 분류의 정밀도를 높일 것을 제안합니다.",
+      "'논리와 연결' root 아래에 '관계/영향 개념' 또는 '문제 해결 개념'과 같은 하위 카테고리를 고려하여 추상적인 연결성을 나타내는 어휘들을 더 체계적으로 관리할 수 있습니다.",
+      "의미가 광범위하거나 여러 root에 걸쳐 해석될 수 있는 어휘들에 대한 명확한 분류 가이드라인 또는 예시를 추가하여 데이터 전략가의 판단 일관성을 확보해야 합니다."
+    ]
+  }
+}

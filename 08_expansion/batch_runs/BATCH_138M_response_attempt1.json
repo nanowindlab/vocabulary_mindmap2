@@ -1,0 +1,554 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "공산_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 가능성을 나타내는 표현으로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "가능성 표현, 분류 모호"
+    },
+    {
+      "meaning_id": "공용_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "여러 사람이 함께 사용하는 '상태' 또는 '특성'을 나타내므로, 특정 사물이나 행위가 아닌 일반적인 상황 지시로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "함께 사용하는 상태, 분류 모호"
+    },
+    {
+      "meaning_id": "공조_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "협력과 도움",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 협력 행위"
+    },
+    {
+      "meaning_id": "공직자_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공공기관 종사자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공공기관에서 일하는 직업/역할"
+    },
+    {
+      "meaning_id": "공평_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "공정한 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "치우치지 않고 대하는 태도"
+    },
+    {
+      "meaning_id": "공포감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "두려운 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "두려움을 느끼는 감정"
+    },
+    {
+      "meaning_id": "공포심_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "무서운 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "무서움을 느끼는 감정"
+    },
+    {
+      "meaning_id": "공항버스_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "공항 이동 수단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공항과 시내를 오가는 교통수단"
+    },
+    {
+      "meaning_id": "공헌도_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "category_label_ko": null,
+      "candidate_reason": "도움을 준 '정도'를 나타내는 추상적인 개념으로, '수량과 단위'와 연관될 수 있으나 명확한 분류를 위해 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "도움을 준 정도, 분류 모호"
+    },
+    {
+      "meaning_id": "과대평가_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "지나친 평가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "실제보다 높게 평가하는 행위"
+    },
+    {
+      "meaning_id": "과부_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "배우자 없는 여성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "남편이 죽고 혼자 남은 사람의 관계적 지위"
+    },
+    {
+      "meaning_id": "과소평가_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "낮게 평가함",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "실제보다 낮게 평가하는 행위"
+    },
+    {
+      "meaning_id": "과속_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "제한 속도 초과",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "규정 속도보다 빠르게 달리는 교통 행위"
+    },
+    {
+      "meaning_id": "과실_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "나무 열매",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "나무에서 나는 먹을거리"
+    },
+    {
+      "meaning_id": "과언_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "사실보다 지나친 '말'의 성격을 나타내므로 '의견과 가치'와 연관될 수 있으나, 직접적인 의견이나 가치 판단보다는 표현의 방식에 가까워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "사실보다 지나친 말, 표현 방식 모호"
+    },
+    {
+      "meaning_id": "과열_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "열이 지나치게 오르는 '상태'를 나타내므로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "열이 지나치게 오르는 상태, 분류 모호"
+    },
+    {
+      "meaning_id": "과잉_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "지나친 양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정도나 양이 지나치게 많음"
+    },
+    {
+      "meaning_id": "과학사_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "과학 발전 역사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "과학이 발전해 온 학문 분야"
+    },
+    {
+      "meaning_id": "관건_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일을 결정짓는 '중요한 요소'라는 추상적인 개념으로, '논리와 연결'과 연관될 수 있으나 명확한 분류를 위해 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "결정짓는 중요한 요소, 분류 모호"
+    },
+    {
+      "meaning_id": "관광부_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "관광 행정 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국가의 관광 업무를 맡는 행정 부서"
+    },
+    {
+      "meaning_id": "관능_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "감각적 매력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "감각적으로 느껴지는 매력"
+    },
+    {
+      "meaning_id": "관리법_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "관리하는 데 필요한 '규정이나 방법'이라는 추상적인 개념으로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "관리 규정/방법, 분류 모호"
+    },
+    {
+      "meaning_id": "관리직_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "관리 담당 직책",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "관리를 담당하는 직책"
+    },
+    {
+      "meaning_id": "관악기_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "바람 악기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "입으로 바람을 불어 소리 내는 악기"
+    },
+    {
+      "meaning_id": "관찰력_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "살피는 능력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "대상을 자세히 살피는 능력"
+    },
+    {
+      "meaning_id": "광경_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "눈에 보이는 장면",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "눈으로 보이는 장면"
+    },
+    {
+      "meaning_id": "광범위_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "'범위가 넓음'이라는 추상적인 '묘사'에 해당하지만, 직접적인 감각보다는 정도를 나타내므로 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "범위가 넓음, 정도 묘사 모호"
+    },
+    {
+      "meaning_id": "괴로움_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "힘든 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸이나 마음이 힘들어하는 상태"
+    },
+    {
+      "meaning_id": "괴로워하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "힘들어하는 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸이나 마음이 힘들어하는 모습을 보이다"
+    },
+    {
+      "meaning_id": "교감_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "감정적 소통",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음이나 감정이 서로 통함"
+    },
+    {
+      "meaning_id": "교도소_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "수감 시설",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "죄를 지은 사람을 가두는 시설"
+    },
+    {
+      "meaning_id": "교섭_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "의견 조율",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일을 이루기 위해 의견을 주고받는 일"
+    },
+    {
+      "meaning_id": "교수법_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "가르치는 방법",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가르치는 데 사용하는 방법"
+    },
+    {
+      "meaning_id": "교역_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 간 거래",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "나라 사이에서 물건을 사고파는 활동"
+    },
+    {
+      "meaning_id": "교우_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "학교 친구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "같은 학교에서 함께 공부하는 친구"
+    },
+    {
+      "meaning_id": "교육비_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 비용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교육을 받기 위해 드는 비용"
+    },
+    {
+      "meaning_id": "교육청_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "교육 행정 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지역의 교육 업무를 맡아 관리하는 행정 기관"
+    },
+    {
+      "meaning_id": "교정_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "바르지 않은 것을 바로잡는 '행위'를 나타내지만, 그 범위가 넓어 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "바르지 않은 것을 바로잡는 행위, 분류 모호"
+    },
+    {
+      "meaning_id": "교정지_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "오류 수정 용지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "글의 오류를 고치기 위해 인쇄한 시험용 종이"
+    },
+    {
+      "meaning_id": "교직_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "교사 직업",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학생을 가르치는 직업"
+    },
+    {
+      "meaning_id": "교차_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "서로 엇갈리거나 맞닿아 지나가는 '상태나 행위'를 나타내므로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "서로 엇갈리거나 맞닿아 지나감, 분류 모호"
+    },
+    {
+      "meaning_id": "교통경찰_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "도로 관리 경찰",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "도로에서 차량과 사람의 움직임을 관리하는 경찰"
+    },
+    {
+      "meaning_id": "교통량_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "교통 이동량",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "도로를 지나가는 사람이나 차량의 수"
+    },
+    {
+      "meaning_id": "교통부_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "교통 행정 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통과 관련된 일을 맡은 행정 부서"
+    },
+    {
+      "meaning_id": "교회_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "기독교 예배 장소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기독교에서 예배를 드리는 건물 또는 단체"
+    },
+    {
+      "meaning_id": "구김_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "종이나 천이 구겨져 생긴 '자국'을 나타내므로 '감각과 묘사'와 연관될 수 있으나, 특정 사물의 상태 묘사에 가까워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "구겨져 생긴 자국, 상태 묘사 모호"
+    },
+    {
+      "meaning_id": "구부리다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "휘게 하는 동작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸이나 물건을 휘게 만드는 동작"
+    },
+    {
+      "meaning_id": "구사_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "능숙한 사용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "말이나 기술을 능숙하게 쓰는 능력"
+    },
+    {
+      "meaning_id": "구사일생_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "죽을 뻔한 위험에서 간신히 살아남는 '극적인 상황'을 나타내므로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "죽을 뻔한 위험에서 살아남음, 분류 모호"
+    },
+    {
+      "meaning_id": "구석_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "공간의 모퉁이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "모퉁이나 한쪽 끝 부분"
+    },
+    {
+      "meaning_id": "구속_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "자유 제한",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "행동의 자유를 제한하는 행위"
+    },
+    {
+      "meaning_id": "구식_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "오래되어 지금의 방식에 맞지 않는 '형태'를 나타내므로 '시간과 흐름'과 연관될 수 있으나, 직접적인 시간 개념보다는 상태 묘사에 가까워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "오래되어 맞지 않는 형태, 상태 묘사 모호"
+    },
+    {
+      "meaning_id": "구실_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일을 하게 되는 '핑계나 이유'라는 추상적인 개념으로, '논리와 연결'과 연관될 수 있으나 명확한 분류를 위해 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일을 하게 되는 핑계나 이유, 분류 모호"
+    },
+    {
+      "meaning_id": "구입자_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "물건 사는 사람",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 물건을 사는 사람"
+    },
+    {
+      "meaning_id": "구획_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "전체를 여러 부분으로 나누어 '경계를 정하는 행위'를 나타내므로, 특정 카테고리에 명확히 속하기 어려워 임시 제안 root로 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "전체를 나누어 경계를 정함, 분류 모호"
+    },
+    {
+      "meaning_id": "국경_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 간 경계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "나라와 나라를 가르는 경계"
+    },
+    {
+      "meaning_id": "국빈_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "초대된 외국인",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "나라에서 손님으로 초대한 외국의 귀한 인물"
+    },
+    {
+      "meaning_id": "국숫집_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "국수 전문점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국수를 파는 가게"
+    },
+    {
+      "meaning_id": "국어_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "국가 언어",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한 나라의 고유한 말"
+    },
+    {
+      "meaning_id": "군락_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동식물 집단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "동식물이 한 지역에 모여 사는 집단"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 상태를 나타내는 명사의 분류가 모호하여 '상황 지시/기타' 또는 '감각과 묘사', '논리와 연결' 등의 임시 제안 root로 분류되는 경향이 있음.",
+      "행정 기관이나 직업/역할어는 '공공 서비스' 또는 '직장과 업무', '사람과 관계'로 명확히 분류되나, 그 하위 개념 라벨링에 대한 일관성 유지가 필요함."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념을 위한 '개념과 추상' 또는 '상태와 특성'과 같은 새로운 root 카테고리 추가를 고려하여 '상황 지시/기타'의 과부하를 줄일 수 있음.",
+      "평가, 판단, 의견과 관련된 어휘(예: 과대평가, 과소평가, 과언)를 '의견과 가치' root 아래에 '평가와 판단' 또는 '표현과 진술'과 같은 하위 카테고리로 세분화하는 것을 제안함."
+    ]
+  }
+}

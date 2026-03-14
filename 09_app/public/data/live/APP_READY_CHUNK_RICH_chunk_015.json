@@ -1,0 +1,5717 @@
+{
+  "십상_일반명사-1": {
+    "id": "십상_일반명사-1",
+    "def_ko": "대개 그러하기 쉬운 형편이나 모습",
+    "related_vocab": [
+      "공산",
+      "당연하다",
+      "뻔하다",
+      "유력",
+      "경향"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sipsang"
+  },
+  "싱겁다_형용사-1": {
+    "id": "싱겁다_형용사-1",
+    "def_ko": "음식에 간이 충분하지 않아 맛이 약하다",
+    "related_vocab": [
+      "간",
+      "달다",
+      "맵다",
+      "시다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "약하다_형용사-1",
+          "target_term": "약하다",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "촉각과 질감",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "singgeopda"
+  },
+  "싱싱하다_형용사-1": {
+    "id": "싱싱하다_형용사-1",
+    "def_ko": "시들거나 상하지 않고 생기가 있다",
+    "related_vocab": [
+      "새로움",
+      "더럽다",
+      "성하다",
+      "청결"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "신선하다_형용사-1",
+          "target_term": "신선하다",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "미각과 후각",
+          "hook_id": "H18"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "쌍벽_일반명사-1": {
+    "id": "쌍벽_일반명사-1",
+    "def_ko": "실력이 비슷하게 뛰어난 둘",
+    "related_vocab": [
+      "손꼽히다",
+      "최고"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ssangbyeok"
+  },
+  "쑥_일반부사-1": {
+    "id": "쑥_일반부사-1",
+    "def_ko": "훌쩍 앞으로 나가거나 안으로 들어가는 모양",
+    "related_vocab": [
+      "껑충",
+      "벌떡",
+      "사뿐사뿐",
+      "성큼",
+      "쑥쑥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ssuk"
+  },
+  "쑥스럽다_형용사-1": {
+    "id": "쑥스럽다_형용사-1",
+    "def_ko": "남 앞에서 어색하고 부끄러운 느낌이 있다",
+    "related_vocab": [
+      "수줍다",
+      "창피"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ssuksseureopda"
+  },
+  "쑥쑥_일반부사-1": {
+    "id": "쑥쑥_일반부사-1",
+    "def_ko": "힘 있게 계속 자라거나 뚫고 나오는 모양",
+    "related_vocab": [
+      "모락모락",
+      "성큼",
+      "쑥",
+      "줄줄",
+      "활짝"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ssukssuk"
+  },
+  "쓰기_일반명사-1": {
+    "id": "쓰기_일반명사-1",
+    "def_ko": "글자를 적거나 글을 짓는 일",
+    "related_vocab": [
+      "감상문",
+      "번역",
+      "쓰다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sseugi"
+  },
+  "쓰다_동사-1": {
+    "id": "쓰다_동사-1",
+    "def_ko": "글자를 적거나 글을 만들다",
+    "related_vocab": [
+      "감상문",
+      "번역",
+      "쓰기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sseuda"
+  },
+  "쓰다_형용사-1": {
+    "id": "쓰다_형용사-1",
+    "def_ko": "약의 맛과 같다",
+    "related_vocab": [
+      "독하다",
+      "쓴맛"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "쓰다듬다_동사-1": {
+    "id": "쓰다듬다_동사-1",
+    "def_ko": "애정을 가지고 한 방향으로 손으로 살살 쓸어 어루만지다",
+    "related_vocab": [
+      "격려",
+      "따뜻하다",
+      "모성애",
+      "북돋다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "쓰이다_동사-1": {
+    "id": "쓰이다_동사-1",
+    "def_ko": "글이나 기록이 적히다",
+    "related_vocab": [
+      "감상문",
+      "서술"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sseuida"
+  },
+  "쓴맛_일반명사-1": {
+    "id": "쓴맛_일반명사-1",
+    "def_ko": "한약과 같은 맛",
+    "related_vocab": [
+      "단맛",
+      "신맛",
+      "쓰다",
+      "짠맛"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "쓸데없다_형용사-1": {
+    "id": "쓸데없다_형용사-1",
+    "def_ko": "도움이 되지 않고 가치가 없다",
+    "related_vocab": [
+      "무난하다",
+      "무의미하다",
+      "불이익",
+      "쓸모없다",
+      "유용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sseuldeo:eopda"
+  },
+  "쓸모없다_형용사-1": {
+    "id": "쓸모없다_형용사-1",
+    "def_ko": "쓸 만한 데가 없고 소용이 없다",
+    "related_vocab": [
+      "무의미하다",
+      "별것",
+      "쓸데없다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "sseulmoeopda"
+  },
+  "쓸쓸하다_형용사-1": {
+    "id": "쓸쓸하다_형용사-1",
+    "def_ko": "마음이 외롭고 허전하다",
+    "related_vocab": [
+      "외롭다",
+      "허전하다",
+      "우울"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "씩씩하다_형용사-1": {
+    "id": "씩씩하다_형용사-1",
+    "def_ko": "행동이나 태도가 힘차고 활기차며 굳세다",
+    "related_vocab": [
+      "도전",
+      "부지런하다",
+      "용감하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "아깝다_형용사-1": {
+    "id": "아깝다_형용사-1",
+    "def_ko": "잃기 싫거나 버리기 어려운 마음이 들다",
+    "related_vocab": [
+      "미련",
+      "서운하다",
+      "실망",
+      "안타깝다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "akkapda"
+  },
+  "아끼다_동사-1": {
+    "id": "아끼다_동사-1",
+    "def_ko": "낭비하지 않으려고 조심해 적게 쓰다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "akkida"
+  },
+  "아냐_감탄사-1": {
+    "id": "아냐_감탄사-1",
+    "def_ko": "상대의 말이나 생각을 부드럽게 부정할 때 쓰는 말",
+    "related_vocab": [
+      "언어",
+      "서술",
+      "아뇨",
+      "아니야",
+      "아니요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "anya"
+  },
+  "아뇨_감탄사-1": {
+    "id": "아뇨_감탄사-1",
+    "def_ko": "정중하게 부정할 때 쓰는 말",
+    "related_vocab": [
+      "거부",
+      "거절",
+      "아냐",
+      "아니야",
+      "아니요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "anyo"
+  },
+  "아니야_감탄사-1": {
+    "id": "아니야_감탄사-1",
+    "def_ko": "친근하게 부정하거나 달랐음을 말할 때 쓰는 말",
+    "related_vocab": [
+      "거부",
+      "거절",
+      "아냐",
+      "아뇨",
+      "아니요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aniya"
+  },
+  "아니요_감탄사-1": {
+    "id": "아니요_감탄사-1",
+    "def_ko": "정중히 아니라고 대답할 때 쓰는 말",
+    "related_vocab": [
+      "거부",
+      "거절",
+      "아냐",
+      "아뇨",
+      "아니야"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aniyo"
+  },
+  "아름다움_일반명사-1": {
+    "id": "아름다움_일반명사-1",
+    "def_ko": "보고 느끼기에 곱고 좋게 느껴지는 성질",
+    "related_vocab": [
+      "미관",
+      "미모",
+      "아름답다",
+      "특성",
+      "화려하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "areumdaum"
+  },
+  "아름답다_형용사-1": {
+    "id": "아름답다_형용사-1",
+    "def_ko": "모습이나 마음이 곱고 좋아서 감탄을 자아내다",
+    "related_vocab": [
+      "아름다움",
+      "예쁘다",
+      "우아하다",
+      "화려하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "areumdapda"
+  },
+  "아마_일반부사-1": {
+    "id": "아마_일반부사-1",
+    "def_ko": "그럴 가능성이 꽤 있다고 짐작하여",
+    "related_vocab": [
+      "글쎄",
+      "글쎄요",
+      "유력",
+      "아무래도",
+      "암시"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ama"
+  },
+  "아마도_일반부사-1": {
+    "id": "아마도_일반부사-1",
+    "def_ko": "확실하지 않지만 그럴 것이라고 더 조심스레 짐작하여",
+    "related_vocab": [
+      "글쎄",
+      "글쎄요",
+      "설마",
+      "아무래도",
+      "암시"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "amado"
+  },
+  "아무래도_일반부사-1": {
+    "id": "아무래도_일반부사-1",
+    "def_ko": "여러모로 생각해 보아도 결국은",
+    "related_vocab": [
+      "아마",
+      "아마도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "amuraedo"
+  },
+  "아무렇다_형용사-1": {
+    "id": "아무렇다_형용사-1",
+    "def_ko": "특별히 문제 될 만한 상태이다",
+    "related_vocab": [
+      "골치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "amureota"
+  },
+  "아부_일반명사-1": {
+    "id": "아부_일반명사-1",
+    "def_ko": "남의 마음에 들기 위해 지나치게 맞추고 비위를 맞춤",
+    "related_vocab": [
+      "굴다",
+      "굽실거리다",
+      "눈치",
+      "올림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "abu"
+  },
+  "아쉬움_일반명사-1": {
+    "id": "아쉬움_일반명사-1",
+    "def_ko": "충분하지 못해 더 있으면 하는 아까운 마음",
+    "related_vocab": [
+      "설움",
+      "아쉽다",
+      "안타깝다",
+      "타령",
+      "후회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aswi:um"
+  },
+  "아쉽다_형용사-1": {
+    "id": "아쉽다_형용사-1",
+    "def_ko": "마음에 차지 않아 더 있었으면 하고 아까운 느낌이 있다",
+    "related_vocab": [
+      "서운하다",
+      "섭섭하다",
+      "아쉬움"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aswipda"
+  },
+  "아슬아슬_일반부사-1": {
+    "id": "아슬아슬_일반부사-1",
+    "def_ko": "조금만 잘못되면 큰일이 날 듯 위험한 모양",
+    "related_vocab": [
+      "두려움",
+      "무서움",
+      "철렁"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aseulaseul"
+  },
+  "아이디어_일반명사-1": {
+    "id": "아이디어_일반명사-1",
+    "def_ko": "어떤 일에 대한 새로운 생각이나 착상",
+    "related_vocab": [
+      "고안",
+      "구상",
+      "관념",
+      "비약",
+      "영감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aidieo"
+  },
+  "아프다_형용사-1": {
+    "id": "아프다_형용사-1",
+    "def_ko": "몸이나 마음이 상해서 괴로운 느낌이 있다",
+    "related_vocab": [
+      "불편",
+      "아픔",
+      "피로",
+      "차마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "apeuda"
+  },
+  "아픔_일반명사-1": {
+    "id": "아픔_일반명사-1",
+    "def_ko": "몸이나 마음이 아픈 느낌",
+    "related_vocab": [
+      "슬픔",
+      "아프다",
+      "피로감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "apeum"
+  },
+  "악_일반명사-1": {
+    "id": "악_일반명사-1",
+    "def_ko": "옳지 못하고 해를 끼치는 것",
+    "related_vocab": [
+      "부정",
+      "잘못",
+      "틀리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ak"
+  },
+  "악몽_일반명사-1": {
+    "id": "악몽_일반명사-1",
+    "def_ko": "무섭거나 기분 나쁜 꿈",
+    "related_vocab": [
+      "불쾌감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "악습_일반명사-1": {
+    "id": "악습_일반명사-1",
+    "def_ko": "오랫동안 이어져 온 좋지 못한 습관이나 풍습",
+    "related_vocab": [
+      "편견"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "akseup"
+  },
+  "악용_일반명사-1": {
+    "id": "악용_일반명사-1",
+    "def_ko": "좋은 것을 나쁜 데에 이용함",
+    "related_vocab": [
+      "비리",
+      "빗대다",
+      "해롭다",
+      "해치다",
+      "지양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "akyong"
+  },
+  "악의_일반명사-1": {
+    "id": "악의_일반명사-1",
+    "def_ko": "남을 해치거나 괴롭히려는 마음",
+    "related_vocab": [
+      "비웃다",
+      "시기",
+      "적개심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "agui"
+  },
+  "악취_일반명사-1": {
+    "id": "악취_일반명사-1",
+    "def_ko": "코를 찌를 만큼 고약한 냄새",
+    "related_vocab": [
+      "독하다",
+      "무취",
+      "풍기다",
+      "향기",
+      "후각"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "akchwi"
+  },
+  "안녕_일반명사-1": {
+    "id": "안녕_일반명사-1",
+    "def_ko": "아픈 데나 탈이 없이 평안한 상태",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "annyeong"
+  },
+  "안다_동사-1": {
+    "id": "안다_동사-1",
+    "def_ko": "어떤 사실이나 내용을 기억하여 이해하고 있다",
+    "related_vocab": [
+      "담아내다",
+      "이해",
+      "인식",
+      "인지",
+      "모르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "anda"
+  },
+  "안도_일반명사-1": {
+    "id": "안도_일반명사-1",
+    "def_ko": "걱정이 사라져 마음이 놓임",
+    "related_vocab": [
+      "든든하다",
+      "위안",
+      "평온",
+      "감사",
+      "편안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ando"
+  },
+  "안도감_일반명사-1": {
+    "id": "안도감_일반명사-1",
+    "def_ko": "위험이 지나가 마음이 놓이는 느낌",
+    "related_vocab": [
+      "위안",
+      "흡족",
+      "희소식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "andogam"
+  },
+  "안되다_형용사-1": {
+    "id": "안되다_형용사-1",
+    "def_ko": "불쌍하고 가엾어서 마음이 좋지 않다",
+    "related_vocab": [
+      "불쌍하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "안락_일반명사-1": {
+    "id": "안락_일반명사-1",
+    "def_ko": "몸과 마음이 편안하고 즐거운 상태",
+    "related_vocab": [
+      "상쾌하다",
+      "편안",
+      "편하다",
+      "행복",
+      "누리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "allak"
+  },
+  "안목_일반명사-1": {
+    "id": "안목_일반명사-1",
+    "def_ko": "사물의 가치나 옳고 그름을 알아보는 능력",
+    "related_vocab": [
+      "분별",
+      "폄하"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "anmok"
+  },
+  "안색_일반명사-1": {
+    "id": "안색_일반명사-1",
+    "def_ko": "얼굴에 나타나는 표정이나 빛깔",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "안심_일반명사-1": {
+    "id": "안심_일반명사-1",
+    "def_ko": "걱정이 없어져 마음이 놓임",
+    "related_vocab": [
+      "고맙다",
+      "복",
+      "평온",
+      "편안",
+      "편하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ansim"
+  },
+  "안쓰러워하다_동사-1": {
+    "id": "안쓰러워하다_동사-1",
+    "def_ko": "불쌍하고 가엾게 여기는 마음을 가지다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ansseureowo hada"
+  },
+  "안쓰럽다_형용사-1": {
+    "id": "안쓰럽다_형용사-1",
+    "def_ko": "어려운 처지가 가엾고 불쌍하게 느껴지다",
+    "related_vocab": [
+      "비참"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ansseureopda"
+  },
+  "안정감_일반명사-1": {
+    "id": "안정감_일반명사-1",
+    "def_ko": "흔들리지 않고 든든하다고 느끼는 마음",
+    "related_vocab": [
+      "신뢰",
+      "신뢰감",
+      "신용",
+      "친근감",
+      "친숙"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "anjeonggam"
+  },
+  "안타깝다_형용사-1": {
+    "id": "안타깝다_형용사-1",
+    "def_ko": "도와주거나 더 잘되게 해 주지 못해 마음이 아프고 답답하다",
+    "related_vocab": [
+      "아쉬움",
+      "아깝다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "antakapda"
+  },
+  "알다_동사-1": {
+    "id": "알다_동사-1",
+    "def_ko": "사실이나 내용을 이해하고 기억하고 있다",
+    "related_vocab": [
+      "이해",
+      "모르다",
+      "이해도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "alda"
+  },
+  "알뜰_일반명사-1": {
+    "id": "알뜰_일반명사-1",
+    "def_ko": "돈이나 물건을 아껴서 잘 쓰는 성질",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "검약_일반명사-1",
+          "target_term": "검약",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H05"
+        },
+        {
+          "target_id": "절약_일반명사-1",
+          "target_term": "절약",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "alteul"
+  },
+  "알맞다_형용사-1": {
+    "id": "알맞다_형용사-1",
+    "def_ko": "양이나 정도, 조건 등이 필요에 꼭 들어맞다",
+    "related_vocab": [
+      "적당하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "almatda"
+  },
+  "알아내다_동사-1": {
+    "id": "알아내다_동사-1",
+    "def_ko": "숨겨진 사실이나 이유를 찾아서 알게 되다",
+    "related_vocab": [
+      "잡아내다",
+      "파악",
+      "판독",
+      "알아보다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "araneda"
+  },
+  "알아듣다_동사-1": {
+    "id": "알아듣다_동사-1",
+    "def_ko": "말이나 소리를 듣고 그 뜻을 이해하다",
+    "related_vocab": [
+      "판독"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aradeutda"
+  },
+  "알아보다_동사-1": {
+    "id": "알아보다_동사-1",
+    "def_ko": "보고 누구인지 또는 무엇인지 알아채다",
+    "related_vocab": [
+      "눈",
+      "몰라보다",
+      "알아차리다",
+      "직시",
+      "판단력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "arabo:da"
+  },
+  "알아보다_동사-2": {
+    "id": "알아보다_동사-2",
+    "def_ko": "필요한 내용을 살펴보고 조사하다",
+    "related_vocab": [
+      "잡아내다",
+      "관찰력",
+      "알아내다",
+      "파악"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "arabo:da"
+  },
+  "알아차리다_동사-1": {
+    "id": "알아차리다_동사-1",
+    "def_ko": "상황이나 속뜻을 갑자기 깨닫다",
+    "related_vocab": [
+      "감각",
+      "알아보다",
+      "잡아내다",
+      "직시",
+      "개념"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aracharida"
+  },
+  "알차다_형용사-1": {
+    "id": "알차다_형용사-1",
+    "def_ko": "속이 꽉 차 있거나 내용이 실속이 있다",
+    "related_vocab": [
+      "유리하다",
+      "이롭다",
+      "충실"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "암시_일반명사-1": {
+    "id": "암시_일반명사-1",
+    "def_ko": "돌려 말하거나 간접적으로 뜻을 드러내 보임",
+    "related_vocab": [
+      "점치다",
+      "경향",
+      "아마",
+      "아마도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "amsi"
+  },
+  "암울_일반명사-1": {
+    "id": "암울_일반명사-1",
+    "def_ko": "앞날이 밝지 않고 답답한 상태",
+    "related_vocab": [
+      "걱정",
+      "고민",
+      "괴롭다",
+      "답답하다",
+      "불안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "amul"
+  },
+  "애_일반명사-2": {
+    "id": "애_일반명사-2",
+    "def_ko": "사랑하고 아끼는 마음",
+    "related_vocab": [
+      "모성애",
+      "사랑",
+      "애정",
+      "연민",
+      "정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ae"
+  },
+  "애쓰다_동사-1": {
+    "id": "애쓰다_동사-1",
+    "def_ko": "어떤 일을 잘하려고 힘을 많이 들이다",
+    "related_vocab": [
+      "견디다",
+      "몰두",
+      "신경",
+      "억제",
+      "치중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aesseuda"
+  },
+  "애용_일반명사-1": {
+    "id": "애용_일반명사-1",
+    "def_ko": "좋아하여 자주 씀",
+    "related_vocab": [
+      "기호",
+      "사랑",
+      "선호",
+      "애정",
+      "친숙"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aeyong"
+  },
+  "애정_일반명사-1": {
+    "id": "애정_일반명사-1",
+    "def_ko": "가까운 사람이나 대상에게 느끼는 깊은 사랑",
+    "related_vocab": [
+      "모성애",
+      "애",
+      "애용",
+      "인정",
+      "호감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "aejeong"
+  },
+  "야경_일반명사-1": {
+    "id": "야경_일반명사-1",
+    "def_ko": "밤에 보는 경치",
+    "related_vocab": [
+      "깜박이다",
+      "생생히",
+      "경관",
+      "전망"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yagyeong"
+  },
+  "야단_일반명사-1": {
+    "id": "야단_일반명사-1",
+    "def_ko": "크게 떠들썩하거나 혼내는 소동",
+    "related_vocab": [
+      "노여움",
+      "분노",
+      "큰코다치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yadan"
+  },
+  "야심_일반명사-1": {
+    "id": "야심_일반명사-1",
+    "def_ko": "크게 이루고자 하는 강한 욕심과 목표",
+    "related_vocab": [
+      "꿈",
+      "열정",
+      "포부",
+      "의욕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yasim"
+  },
+  "야옹_일반부사-1": {
+    "id": "야옹_일반부사-1",
+    "def_ko": "고양이가 우는 소리",
+    "related_vocab": [
+      "청각",
+      "들려오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "야하다_형용사-1": {
+    "id": "야하다_형용사-1",
+    "def_ko": "성적인 호기심을 자극하는 느낌이 있다",
+    "related_vocab": [
+      "멋",
+      "색다르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "야호_감탄사-1": {
+    "id": "야호_감탄사-1",
+    "def_ko": "기쁘거나 신날 때 크게 외치는 소리",
+    "related_vocab": [
+      "웃음",
+      "감탄",
+      "열광",
+      "환호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "얼씨구_감탄사-1",
+          "target_term": "얼씨구",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "놀람과 공포",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "yaho"
+  },
+  "약점_일반명사-1": {
+    "id": "약점_일반명사-1",
+    "def_ko": "모자라거나 쉽게 공격당하기 쉬운 부분",
+    "related_vocab": [
+      "나무라다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yakjeom"
+  },
+  "약하다_형용사-1": {
+    "id": "약하다_형용사-1",
+    "def_ko": "힘이나 세기가 강하지 않다",
+    "related_vocab": [
+      "가볍다",
+      "부드럽다",
+      "떨리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "싱겁다_형용사-1",
+          "target_term": "싱겁다",
+          "target_system": "마음과 표현",
+          "target_root": "감각과 묘사",
+          "target_category": "미각과 후각",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "yakada"
+  },
+  "얇다_형용사-1": {
+    "id": "얇다_형용사-1",
+    "def_ko": "두께가 두껍지 않고 가늘다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yalbda"
+  },
+  "얌전하다_형용사-1": {
+    "id": "얌전하다_형용사-1",
+    "def_ko": "성격이나 태도가 조용하고 차분하다",
+    "related_vocab": [
+      "내성적",
+      "느긋하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "양심_일반명사-1": {
+    "id": "양심_일반명사-1",
+    "def_ko": "자신이 스스로 세운 옳고 그름을 판단하는 기준에 따라 바른 말과 행동을 하려는 마음",
+    "related_vocab": [
+      "믿음",
+      "분별",
+      "판단",
+      "자율",
+      "도덕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "양질_일반명사-1": {
+    "id": "양질_일반명사-1",
+    "def_ko": "질이 좋음",
+    "related_vocab": [
+      "완벽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yangjil"
+  },
+  "양해_일반명사-1": {
+    "id": "양해_일반명사-1",
+    "def_ko": "사정을 이해하고 허락함",
+    "related_vocab": [
+      "간주",
+      "교섭",
+      "권하다",
+      "호소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yanghae"
+  },
+  "양호_일반명사-1": {
+    "id": "양호_일반명사-1",
+    "def_ko": "상태나 조건이 좋은 편임",
+    "related_vocab": [
+      "진보",
+      "이롭다",
+      "최적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yangho"
+  },
+  "얕다_형용사-1": {
+    "id": "얕다_형용사-1",
+    "def_ko": "위에서 아래까지의 거리가 짧다",
+    "related_vocab": [
+      "길다",
+      "깊다",
+      "깊숙이",
+      "깊어지다",
+      "높다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yatda"
+  },
+  "얘기_일반명사-1": {
+    "id": "얘기_일반명사-1",
+    "def_ko": "어떤 내용을 말로 주고받는 것",
+    "related_vocab": [
+      "선언서",
+      "거론",
+      "비유",
+      "서술",
+      "선서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yaegi"
+  },
+  "어기다_동사-1": {
+    "id": "어기다_동사-1",
+    "def_ko": "지켜야 할 약속이나 규칙을 따르지 않다",
+    "related_vocab": [
+      "남용",
+      "돌아서다",
+      "무시",
+      "의리",
+      "저항"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eogida"
+  },
+  "어둠_일반명사-1": {
+    "id": "어둠_일반명사-1",
+    "def_ko": "빛이 없어 캄캄한 상태",
+    "related_vocab": [
+      "밝다",
+      "비치다",
+      "환하다",
+      "역광",
+      "캄캄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eodum"
+  },
+  "어둡다_형용사-1": {
+    "id": "어둡다_형용사-1",
+    "def_ko": "빛이 적어 환하지 않다",
+    "related_vocab": [
+      "밝다",
+      "비치다",
+      "비다",
+      "뿌옇다",
+      "캄캄하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eodupda"
+  },
+  "어려움_일반명사-1": {
+    "id": "어려움_일반명사-1",
+    "def_ko": "하기 힘든 일에서 느끼는 문제나 장애",
+    "related_vocab": [
+      "당면",
+      "만만하다",
+      "복잡하다",
+      "쉽다",
+      "힘들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoryeoum"
+  },
+  "어렵다_형용사-1": {
+    "id": "어렵다_형용사-1",
+    "def_ko": "하기가 힘들거나 복잡하다",
+    "related_vocab": [
+      "당면",
+      "만만하다",
+      "면밀히",
+      "힘들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoryeopda"
+  },
+  "어리석다_형용사-1": {
+    "id": "어리석다_형용사-1",
+    "def_ko": "생각이 깊지 못하고 판단이 모자라다",
+    "related_vocab": [
+      "겉핥다",
+      "똑똑하다",
+      "맹목",
+      "몰라보다",
+      "무지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoriseokda"
+  },
+  "어색하다_형용사-1": {
+    "id": "어색하다_형용사-1",
+    "def_ko": "잘 모르거나 별로 만나고 싶지 않았던 사람과 마주 대하여 불편하고 자연스럽지 못하다",
+    "related_vocab": [
+      "난처하다",
+      "무안",
+      "민망하다",
+      "부끄럽다",
+      "수줍다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "어설프다_형용사-1": {
+    "id": "어설프다_형용사-1",
+    "def_ko": "능숙하지 못해 서투르다",
+    "related_vocab": [
+      "서투르다",
+      "서툴다",
+      "역부족",
+      "익숙하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoseolpeuda"
+  },
+  "어이없다_형용사-1": {
+    "id": "어이없다_형용사-1",
+    "def_ko": "기막혀 말이 나오지 않는다",
+    "related_vocab": [
+      "기막히다",
+      "놀라다",
+      "당황",
+      "의외",
+      "의외로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoieopda"
+  },
+  "어조_일반명사-1": {
+    "id": "어조_일반명사-1",
+    "def_ko": "말하는 사람의 느낌이나 태도",
+    "related_vocab": [
+      "어투"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eojo"
+  },
+  "어쩐지_일반부사-1": {
+    "id": "어쩐지_일반부사-1",
+    "def_ko": "어떤 이유인지는 모르겠지만",
+    "related_vocab": [
+      "궁금증",
+      "궁금하다",
+      "동기",
+      "모르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "어투_일반명사-1": {
+    "id": "어투_일반명사-1",
+    "def_ko": "말하는 방식이나 태도",
+    "related_vocab": [
+      "내뱉다",
+      "높임말",
+      "어조"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eotu"
+  },
+  "어휘력_일반명사-1": {
+    "id": "어휘력_일반명사-1",
+    "def_ko": "말을 이해하거나 사용하는 능력",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eohwiryek"
+  },
+  "억양_일반명사-1": {
+    "id": "억양_일반명사-1",
+    "def_ko": "말소리의 높낮이를 변하게 함. 또는 그런 변화",
+    "related_vocab": [
+      "리듬",
+      "리듬감",
+      "말",
+      "말투",
+      "유창하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "억울하다_형용사-1": {
+    "id": "억울하다_형용사-1",
+    "def_ko": "잘못한 것도 없이 피해를 입어 속이 상하고 답답하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "억제_일반명사-1": {
+    "id": "억제_일반명사-1",
+    "def_ko": "어떤 행동이나 감정을 누르고 막음",
+    "related_vocab": [
+      "걷잡다",
+      "애쓰다",
+      "의식",
+      "자제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eogje"
+  },
+  "억지로_일반부사-1": {
+    "id": "억지로_일반부사-1",
+    "def_ko": "마음에 내키지 않지만 힘으로",
+    "related_vocab": [
+      "꺼리다",
+      "맘껏"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eokj iro"
+  },
+  "언어_일반명사-1": {
+    "id": "언어_일반명사-1",
+    "def_ko": "생각을 말이나 글로 나타내는 체계",
+    "related_vocab": [
+      "아냐",
+      "칭찬"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoneo"
+  },
+  "언어생활_일반명사-1": {
+    "id": "언어생활_일반명사-1",
+    "def_ko": "일상에서 이루어지는 말의 사용 방식",
+    "related_vocab": [
+      "감언이설",
+      "권하다",
+      "나무라다",
+      "논평"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eoneosaenghwal"
+  },
+  "언쟁_일반명사-1": {
+    "id": "언쟁_일반명사-1",
+    "def_ko": "말로 서로 다투는 일",
+    "related_vocab": [
+      "갈등",
+      "노여움",
+      "불평",
+      "적대감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eonjaeng"
+  },
+  "얼룩_일반명사-1": {
+    "id": "얼룩_일반명사-1",
+    "def_ko": "더러움이 묻어 난 자국",
+    "related_vocab": [
+      "깨끗이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eolluk"
+  },
+  "얼마나_일반부사-1": {
+    "id": "얼마나_일반부사-1",
+    "def_ko": "정도를 물을 때 쓰는 말",
+    "related_vocab": [
+      "선호도",
+      "쯤",
+      "인지도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eolmana"
+  },
+  "얼씨구_감탄사-1": {
+    "id": "얼씨구_감탄사-1",
+    "def_ko": "흥을 돋우거나 놀랄 때 내는 소리",
+    "related_vocab": [
+      "비명",
+      "에그머니나"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "야호_감탄사-1",
+          "target_term": "야호",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "긍정적 감정",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "eolssigu"
+  },
+  "얼핏_일반부사-1": {
+    "id": "얼핏_일반부사-1",
+    "def_ko": "잠깐 보이거나 떠오르는 모양",
+    "related_vocab": [
+      "반짝",
+      "반짝반짝",
+      "휙",
+      "흘깃"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eolpit"
+  },
+  "얽매이다_동사-1": {
+    "id": "얽매이다_동사-1",
+    "def_ko": "속박되어 자유롭지 못하다",
+    "related_vocab": [
+      "갈팡질팡"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eongmaeida"
+  },
+  "엄격하다_형용사-1": {
+    "id": "엄격하다_형용사-1",
+    "def_ko": "말, 태도, 규칙 등이 매우 엄하고 철저하다",
+    "related_vocab": [
+      "드세다",
+      "잔인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "엄청_일반부사-1": {
+    "id": "엄청_일반부사-1",
+    "def_ko": "정도가 매우 큼",
+    "related_vocab": [
+      "극히",
+      "마구",
+      "막심",
+      "몹시",
+      "무척"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eomcheong"
+  },
+  "엄청나다_형용사-1": {
+    "id": "엄청나다_형용사-1",
+    "def_ko": "정도가 매우 크다",
+    "related_vocab": [
+      "막심",
+      "무척",
+      "심각성",
+      "거세다",
+      "과언"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eomcheongnada"
+  },
+  "엉금엉금_일반부사-1": {
+    "id": "엉금엉금_일반부사-1",
+    "def_ko": "몸을 바짝 붙이고 아주 천천히 기어가는 모양",
+    "related_vocab": [
+      "몸동작",
+      "비틀거리다",
+      "줄줄이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eonggeumeonggeum"
+  },
+  "엉뚱하다_형용사-1": {
+    "id": "엉뚱하다_형용사-1",
+    "def_ko": "상식적으로 생각하는 것과 전혀 다르다",
+    "related_vocab": [
+      "독창",
+      "바보",
+      "창의",
+      "상식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "엉망_일반명사-1": {
+    "id": "엉망_일반명사-1",
+    "def_ko": "정리가 안 되어 뒤죽박죽이 된 상태",
+    "related_vocab": [
+      "지저분하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eongmang"
+  },
+  "엉터리_일반명사-1": {
+    "id": "엉터리_일반명사-1",
+    "def_ko": "엉뚱한 말이나 행동. 또는 그런 말이나 행동을 하는 사람",
+    "related_vocab": [
+      "못되다",
+      "변덕스럽다",
+      "장난",
+      "치사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "에그머니나_감탄사-1": {
+    "id": "에그머니나_감탄사-1",
+    "def_ko": "크게 놀라거나 당황할 때 내는 소리",
+    "related_vocab": [
+      "비명",
+      "얼씨구",
+      "당황하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "egeumeonina"
+  },
+  "엔젤_일반명사-1": {
+    "id": "엔젤_일반명사-1",
+    "def_ko": "천사처럼 착한 사람을 비유적으로 이르는 말",
+    "related_vocab": [
+      "다정",
+      "매력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "enjel"
+  },
+  "여기다_동사-1": {
+    "id": "여기다_동사-1",
+    "def_ko": "어떤 대상을 그렇게 생각하다",
+    "related_vocab": [
+      "간주",
+      "관점",
+      "믿다",
+      "삼다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeogida"
+  },
+  "여느_관형사-1": {
+    "id": "여느_관형사-1",
+    "def_ko": "보통의, 특별하지 않은",
+    "related_vocab": [
+      "간소하다",
+      "균일",
+      "참모습",
+      "소소하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeoneu"
+  },
+  "여론_일반명사-1": {
+    "id": "여론_일반명사-1",
+    "def_ko": "많은 사람의 생각이나 의견",
+    "related_vocab": [
+      "입장",
+      "동의",
+      "반론",
+      "공론"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeoron"
+  },
+  "여리다_형용사-1": {
+    "id": "여리다_형용사-1",
+    "def_ko": "힘이 약하고 쉽게 상하기 쉽다",
+    "related_vocab": [
+      "세다",
+      "취약",
+      "취약점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeorida"
+  },
+  "여유롭다_형용사-1": {
+    "id": "여유롭다_형용사-1",
+    "def_ko": "시간이나 공간, 돈 등이 넉넉하여 남음이 있다",
+    "related_vocab": [
+      "거대",
+      "길다",
+      "빽빽하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "여쭈다_동사-1": {
+    "id": "여쭈다_동사-1",
+    "def_ko": "윗사람에게 묻거나 말하다",
+    "related_vocab": [
+      "건의"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeojjuda"
+  },
+  "역광_일반명사-1": {
+    "id": "역광_일반명사-1",
+    "def_ko": "빛이 카메라 쪽에서 비치는 상태의 빛",
+    "related_vocab": [
+      "눈부시다",
+      "밝다",
+      "비치다",
+      "어둠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeokgwang"
+  },
+  "역량_일반명사-1": {
+    "id": "역량_일반명사-1",
+    "def_ko": "어떤 일을 해낼 수 있는 능력",
+    "related_vocab": [
+      "경쟁력",
+      "그릇",
+      "유능",
+      "재주",
+      "역부족"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeongnyang"
+  },
+  "역부족_일반명사-1": {
+    "id": "역부족_일반명사-1",
+    "def_ko": "힘이나 능력이 모자람",
+    "related_vocab": [
+      "어설프다",
+      "역량"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeokbujok"
+  },
+  "역사관_일반명사-1": {
+    "id": "역사관_일반명사-1",
+    "def_ko": "역사를 바라보는 생각이나 태도",
+    "related_vocab": [
+      "객관적",
+      "결혼관",
+      "입장",
+      "사관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeoksagwan"
+  },
+  "연기력_일반명사-1": {
+    "id": "연기력_일반명사-1",
+    "def_ko": "연기를 해내는 실력",
+    "related_vocab": [
+      "발휘"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeongiryeok"
+  },
+  "연꽃무늬_일반명사-1": {
+    "id": "연꽃무늬_일반명사-1",
+    "def_ko": "연꽃 모양을 본뜬 무늬",
+    "related_vocab": [
+      "문양",
+      "줄무늬"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeonkkotmunui"
+  },
+  "연민_일반명사-1": {
+    "id": "연민_일반명사-1",
+    "def_ko": "불쌍하게 여기는 마음",
+    "related_vocab": [
+      "공감",
+      "동정심",
+      "애"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동정_일반명사-1",
+          "target_term": "동정",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "심리 상태와 의지",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "yeonmin"
+  },
+  "연상_일반명사-1": {
+    "id": "연상_일반명사-1",
+    "def_ko": "어떤 것을 보고 다른 것을 떠올리는 일",
+    "related_vocab": [
+      "자아내다",
+      "상상력",
+      "관념"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "수수께끼_일반명사-1",
+          "target_term": "수수께끼",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "게임과 놀이",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "yeonsang"
+  },
+  "열광_일반명사-1": {
+    "id": "열광_일반명사-1",
+    "def_ko": "아주 크게 좋아하여 흥분하는 것",
+    "related_vocab": [
+      "야호",
+      "감격",
+      "감탄",
+      "신나다",
+      "환호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeolgwang"
+  },
+  "열렬히_일반부사-1": {
+    "id": "열렬히_일반부사-1",
+    "def_ko": "아주 뜨거운 마음으로",
+    "related_vocab": [
+      "기꺼이",
+      "반기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeolryeolhi"
+  },
+  "열성_일반명사-1": {
+    "id": "열성_일반명사-1",
+    "def_ko": "어떤 일에 매우 깊이 빠져 있는 태도",
+    "related_vocab": [
+      "기울이다",
+      "활발히",
+      "정신"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "적극적_일반명사-1",
+          "target_term": "적극적",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "yeolseong"
+  },
+  "열심히_일반부사-1": {
+    "id": "열심히_일반부사-1",
+    "def_ko": "정성을 다해 힘을 기울여",
+    "related_vocab": [
+      "매달리다",
+      "소홀히",
+      "적극"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeolsimhi"
+  },
+  "열의_일반명사-1": {
+    "id": "열의_일반명사-1",
+    "def_ko": "어떤 일을 하려는 뜨거운 마음",
+    "related_vocab": [
+      "열정",
+      "의욕",
+      "동기",
+      "수고",
+      "힘쓰다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeoui"
+  },
+  "열정_일반명사-1": {
+    "id": "열정_일반명사-1",
+    "def_ko": "어떤 일에 뜨거운 애정을 가지고 열심히 하는 마음",
+    "related_vocab": [
+      "각오",
+      "도취",
+      "뜻",
+      "야심",
+      "열의"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "열중_일반명사-1": {
+    "id": "열중_일반명사-1",
+    "def_ko": "한 가지 일에 온 마음을 쏟음",
+    "related_vocab": [
+      "풀이",
+      "신경"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeoljung"
+  },
+  "염두_일반명사-1": {
+    "id": "염두_일반명사-1",
+    "def_ko": "마음속에 두고 있는 생각",
+    "related_vocab": [
+      "유의",
+      "의문",
+      "의중",
+      "의향"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeomdu"
+  },
+  "염려_일반명사-1": {
+    "id": "염려_일반명사-1",
+    "def_ko": "앞일에 대해 걱정함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeomnyeo"
+  },
+  "염원_일반명사-1": {
+    "id": "염원_일반명사-1",
+    "def_ko": "간절히 바라는 마음",
+    "related_vocab": [
+      "기대",
+      "기대감",
+      "빌다",
+      "동경"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "희망_일반명사-1",
+          "target_term": "희망",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "긍정적 감정",
+          "hook_id": "H16"
+        }
+      ]
+    },
+    "phonetic_romanization": "yeomwon"
+  },
+  "엿보다_동사-1": {
+    "id": "엿보다_동사-1",
+    "def_ko": "남이 모르게 몰래 보다",
+    "related_vocab": [
+      "살그머니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeotboda"
+  },
+  "영감_일반명사-1": {
+    "id": "영감_일반명사-1",
+    "def_ko": "새로운 생각이 떠오르는 자극",
+    "related_vocab": [
+      "아이디어",
+      "자아내다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeonggam"
+  },
+  "영광_일반명사-1": {
+    "id": "영광_일반명사-1",
+    "def_ko": "명예롭고 빛나는 일",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeonggwang"
+  },
+  "영리하다_형용사-1": {
+    "id": "영리하다_형용사-1",
+    "def_ko": "눈치가 빠르고 똑똑하다",
+    "related_vocab": [
+      "눈썰미",
+      "지혜",
+      "지혜롭다",
+      "천재",
+      "현명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "영혼_일반명사-1": {
+    "id": "영혼_일반명사-1",
+    "def_ko": "죽은 사람의 몸에서 빠져나온 넋",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "예감_일반명사-1": {
+    "id": "예감_일반명사-1",
+    "def_ko": "무슨 일이 생길 것 같은 느낌",
+    "related_vocab": [
+      "기대감",
+      "기분",
+      "재수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "예고_일반명사-1": {
+    "id": "예고_일반명사-1",
+    "def_ko": "앞으로 있을 일을 미리 알림",
+    "related_vocab": [
+      "선언"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "예정_일반명사-1",
+          "target_term": "예정",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "yego"
+  },
+  "예쁘다_형용사-1": {
+    "id": "예쁘다_형용사-1",
+    "def_ko": "모양이나 모습이 곱고 보기 좋다",
+    "related_vocab": [
+      "멋",
+      "변신",
+      "선명",
+      "아름답다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeppeuda"
+  },
+  "예상_일반명사-1": {
+    "id": "예상_일반명사-1",
+    "def_ko": "앞으로 어떻게 될지 미리 짐작함",
+    "related_vocab": [
+      "기대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "예정_일반명사-1",
+          "target_term": "예정",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "yesang"
+  },
+  "예술관_일반명사-1": {
+    "id": "예술관_일반명사-1",
+    "def_ko": "예술을 어떻게 보느냐 하는 생각",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yesulgwan"
+  },
+  "예의_일반명사-1": {
+    "id": "예의_일반명사-1",
+    "def_ko": "사람 사이에서 지켜야 할 공손한 태도",
+    "related_vocab": [
+      "의리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yeui"
+  },
+  "예절_일반명사-1": {
+    "id": "예절_일반명사-1",
+    "def_ko": "사람 사이에서 지켜야 할 바른 예의",
+    "related_vocab": [
+      "의리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yejeol"
+  },
+  "예측_일반명사-1": {
+    "id": "예측_일반명사-1",
+    "def_ko": "앞으로 일어날 일을 미리 짐작함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yecheuk"
+  },
+  "오순도순_일반부사-1": {
+    "id": "오순도순_일반부사-1",
+    "def_ko": "서로 사이좋게 지내는 모양",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "osundosun"
+  },
+  "오해_일반명사-1": {
+    "id": "오해_일반명사-1",
+    "def_ko": "상대의 말이나 행동을 잘못 이해함",
+    "related_vocab": [
+      "착각"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ohae"
+  },
+  "올려다보다_동사-1": {
+    "id": "올려다보다_동사-1",
+    "def_ko": "고개나 눈을 위로 향해 보다",
+    "related_vocab": [
+      "바라보다",
+      "흘깃"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ollyeodaboda"
+  },
+  "올림_일반명사-1": {
+    "id": "올림_일반명사-1",
+    "def_ko": "편지 끝에 자기 이름 뒤에 붙여 자신을 낮추어 이르는 말",
+    "related_vocab": [
+      "비굴",
+      "아부",
+      "높임말"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ollim"
+  },
+  "올바르다_형용사-1": {
+    "id": "올바르다_형용사-1",
+    "def_ko": "생각이나 행동이 규범에 맞고 바르다",
+    "related_vocab": [
+      "객관적",
+      "공평",
+      "바르다",
+      "옳다",
+      "치우치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "olbareuda"
+  },
+  "옳다_형용사-1": {
+    "id": "옳다_형용사-1",
+    "def_ko": "생각이나 행동이 이치와 규범에 맞다",
+    "related_vocab": [
+      "객관적",
+      "바르다",
+      "올바르다",
+      "치우치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "olta"
+  },
+  "옹호_일반명사-1": {
+    "id": "옹호_일반명사-1",
+    "def_ko": "어떤 사람이나 의견을 편들어 지켜 줌",
+    "related_vocab": [
+      "동조",
+      "위하다",
+      "인정",
+      "지지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ongho"
+  },
+  "완벽_일반명사-1": {
+    "id": "완벽_일반명사-1",
+    "def_ko": "흠이나 부족함이 없이 아주 좋음",
+    "related_vocab": [
+      "충실히",
+      "대단하다",
+      "양질",
+      "원활",
+      "적절하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wanbyeok"
+  },
+  "왈칵_일반부사-1": {
+    "id": "왈칵_일반부사-1",
+    "def_ko": "액체나 감정이 한꺼번에 치밀어 오르는 모양",
+    "related_vocab": [
+      "거품",
+      "번지다",
+      "활짝",
+      "흘리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "walkak"
+  },
+  "왜곡_일반명사-1": {
+    "id": "왜곡_일반명사-1",
+    "def_ko": "사실을 바르게 전하지 않고 비뚤게 바꿈",
+    "related_vocab": [
+      "가짜",
+      "객관적",
+      "공평",
+      "조작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "waegok"
+  },
+  "외관_일반명사-1": {
+    "id": "외관_일반명사-1",
+    "def_ko": "겉에서 보이는 생김새",
+    "related_vocab": [
+      "빛",
+      "시야",
+      "입체감",
+      "장엄",
+      "허깨비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oegwan"
+  },
+  "외로움_일반명사-1": {
+    "id": "외로움_일반명사-1",
+    "def_ko": "홀로 있어서 쓸쓸한 느낌",
+    "related_vocab": [
+      "고독",
+      "괴로움",
+      "그리움",
+      "허무"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oeroum"
+  },
+  "외롭다_형용사-1": {
+    "id": "외롭다_형용사-1",
+    "def_ko": "함께할 사람이 없어 쓸쓸하다",
+    "related_vocab": [
+      "고독",
+      "그리움",
+      "심심하다",
+      "쓸쓸하다",
+      "허전하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oeropda"
+  },
+  "외면_일반명사-1": {
+    "id": "외면_일반명사-1",
+    "def_ko": "얼굴의 바깥쪽, 또는 관심을 주지 않고 모르는 체함",
+    "related_vocab": [
+      "내버리다",
+      "돌아서다",
+      "무시",
+      "소홀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oemyeon"
+  },
+  "외모_일반명사-1": {
+    "id": "외모_일반명사-1",
+    "def_ko": "겉으로 드러나는 얼굴과 몸의 모습",
+    "related_vocab": [
+      "면모",
+      "모습",
+      "몸매",
+      "빛",
+      "체형"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oemo"
+  },
+  "외치다_동사-1": {
+    "id": "외치다_동사-1",
+    "def_ko": "큰 소리로 부르거나 말하다",
+    "related_vocab": [
+      "목소리",
+      "시끄럽다",
+      "들려주다",
+      "소리치다",
+      "외침"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oechida"
+  },
+  "외침_일반명사-1": {
+    "id": "외침_일반명사-1",
+    "def_ko": "큰 소리로 외치는 것",
+    "related_vocab": [
+      "소리치다",
+      "외치다",
+      "지르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "oechim"
+  },
+  "요구_일반명사-1": {
+    "id": "요구_일반명사-1",
+    "def_ko": "필요한 것을 달라고 하거나 해 달라고 함",
+    "related_vocab": [
+      "필요",
+      "요청",
+      "호소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yogu"
+  },
+  "요청_일반명사-1": {
+    "id": "요청_일반명사-1",
+    "def_ko": "무엇을 해 달라고 부탁함",
+    "related_vocab": [
+      "요구",
+      "호소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yocheong"
+  },
+  "욕_일반명사-1": {
+    "id": "욕_일반명사-1",
+    "def_ko": "남을 무시하거나 비난하는 상스러운 말",
+    "related_vocab": [
+      "나무라다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "욕구_일반명사-1": {
+    "id": "욕구_일반명사-1",
+    "def_ko": "무엇을 하고 싶어 하거나 가지고 싶어 하는 마음",
+    "related_vocab": [
+      "갈망",
+      "욕망",
+      "욕심",
+      "마음껏",
+      "자존심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yokgu"
+  },
+  "욕망_일반명사-1": {
+    "id": "욕망_일반명사-1",
+    "def_ko": "강하게 바라고 탐내는 마음",
+    "related_vocab": [
+      "갈망",
+      "욕구",
+      "욕심",
+      "이상",
+      "의욕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yokmang"
+  },
+  "욕심_일반명사-1": {
+    "id": "욕심_일반명사-1",
+    "def_ko": "더 많이 가지려는 마음",
+    "related_vocab": [
+      "갈망",
+      "욕구",
+      "욕망",
+      "포부"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yoksim"
+  },
+  "용감하다_형용사-1": {
+    "id": "용감하다_형용사-1",
+    "def_ko": "용기가 있고 씩씩하다",
+    "related_vocab": [
+      "씩씩하다",
+      "활발하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "용기_일반명사-1": {
+    "id": "용기_일반명사-1",
+    "def_ko": "두렵고 힘든 일을 해내려는 굳센 마음",
+    "related_vocab": [
+      "낙천",
+      "독립심",
+      "인내",
+      "인내심",
+      "참을성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yonggi"
+  },
+  "용납_일반명사-1": {
+    "id": "용납_일반명사-1",
+    "def_ko": "마음에 들지 않지만 그냥 받아들임",
+    "related_vocab": [
+      "포용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yongnap"
+  },
+  "용서_일반명사-1": {
+    "id": "용서_일반명사-1",
+    "def_ko": "잘못을 꾸짖지 않고 받아들임",
+    "related_vocab": [
+      "변명",
+      "포용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yongseo"
+  },
+  "우기다_동사-1": {
+    "id": "우기다_동사-1",
+    "def_ko": "억지를 부려 자기의 의견이나 뜻을 고집스럽게 내세우다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "우대_일반명사-1": {
+    "id": "우대_일반명사-1",
+    "def_ko": "남보다 더 잘 대해 줌",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "udae"
+  },
+  "우뚝_일반부사-1": {
+    "id": "우뚝_일반부사-1",
+    "def_ko": "훨씬 높게 솟아 있는 모양",
+    "related_vocab": [
+      "높아지다",
+      "높이",
+      "장엄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uttuk"
+  },
+  "우려_일반명사-1": {
+    "id": "우려_일반명사-1",
+    "def_ko": "앞일을 걱정하고 근심함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uryeo"
+  },
+  "우수_일반명사-1": {
+    "id": "우수_일반명사-1",
+    "def_ko": "다른 것보다 뛰어남",
+    "related_vocab": [
+      "장점",
+      "선진",
+      "이점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "usu"
+  },
+  "우습다_형용사-1": {
+    "id": "우습다_형용사-1",
+    "def_ko": "재미가 있어 웃을 만하다",
+    "related_vocab": [
+      "농담",
+      "재미있다",
+      "재밌다",
+      "해학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "우아하다_형용사-1": {
+    "id": "우아하다_형용사-1",
+    "def_ko": "품위가 있고 아름답다",
+    "related_vocab": [
+      "아름답다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "우연_일반명사-1": {
+    "id": "우연_일반명사-1",
+    "def_ko": "뜻하지 않게 일어나는 일",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uyeon"
+  },
+  "우연히_일반부사-1": {
+    "id": "우연히_일반부사-1",
+    "def_ko": "생각하지 않은 때에 뜻밖에",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uyeonhi"
+  },
+  "우열_일반명사-1": {
+    "id": "우열_일반명사-1",
+    "def_ko": "뛰어남과 못함의 차이",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uyeol"
+  },
+  "우울_일반명사-1": {
+    "id": "우울_일반명사-1",
+    "def_ko": "마음이 몹시 가라앉아 즐겁지 않은 상태",
+    "related_vocab": [
+      "슬픔",
+      "쓸쓸하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uul"
+  },
+  "우윳_일반명사-1": {
+    "id": "우윳_일반명사-1",
+    "def_ko": "우윳빛처럼 희고 부드러운 느낌을 이르는 말",
+    "related_vocab": [
+      "은백색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uyut"
+  },
+  "운_일반명사-1": {
+    "id": "운_일반명사-1",
+    "def_ko": "사람이 어찌할 수 없는 좋고 나쁜 일의 기회",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "un"
+  },
+  "운명_일반명사-1": {
+    "id": "운명_일반명사-1",
+    "def_ko": "인간과 세상 모든 것에 영향을 미치는 초인적이고 필연적인 힘. 또는 그 힘에 의해 이미 정해진 목숨이나 상태",
+    "related_vocab": [
+      "불가피하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "울다_동사-1": {
+    "id": "울다_동사-1",
+    "def_ko": "슬프거나 아파서 눈물을 흘리다",
+    "related_vocab": [
+      "울음"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ulda"
+  },
+  "울먹이다_동사-1": {
+    "id": "울먹이다_동사-1",
+    "def_ko": "곧 울 것처럼 목이 메어 말하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ulmeogida"
+  },
+  "울음_일반명사-1": {
+    "id": "울음_일반명사-1",
+    "def_ko": "소리를 내면서 눈물을 흘리는 일",
+    "related_vocab": [
+      "달래다",
+      "울다",
+      "겹다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "울음보_일반명사-1": {
+    "id": "울음보_일반명사-1",
+    "def_ko": "울음을 참는 힘이나 상태를 비유적으로 이르는 말",
+    "related_vocab": [
+      "달래다",
+      "겹다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ureumbo"
+  },
+  "울퉁불퉁_일반부사-1": {
+    "id": "울퉁불퉁_일반부사-1",
+    "def_ko": "여기저기 튀어나오고 들어간 모양",
+    "related_vocab": [
+      "가시",
+      "구기다",
+      "긁다",
+      "구김"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ultungbultung"
+  },
+  "웃기다_동사-1": {
+    "id": "웃기다_동사-1",
+    "def_ko": "다른 사람을 웃게 하다",
+    "related_vocab": [
+      "농담",
+      "미소",
+      "웃다",
+      "웃음",
+      "해학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "웃다_동사-1": {
+    "id": "웃다_동사-1",
+    "def_ko": "즐겁거나 우스워서 소리를 내거나 입 모양을 바꾸다",
+    "related_vocab": [
+      "농담",
+      "미소",
+      "웃기다",
+      "웃음",
+      "해학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "utda"
+  },
+  "웃음_일반명사-1": {
+    "id": "웃음_일반명사-1",
+    "def_ko": "웃는 행위나 소리",
+    "related_vocab": [
+      "미소",
+      "야호",
+      "환호",
+      "웃기다",
+      "웃다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "useum"
+  },
+  "웅장하다_형용사-1": {
+    "id": "웅장하다_형용사-1",
+    "def_ko": "규모가 크고 힘이 느껴지다",
+    "related_vocab": [
+      "기세",
+      "넓다",
+      "장엄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ungjanghada"
+  },
+  "웅크리다_동사-1": {
+    "id": "웅크리다_동사-1",
+    "def_ko": "몸을 작게 오그리다",
+    "related_vocab": [
+      "낮추다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ungkheurida"
+  },
+  "원만하다_형용사-1": {
+    "id": "원만하다_형용사-1",
+    "def_ko": "성격이 부드럽고 너그럽다",
+    "related_vocab": [
+      "순하다",
+      "착하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "원망_일반명사-1": {
+    "id": "원망_일반명사-1",
+    "def_ko": "섭섭하고 미운 마음으로 탓함",
+    "related_vocab": [
+      "설움"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wonmang"
+  },
+  "원하다_동사-1": {
+    "id": "원하다_동사-1",
+    "def_ko": "어떤 것을 바라거나 갖고 싶어 하다",
+    "related_vocab": [
+      "기다리다",
+      "바라다",
+      "추구",
+      "구하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wonhada"
+  },
+  "원활_일반명사-1": {
+    "id": "원활_일반명사-1",
+    "def_ko": "막힘이 없이 부드럽게 잘됨",
+    "related_vocab": [
+      "충실히",
+      "긍정",
+      "완벽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wonhwal"
+  },
+  "웬만하다_형용사-1": {
+    "id": "웬만하다_형용사-1",
+    "def_ko": "크게 벗어나지 않는 정도에 있다",
+    "related_vocab": [
+      "적당히",
+      "곧잘",
+      "대강",
+      "이만"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "위대하다_형용사-1": {
+    "id": "위대하다_형용사-1",
+    "def_ko": "뛰어나고 훌륭하다",
+    "related_vocab": [
+      "그다",
+      "멋지다",
+      "장하다",
+      "훌륭하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "위안_일반명사-1": {
+    "id": "위안_일반명사-1",
+    "def_ko": "슬프고 괴로운 마음이 조금 편해짐",
+    "related_vocab": [
+      "안도",
+      "안도감",
+      "즐거움",
+      "편안",
+      "행복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wian"
+  },
+  "위엄_일반명사-1": {
+    "id": "위엄_일반명사-1",
+    "def_ko": "으르고 누르는 듯이 점잖고 엄숙한 기운",
+    "related_vocab": [
+      "사람됨",
+      "성격"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wieom"
+  },
+  "위주_일반명사-1": {
+    "id": "위주_일반명사-1",
+    "def_ko": "어떤 것을 가장 중요하게 여김",
+    "related_vocab": [
+      "삼다",
+      "위하다",
+      "주요",
+      "중시",
+      "존중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wiju"
+  },
+  "위축감_일반명사-1": {
+    "id": "위축감_일반명사-1",
+    "def_ko": "자신이 작게 느껴져 기가 죽는 느낌",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wichukgam"
+  },
+  "위하다_동사-1": {
+    "id": "위하다_동사-1",
+    "def_ko": "어떤 사람이나 목적에 도움이 되게 하다",
+    "related_vocab": [
+      "공익",
+      "위주",
+      "유용",
+      "유익",
+      "옹호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wihada"
+  },
+  "위험성_일반명사-1": {
+    "id": "위험성_일반명사-1",
+    "def_ko": "위험한 성질이나 위험해질 가능성",
+    "related_vocab": [
+      "한계",
+      "잠재",
+      "경향"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "위협_일반명사-1": {
+    "id": "위협_일반명사-1",
+    "def_ko": "겁을 주어 두렵게 함",
+    "related_vocab": [
+      "경각심",
+      "으름장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "wiheop"
+  },
+  "유난히_일반부사-1": {
+    "id": "유난히_일반부사-1",
+    "def_ko": "보통 때와 아주 다르게 특별히",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "특별히_일반부사-1",
+          "target_term": "특별히",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "강조와 부연",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "yunanhi"
+  },
+  "유능_일반명사-1": {
+    "id": "유능_일반명사-1",
+    "def_ko": "일을 잘 해낼 수 있는 능력이 있음",
+    "related_vocab": [
+      "경쟁력",
+      "기교",
+      "역량",
+      "지혜롭다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuneung"
+  },
+  "유대감_일반명사-1": {
+    "id": "유대감_일반명사-1",
+    "def_ko": "서로 강하게 이어져 있다고 느끼는 마음",
+    "related_vocab": [
+      "공감",
+      "신뢰",
+      "인정",
+      "정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yudaegam"
+  },
+  "유력_일반명사-1": {
+    "id": "유력_일반명사-1",
+    "def_ko": "가능성이 크거나 힘이 셈",
+    "related_vocab": [
+      "허가",
+      "경향",
+      "십상",
+      "아마",
+      "유망"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuryeok"
+  },
+  "유리하다_형용사-1": {
+    "id": "유리하다_형용사-1",
+    "def_ko": "이익이 있다",
+    "related_vocab": [
+      "공익",
+      "알차다",
+      "이롭다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "유망_일반명사-1": {
+    "id": "유망_일반명사-1",
+    "def_ko": "앞으로 잘될 가능성이 있음",
+    "related_vocab": [
+      "허가",
+      "되다",
+      "유력",
+      "점치다",
+      "청신호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yumang"
+  },
+  "유머_일반명사-1": {
+    "id": "유머_일반명사-1",
+    "def_ko": "남을 웃기는 행동이나 말",
+    "related_vocab": [
+      "놀리다",
+      "놀림",
+      "사교적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "유용_일반명사-1": {
+    "id": "유용_일반명사-1",
+    "def_ko": "쓸모가 있어 도움이 됨",
+    "related_vocab": [
+      "쓸데없다",
+      "위하다",
+      "유익",
+      "효용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuyong"
+  },
+  "유의_일반명사-1": {
+    "id": "유의_일반명사-1",
+    "def_ko": "마음에 두고 조심함",
+    "related_vocab": [
+      "고려",
+      "염두",
+      "주의"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yui"
+  },
+  "유의미_일반명사-1": {
+    "id": "유의미_일반명사-1",
+    "def_ko": "나름의 분명한 뜻이나 가치가 있음",
+    "related_vocab": [
+      "중요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuimi"
+  },
+  "유익_일반명사-1": {
+    "id": "유익_일반명사-1",
+    "def_ko": "도움이 되거나 이로움",
+    "related_vocab": [
+      "공익",
+      "득",
+      "위하다",
+      "유용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuik"
+  },
+  "유인_일반명사-1": {
+    "id": "유인_일반명사-1",
+    "def_ko": "사람의 마음을 끌어 어떤 행동을 하게 함",
+    "related_vocab": [
+      "동기",
+      "사로잡다",
+      "유혹"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuin"
+  },
+  "유창하다_형용사-1": {
+    "id": "유창하다_형용사-1",
+    "def_ko": "말을 하거나 글을 읽을 때 거침이 없다",
+    "related_vocab": [
+      "말하기",
+      "발음",
+      "억양",
+      "말"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "유치하다_형용사-1": {
+    "id": "유치하다_형용사-1",
+    "def_ko": "수준이 낮거나 미숙하다",
+    "related_vocab": [
+      "뒤떨어지다",
+      "뒤처지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "유혹_일반명사-1": {
+    "id": "유혹_일반명사-1",
+    "def_ko": "마음을 끌어 넘어가게 함",
+    "related_vocab": [
+      "끌리다",
+      "사로잡다",
+      "유인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yuhok"
+  },
+  "육질_일반명사-1": {
+    "id": "육질_일반명사-1",
+    "def_ko": "살의 성질",
+    "related_vocab": [
+      "점성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yukjil"
+  },
+  "융통_일반명사-1": {
+    "id": "융통_일반명사-1",
+    "def_ko": "형편에 맞게 처리함",
+    "related_vocab": [
+      "눈치",
+      "멋대로",
+      "소홀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "yungtong"
+  },
+  "으름장_일반명사-1": {
+    "id": "으름장_일반명사-1",
+    "def_ko": "겁을 주는 말이나 행동",
+    "related_vocab": [
+      "위협"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "화내다_동사-1",
+          "target_term": "화내다",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "부정적 감정",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "eureumjang"
+  },
+  "으슬으슬_일반부사-1": {
+    "id": "으슬으슬_일반부사-1",
+    "def_ko": "춥거나 무서워 몸이 떨리는 모양",
+    "related_vocab": [
+      "간지럼",
+      "후들후들",
+      "떨다",
+      "떨리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "euseul euseul"
+  },
+  "은공_일반명사-1": {
+    "id": "은공_일반명사-1",
+    "def_ko": "도움을 준 공덕",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eungong"
+  },
+  "은백색_일반명사-1": {
+    "id": "은백색_일반명사-1",
+    "def_ko": "은처럼 희고 밝은 빛",
+    "related_vocab": [
+      "광택",
+      "밝기",
+      "우윳"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eunbaeksaek"
+  },
+  "음색_일반명사-1": {
+    "id": "음색_일반명사-1",
+    "def_ko": "소리의 성질",
+    "related_vocab": [
+      "노랫소리",
+      "말투",
+      "소음"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eumsaek"
+  },
+  "음성_일반명사-1": {
+    "id": "음성_일반명사-1",
+    "def_ko": "사람이 내는 소리",
+    "related_vocab": [
+      "딩동댕",
+      "발음",
+      "숨소리",
+      "신음",
+      "허허"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eumseong"
+  },
+  "응원_일반명사-1": {
+    "id": "응원_일반명사-1",
+    "def_ko": "힘을 북돋아 줌",
+    "related_vocab": [
+      "감격",
+      "감동",
+      "기쁨",
+      "북돋다",
+      "격려"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "eungwon"
+  },
+  "의도_일반명사-1": {
+    "id": "의도_일반명사-1",
+    "def_ko": "하려는 생각이나 계획",
+    "related_vocab": [
+      "관념",
+      "뜻"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uido"
+  },
+  "의리_일반명사-1": {
+    "id": "의리_일반명사-1",
+    "def_ko": "사람 사이에 지켜야 할 도리",
+    "related_vocab": [
+      "어기다",
+      "예의",
+      "예절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uiri"
+  },
+  "의무_일반명사-1": {
+    "id": "의무_일반명사-1",
+    "def_ko": "반드시 해야 하는 일",
+    "related_vocab": [
+      "거르다",
+      "마땅히",
+      "도덕",
+      "필수",
+      "필요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uimu"
+  },
+  "의문_일반명사-1": {
+    "id": "의문_일반명사-1",
+    "def_ko": "마음속에 생기는 질문",
+    "related_vocab": [
+      "심경",
+      "염두"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uimun"
+  },
+  "의식_일반명사-1": {
+    "id": "의식_일반명사-1",
+    "def_ko": "행동이나 생각을 아는 상태",
+    "related_vocab": [
+      "느끼다",
+      "억제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uisik"
+  },
+  "의심_일반명사-1": {
+    "id": "의심_일반명사-1",
+    "def_ko": "믿지 못함",
+    "related_vocab": [
+      "근심",
+      "불신",
+      "불안감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uisim"
+  },
+  "의외_일반명사-1": {
+    "id": "의외_일반명사-1",
+    "def_ko": "기대와 다름",
+    "related_vocab": [
+      "놀라다",
+      "놀랍다",
+      "당황",
+      "어이없다",
+      "의외로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ui oe"
+  },
+  "의외로_일반부사-1": {
+    "id": "의외로_일반부사-1",
+    "def_ko": "생각했던 것과 다르게",
+    "related_vocab": [
+      "놀라다",
+      "놀랍다",
+      "당황",
+      "어이없다",
+      "의외"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uioero"
+  },
+  "의욕_일반명사-1": {
+    "id": "의욕_일반명사-1",
+    "def_ko": "무엇을 하고자 하는 강한 마음",
+    "related_vocab": [
+      "열의",
+      "욕망",
+      "포부",
+      "마음먹다",
+      "야심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uiyok"
+  },
+  "의의_일반명사-1": {
+    "id": "의의_일반명사-1",
+    "def_ko": "어떤 일이 가지는 가치나 뜻",
+    "related_vocab": [
+      "취지",
+      "평가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uiui"
+  },
+  "의중_일반명사-1": {
+    "id": "의중_일반명사-1",
+    "def_ko": "마음속에 품고 있는 생각",
+    "related_vocab": [
+      "품다",
+      "심경",
+      "염두",
+      "의향"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uijung"
+  },
+  "의지_일반명사-1": {
+    "id": "의지_일반명사-1",
+    "def_ko": "어떤 일을 꼭 하려는 굳은 마음",
+    "related_vocab": [
+      "마음",
+      "자존심",
+      "지향",
+      "진심",
+      "수고"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uiji"
+  },
+  "의향_일반명사-1": {
+    "id": "의향_일반명사-1",
+    "def_ko": "어떻게 하고 싶은지에 대한 생각",
+    "related_vocab": [
+      "결심",
+      "마음껏",
+      "염두",
+      "의중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "uihyang"
+  },
+  "이기_일반명사-1": {
+    "id": "이기_일반명사-1",
+    "def_ko": "자기 이익만 생각하는 마음",
+    "related_vocab": [
+      "이기심",
+      "이기적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "igi"
+  },
+  "이기심_일반명사-1": {
+    "id": "이기심_일반명사-1",
+    "def_ko": "자기 이익만 챙기려는 마음",
+    "related_vocab": [
+      "무책임하다",
+      "이기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "igisim"
+  },
+  "이기적_일반명사-1": {
+    "id": "이기적_일반명사-1",
+    "def_ko": "자신의 이익만을 생각하는 것",
+    "related_vocab": [
+      "냉정하다",
+      "막무가내",
+      "이기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "이끌리다_동사-1": {
+    "id": "이끌리다_동사-1",
+    "def_ko": "어떤 것에 마음이 끌려 따라가게 되다",
+    "related_vocab": [
+      "도취",
+      "몰두",
+      "빠져들다",
+      "사로잡히다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "흥미_일반명사-1",
+          "target_term": "흥미",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "긍정적 감정",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "ikkeullida"
+  },
+  "이롭다_형용사-1": {
+    "id": "이롭다_형용사-1",
+    "def_ko": "도움이 되거나 좋은 점이 있다",
+    "related_vocab": [
+      "장단점",
+      "양호",
+      "효과",
+      "알차다",
+      "유리하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iropta"
+  },
+  "이만_일반부사-1": {
+    "id": "이만_일반부사-1",
+    "def_ko": "이 정도로 끝나거나 멈추고",
+    "related_vocab": [
+      "그럭저럭",
+      "다소",
+      "웬만하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "이만저만_일반명사-1": {
+    "id": "이만저만_일반명사-1",
+    "def_ko": "보통으로 생각되는 정도나 수준",
+    "related_vocab": [
+      "과언",
+      "곧잘"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "imanjeoman"
+  },
+  "이모티콘_일반명사-1": {
+    "id": "이모티콘_일반명사-1",
+    "def_ko": "감정이나 표정을 그림이나 기호로 나타낸 문자",
+    "related_vocab": [
+      "글씨",
+      "기색",
+      "몸짓"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "imotikon"
+  },
+  "이미지_일반명사-1": {
+    "id": "이미지_일반명사-1",
+    "def_ko": "머릿속에 떠오르는 모습이나 인상",
+    "related_vocab": [
+      "그리다",
+      "기억",
+      "꿈",
+      "생각",
+      "인상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "imiji"
+  },
+  "이상_일반명사-3": {
+    "id": "이상_일반명사-3",
+    "def_ko": "가장 바라고 원하는 완전한 상태",
+    "related_vocab": [
+      "갈망",
+      "꿈",
+      "욕망",
+      "맘대로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "isang"
+  },
+  "이심전심_일반명사-1": {
+    "id": "이심전심_일반명사-1",
+    "def_ko": "말하지 않아도 서로 마음이 통함",
+    "related_vocab": [
+      "간절하다",
+      "공감대",
+      "교감",
+      "동상이몽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "isimjeonsim"
+  },
+  "이익_일반명사-1": {
+    "id": "이익_일반명사-1",
+    "def_ko": "어떤 일로 얻는 이로움이나 돈",
+    "related_vocab": [
+      "잘되다",
+      "효과"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iik"
+  },
+  "이점_일반명사-1": {
+    "id": "이점_일반명사-1",
+    "def_ko": "다른 것보다 나은 점",
+    "related_vocab": [
+      "장점",
+      "우수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ijeom"
+  },
+  "이해_일반명사-1": {
+    "id": "이해_일반명사-1",
+    "def_ko": "어떤 내용을 알고 뜻을 알아차림",
+    "related_vocab": [
+      "숙지",
+      "안다",
+      "알다",
+      "익다",
+      "인식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ihae"
+  },
+  "이해도_일반명사-1": {
+    "id": "이해도_일반명사-1",
+    "def_ko": "얼마나 잘 이해하고 있는지의 정도",
+    "related_vocab": [
+      "알다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ihaedo"
+  },
+  "익다_동사-3": {
+    "id": "익다_동사-3",
+    "def_ko": "어떤 일이나 환경에 자주 접해 낯설지 않게 되다",
+    "related_vocab": [
+      "이해",
+      "맛보다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ikda"
+  },
+  "익다_형용사-1": {
+    "id": "익다_형용사-1",
+    "def_ko": "자주 경험하여 조금도 서투르지 않다",
+    "related_vocab": [
+      "서툴다",
+      "익숙하다",
+      "경험"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "익숙하다_형용사-1": {
+    "id": "익숙하다_형용사-1",
+    "def_ko": "어떤 일이나 환경에 잘 익혀져 낯설지 않다",
+    "related_vocab": [
+      "서투르다",
+      "어설프다",
+      "익다",
+      "경험",
+      "기르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iksukhada"
+  },
+  "인간성_일반명사-1": {
+    "id": "인간성_일반명사-1",
+    "def_ko": "사람의 성질이나 됨됨이",
+    "related_vocab": [
+      "사람됨",
+      "인성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "인격_일반명사-1": {
+    "id": "인격_일반명사-1",
+    "def_ko": "사람으로서 가지는 품성과 성품",
+    "related_vocab": [
+      "사람됨",
+      "성격",
+      "인성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "inggyeok"
+  },
+  "인내_일반명사-1": {
+    "id": "인내_일반명사-1",
+    "def_ko": "힘든 일을 참고 견딤",
+    "related_vocab": [
+      "극복",
+      "용기",
+      "인내심",
+      "참을성",
+      "책임감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "innae"
+  },
+  "인내심_일반명사-1": {
+    "id": "인내심_일반명사-1",
+    "def_ko": "참고 견디는 마음",
+    "related_vocab": [
+      "독립심",
+      "용기",
+      "인내",
+      "참을성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "innaesim"
+  },
+  "인상_일반명사-1": {
+    "id": "인상_일반명사-1",
+    "def_ko": "사람이나 사물에 대해 마음에 남는 느낌",
+    "related_vocab": [
+      "느낌",
+      "이미지",
+      "첫인상",
+      "인상적",
+      "현실감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "insang"
+  },
+  "인상적_관형사-1": {
+    "id": "인상적_관형사-1",
+    "def_ko": "어떤 느낌이나 인상이 지워지지 않고 오래 기억에 남는 것",
+    "related_vocab": [
+      "생각",
+      "소감",
+      "인상",
+      "자아내다",
+      "분위기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "인생관_일반명사-1": {
+    "id": "인생관_일반명사-1",
+    "def_ko": "인생을 어떻게 보는지에 대한 생각",
+    "related_vocab": [
+      "신념"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "insaenggwan"
+  },
+  "인성_일반명사-1": {
+    "id": "인성_일반명사-1",
+    "def_ko": "사람의 됨됨이와 성품",
+    "related_vocab": [
+      "인간성",
+      "인격"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "inseong"
+  },
+  "인식_일반명사-1": {
+    "id": "인식_일반명사-1",
+    "def_ko": "어떤 대상이나 사실을 알아차림",
+    "related_vocab": [
+      "안다",
+      "이해",
+      "인지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "insik"
+  },
+  "인심_일반명사-1": {
+    "id": "인심_일반명사-1",
+    "def_ko": "불쌍한 사람을 살피고 도와주는 마음",
+    "related_vocab": [
+      "선행",
+      "배려",
+      "친절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "인정_일반명사-1": {
+    "id": "인정_일반명사-1",
+    "def_ko": "어떤 사실이나 가치를 옳다고 받아들임",
+    "related_vocab": [
+      "믿음",
+      "믿다",
+      "인정받다",
+      "찬성",
+      "옹호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "injeong"
+  },
+  "인정_일반명사-2": {
+    "id": "인정_일반명사-2",
+    "def_ko": "사람 사이의 따뜻한 마음",
+    "related_vocab": [
+      "동정심",
+      "애정",
+      "유대감",
+      "정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "injeong"
+  },
+  "인정받다_동사-1": {
+    "id": "인정받다_동사-1",
+    "def_ko": "가치나 능력을 옳다고 여김을 얻다",
+    "related_vocab": [
+      "인정",
+      "평가",
+      "수긍"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "injeongbatda"
+  },
+  "인지_일반명사-1": {
+    "id": "인지_일반명사-1",
+    "def_ko": "어떤 대상이나 상황을 알아차리고 이해함",
+    "related_vocab": [
+      "안다",
+      "인식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "inji"
+  },
+  "인지도_일반명사-1": {
+    "id": "인지도_일반명사-1",
+    "def_ko": "얼마나 널리 알려져 있는지의 정도",
+    "related_vocab": [
+      "만족도",
+      "선호도",
+      "수준",
+      "상당",
+      "얼마나"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "injido"
+  },
+  "일관_일반명사-1": {
+    "id": "일관_일반명사-1",
+    "def_ko": "처음부터 끝까지 태도나 방식이 한결같음",
+    "related_vocab": [
+      "진지하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilgw an"
+  },
+  "일편단심_일반명사-1": {
+    "id": "일편단심_일반명사-1",
+    "def_ko": "처음부터 끝까지 한마음으로 변하지 않는 정성",
+    "related_vocab": [
+      "굳다",
+      "내면",
+      "다짐"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilpyeondansim"
+  },
+  "일희일비_일반명사-1": {
+    "id": "일희일비_일반명사-1",
+    "def_ko": "기뻐했다가 슬퍼했다가 하며 감정이 심하게 오르내림",
+    "related_vocab": [
+      "긴장감",
+      "흥분"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilhuiilbi"
+  },
+  "입장_일반명사-2": {
+    "id": "입장_일반명사-2",
+    "def_ko": "어떤 일에 대한 생각이나 처지",
+    "related_vocab": [
+      "선언",
+      "논평",
+      "여론",
+      "역사관",
+      "사관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ipjang"
+  },
+  "입체_일반명사-1": {
+    "id": "입체_일반명사-1",
+    "def_ko": "길이와 너비, 높이를 다 가진 물체",
+    "related_vocab": [
+      "깊다",
+      "넓다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ipche"
+  },
+  "입체감_일반명사-1": {
+    "id": "입체감_일반명사-1",
+    "def_ko": "물체가 튀어나와 보이는 느낌",
+    "related_vocab": [
+      "색",
+      "색채",
+      "생동감",
+      "외관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ipchegam"
+  },
+  "자막_일반명사-1": {
+    "id": "자막_일반명사-1",
+    "def_ko": "영상 아래에 나오는 설명이나 대사 글자",
+    "related_vocab": [
+      "동영상",
+      "불빛",
+      "사진"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jamak"
+  },
+  "자아_일반명사-1": {
+    "id": "자아_일반명사-1",
+    "def_ko": "자기라는 의식을 가진 존재로서의 나",
+    "related_vocab": [
+      "내면"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaa"
+  },
+  "자아내다_동사-1": {
+    "id": "자아내다_동사-1",
+    "def_ko": "어떤 느낌이나 생각이 생기게 하다",
+    "related_vocab": [
+      "연상",
+      "불러일으키다",
+      "영감",
+      "인상적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaanaeda"
+  },
+  "자유_일반명사-1": {
+    "id": "자유_일반명사-1",
+    "def_ko": "억지로 막지 않고 자기 뜻대로 할 수 있음",
+    "related_vocab": [
+      "거스르다",
+      "결정",
+      "표명",
+      "주관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jayu"
+  },
+  "자유롭다_형용사-1": {
+    "id": "자유롭다_형용사-1",
+    "def_ko": "무엇에 얽매이거나 구속되지 않고 자기 생각과 의지대로 할 수 있다",
+    "related_vocab": [
+      "심리",
+      "감정",
+      "마음대로",
+      "즉흥",
+      "회유"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "자유분방_일반명사-1": {
+    "id": "자유분방_일반명사-1",
+    "def_ko": "틀에 얽매이지 않고 아주 자유로운 것",
+    "related_vocab": [
+      "느긋하다",
+      "독립"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jayubunbang"
+  },
+  "자율_일반명사-1": {
+    "id": "자율_일반명사-1",
+    "def_ko": "스스로의 판단에 따라 결정하고 행동함",
+    "related_vocab": [
+      "결정",
+      "양심",
+      "주관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jayul"
+  },
+  "자제_일반명사-1": {
+    "id": "자제_일반명사-1",
+    "def_ko": "감정이나 행동을 스스로 누르고 삼감",
+    "related_vocab": [
+      "걷잡다",
+      "억제",
+      "표출"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaje"
+  },
+  "자존심_일반명사-1": {
+    "id": "자존심_일반명사-1",
+    "def_ko": "남에게 굽히지 않으려고 하거나 스스로를 높이려는 마음",
+    "related_vocab": [
+      "마음",
+      "욕구",
+      "의지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "자질_일반명사-1": {
+    "id": "자질_일반명사-1",
+    "def_ko": "어떤 일을 할 수 있는 타고난 능력이나 바탕",
+    "related_vocab": [
+      "계발",
+      "그릇",
+      "재주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jajil"
+  },
+  "자취_일반명사-1": {
+    "id": "자취_일반명사-1",
+    "def_ko": "지나간 뒤에 남은 흔적",
+    "related_vocab": [
+      "잔재"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jachwi"
+  },
+  "작정_일반명사-1": {
+    "id": "작정_일반명사-1",
+    "def_ko": "어떤 일을 하기로 굳게 마음먹음",
+    "related_vocab": [
+      "계획",
+      "뜻",
+      "마음먹다",
+      "다짐",
+      "꾸미다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jakjeong"
+  },
+  "잔뜩_일반부사-1": {
+    "id": "잔뜩_일반부사-1",
+    "def_ko": "한계에 이를 때까지 가득",
+    "related_vocab": [
+      "극히",
+      "되게"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잔인_일반명사-1": {
+    "id": "잔인_일반명사-1",
+    "def_ko": "매우 모질고 남을 전혀 불쌍히 여기지 않음",
+    "related_vocab": [
+      "냉정하다",
+      "심술궂다",
+      "엄격하다",
+      "흉악"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "janin"
+  },
+  "잔재_일반명사-1": {
+    "id": "잔재_일반명사-1",
+    "def_ko": "예전의 것이 다 없어지지 않고 남아 있는 흔적",
+    "related_vocab": [
+      "드러나다",
+      "사라지다",
+      "자취",
+      "흐트러지다",
+      "벗겨지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "janjae"
+  },
+  "잘나다_동사-1": {
+    "id": "잘나다_동사-1",
+    "def_ko": "외모가 예쁘거나 잘생기다",
+    "related_vocab": [
+      "잘생기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잘되다_동사-1": {
+    "id": "잘되다_동사-1",
+    "def_ko": "어떤 일이나 현상이 좋게 이루어지다",
+    "related_vocab": [
+      "칭찬",
+      "호평",
+      "망치다",
+      "이익",
+      "장하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잘못_일반명사-1": {
+    "id": "잘못_일반명사-1",
+    "def_ko": "옳지 않게 한 일이나 그 책임",
+    "related_vocab": [
+      "잘못하다",
+      "망치다",
+      "악",
+      "풍자",
+      "배척"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jalmot"
+  },
+  "잘못되다_동사-1": {
+    "id": "잘못되다_동사-1",
+    "def_ko": "일이 틀리거나 실패하게 되다",
+    "related_vocab": [
+      "잘못하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잘못하다_동사-1": {
+    "id": "잘못하다_동사-1",
+    "def_ko": "틀리거나 바르지 않게 하다",
+    "related_vocab": [
+      "잘못",
+      "잘못되다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잘생기다_동사-1": {
+    "id": "잘생기다_동사-1",
+    "def_ko": "사람의 얼굴 생김새가 훌륭하다",
+    "related_vocab": [
+      "못나다",
+      "못생기다",
+      "잘나다",
+      "준수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잘하다_동사-1": {
+    "id": "잘하다_동사-1",
+    "def_ko": "익숙하고 솜씨가 있게 하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잠재_일반명사-1": {
+    "id": "잠재_일반명사-1",
+    "def_ko": "겉으로 드러나지 않고 속에 숨어 있는 힘이나 성질",
+    "related_vocab": [
+      "밝혀내다",
+      "한계",
+      "위험성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jamjae"
+  },
+  "잡다_동사-2": {
+    "id": "잡다_동사-2",
+    "def_ko": "목표나 대상을 정하다",
+    "related_vocab": [
+      "추구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jabda"
+  },
+  "잡아내다_동사-1": {
+    "id": "잡아내다_동사-1",
+    "def_ko": "숨은 것이나 나쁜 것을 골라 찾아내다",
+    "related_vocab": [
+      "알아내다",
+      "알아보다",
+      "알아차리다",
+      "관찰력",
+      "눈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jabaneda"
+  },
+  "장난_일반명사-1": {
+    "id": "장난_일반명사-1",
+    "def_ko": "재미로 남을 웃기거나 속이는 행동",
+    "related_vocab": [
+      "심술궂다",
+      "엉터리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangnan"
+  },
+  "장단점_일반명사-1": {
+    "id": "장단점_일반명사-1",
+    "def_ko": "좋은 점과 나쁜 점",
+    "related_vocab": [
+      "강점",
+      "결함",
+      "이롭다",
+      "장점",
+      "해롭다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangdanjeom"
+  },
+  "장담_일반명사-1": {
+    "id": "장담_일반명사-1",
+    "def_ko": "틀림없다고 굳게 말함",
+    "related_vocab": [
+      "단연",
+      "분명히",
+      "정확",
+      "확신"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangdam"
+  },
+  "장려_일반명사-1": {
+    "id": "장려_일반명사-1",
+    "def_ko": "좋은 일을 하도록 북돋아 힘을 줌",
+    "related_vocab": [
+      "지지",
+      "칭찬",
+      "권고",
+      "권유",
+      "권장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangnyeo"
+  },
+  "장식_일반명사-1": {
+    "id": "장식_일반명사-1",
+    "def_ko": "예쁘게 보이도록 꾸밈",
+    "related_vocab": [
+      "광택"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangsik"
+  },
+  "장악_일반명사-1": {
+    "id": "장악_일반명사-1",
+    "def_ko": "힘으로 틀어쥐고 마음대로 다룸",
+    "related_vocab": [
+      "리드",
+      "부리다",
+      "리더십",
+      "조종"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangak"
+  },
+  "장엄_일반명사-1": {
+    "id": "장엄_일반명사-1",
+    "def_ko": "크고 위엄 있어 보이는 모양",
+    "related_vocab": [
+      "외관",
+      "웅장하다",
+      "우뚝"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangeom"
+  },
+  "장점_일반명사-1": {
+    "id": "장점_일반명사-1",
+    "def_ko": "다른 것보다 나은 좋은 점",
+    "related_vocab": [
+      "강점",
+      "선전",
+      "우수",
+      "이점",
+      "장단점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangjeom"
+  },
+  "장하다_형용사-1": {
+    "id": "장하다_형용사-1",
+    "def_ko": "하는 일이나 인품 등이 자랑스러울 만큼 훌륭하다",
+    "related_vocab": [
+      "잘되다",
+      "그다",
+      "위대하다",
+      "훌륭하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "재능_일반명사-1": {
+    "id": "재능_일반명사-1",
+    "def_ko": "어떤 일을 잘할 수 있는 타고난 능력",
+    "related_vocab": [
+      "기르다",
+      "계발",
+      "고수",
+      "그릇",
+      "창의력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaeneung"
+  },
+  "재미_일반명사-1": {
+    "id": "재미_일반명사-1",
+    "def_ko": "즐겁고 웃음이 나는 느낌",
+    "related_vocab": [
+      "흥미",
+      "상쾌하다",
+      "즐거움"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaemi"
+  },
+  "재미없다_형용사-1": {
+    "id": "재미없다_형용사-1",
+    "def_ko": "흥미나 즐거움이 없다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaemieopda"
+  },
+  "재미있다_형용사-1": {
+    "id": "재미있다_형용사-1",
+    "def_ko": "흥미롭고 즐겁다",
+    "related_vocab": [
+      "신나다",
+      "우습다",
+      "즐겁다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaemiitda"
+  },
+  "재밌다_형용사-1": {
+    "id": "재밌다_형용사-1",
+    "def_ko": "재미있다의 구어적 표현",
+    "related_vocab": [
+      "신나다",
+      "우습다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaemitda"
+  },
+  "재수_일반명사-1": {
+    "id": "재수_일반명사-1",
+    "def_ko": "좋은 일이 생길 운수",
+    "related_vocab": [
+      "빌다",
+      "바라다",
+      "예감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "재주_일반명사-1": {
+    "id": "재주_일반명사-1",
+    "def_ko": "어떤 일을 잘해 내는 능력이나 솜씨",
+    "related_vocab": [
+      "기교",
+      "역량",
+      "자질"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaeju"
+  },
+  "저급_일반명사-1": {
+    "id": "저급_일반명사-1",
+    "def_ko": "품질이나 수준 등이 낮음",
+    "related_vocab": [
+      "격조",
+      "고급",
+      "질",
+      "목표"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "저조_일반명사-1": {
+    "id": "저조_일반명사-1",
+    "def_ko": "수준이나 기운이 낮고 활기가 없음",
+    "related_vocab": [
+      "겨우",
+      "결핍",
+      "경지",
+      "미비",
+      "미흡"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeojo"
+  },
+  "저하_일반명사-1": {
+    "id": "저하_일반명사-1",
+    "def_ko": "수준이나 정도가 낮아짐",
+    "related_vocab": [
+      "결핍"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoha"
+  },
+  "저항_일반명사-1": {
+    "id": "저항_일반명사-1",
+    "def_ko": "상대의 힘이나 변화에 맞서 버티거나 거스르는 힘",
+    "related_vocab": [
+      "맞서다",
+      "비굴",
+      "어기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeohang"
+  },
+  "저항감_일반명사-1": {
+    "id": "저항감_일반명사-1",
+    "def_ko": "어떤 것에 쉽게 따르고 싶지 않은 느낌",
+    "related_vocab": [
+      "반발",
+      "싫증"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeohang-gam"
+  },
+  "적개심_일반명사-1": {
+    "id": "적개심_일반명사-1",
+    "def_ko": "상대를 미워하고 해치고 싶어 하는 강한 마음",
+    "related_vocab": [
+      "시기",
+      "질투",
+      "악의",
+      "적대감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokkaesim"
+  },
+  "적극_일반명사-1": {
+    "id": "적극_일반명사-1",
+    "def_ko": "열심히 나서서 하는 태도",
+    "related_vocab": [
+      "열심히",
+      "소홀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "부지런하다_형용사-1",
+          "target_term": "부지런하다",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "성격과 기질",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeokgeuk"
+  },
+  "적극적_일반명사-1": {
+    "id": "적극적_일반명사-1",
+    "def_ko": "어떤 일에 대한 태도에 있어 자발적이고 긍정적인 것",
+    "related_vocab": [
+      "부리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "열성_일반명사-1",
+          "target_term": "열성",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "성격과 기질",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "적당하다_형용사-1": {
+    "id": "적당하다_형용사-1",
+    "def_ko": "기준, 조건, 정도에 알맞다",
+    "related_vocab": [
+      "알맞다",
+      "적절하다",
+      "최적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "적당히_일반부사-1": {
+    "id": "적당히_일반부사-1",
+    "def_ko": "너무 많지도 적지도 않게 알맞게",
+    "related_vocab": [
+      "대강",
+      "별로",
+      "웬만하다",
+      "지나치다",
+      "적절히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokdanghi"
+  },
+  "적대감_일반명사-1": {
+    "id": "적대감_일반명사-1",
+    "def_ko": "서로 원수처럼 대하는 마음",
+    "related_vocab": [
+      "거부감",
+      "불신",
+      "시기",
+      "언쟁",
+      "적개심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokdaegam"
+  },
+  "적성_일반명사-1": {
+    "id": "적성_일반명사-1",
+    "def_ko": "어떤 일에 잘 맞는 개인의 성질이나 능력",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokseong"
+  },
+  "적응_일반명사-1": {
+    "id": "적응_일반명사-1",
+    "def_ko": "주변 환경이나 상황에 알맞게 익숙해짐",
+    "related_vocab": [
+      "느낌",
+      "낯설다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeogeung"
+  },
+  "적절하다_형용사-1": {
+    "id": "적절하다_형용사-1",
+    "def_ko": "아주 딱 알맞다",
+    "related_vocab": [
+      "완벽",
+      "적당하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "적절히_일반부사-1": {
+    "id": "적절히_일반부사-1",
+    "def_ko": "상황에 알맞게",
+    "related_vocab": [
+      "적당히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokjeolhi"
+  },
+  "적정_일반명사-1": {
+    "id": "적정_일반명사-1",
+    "def_ko": "알맞고 바른 정도",
+    "related_vocab": [
+      "가늠",
+      "심각성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokjeong"
+  },
+  "적합_일반명사-1": {
+    "id": "적합_일반명사-1",
+    "def_ko": "조건이나 목적에 꼭 알맞음",
+    "related_vocab": [
+      "걸맞다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokhap"
+  },
+  "전망_일반명사-2": {
+    "id": "전망_일반명사-2",
+    "def_ko": "어떤 곳에서 내다보이는 경치",
+    "related_vocab": [
+      "바라보다",
+      "쳐다보다",
+      "야경"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonmang"
+  },
+  "절망_일반명사-1": {
+    "id": "절망_일반명사-1",
+    "def_ko": "바라볼 것이 없게 되어 모든 희망을 버림. 또는 그런 상태",
+    "related_vocab": [
+      "허전하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "절실하다_형용사-1": {
+    "id": "절실하다_형용사-1",
+    "def_ko": "정도가 아주 크고 꼭 필요하다",
+    "related_vocab": [
+      "긴급",
+      "사소하다",
+      "중요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeolssilhada"
+  },
+  "절약_일반명사-1": {
+    "id": "절약_일반명사-1",
+    "def_ko": "돈이나 물건을 아껴 쓰는 일",
+    "related_vocab": [
+      "검약",
+      "남용",
+      "낭비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "알뜰_일반명사-1",
+          "target_term": "알뜰",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "성격과 기질",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeol-yak"
+  },
+  "절제_일반명사-1": {
+    "id": "절제_일반명사-1",
+    "def_ko": "하고 싶은 것을 지나치지 않도록 조절하는 일",
+    "related_vocab": [
+      "냉정",
+      "막무가내"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "멋대로_일반부사-1",
+          "target_term": "멋대로",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeoljje"
+  },
+  "점성_일반명사-1": {
+    "id": "점성_일반명사-1",
+    "def_ko": "끈적끈적하게 달라붙는 성질",
+    "related_vocab": [
+      "육질"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomseong"
+  },
+  "점잖다_형용사-1": {
+    "id": "점잖다_형용사-1",
+    "def_ko": "말이나 행동이 얌전하고 침착하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomjanta"
+  },
+  "점치다_동사-1": {
+    "id": "점치다_동사-1",
+    "def_ko": "앞으로 일어날 일을 미리 짐작하다",
+    "related_vocab": [
+      "공산",
+      "미지",
+      "암시",
+      "유망"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomchida"
+  },
+  "정_일반명사-1": {
+    "id": "정_일반명사-1",
+    "def_ko": "사랑하거나 친근하다고 느끼는 마음",
+    "related_vocab": [
+      "애",
+      "유대감",
+      "인정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "정답_일반명사-1": {
+    "id": "정답_일반명사-1",
+    "def_ko": "문제의 옳은 대답",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongdap"
+  },
+  "정말_일반부사-1": {
+    "id": "정말_일반부사-1",
+    "def_ko": "사실임을 강조하는 말",
+    "related_vocab": [
+      "진짜",
+      "설마",
+      "과연",
+      "참",
+      "참으로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongmal"
+  },
+  "정말로_일반부사-1": {
+    "id": "정말로_일반부사-1",
+    "def_ko": "진심으로 그렇다는 뜻을 강조하는 말",
+    "related_vocab": [
+      "진짜",
+      "참",
+      "참으로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongmallo"
+  },
+  "정서_일반명사-1": {
+    "id": "정서_일반명사-1",
+    "def_ko": "기쁨, 슬픔, 분노 같은 마음의 느낌",
+    "related_vocab": [
+      "기분",
+      "분위기",
+      "현실감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongseo"
+  },
+  "정성_일반명사-1": {
+    "id": "정성_일반명사-1",
+    "def_ko": "마음을 다해 성의 있게 하는 마음",
+    "related_vocab": [
+      "마음씨",
+      "성실",
+      "책임감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongseong"
+  },
+  "정신_일반명사-1": {
+    "id": "정신_일반명사-1",
+    "def_ko": "생각하고 느끼고 판단하는 힘",
+    "related_vocab": [
+      "마음",
+      "꾸다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsin"
+  },
+  "정신_일반명사-2": {
+    "id": "정신_일반명사-2",
+    "def_ko": "어떤 일에 쏟는 마음가짐이나 태도",
+    "related_vocab": [
+      "부주의",
+      "열성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "마음가짐_일반명사-1",
+          "target_term": "마음가짐",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeongsin"
+  },
+  "정신력_일반명사-1": {
+    "id": "정신력_일반명사-1",
+    "def_ko": "어려움을 견디고 이겨 내는 마음의 힘",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsin-ryeok"
+  },
+  "정신없다_형용사-1": {
+    "id": "정신없다_형용사-1",
+    "def_ko": "무엇에 놀라거나 몹시 몰두하거나 하여 앞뒤를 생각하거나 올바른 판단을 할 여유가 없다",
+    "related_vocab": [
+      "바쁘다",
+      "황급히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "당황하다_동사-1",
+          "target_term": "당황하다",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "놀람과 공포",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "정신없이_일반부사-1": {
+    "id": "정신없이_일반부사-1",
+    "def_ko": "너무 바쁘거나 급해서 주변을 살필 여유가 없이",
+    "related_vocab": [
+      "바쁘다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsineopsi"
+  },
+  "정의_일반명사-2": {
+    "id": "정의_일반명사-2",
+    "def_ko": "옳고 바른 도리나 공정함",
+    "related_vocab": [
+      "도덕",
+      "도리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongui"
+  },
+  "정직_일반명사-1": {
+    "id": "정직_일반명사-1",
+    "def_ko": "거짓이나 꾸밈 없이 바른 성질",
+    "related_vocab": [
+      "도덕심",
+      "솔직하다",
+      "순하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongjik"
+  },
+  "정하다_동사-1": {
+    "id": "정하다_동사-1",
+    "def_ko": "기준이나 목표를 골라서 딱 정해 두다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonghada"
+  },
+  "정확_일반명사-1": {
+    "id": "정확_일반명사-1",
+    "def_ko": "틀림없이 맞고 바른 성질",
+    "related_vocab": [
+      "가히",
+      "진리",
+      "진정하다",
+      "맞다",
+      "장담"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonghwak"
+  },
+  "정확히_일반부사-1": {
+    "id": "정확히_일반부사-1",
+    "def_ko": "틀리지 않게 바르게",
+    "related_vocab": [
+      "맞히다",
+      "분명히",
+      "확실히",
+      "당연히",
+      "명확하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonghwakhi"
+  },
+  "젖다_동사-1": {
+    "id": "젖다_동사-1",
+    "def_ko": "물이나 액체가 스며들어 축처지거나 물기가 있게 되다",
+    "related_vocab": [
+      "수분"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeotda"
+  },
+  "제고_일반명사-1": {
+    "id": "제고_일반명사-1",
+    "def_ko": "수준이나 가치를 더 높임",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jego"
+  },
+  "제대로_일반부사-1": {
+    "id": "제대로_일반부사-1",
+    "def_ko": "모양이나 기준에 알맞게",
+    "related_vocab": [
+      "심사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jedero"
+  },
+  "제발_일반부사-1": {
+    "id": "제발_일반부사-1",
+    "def_ko": "간절히 바라며 하는 말",
+    "related_vocab": [
+      "빌다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jebal"
+  },
+  "제법_일반부사-1": {
+    "id": "제법_일반부사-1",
+    "def_ko": "생각했던 것보다 꽤",
+    "related_vocab": [
+      "곧잘"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jebeo"
+  },
+  "제한_일반명사-1": {
+    "id": "제한_일반명사-1",
+    "def_ko": "범위를 정해 넘지 못하게 막음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jehan"
+  },
+  "조그맣다_형용사-1": {
+    "id": "조그맣다_형용사-1",
+    "def_ko": "크기가 아주 작다",
+    "related_vocab": [
+      "커다랗다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jogeumata"
+  },
+  "조심_일반명사-1": {
+    "id": "조심_일반명사-1",
+    "def_ko": "다치거나 실수하지 않도록 살피는 태도",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "josim"
+  },
+  "조언_일반명사-1": {
+    "id": "조언_일반명사-1",
+    "def_ko": "도움이 되도록 해 주는 말",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "joeon"
+  },
+  "조용하다_형용사-1": {
+    "id": "조용하다_형용사-1",
+    "def_ko": "시끄럽지 않고 소리가 거의 없다",
+    "related_vocab": [
+      "고요",
+      "들리다",
+      "묵묵히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "joyonghada"
+  },
+  "조용히_일반부사-1": {
+    "id": "조용히_일반부사-1",
+    "def_ko": "시끄럽지 않게",
+    "related_vocab": [
+      "묵묵히",
+      "톡톡"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "joyonghi"
+  },
+  "조작_일반명사-2": {
+    "id": "조작_일반명사-2",
+    "def_ko": "사실을 거짓으로 꾸미거나 바꾸는 일",
+    "related_vocab": [
+      "왜곡"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jojag"
+  },
+  "조장_일반명사-2": {
+    "id": "조장_일반명사-2",
+    "def_ko": "바람직하지 않은 일을 더 심해지게 부추김",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jojang"
+  },
+  "조종_일반명사-2": {
+    "id": "조종_일반명사-2",
+    "def_ko": "남을 뒤에서 마음대로 부림",
+    "related_vocab": [
+      "장악"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jojong"
+  },
+  "존경_일반명사-1": {
+    "id": "존경_일반명사-1",
+    "def_ko": "훌륭하다고 여겨 우러러보는 마음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongyeong"
+  },
+  "존중_일반명사-1": {
+    "id": "존중_일반명사-1",
+    "def_ko": "중요하게 여기고 소중히 대함",
+    "related_vocab": [
+      "위주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jonjung"
+  },
+  "좁다_형용사-1": {
+    "id": "좁다_형용사-1",
+    "def_ko": "가로로 트인 폭이 크지 않다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jobda"
+  },
+  "좁히다_동사-1": {
+    "id": "좁히다_동사-1",
+    "def_ko": "넓던 것을 덜 넓게 만들다",
+    "related_vocab": [
+      "벗기다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jobida"
+  },
+  "좋다_형용사-1": {
+    "id": "좋다_형용사-1",
+    "def_ko": "마음에 들거나 바람직하다",
+    "related_vocab": [
+      "낫다",
+      "바람직하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jota"
+  },
+  "좋아하다_동사-1": {
+    "id": "좋아하다_동사-1",
+    "def_ko": "마음에 들어 기쁘게 여기다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "joahada"
+  },
+  "좌절_일반명사-1": {
+    "id": "좌절_일반명사-1",
+    "def_ko": "계획이나 희망이 중간에 무너짐",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jwajeol"
+  }
+}

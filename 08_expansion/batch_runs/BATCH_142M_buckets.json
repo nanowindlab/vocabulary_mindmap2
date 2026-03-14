@@ -1,0 +1,379 @@
+{
+  "core": [
+    {
+      "meaning_id": "늦잠_일반명사-1",
+      "rationale_short": "일상생활의 수면 행위와 관련된 명확한 어휘.",
+      "root": "주거와 일상",
+      "category_label_ko": "늦게 자는 잠"
+    },
+    {
+      "meaning_id": "다가서다_동사-1",
+      "rationale_short": "일반적인 물리적 이동 행위를 나타냄.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "가까이 이동하다"
+    },
+    {
+      "meaning_id": "다녀가다_동사-1",
+      "rationale_short": "특정 장소를 방문하고 떠나는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방문 후 떠나다"
+    },
+    {
+      "meaning_id": "다닥다닥_일반부사-1",
+      "rationale_short": "사물의 배치나 상태를 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빽빽이 붙은 모양"
+    },
+    {
+      "meaning_id": "다량_일반명사-1",
+      "rationale_short": "양의 많고 적음을 나타내는 명확한 수량어.",
+      "root": "수량과 단위",
+      "category_label_ko": "많은 양"
+    },
+    {
+      "meaning_id": "다름없다_형용사-1",
+      "rationale_short": "유사성 또는 동일성을 평가하는 형용사.",
+      "root": "의견과 가치",
+      "category_label_ko": "차이 없는 상태"
+    },
+    {
+      "meaning_id": "다리다_동사-1",
+      "rationale_short": "일상적인 가사 활동 중 하나.",
+      "root": "주거와 일상",
+      "category_label_ko": "옷 주름 펴기"
+    },
+    {
+      "meaning_id": "다발_일반명사-1",
+      "rationale_short": "여러 개를 묶은 형태를 나타내는 수량 관련 명사.",
+      "root": "수량과 단위",
+      "category_label_ko": "묶음 단위"
+    },
+    {
+      "meaning_id": "다산_일반명사-1",
+      "rationale_short": "출산 및 가족 관계와 관련된 명확한 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "아이 많이 낳기"
+    },
+    {
+      "meaning_id": "다수_일반명사-1",
+      "rationale_short": "양의 많고 적음을 나타내는 명확한 수량어.",
+      "root": "수량과 단위",
+      "category_label_ko": "많은 수"
+    },
+    {
+      "meaning_id": "다이어트_일반명사-1",
+      "rationale_short": "건강 관리 및 체중 조절과 관련된 명확한 개념.",
+      "root": "보건과 의료",
+      "category_label_ko": "건강 체중 관리"
+    },
+    {
+      "meaning_id": "다정_일반명사-1",
+      "rationale_short": "사람의 성격이나 태도를 나타내는 명확한 어휘.",
+      "root": "성격과 태도",
+      "category_label_ko": "따뜻한 마음씨"
+    },
+    {
+      "meaning_id": "다채롭다_형용사-1",
+      "rationale_short": "사물의 모양이나 내용을 다양하게 묘사하는 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "다양하고 풍부함"
+    },
+    {
+      "meaning_id": "단결_일반명사-1",
+      "rationale_short": "사회적 집단의 결속과 관련된 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "함께 뭉치는 힘"
+    },
+    {
+      "meaning_id": "단단히_일반부사-1",
+      "rationale_short": "사물의 상태나 행위의 정도를 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "튼튼하고 굳게"
+    },
+    {
+      "meaning_id": "단독_일반명사-1",
+      "rationale_short": "다른 사람과의 관계에서 혼자임을 나타내는 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "혼자만의 상태"
+    },
+    {
+      "meaning_id": "단서_일반명사-1",
+      "rationale_short": "어떤 사실을 밝히는 데 필요한 논리적 실마리.",
+      "root": "논리와 연결",
+      "category_label_ko": "문제 해결 실마리"
+    },
+    {
+      "meaning_id": "단시간_일반명사-1",
+      "rationale_short": "시간의 길이를 나타내는 명확한 어휘.",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 기간"
+    },
+    {
+      "meaning_id": "단연_일반부사-1",
+      "rationale_short": "의견이나 판단의 확실성을 강조하는 부사.",
+      "root": "의견과 가치",
+      "category_label_ko": "확실히 틀림없이"
+    },
+    {
+      "meaning_id": "단원_일반명사-1",
+      "rationale_short": "특정 단체에 소속된 사람을 지칭하는 명확한 어휘.",
+      "root": "사람과 관계",
+      "category_label_ko": "단체 구성원"
+    },
+    {
+      "meaning_id": "단자_일반명사-1",
+      "rationale_short": "일상생활에서 접하는 기기 부품.",
+      "root": "주거와 일상",
+      "category_label_ko": "전기 연결 부품"
+    },
+    {
+      "meaning_id": "단팥_일반명사-1",
+      "rationale_short": "음식 재료 및 요리와 관련된 명확한 어휘.",
+      "root": "식생활",
+      "category_label_ko": "달콤한 팥앙금"
+    },
+    {
+      "meaning_id": "달려오다_동사-1",
+      "rationale_short": "일반적인 물리적 이동 행위를 나타냄.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "뛰어오다"
+    },
+    {
+      "meaning_id": "달성_일반명사-1",
+      "rationale_short": "목표를 성취하는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "목표 이루기"
+    },
+    {
+      "meaning_id": "달아나다_동사-1",
+      "rationale_short": "위험을 피해 도망가는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "급히 도망치다"
+    },
+    {
+      "meaning_id": "닭갈비_일반명사-1",
+      "rationale_short": "음식 메뉴와 관련된 명확한 어휘.",
+      "root": "식생활",
+      "category_label_ko": "닭고기 요리"
+    },
+    {
+      "meaning_id": "담수_일반명사-1",
+      "rationale_short": "자연 환경의 한 요소인 물의 종류.",
+      "root": "날씨와 자연",
+      "category_label_ko": "민물"
+    },
+    {
+      "meaning_id": "닷새_일반명사-1",
+      "rationale_short": "날짜와 기간을 나타내는 명확한 어휘.",
+      "root": "시간과 흐름",
+      "category_label_ko": "5일간의 시간"
+    },
+    {
+      "meaning_id": "당_일반명사-1",
+      "rationale_short": "특정 목적을 가진 사회적 집단.",
+      "root": "문화와 사회",
+      "category_label_ko": "소속된 집단"
+    },
+    {
+      "meaning_id": "당당히_일반부사-1",
+      "rationale_short": "사람의 태도나 행동 방식을 묘사하는 부사.",
+      "root": "성격과 태도",
+      "category_label_ko": "자신감 있는 태도"
+    },
+    {
+      "meaning_id": "당대_일반명사-1",
+      "rationale_short": "특정 시대를 나타내는 명확한 어휘.",
+      "root": "시간과 흐름",
+      "category_label_ko": "그 시대"
+    },
+    {
+      "meaning_id": "당면_일반명사-1",
+      "rationale_short": "해결해야 할 과제나 문제를 나타내는 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "해결할 문제"
+    },
+    {
+      "meaning_id": "당선_일반명사-1",
+      "rationale_short": "공공 영역의 선거 결과와 관련된 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "선거로 뽑힘"
+    },
+    {
+      "meaning_id": "당위_일반명사-1",
+      "rationale_short": "도덕적, 윤리적 가치 판단과 관련된 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "마땅히 그래야 함"
+    },
+    {
+      "meaning_id": "대가_일반명사-1",
+      "rationale_short": "어떤 행위에 대한 보상이라는 일반적인 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "일의 보상"
+    },
+    {
+      "meaning_id": "대각선_일반명사-1",
+      "rationale_short": "수학 및 학습과 관련된 기하학적 용어.",
+      "root": "학교와 공부",
+      "category_label_ko": "도형의 선"
+    },
+    {
+      "meaning_id": "대강_일반부사-1",
+      "rationale_short": "어떤 행위의 정도나 방식을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "대략적으로"
+    },
+    {
+      "meaning_id": "대국민_일반명사-1",
+      "rationale_short": "국가나 공공기관이 국민 전체를 대상으로 하는 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "국민 대상"
+    },
+    {
+      "meaning_id": "대꾸_일반명사-1",
+      "rationale_short": "사람 간의 언어적 상호작용.",
+      "root": "사람과 관계",
+      "category_label_ko": "말에 응답하기"
+    },
+    {
+      "meaning_id": "대내외_일반명사-1",
+      "rationale_short": "범위나 방향을 나타내는 일반적인 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "내부와 외부"
+    },
+    {
+      "meaning_id": "대다수_일반명사-1",
+      "rationale_short": "양의 많고 적음을 나타내는 명확한 수량어.",
+      "root": "수량과 단위",
+      "category_label_ko": "아주 많은 수"
+    },
+    {
+      "meaning_id": "대두_일반명사-1",
+      "rationale_short": "문제나 현상이 중요하게 떠오르는 상황을 나타냄.",
+      "root": "논리와 연결",
+      "category_label_ko": "문제의 부각"
+    },
+    {
+      "meaning_id": "대문_일반명사-1",
+      "rationale_short": "주거 공간의 구성 요소.",
+      "root": "주거와 일상",
+      "category_label_ko": "집의 큰 문"
+    },
+    {
+      "meaning_id": "대변_일반명사-1",
+      "rationale_short": "신체 기능 및 위생과 관련된 개념.",
+      "root": "보건과 의료",
+      "category_label_ko": "배설물"
+    },
+    {
+      "meaning_id": "대비책_일반명사-1",
+      "rationale_short": "문제 해결을 위한 계획이나 전략.",
+      "root": "논리와 연결",
+      "category_label_ko": "미리 준비하는 방법"
+    },
+    {
+      "meaning_id": "대원_일반명사-1",
+      "rationale_short": "특정 조직에 소속된 사람을 지칭하는 명확한 어휘.",
+      "root": "사람과 관계",
+      "category_label_ko": "단체 구성원"
+    },
+    {
+      "meaning_id": "대작_일반명사-1",
+      "rationale_short": "문화 예술 분야의 작품을 평가하는 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "훌륭한 작품"
+    },
+    {
+      "meaning_id": "대출금_일반명사-1",
+      "rationale_short": "금융 및 경제 활동과 관련된 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "빌린 자금"
+    },
+    {
+      "meaning_id": "대치_일반명사-1",
+      "rationale_short": "대립하거나 맞서는 일반적인 상황.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "맞서 버티기"
+    },
+    {
+      "meaning_id": "대칭_일반명사-1",
+      "rationale_short": "수학 및 학습과 관련된 기하학적 용어.",
+      "root": "학교와 공부",
+      "category_label_ko": "좌우 균형"
+    },
+    {
+      "meaning_id": "대필_일반명사-1",
+      "rationale_short": "다른 사람의 글을 대신 쓰는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "글 대신 쓰기"
+    },
+    {
+      "meaning_id": "대학생_일반명사-1",
+      "rationale_short": "학교 교육과 관련된 사람의 역할.",
+      "root": "학교와 공부",
+      "category_label_ko": "대학교 재학생"
+    },
+    {
+      "meaning_id": "댄스_일반명사-1",
+      "rationale_short": "여가 시간에 즐기는 활동.",
+      "root": "여가와 취미",
+      "category_label_ko": "춤추기"
+    },
+    {
+      "meaning_id": "더구나_일반부사-1",
+      "rationale_short": "문장이나 의미를 추가적으로 연결하는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "추가 연결"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "늘어뜨리다_동사-1",
+      "rationale_short": "물리적 상태 묘사에 가깝지만, 일반적인 행위로도 볼 수 있어 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 상태 묘사 또는 일반적 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "다차원_일반명사-1",
+      "rationale_short": "사물의 특성을 묘사하는 데 사용될 수 있지만, 추상적인 개념이라 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "추상적인 개념으로, 묘사 또는 논리적 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "단적_일반명사-1",
+      "rationale_short": "사물의 특성이나 현상을 묘사하는 데 사용되지만, 논리적 증명의 의미도 있어 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "어떤 사실이 드러나는 방식을 묘사하는 개념으로, 묘사 또는 논리적 증명으로 분류 모호."
+    },
+    {
+      "meaning_id": "대길_일반명사-1",
+      "rationale_short": "길한 상태를 나타내지만, 직접적인 감정보다는 상황적 길함을 의미하여 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "길흉화복과 관련된 추상적인 개념으로, 내면의 바람 또는 상황 묘사로 분류 모호."
+    },
+    {
+      "meaning_id": "대수_일반명사-1",
+      "rationale_short": "수량과 중요도라는 두 가지 의미를 포함하여 분류가 모호함.",
+      "root": "의견과 가치",
+      "candidate_reason": "'수의 셈'과 '중요한 정도' 두 가지 의미가 있어 분류 모호."
+    },
+    {
+      "meaning_id": "더듬다_동사-1",
+      "rationale_short": "기억을 떠올리거나 말을 하는 데 어려움을 겪는 내면적, 신체적 상태를 모두 포함하여 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "기억이나 말의 어려움을 나타내는 행위로, 내면적 상태와 신체적 표현이 겹쳐 모호."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이면서 동시에 묘사 또는 논리적 개념과 겹치는 경우 (예: 다차원, 단적)",
+      "하나의 의미_ID에 두 가지 이상의 명확히 다른 의미가 포함된 경우 (예: 대수)",
+      "내면적 상태와 신체적 표현이 동시에 나타나는 행위 (예: 더듬다)"
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' 루트 내에서 일반적인 행위와 추상적인 상황을 구분하는 하위 분류를 고려할 수 있습니다.",
+      "의미가 중복되거나 모호한 단어에 대해 'meaning_id'를 분리하여 더 명확하게 분류하는 방안을 검토할 수 있습니다.",
+      "'감각과 묘사'와 '내면과 감정' 루트 간의 경계를 명확히 하는 가이드라인을 추가할 필요가 있습니다."
+    ]
+  }
+}

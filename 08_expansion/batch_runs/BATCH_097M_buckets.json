@@ -1,0 +1,250 @@
+{
+  "core": [
+    {
+      "meaning_id": "광물_일반명사-1",
+      "rationale_short": "땅속에서 나는 물질로 자연 환경에 속함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 물질"
+    },
+    {
+      "meaning_id": "광택_일반명사-1",
+      "rationale_short": "빛이 반사되어 보이는 시각적 특성을 나타냄.",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 묘사"
+    },
+    {
+      "meaning_id": "괜히_일반부사-1",
+      "rationale_short": "어떤 행위의 이유 없음을 나타내는 부사.",
+      "root": "논리와 연결",
+      "category_label_ko": "원인/이유 부사"
+    },
+    {
+      "meaning_id": "구_일반명사-1",
+      "rationale_short": "둥근 형태의 물건을 묘사하는 명사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "형태 묘사"
+    },
+    {
+      "meaning_id": "구기다_동사-1",
+      "rationale_short": "종이나 천을 다루는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 다루기"
+    },
+    {
+      "meaning_id": "구전_일반명사-1",
+      "rationale_short": "입에서 입으로 전해지는 문화적/사회적 정보 전달 방식.",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달"
+    },
+    {
+      "meaning_id": "국립_일반명사-1",
+      "rationale_short": "나라에서 세워 운영하는 기관이나 시설의 특성.",
+      "root": "공공 서비스",
+      "category_label_ko": "국가 운영"
+    },
+    {
+      "meaning_id": "국토_일반명사-1",
+      "rationale_short": "한 나라의 영토를 의미하며 사회/정치적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 영역"
+    },
+    {
+      "meaning_id": "군인_일반명사-1",
+      "rationale_short": "군대에 소속되어 복무하는 직업인.",
+      "root": "직장과 업무",
+      "category_label_ko": "직업/역할"
+    },
+    {
+      "meaning_id": "굴리다_동사-1",
+      "rationale_short": "둥근 물체를 움직이게 하는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "움직임 유발"
+    },
+    {
+      "meaning_id": "굴리다_동사-2",
+      "rationale_short": "돈, 조직 등을 효율적으로 운영하는 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "운영/관리"
+    },
+    {
+      "meaning_id": "굽다_동사-1",
+      "rationale_short": "불이나 열로 음식을 익히는 조리법.",
+      "root": "식생활",
+      "category_label_ko": "조리 행위"
+    },
+    {
+      "meaning_id": "권익_일반명사-1",
+      "rationale_short": "개인이나 집단의 권리와 이익을 통칭하는 사회적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 권리"
+    },
+    {
+      "meaning_id": "궤도_일반명사-1",
+      "rationale_short": "행성이나 물체가 도는 자연적인 길.",
+      "root": "날씨와 자연",
+      "category_label_ko": "천체 운동"
+    },
+    {
+      "meaning_id": "귀가_일반명사-1",
+      "rationale_short": "집으로 돌아가는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "집으로 돌아가기"
+    },
+    {
+      "meaning_id": "귀찮다_형용사-1",
+      "rationale_short": "어떤 일을 하기 싫고 번거로운 내면의 느낌.",
+      "root": "내면과 감정",
+      "category_label_ko": "불편한 감정"
+    },
+    {
+      "meaning_id": "귀촌_일반명사-1",
+      "rationale_short": "도시에서 시골로 이사하여 사는 생활 방식의 변화.",
+      "root": "주거와 일상",
+      "category_label_ko": "거주지 이동"
+    },
+    {
+      "meaning_id": "귀화_일반명사-1",
+      "rationale_short": "다른 나라 국적을 얻는 사회적/법적 과정.",
+      "root": "문화와 사회",
+      "category_label_ko": "국적 취득"
+    },
+    {
+      "meaning_id": "규율_일반명사-1",
+      "rationale_short": "집단 생활의 질서를 위한 행동 규칙.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 규칙"
+    },
+    {
+      "meaning_id": "균_일반명사-1",
+      "rationale_short": "눈에 보이지 않는 미생물로 보건/의료와 관련이 깊음.",
+      "root": "보건과 의료",
+      "category_label_ko": "미생물"
+    },
+    {
+      "meaning_id": "귤_일반명사-1",
+      "rationale_short": "감귤류 열매로 식생활에 포함되는 음식.",
+      "root": "식생활",
+      "category_label_ko": "과일"
+    },
+    {
+      "meaning_id": "그다_형용사-1",
+      "rationale_short": "정도나 규모가 크고 훌륭함을 묘사하는 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "크기/정도 묘사"
+    },
+    {
+      "meaning_id": "그룹_일반명사-1",
+      "rationale_short": "여러 사람이 모여 이룬 집단이나 조직.",
+      "root": "사람과 관계",
+      "category_label_ko": "사람 집단"
+    },
+    {
+      "meaning_id": "그야말로_일반부사-1",
+      "rationale_short": "다른 말이 필요 없을 만큼 강조하는 부사.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "강조 부사"
+    },
+    {
+      "meaning_id": "그중_일반명사-1",
+      "rationale_short": "여럿 가운데 일부를 지칭하는 표현.",
+      "root": "수량과 단위",
+      "category_label_ko": "부분/선택"
+    },
+    {
+      "meaning_id": "근대_일반명사-1",
+      "rationale_short": "중세 이후 현대 이전의 역사적 시대를 나타냄.",
+      "root": "시간과 흐름",
+      "category_label_ko": "역사 시대"
+    },
+    {
+      "meaning_id": "근본_일반명사-1",
+      "rationale_short": "어떤 일이나 사물의 뿌리가 되는 바탕.",
+      "root": "논리와 연결",
+      "category_label_ko": "기본 원리"
+    },
+    {
+      "meaning_id": "글쎄_감탄사-1",
+      "rationale_short": "잘 모르겠거나 대답하기 어려울 때 쓰는 감탄사.",
+      "root": "내면과 감정",
+      "category_label_ko": "불확실성 표현"
+    },
+    {
+      "meaning_id": "급변_일반명사-1",
+      "rationale_short": "아주 빠르게 크게 바뀌는 시간적 변화.",
+      "root": "시간과 흐름",
+      "category_label_ko": "빠른 변화"
+    },
+    {
+      "meaning_id": "기금_일반명사-1",
+      "rationale_short": "특정 목적을 위해 모아 둔 돈으로 재정/업무와 관련.",
+      "root": "직장과 업무",
+      "category_label_ko": "자금/재정"
+    },
+    {
+      "meaning_id": "기인_일반명사-1",
+      "rationale_short": "어떤 까닭에서 비롯됨을 나타내는 논리적 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "원인/출처"
+    },
+    {
+      "meaning_id": "기입_일반명사-1",
+      "rationale_short": "서류에 내용을 적어 넣는 업무 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "서류 작성"
+    },
+    {
+      "meaning_id": "긴급_일반명사-1",
+      "rationale_short": "바로 처리해야 할 만큼 중요하고 급한 상황의 특성.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상황의 중요성"
+    },
+    {
+      "meaning_id": "까다롭다_형용사-1",
+      "rationale_short": "잘 만족하지 않고 요구가 많은 성격이나 태도.",
+      "root": "성격과 태도",
+      "category_label_ko": "성격 특성"
+    },
+    {
+      "meaning_id": "까닭_일반명사-1",
+      "rationale_short": "어떤 일이 생긴 이유를 나타내는 논리적 개념.",
+      "root": "논리와 연결",
+      "category_label_ko": "원인/이유"
+    },
+    {
+      "meaning_id": "깨뜨리다_동사-1",
+      "rationale_short": "단단한 물건을 부스러지게 하는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 파손"
+    },
+    {
+      "meaning_id": "깨우다_동사-1",
+      "rationale_short": "잠자는 사람을 일어나게 하는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "잠에서 깨우기"
+    },
+    {
+      "meaning_id": "꼼꼼히_일반부사-1",
+      "rationale_short": "빈틈없고 세심하게 행동하는 방식을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "행동 방식"
+    },
+    {
+      "meaning_id": "꼼짝_일반부사-1",
+      "rationale_short": "몸을 조금도 움직이지 않는 상태를 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "움직임 묘사"
+    },
+    {
+      "meaning_id": "꽃병_일반명사-1",
+      "rationale_short": "꽃을 꽂아 두는 일상생활 용품.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 용품"
+    }
+  ],
+  "candidate": [],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

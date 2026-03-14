@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "공공_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공공의 영역",
+      "rationale_short": "개인이 아닌 다수가 함께 쓰는 영역."
+    },
+    {
+      "meaning_id": "공예_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "손으로 만드는 취미",
+      "rationale_short": "손으로 물건을 만드는 기술/활동은 취미 활동에 해당."
+    },
+    {
+      "meaning_id": "공짜_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "무료 구매",
+      "rationale_short": "돈을 내지 않고 얻는 것은 구매 행위와 관련됨."
+    },
+    {
+      "meaning_id": "과도_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 정도를 나타내는 개념으로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "추상적 정도 표현."
+    },
+    {
+      "meaning_id": "관광버스_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "여행용 교통수단",
+      "rationale_short": "관광을 위한 버스는 여행 관련 교통수단."
+    },
+    {
+      "meaning_id": "관리자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 담당자",
+      "rationale_short": "관리를 맡아 하는 사람은 직업/역할어에 해당."
+    },
+    {
+      "meaning_id": "구간_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "공간적 범위를 나타내는 추상적인 개념으로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "공간적 범위 추상 개념."
+    },
+    {
+      "meaning_id": "구단_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 팀 조직",
+      "rationale_short": "운동 팀을 꾸린 조직은 여가/스포츠 활동과 관련."
+    },
+    {
+      "meaning_id": "국내외_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "지리적 범위를 나타내는 추상적인 개념으로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "지리적 범위 추상 개념."
+    },
+    {
+      "meaning_id": "군주_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 통치자",
+      "rationale_short": "나라를 다스리는 임금은 사회/역사적 역할."
+    },
+    {
+      "meaning_id": "굳이_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "행동의 의도나 방식을 나타내는 부사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "행동 의도/방식 부사."
+    },
+    {
+      "meaning_id": "궁중_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "왕실 공간",
+      "rationale_short": "궁 안이나 임금이 있는 곳은 역사/문화적 공간."
+    },
+    {
+      "meaning_id": "권위_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "사회적 위엄",
+      "rationale_short": "사람들이 인정하고 따르게 만드는 위엄과 힘은 가치 판단과 관련."
+    },
+    {
+      "meaning_id": "그만_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정도나 상태를 나타내는 부사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "정도/상태 묘사 부사."
+    },
+    {
+      "meaning_id": "그만_일반부사-2",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "행동의 중단을 나타내는 부사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "행동 중단 묘사 부사."
+    },
+    {
+      "meaning_id": "그만큼_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정도나 양을 나타내는 부사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "정도/양 비교 부사."
+    },
+    {
+      "meaning_id": "글쎄요_감탄사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "불확실성 표현",
+      "rationale_short": "잘 모르겠다는 뜻을 나타내는 공손한 표현."
+    },
+    {
+      "meaning_id": "글자_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "문자 구성 요소",
+      "rationale_short": "소리나 뜻을 나타내는 기호는 학습의 기본 요소."
+    },
+    {
+      "meaning_id": "금리_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "금융 이자율",
+      "rationale_short": "돈을 빌려주고 빌릴 때의 이자 비율은 경제/금융 활동과 관련."
+    },
+    {
+      "meaning_id": "금메달_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 경기 보상",
+      "rationale_short": "경기 1등에게 주는 메달은 스포츠/여가 활동의 보상."
+    },
+    {
+      "meaning_id": "금액_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "돈의 액수",
+      "rationale_short": "돈의 액수는 구매/판매 등 경제 활동과 관련."
+    },
+    {
+      "meaning_id": "기사문_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언론 보도 글",
+      "rationale_short": "기사 형식으로 쓴 글은 사회/언론 활동과 관련."
+    },
+    {
+      "meaning_id": "기호_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "의미 전달 표시",
+      "rationale_short": "뜻을 나타내기 위해 쓰는 표시는 학습/정보 전달과 관련."
+    },
+    {
+      "meaning_id": "기호_일반명사-2",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "선호하는 마음",
+      "rationale_short": "좋아하고 즐기는 마음은 내면의 감정 표현."
+    },
+    {
+      "meaning_id": "까치_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "한국의 새",
+      "rationale_short": "흰색과 검은색 깃을 가진 새는 자연 생물."
+    },
+    {
+      "meaning_id": "깨지다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물리적 파손",
+      "rationale_short": "단단한 것이 금이 가거나 부서지는 물리적 상태 변화."
+    },
+    {
+      "meaning_id": "끓다_동사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "물을 끓이는 행위",
+      "rationale_short": "물이 높은 온도에 이르는 것은 조리 행위와 관련."
+    },
+    {
+      "meaning_id": "끼어들다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "대화/행동 방해",
+      "rationale_short": "말이나 일에 중간에서 참견하는 것은 사람 관계에 영향."
+    },
+    {
+      "meaning_id": "나아지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "상태의 개선을 나타내는 일반적인 동사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "상태 개선 일반 동사."
+    },
+    {
+      "meaning_id": "난방_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "실내 온도 조절",
+      "rationale_short": "방이나 건물 안을 덥게 하는 일은 주거 생활과 관련."
+    },
+    {
+      "meaning_id": "내비게이션_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "길 안내 장치",
+      "rationale_short": "길 안내를 해 주는 전자 장치는 교통수단 이용과 관련."
+    },
+    {
+      "meaning_id": "내세우다_동사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "주장/이유 제시",
+      "rationale_short": "사람이나 이유를 중요한 것으로 보이게 하는 것은 의견 표명."
+    },
+    {
+      "meaning_id": "높이_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수직 거리",
+      "rationale_short": "아래에서 위까지의 거리는 측정 단위에 해당."
+    },
+    {
+      "meaning_id": "누르다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물리적 압력 가하기",
+      "rationale_short": "손이나 물건으로 힘을 가하는 물리적 행위."
+    },
+    {
+      "meaning_id": "누리_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "인간 세상",
+      "rationale_short": "사람이 살아가는 이 세상은 사회/문화적 공간."
+    },
+    {
+      "meaning_id": "다가가다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 접근 행위를 나타내는 일반적인 동사로, 특정 root에 명확히 속하기 어려움.",
+      "rationale_short": "물리적 접근 일반 동사."
+    },
+    {
+      "meaning_id": "다리미_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "의류 관리 도구",
+      "rationale_short": "옷의 주름을 펴는 기구는 주거 생활 용품."
+    },
+    {
+      "meaning_id": "닫히다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "문/창문 닫힘",
+      "rationale_short": "스스로 또는 다른 힘에 의해 닫게 되는 것은 주거 공간의 상태 변화."
+    },
+    {
+      "meaning_id": "담뱃값_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "담배 구매 비용",
+      "rationale_short": "담배를 사는 데 드는 값은 구매 비용에 해당."
+    },
+    {
+      "meaning_id": "당분간_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 기간 동안",
+      "rationale_short": "얼마 동안이라는 시간적 기간을 나타냄."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 부사/동사는 '상황 지시/기타' 또는 '감각과 묘사'로 분류하는 경향이 있음. 이들 root의 세분화 필요성을 시사함.",
+      "명확한 장소, 직업, 행위, 사물은 해당 root로 분류가 용이하나, 의미가 여러 root에 걸치거나 추상적일 경우 'candidate'로 보내는 경향이 있음."
+    ],
+    "ia_suggestions": [
+      "부사/동사 중 '정도/상태 묘사'와 '행동 방식/의도'를 위한 별도의 하위 카테고리를 '상황 지시/기타' 내에 고려하거나, 새로운 root를 검토할 필요가 있음.",
+      "'쇼핑' root가 '금융 이자율', '돈의 액수' 등 경제 관련 개념을 포괄하고 있는데, '경제/금융'과 같은 별도 root 신설을 고려하여 '쇼핑'의 범위를 명확히 할 필요가 있음."
+    ]
+  }
+}

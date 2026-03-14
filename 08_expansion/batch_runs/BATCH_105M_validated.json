@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "영리_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "경제 활동의 목적이나 사회적 개념으로 볼 수 있어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "경제 활동의 목적이나 사회적 개념으로 볼 수 있어 '문화와 사회'에 임시 제안."
+    },
+    {
+      "meaning_id": "영하_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "기온 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "0도보다 낮은 온도를 명확히 지칭하여 '날씨와 자연'의 기온 표현에 해당."
+    },
+    {
+      "meaning_id": "영화표_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "영화 관람 용품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "영화를 보기 위한 표로, '여가와 취미' 활동에 필요한 물품에 해당."
+    },
+    {
+      "meaning_id": "예선_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 경기 단계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "본선 진출자를 뽑는 경기로, '여가와 취미' 중 스포츠 경기의 한 단계에 해당."
+    },
+    {
+      "meaning_id": "예의_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "공손한 태도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 사이에서 지켜야 할 공손한 태도로, '성격과 태도'의 한 유형에 해당."
+    },
+    {
+      "meaning_id": "예컨대_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "예시 연결 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "예를 들 때 쓰는 말로, 문장 간의 '논리와 연결'을 돕는 부사에 해당."
+    },
+    {
+      "meaning_id": "오렌지색_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 빛깔을 나타내는 말로, '감각과 묘사' 중 색깔 표현에 해당."
+    },
+    {
+      "meaning_id": "오목_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "모양 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "안으로 들어간 모양을 묘사하는 말로, '감각과 묘사' 중 형태 표현에 해당."
+    },
+    {
+      "meaning_id": "오직_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "한정 강조 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "다른 것은 배제하고 한 가지만을 강조하는 말로, '논리와 연결'의 한정 부사에 해당."
+    },
+    {
+      "meaning_id": "온갖_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "모든 종류 지칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 가지 모든 것을 지칭하는 말로, '수량과 단위' 중 전체를 나타내는 표현에 해당."
+    },
+    {
+      "meaning_id": "온천_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "여행지 자연 명소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "땅속에서 더운 물이 나오는 곳으로, '여행'의 목적지 중 자연 명소에 해당."
+    },
+    {
+      "meaning_id": "올려다보다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시선 방향 동작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "고개나 눈을 위로 향해 보는 동작으로, '감각과 묘사' 중 시선 방향 동작에 해당."
+    },
+    {
+      "meaning_id": "올림_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "편지 작성 시의 사회적 관습 및 언어 표현으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "편지 작성 시의 사회적 관습 및 언어 표현으로 '문화와 사회'에 임시 제안."
+    },
+    {
+      "meaning_id": "완성도_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 결과물의 품질이나 가치를 평가하는 추상적인 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 결과물의 품질이나 가치를 평가하는 추상적인 개념으로 '의견과 가치'에 임시 제안."
+    },
+    {
+      "meaning_id": "완주_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "경기 끝까지 달림",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "달리기나 경기에서 끝까지 다 달리는 행위로, '여가와 취미' 중 스포츠 활동에 해당."
+    },
+    {
+      "meaning_id": "왕관_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "왕실 상징물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "왕이 머리에 쓰는 관으로, '문화와 사회'의 상징물에 해당."
+    },
+    {
+      "meaning_id": "왜곡_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "사실의 진실성이나 정보의 정확성과 관련된 추상적 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "사실의 진실성이나 정보의 정확성과 관련된 추상적 개념으로 '의견과 가치'에 임시 제안."
+    },
+    {
+      "meaning_id": "욕심_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "과도한 소유 욕구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "더 많이 가지려는 마음으로, '내면과 감정' 중 욕구에 해당."
+    },
+    {
+      "meaning_id": "우림_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "열대 기후 숲",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "비가 많이 와 나무가 빽빽한 숲으로, '날씨와 자연' 중 특정 자연 환경에 해당."
+    },
+    {
+      "meaning_id": "우연히_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "예상 밖의 상황",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생각하지 않은 때에 뜻밖에 일어나는 상황을 지시하는 말로, '상황 지시/기타'에 해당."
+    },
+    {
+      "meaning_id": "우울_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "침체된 감정 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음이 몹시 가라앉아 즐겁지 않은 상태로, '내면과 감정' 중 감정 상태에 해당."
+    },
+    {
+      "meaning_id": "우울증_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "정신 건강 질환",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "심한 우울감이 오래 계속되는 정신 질환으로, '보건과 의료' 중 질병에 해당."
+    },
+    {
+      "meaning_id": "우편물_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "우체국 발송 물품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "우편으로 보내거나 받는 물건으로, '공공 서비스' 중 우편 서비스 관련 물품에 해당."
+    },
+    {
+      "meaning_id": "우편함_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "우편물 보관함",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "우편물을 넣어 두는 상자로, '공공 서비스' 중 우편 서비스 관련 시설물에 해당."
+    },
+    {
+      "meaning_id": "운동복_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 활동 의류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "운동할 때 입는 옷으로, '여가와 취미' 중 운동 활동에 필요한 의류에 해당."
+    },
+    {
+      "meaning_id": "웅크리다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "몸을 웅크리는 동작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸을 작게 오그리는 동작으로, '감각과 묘사' 중 신체 동작에 해당."
+    },
+    {
+      "meaning_id": "원료_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "category_label_ko": null,
+      "candidate_reason": "생산 활동의 기본 재료를 의미하며, 산업 전반에 걸쳐 사용되므로 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "생산 활동의 기본 재료를 의미하며, 산업 전반에 걸쳐 사용되므로 '직장과 업무'에 임시 제안."
+    },
+    {
+      "meaning_id": "원망_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "불만과 미움",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "섭섭하고 미운 마음으로 탓하는 것으로, '내면과 감정' 중 부정적 감정에 해당."
+    },
+    {
+      "meaning_id": "원시_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "아주 오래된 시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "아주 옛날의 처음 시기로, '시간과 흐름' 중 특정 시대 구분에 해당."
+    },
+    {
+      "meaning_id": "원천_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 현상이나 사물의 근본적인 시작점 또는 바탕을 의미하는 추상적 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 현상이나 사물의 근본적인 시작점 또는 바탕을 의미하는 추상적 개념으로 '논리와 연결'에 임시 제안."
+    },
+    {
+      "meaning_id": "위쪽_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "공간적 위치 상단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "더 높은 위치에 있는 부분을 가리키는 말로, '지시와 질문' 중 공간적 위치 지시에 해당."
+    },
+    {
+      "meaning_id": "윗_일반명사-1",
+      "bucket": "candidate",
+      "root": "지시와 질문",
+      "category_label_ko": null,
+      "candidate_reason": "'위쪽'과 유사하게 공간적 위치를 지시하지만, 접두사적 용법이 강하여 명확한 분류를 위해 보류.",
+      "exclusion_reason": null,
+      "rationale_short": "'위쪽'과 유사하게 공간적 위치를 지시하지만, 접두사적 용법이 강하여 '지시와 질문'에 임시 제안."
+    },
+    {
+      "meaning_id": "유기물_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 유래 물질",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "탄소를 포함하여 생물에서 만들어지는 물질로, '날씨와 자연' 중 자연 물질에 해당."
+    },
+    {
+      "meaning_id": "유난히_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "특별한 정도 강조",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "보통 때와 아주 다르게 특별히를 의미하며, '감각과 묘사' 중 정도 강조에 해당."
+    },
+    {
+      "meaning_id": "유동_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "물이 흐르듯 움직이는 일반적인 현상이나 상태를 나타내는 추상적 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "물이 흐르듯 움직이는 일반적인 현상이나 상태를 나타내는 추상적 개념으로 '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "유래_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것의 역사적 시작점이나 배경을 의미하는 추상적 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것의 역사적 시작점이나 배경을 의미하는 추상적 개념으로 '시간과 흐름'에 임시 제안."
+    },
+    {
+      "meaning_id": "유혹_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음을 끄는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음을 끌어 넘어가게 하는 것으로, '내면과 감정'에 영향을 미치는 행위에 해당."
+    },
+    {
+      "meaning_id": "유효_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것이 효력을 가지는 상태를 의미하는 추상적 개념으로, 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것이 효력을 가지는 상태를 의미하는 추상적 개념으로 '논리와 연결'에 임시 제안."
+    },
+    {
+      "meaning_id": "육_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 여섯",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "숫자 여섯을 의미하는 말로, '수량과 단위' 중 숫자에 해당."
+    },
+    {
+      "meaning_id": "육체_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "사람의 신체",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 몸을 의미하며, '보건과 의료' 중 신체 부위에 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 중 '상황 지시/기타', '논리와 연결', '의견과 가치', '문화와 사회', '시간과 흐름' 등 여러 루트에 걸쳐 모호하게 분류될 수 있는 경우",
+      "명사형이지만 부사적/접두사적 용법이 강한 어휘 ('윗')의 분류 모호성"
+    ],
+    "ia_suggestions": [
+      "추상적 개념어 분류를 위한 추가적인 세부 가이드라인 필요 (예: '원천'과 같은 어휘가 '논리와 연결' 또는 '상황 지시/기타' 중 어디에 더 적합한지)",
+      "명사형이지만 기능적으로 다른 품사와 유사하게 쓰이는 어휘(예: '윗')에 대한 처리 규칙 명확화"
+    ]
+  }
+}

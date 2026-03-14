@@ -1,0 +1,197 @@
+{
+  "root_shifts": [
+    {
+      "meaning_id": "배탈_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "소화기 증상",
+      "rationale_short": "음식 등으로 인한 배의 병증"
+    },
+    {
+      "meaning_id": "소화_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "신체 기능",
+      "rationale_short": "음식을 분해하여 흡수하는 작용"
+    },
+    {
+      "meaning_id": "소화액_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "신체 구성 요소",
+      "rationale_short": "음식 분해에 쓰이는 몸속 액체"
+    },
+    {
+      "meaning_id": "제사상_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "문화와 사회",
+      "category_label_ko": "의례 관련",
+      "rationale_short": "제사 때 음식을 올려두는 상"
+    },
+    {
+      "meaning_id": "집안일_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "주거와 일상",
+      "category_label_ko": "가사 활동",
+      "rationale_short": "집에서 하는 청소, 음식 준비 등"
+    },
+    {
+      "meaning_id": "체증_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "소화기 증상",
+      "rationale_short": "음식이 체해서 속이 더부룩한 증세"
+    },
+    {
+      "meaning_id": "체하다_동사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "소화기 증상",
+      "rationale_short": "음식이 소화되지 않아 속이 답답한 상태"
+    },
+    {
+      "meaning_id": "치아_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "rationale_short": "음식을 씹는 입 안의 단단한 부분"
+    },
+    {
+      "meaning_id": "침_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "신체 구성 요소",
+      "rationale_short": "입안에서 나와 음식을 적시는 액체"
+    },
+    {
+      "meaning_id": "거실_일반명사-1",
+      "old_root": "사람과 관계",
+      "new_root": "주거와 일상",
+      "category_label_ko": "집안 생활 공간",
+      "rationale_short": "집의 주요 생활 공간"
+    },
+    {
+      "meaning_id": "배_일반명사-1",
+      "old_root": "식생활",
+      "new_root": "보건과 의료",
+      "category_label_ko": "신체 소화 기관",
+      "rationale_short": "음식 소화를 위한 신체 부위"
+    }
+  ],
+  "candidate_demotions": [
+    {
+      "meaning_id": "밥맛_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "감각과 묘사",
+      "candidate_reason": "음식을 먹을 때 느끼는 맛과 기분으로, 감각과 식생활의 경계에 있어 모호함."
+    },
+    {
+      "meaning_id": "식욕_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "내면과 감정",
+      "candidate_reason": "음식을 먹고 싶어 하는 마음으로, 감정과 식생활의 경계에 있어 모호함."
+    },
+    {
+      "meaning_id": "싱겁다_형용사-1",
+      "old_root": "식생활",
+      "suggested_root": "감각과 묘사",
+      "candidate_reason": "음식의 맛을 묘사하는 표현으로, 감각과 식생활의 경계에 있어 모호함."
+    },
+    {
+      "meaning_id": "가족부_일반명사-1",
+      "old_root": "사람과 관계",
+      "suggested_root": "공공 서비스",
+      "candidate_reason": "가족 관련 행정 부서로, 사람과 관계와 공공 서비스 사이에 경계가 있음."
+    },
+    {
+      "meaning_id": "고프다_형용사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "배고픔은 식생활, 감각, 내면 감정이 겹치는 경계 표현임."
+    },
+    {
+      "meaning_id": "대접_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "음식 대접과 사람 간 예의 행위가 결합되어 식생활과 사람과 관계가 겹침."
+    },
+    {
+      "meaning_id": "맛_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "식생활과 감각과 묘사의 경계에 있음."
+    },
+    {
+      "meaning_id": "맛없다_형용사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "식생활과 감각과 묘사의 경계에 있음."
+    },
+    {
+      "meaning_id": "맛있다_형용사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "식생활과 감각과 묘사의 경계에 있음."
+    },
+    {
+      "meaning_id": "부르다_동사-3",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "포만감은 식생활, 감각 묘사, 보건과 의료가 겹침."
+    },
+    {
+      "meaning_id": "식감_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "식생활과 감각과 묘사의 경계에 있음."
+    },
+    {
+      "meaning_id": "연회_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "음식을 통한 사교 모임으로 식생활과 문화/여가가 겹침."
+    },
+    {
+      "meaning_id": "위_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "보건과 의료",
+      "candidate_reason": "공간 위치 의미와 소화 기관 의미가 혼재함."
+    },
+    {
+      "meaning_id": "입맛_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "미각과 식욕이 결합되어 감각/감정과 경계가 겹침."
+    },
+    {
+      "meaning_id": "제사_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "음식을 사용하는 전통 의식으로 식생활과 문화와 사회가 겹침."
+    },
+    {
+      "meaning_id": "차림_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "주거와 일상",
+      "candidate_reason": "옷차림과 음식 차림 의미가 혼재함."
+    },
+    {
+      "meaning_id": "카페_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "식생활과 쇼핑/상업 공간 경계가 있음."
+    },
+    {
+      "meaning_id": "파티_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "음식을 통한 사교 모임으로 식생활과 문화/여가가 겹침."
+    },
+    {
+      "meaning_id": "풍미_일반명사-1",
+      "old_root": "식생활",
+      "suggested_root": "식생활",
+      "candidate_reason": "음식의 맛과 향은 식생활과 감각과 묘사 경계에 있음."
+    }
+  ]
+}

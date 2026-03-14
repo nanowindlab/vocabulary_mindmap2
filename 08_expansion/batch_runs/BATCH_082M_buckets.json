@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "지원자_일반명사-1",
+      "rationale_short": "직업/역할어는 관련 scene root를 우선 검토하며, '어떤 일이나 기관에 신청한 사람'은 직장 또는 학업 관련 활동에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "채용 및 지원"
+    },
+    {
+      "meaning_id": "질소_일반명사-1",
+      "rationale_short": "공기의 주요 구성 원소로, 자연 현상 및 구성 요소에 명확히 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 구성 원소"
+    },
+    {
+      "meaning_id": "집착_일반명사-1",
+      "rationale_short": "어떤 것에 마음을 떼지 못하는 강한 감정 상태로, '내면과 감정'에 명확히 해당.",
+      "root": "내면과 감정",
+      "category_label_ko": "강한 마음 상태"
+    },
+    {
+      "meaning_id": "차선_일반명사-1",
+      "rationale_short": "도로에서 차가 다니도록 나눈 줄로, 교통 인프라에 명확히 해당.",
+      "root": "교통",
+      "category_label_ko": "도로 교통 시설"
+    },
+    {
+      "meaning_id": "체력_일반명사-1",
+      "rationale_short": "몸이 버티고 움직일 수 있는 힘으로, 신체 건강 및 보건에 명확히 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 건강 능력"
+    },
+    {
+      "meaning_id": "촉각_일반명사-1",
+      "rationale_short": "살갗으로 만져서 느끼는 감각으로, 오감 중 하나인 감각에 명확히 해당.",
+      "root": "감각과 묘사",
+      "category_label_ko": "오감 중 하나"
+    },
+    {
+      "meaning_id": "출간_일반명사-1",
+      "rationale_short": "책을 찍어 세상에 내놓는 행위로, 출판 문화 활동에 명확히 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "도서 발행 행위"
+    },
+    {
+      "meaning_id": "출근길_일반명사-1",
+      "rationale_short": "직장으로 가는 길이나 시간대로, 직장 생활의 한 부분에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 이동 경로"
+    },
+    {
+      "meaning_id": "출력_일반명사-1",
+      "rationale_short": "컴퓨터나 기계에서 결과를 내보내는 행위로, 업무 환경의 기술 활용에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "기기 결과 표시"
+    },
+    {
+      "meaning_id": "출원_일반명사-1",
+      "rationale_short": "특허나 권리 등을 얻기 위해 공식적으로 신청하는 행위로, 공공 행정 서비스에 명확히 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "공식 권리 신청"
+    },
+    {
+      "meaning_id": "출입증_일반명사-1",
+      "rationale_short": "어떤 시설에 들어갈 수 있음을 보여주는 카드로, 일상생활의 접근 도구에 명확히 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "시설 출입 도구"
+    },
+    {
+      "meaning_id": "콜라_일반명사-1",
+      "rationale_short": "갈색의 탄산 음료로, 식생활의 음료 종류에 명확히 해당.",
+      "root": "식생활",
+      "category_label_ko": "탄산 음료 종류"
+    },
+    {
+      "meaning_id": "타조_일반명사-1",
+      "rationale_short": "날지 못하고 잘 달리는 큰 새로, 자연 속 동물에 명확히 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 동물 종류"
+    },
+    {
+      "meaning_id": "탕평책_일반명사-1",
+      "rationale_short": "여러 세력을 골고루 쓰려는 정치 방침으로, 사회의 정치 제도에 명확히 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "정치 제도 방침"
+    },
+    {
+      "meaning_id": "투우사_일반명사-1",
+      "rationale_short": "투우 경기에서 소와 싸우는 사람으로, 여가 활동인 스포츠 역할에 명확히 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "투우 경기 역할"
+    },
+    {
+      "meaning_id": "파도_일반명사-1",
+      "rationale_short": "바람이나 흐름에 의해 물결이 크게 일어나는 현상으로, 자연 현상에 명확히 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 자연 현상"
+    },
+    {
+      "meaning_id": "판소리_일반명사-1",
+      "rationale_short": "한 사람이 북장단에 맞추어 긴 이야기를 부르는 전통 음악으로, 한국 문화 예술에 명확히 해당.",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 예술"
+    },
+    {
+      "meaning_id": "페인트_일반명사-1",
+      "rationale_short": "벽이나 물건에 칠해 색을 입히거나 보호하는 액체로, 주거 환경 유지 보수에 명확히 해당.",
+      "root": "주거와 일상",
+      "category_label_ko": "건축 마감 재료"
+    },
+    {
+      "meaning_id": "편집_일반명사-1",
+      "rationale_short": "글이나 영상 등을 고르고 다듬어 한데 모으는 일로, 업무 과정에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "자료 구성 작업"
+    },
+    {
+      "meaning_id": "폭우_일반명사-1",
+      "rationale_short": "짧은 시간에 많이 쏟아지는 비로, 날씨 현상에 명확히 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "강한 비 현상"
+    },
+    {
+      "meaning_id": "표준시_일반명사-1",
+      "rationale_short": "한 나라나 지역에서 공식적으로 쓰는 시간으로, 시간 체계에 명확히 해당.",
+      "root": "시간과 흐름",
+      "category_label_ko": "공식 시간 기준"
+    },
+    {
+      "meaning_id": "풍력_일반명사-1",
+      "rationale_short": "바람이 미는 힘으로, 자연의 힘에 명확히 해당.",
+      "root": "날씨와 자연",
+      "category_label_ko": "바람의 힘"
+    },
+    {
+      "meaning_id": "프로젝트_일반명사-1",
+      "rationale_short": "특정 목표를 위해 기간을 정해 진행하는 일로, 업무 활동에 명확히 해당.",
+      "root": "직장과 업무",
+      "category_label_ko": "특정 목표 업무"
+    },
+    {
+      "meaning_id": "필통_일반명사-1",
+      "rationale_short": "연필, 볼펜 등을 넣어 두는 통으로, 학교 및 학습 용품에 명확히 해당.",
+      "root": "학교와 공부",
+      "category_label_ko": "학용품 보관함"
+    },
+    {
+      "meaning_id": "하품_일반명사-1",
+      "rationale_short": "졸리거나 피곤해서 입이 벌어지는 신체 반응으로, 보건 및 신체 증상에 명확히 해당.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 피로 반응"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "직관_일반명사-1",
+      "rationale_short": "내면적 사고 과정으로, 모호성 원칙에 따라 candidate로 분류.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면적 판단 능력으로, '내면과 감정' 또는 '의견과 가치'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "진화_일반명사-1",
+      "rationale_short": "생물학적 자연 현상이지만, 개념적 성격이 강해 모호성 원칙에 따라 candidate로 분류.",
+      "root": "날씨와 자연",
+      "candidate_reason": "생물학적 변화 과정으로, '날씨와 자연'에 포함될 수 있으나 개념적 성격이 강해 모호함."
+    },
+    {
+      "meaning_id": "짐작_일반명사-1",
+      "rationale_short": "내면적 사고 과정으로, 모호성 원칙에 따라 candidate로 분류.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면적 사고 과정으로, '내면과 감정' 또는 '의견과 가치'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "차등_일반명사-1",
+      "rationale_short": "크고 작음의 차이를 나타내는 개념으로, 평가 또는 수량과 경계가 모호하여 candidate로 분류.",
+      "root": "의견과 가치",
+      "candidate_reason": "비교 및 평가와 관련된 개념으로, '의견과 가치' 또는 '수량과 단위'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "차원_일반명사-1",
+      "rationale_short": "어떤 것을 보는 수준이나 관점을 나타내는 추상적 개념으로, 모호성 원칙에 따라 candidate로 분류.",
+      "root": "의견과 가치",
+      "candidate_reason": "추상적인 관점이나 수준을 나타내는 개념으로, '의견과 가치' 또는 '논리와 연결'과 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "쳐다보다_동사-1",
+      "rationale_short": "고개나 눈을 들어 대상을 바라보는 행위로, 감각과 묘사에 해당하나 동사의 모호성으로 candidate.",
+      "root": "감각과 묘사",
+      "candidate_reason": "시각적 행위로 '감각과 묘사'에 해당하나, 동사의 특성상 분류 모호성이 있어 candidate로 분류."
+    },
+    {
+      "meaning_id": "총알_일반명사-1",
+      "rationale_short": "총에서 나가는 쇳덩이로, 무기 관련 사물이지만 분류 모호성으로 candidate.",
+      "root": "문화와 사회",
+      "candidate_reason": "무기 관련 사물로 '문화와 사회'의 전쟁/군사 분야에 속할 수 있으나, 독립적인 사물로서의 분류 모호성이 있어 candidate로 분류."
+    },
+    {
+      "meaning_id": "추정_일반명사-1",
+      "rationale_short": "대강 짐작하여 헤아리는 내면적 사고 과정으로, 모호성 원칙에 따라 candidate로 분류.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면적 사고 과정으로, '내면과 감정' 또는 '의견과 가치'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "축소_일반명사-1",
+      "rationale_short": "크기나 범위를 줄이는 개념으로, 수량 변화에 해당하나 모호성 원칙에 따라 candidate.",
+      "root": "수량과 단위",
+      "candidate_reason": "크기나 범위의 변화를 나타내는 개념으로, '수량과 단위' 또는 '상황 지시/기타'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "쿼터_일반명사-1",
+      "rationale_short": "정해진 몫이나 할당량으로, 수량 개념에 해당하나 업무 맥락 등 모호성으로 candidate.",
+      "root": "수량과 단위",
+      "candidate_reason": "정해진 양이나 할당을 나타내는 개념으로, '수량과 단위' 또는 '직장과 업무'와 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "평화_일반명사-1",
+      "rationale_short": "전쟁이나 싸움이 없고 조용한 상태를 나타내는 추상적 개념으로, 모호성 원칙에 따라 candidate.",
+      "root": "문화와 사회",
+      "candidate_reason": "사회적 상태를 나타내는 추상적 개념으로, '문화와 사회' 또는 '내면과 감정'과 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "표현력_일반명사-1",
+      "rationale_short": "자기 생각과 감정을 드러내는 능력으로, 성격/태도 또는 내면과 경계가 모호하여 candidate.",
+      "root": "성격과 태도",
+      "candidate_reason": "개인의 능력 및 특성으로, '성격과 태도' 또는 '내면과 감정'과 경계가 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "피우다_동사-1",
+      "rationale_short": "불이나 연기 등을 나게 하는 일반 동사로, 특정 root에 명확히 분류하기 어려워 candidate.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 행위를 나타내는 동사로, 특정 root에 명확히 속하기 어려워 candidate로 분류."
+    },
+    {
+      "meaning_id": "피우다_동사-2",
+      "rationale_short": "담배를 피우는 일상적 행위로, 주거와 일상에 해당하나 동사의 모호성으로 candidate.",
+      "root": "주거와 일상",
+      "candidate_reason": "일상적인 행위를 나타내는 동사로, '주거와 일상'에 속할 수 있으나 동사의 특성상 분류 모호성이 있어 candidate로 분류."
+    }
+  ],
+  "exclusion": [
+    {
+      "meaning_id": "쯤_일반명사-1",
+      "rationale_short": "정확하지 않은 정도를 나타내는 의존명사로, 시각화가 어렵고 학습 비적합 파편어에 해당하여 exclusion.",
+      "exclusion_reason": "의존명사 또는 접미사적 성격이 강하며, 시각화가 어렵고 학습 비적합 파편어에 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상명사 (예: 직관, 짐작, 차원, 평화, 표현력)는 '내면과 감정', '의견과 가치', '논리와 연결' 등 여러 추상적 root와 경계가 겹쳐 분류 모호성이 높음.",
+      "일반적인 동사 (예: 쳐다보다, 피우다)는 행위의 맥락에 따라 다양한 root에 속할 수 있어 '상황 지시/기타' 또는 특정 root의 candidate로 분류되는 경향이 있음.",
+      "개념적 용어 (예: 진화, 차등, 쿼터, 축소)는 과학, 사회, 수량 등 여러 분야에 걸쳐 사용될 수 있어 분류에 신중을 기해야 함."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어를 위한 '사고와 인지' 또는 '개념과 원리'와 같은 새로운 root를 신설하여 '내면과 감정', '의견과 가치'의 부담을 줄이고 분류의 명확성을 높일 것을 제안합니다.",
+      "동사 분류의 일관성을 위해 '행위와 동작'과 같은 동사 중심의 root를 추가하거나, 기존 root 내에 '행위' 하위 카테고리를 강화하는 방안을 검토할 필요가 있습니다.",
+      "의존명사나 기능어(예: 쯤)에 대한 exclusion 기준을 명확히 문서화하고, 시각화 및 학습 적합성 측면에서 재검토하여 불필요한 분류 시도를 줄일 것을 제안합니다."
+    ]
+  }
+}

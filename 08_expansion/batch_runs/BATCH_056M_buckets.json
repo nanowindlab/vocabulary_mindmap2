@@ -1,0 +1,250 @@
+{
+  "core": [
+    {
+      "meaning_id": "미혼_일반명사-1",
+      "rationale_short": "사람의 결혼 상태를 나타내는 명확한 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "결혼 상태"
+    },
+    {
+      "meaning_id": "바라보다_동사-1",
+      "rationale_short": "대상을 눈여겨보는 시각적 행위.",
+      "root": "감각과 묘사",
+      "category_label_ko": "시선 집중 행위"
+    },
+    {
+      "meaning_id": "바르다_형용사-1",
+      "rationale_short": "생각이나 행동의 규범적 옳음을 나타내는 성격/태도.",
+      "root": "성격과 태도",
+      "category_label_ko": "올바른 성품"
+    },
+    {
+      "meaning_id": "반박_일반명사-1",
+      "rationale_short": "남의 의견에 근거를 들어 맞서는 행위.",
+      "root": "의견과 가치",
+      "category_label_ko": "의견 반대 행위"
+    },
+    {
+      "meaning_id": "발행_일반명사-1",
+      "rationale_short": "책, 신문, 화폐 등을 만들어 내보내는 사회적/문화적 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "출판 및 유통"
+    },
+    {
+      "meaning_id": "밤늦다_형용사-1",
+      "rationale_short": "시간의 경과, 특히 밤의 깊이를 나타내는 표현.",
+      "root": "시간과 흐름",
+      "category_label_ko": "늦은 밤 시간"
+    },
+    {
+      "meaning_id": "방언_일반명사-1",
+      "rationale_short": "지역별 언어 차이를 나타내는 문화적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "지역 언어"
+    },
+    {
+      "meaning_id": "배구_일반명사-1",
+      "rationale_short": "특정 구기 운동 종목으로 여가 활동에 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "구기 운동 종목"
+    },
+    {
+      "meaning_id": "벌목_일반명사-1",
+      "rationale_short": "나무를 베어 활용하는 작업으로 직업/업무와 관련.",
+      "root": "직장과 업무",
+      "category_label_ko": "나무 베는 작업"
+    },
+    {
+      "meaning_id": "벗다_동사-1",
+      "rationale_short": "옷이나 신발을 몸에서 떼어내는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "의류 탈의 행위"
+    },
+    {
+      "meaning_id": "본인_일반명사-1",
+      "rationale_short": "문제의 당사자 자신을 지칭하는 명확한 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "당사자 지칭"
+    },
+    {
+      "meaning_id": "부착_일반명사-1",
+      "rationale_short": "물건을 붙여 달아 놓는 일반적인 물리적 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 붙이는 행위"
+    },
+    {
+      "meaning_id": "불리다_동사-1",
+      "rationale_short": "이름이나 소리가 외쳐져 들리는 감각적 현상.",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리 들리는 현상"
+    },
+    {
+      "meaning_id": "불황_일반명사-1",
+      "rationale_short": "경제가 나빠지는 사회적/경제적 현상.",
+      "root": "문화와 사회",
+      "category_label_ko": "경제 침체 현상"
+    },
+    {
+      "meaning_id": "비밀_일반명사-1",
+      "rationale_short": "다른 사람에게 알리지 않고 숨기는 내면의 정보나 내용.",
+      "root": "내면과 감정",
+      "category_label_ko": "숨겨진 정보"
+    },
+    {
+      "meaning_id": "비중_일반명사-1",
+      "rationale_short": "여럿 가운데 차지하는 중요함의 정도를 나타내는 가치 판단.",
+      "root": "의견과 가치",
+      "category_label_ko": "중요도 정도"
+    },
+    {
+      "meaning_id": "뽑다_동사-1",
+      "rationale_short": "꽂히거나 박힌 것을 잡아당겨 빼내는 일반적인 물리적 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 빼는 행위"
+    },
+    {
+      "meaning_id": "사장_일반명사-1",
+      "rationale_short": "회사를 대표하여 운영하는 직업/역할어.",
+      "root": "직장과 업무",
+      "category_label_ko": "회사 대표 직책"
+    },
+    {
+      "meaning_id": "삼다_동사-1",
+      "rationale_short": "어떤 대상을 일정한 상태로 여기거나 관계를 설정하는 동사.",
+      "root": "논리와 연결",
+      "category_label_ko": "관계 설정 동사"
+    },
+    {
+      "meaning_id": "상자_일반명사-1",
+      "rationale_short": "물건을 담거나 넣어 두는 일상적인 용기.",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 보관 용기"
+    },
+    {
+      "meaning_id": "생각나다_동사-1",
+      "rationale_short": "기억이나 생각이 마음에 떠오르는 내면적 현상.",
+      "root": "내면과 감정",
+      "category_label_ko": "기억 떠오름"
+    },
+    {
+      "meaning_id": "생계_일반명사-1",
+      "rationale_short": "살아가는 데 필요한 살림살이 형편으로 일상생활과 관련.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 유지 수단"
+    },
+    {
+      "meaning_id": "서식_일반명사-1",
+      "rationale_short": "정해진 틀을 가진 문서 양식으로 공공 서비스 등에서 널리 사용.",
+      "root": "공공 서비스",
+      "category_label_ko": "문서 양식"
+    },
+    {
+      "meaning_id": "수염_일반명사-1",
+      "rationale_short": "신체 부위 중 얼굴에 나는 털로 보건/의료 범주에 포함.",
+      "root": "보건과 의료",
+      "category_label_ko": "얼굴 털"
+    },
+    {
+      "meaning_id": "수학_일반명사-1",
+      "rationale_short": "수와 양을 다루는 학문으로 학교 교육과 관련.",
+      "root": "학교와 공부",
+      "category_label_ko": "수리 학문"
+    },
+    {
+      "meaning_id": "스케이트_일반명사-1",
+      "rationale_short": "빙판이나 바닥 위를 타는 운동으로 여가 활동에 해당.",
+      "root": "여가와 취미",
+      "category_label_ko": "빙상 운동"
+    },
+    {
+      "meaning_id": "식혜_일반명사-1",
+      "rationale_short": "엿기름과 밥으로 만든 전통 음료로 식생활에 해당.",
+      "root": "식생활",
+      "category_label_ko": "전통 음료"
+    },
+    {
+      "meaning_id": "실망_일반명사-1",
+      "rationale_short": "기대가 무너져 서운한 내면의 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "기대 좌절 감정"
+    },
+    {
+      "meaning_id": "실천_일반명사-1",
+      "rationale_short": "생각이나 계획을 실제 행동으로 옮기는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "계획 실행 행위"
+    },
+    {
+      "meaning_id": "실현_일반명사-1",
+      "rationale_short": "생각이나 꿈, 계획이 실제로 이루어지는 상황.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "목표 달성"
+    },
+    {
+      "meaning_id": "쌀_일반명사-1",
+      "rationale_short": "벼에서 껍질을 벗긴 알곡으로 식생활의 주요 재료.",
+      "root": "식생활",
+      "category_label_ko": "주요 곡물"
+    },
+    {
+      "meaning_id": "쓰레기통_일반명사-1",
+      "rationale_short": "쓰레기를 넣어 두는 통으로 주거 및 일상생활 용품.",
+      "root": "주거와 일상",
+      "category_label_ko": "폐기물 용기"
+    },
+    {
+      "meaning_id": "악용_일반명사-1",
+      "rationale_short": "좋은 것을 나쁜 데에 이용하는 행위로 가치 판단과 관련.",
+      "root": "의견과 가치",
+      "category_label_ko": "부정적 사용 행위"
+    },
+    {
+      "meaning_id": "안쪽_일반명사-1",
+      "rationale_short": "겉에서 더 들어간 쪽을 나타내는 공간적 지시어.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "내부 방향"
+    },
+    {
+      "meaning_id": "여론_일반명사-1",
+      "rationale_short": "많은 사람의 생각이나 의견으로 사회적 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "대중의 의견"
+    },
+    {
+      "meaning_id": "여행지_일반명사-1",
+      "rationale_short": "여행을 가는 장소로 여행 관련 개념.",
+      "root": "여행",
+      "category_label_ko": "관광 목적지"
+    },
+    {
+      "meaning_id": "열쇠_일반명사-1",
+      "rationale_short": "자물통을 잠그거나 푸는 데 쓰는 일상적인 도구.",
+      "root": "주거와 일상",
+      "category_label_ko": "잠금 해제 도구"
+    },
+    {
+      "meaning_id": "영양_일반명사-1",
+      "rationale_short": "몸을 유지하고 자라게 하는 데 필요한 성분으로 보건/의료와 관련.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 필수 성분"
+    },
+    {
+      "meaning_id": "영웅_일반명사-1",
+      "rationale_short": "뛰어난 용기와 능력으로 큰 일을 해낸 사람으로 사회적/문화적 인물.",
+      "root": "문화와 사회",
+      "category_label_ko": "위대한 인물"
+    },
+    {
+      "meaning_id": "예매_일반명사-1",
+      "rationale_short": "공연이나 교통편의 표를 미리 사는 행위로 쇼핑에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "미리 표 구매"
+    }
+  ],
+  "candidate": [],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "항아리_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상생활 용품",
+      "rationale_short": "배가 둥글게 부른 질그릇으로, 주거 공간에서 사용되는 물품에 해당합니다."
+    },
+    {
+      "meaning_id": "항암_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 치료",
+      "rationale_short": "암세포의 성장을 막는 행위로, 질병 치료 및 건강 관리에 직접적으로 관련됩니다."
+    },
+    {
+      "meaning_id": "항의_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "부당함에 대한 이의 제기 행위로, 의견 표명에 해당하지만 '행위' 자체의 추상성으로 인해 모호성이 있습니다.",
+      "rationale_short": "의견 표명 행위로 볼 수 있으나, '행위' 자체의 추상성으로 인해 모호함."
+    },
+    {
+      "meaning_id": "해결사_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "특정 역할 인물",
+      "rationale_short": "어려운 문제를 해결해 주는 사람을 지칭하며, 특정 역할을 수행하는 인물 유형에 해당합니다."
+    },
+    {
+      "meaning_id": "해돋이_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 현상",
+      "rationale_short": "아침에 해가 떠오르는 자연 현상으로, 날씨 및 자연 환경에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "해류_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 현상",
+      "rationale_short": "바닷물이 흐르는 자연 현상으로, 날씨 및 자연 환경에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "해마다_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 주기",
+      "rationale_short": "매년 빠지지 않고를 의미하는 시간 부사로, 시간의 반복적 흐름을 나타냅니다."
+    },
+    {
+      "meaning_id": "해법_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "문제 해결 방법",
+      "rationale_short": "문제를 푸는 방법으로, 논리적 사고를 통한 해결책 제시와 관련됩니다."
+    },
+    {
+      "meaning_id": "해상_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 공간",
+      "rationale_short": "바다 위 공간을 지칭하며, 자연 환경의 한 부분입니다."
+    },
+    {
+      "meaning_id": "해설가_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "정보 전달 인물",
+      "rationale_short": "경기나 사건을 설명하는 사람으로, 특정 역할을 수행하는 인물 유형에 해당합니다."
+    },
+    {
+      "meaning_id": "해양학자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "전문 연구직",
+      "rationale_short": "바다를 연구하는 전문 직업인으로, 직업 및 업무 활동에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "해커_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "컴퓨터 관련 인물",
+      "rationale_short": "컴퓨터 시스템에 침입하는 사람을 지칭하며, 특정 역할을 수행하는 인물 유형에 해당합니다."
+    },
+    {
+      "meaning_id": "핵폐기물_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "환경 유해 물질",
+      "rationale_short": "원자력 사용 후 남는 위험한 물질로, 공공 안전 및 환경 관리에 관련됩니다."
+    },
+    {
+      "meaning_id": "햇살_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 빛",
+      "rationale_short": "가늘게 비치는 해의 빛줄기로, 자연 현상에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "행방불명_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상태 변화",
+      "rationale_short": "어디로 갔는지 알 수 없게 된 상태를 나타내는 일반적인 상황입니다."
+    },
+    {
+      "meaning_id": "행운_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "긍정적 운수",
+      "rationale_short": "우연히 찾아온 좋은 운수로, 가치 판단이 포함된 추상적 개념입니다."
+    },
+    {
+      "meaning_id": "행위자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "행동 주체",
+      "rationale_short": "어떤 행동을 실제로 한 사람을 지칭하며, 인물 유형에 해당합니다."
+    },
+    {
+      "meaning_id": "행적_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 기록",
+      "rationale_short": "지나온 자취와 한 일로, 시간의 흐름 속에서 발생한 기록을 의미합니다."
+    },
+    {
+      "meaning_id": "행진_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "집단 이동",
+      "rationale_short": "많은 사람이 줄지어 걸어가는 사회적 행위로, 문화 및 사회 활동에 해당합니다."
+    },
+    {
+      "meaning_id": "행하다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "일반적 행동",
+      "rationale_short": "생각한 대로 어떤 일을 하는 일반적인 동사로, 포괄적인 행동을 나타냅니다."
+    },
+    {
+      "meaning_id": "향유_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "즐거움 경험",
+      "rationale_short": "좋은 것을 누려 즐기는 행위로, 내면의 즐거움과 감정적 경험에 해당합니다."
+    },
+    {
+      "meaning_id": "허가_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공식적 승인",
+      "rationale_short": "해도 좋다고 허락하는 행위로, 주로 공적인 승인 절차와 관련됩니다."
+    },
+    {
+      "meaning_id": "허공_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "빈 하늘",
+      "rationale_short": "아무것도 없는 빈 공중으로, 자연 공간의 한 형태입니다."
+    },
+    {
+      "meaning_id": "허기_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "배고픔 느낌",
+      "rationale_short": "배가 몹시 고픈 느낌으로, 신체적 감각과 내면의 감정에 해당합니다."
+    },
+    {
+      "meaning_id": "허깨비_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "환영 현상",
+      "rationale_short": "실체는 없는데 있는 것처럼 보이는 것으로, 시각적 감각 및 묘사에 해당합니다."
+    },
+    {
+      "meaning_id": "허무_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "공허한 감정",
+      "rationale_short": "아무 의미도 없는 것 같은 공허한 느낌으로, 내면의 감정 상태에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "허벅지_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "rationale_short": "다리의 위쪽 굵은 부분으로, 신체 부위에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "허위_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "거짓된 사실",
+      "rationale_short": "진실이 아닌 거짓된 것으로, 사실의 진위 여부 및 가치 판단과 관련됩니다."
+    },
+    {
+      "meaning_id": "허점_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "약점 결함",
+      "rationale_short": "단단하지 못해 약한 부분으로, 논리적 구조나 시스템의 결함과 관련됩니다."
+    },
+    {
+      "meaning_id": "헐값_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "저렴한 가격",
+      "rationale_short": "제값보다 아주 싼 값으로, 구매 및 판매 활동인 쇼핑에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "헤엄_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "수영 활동",
+      "rationale_short": "물속에서 팔다리를 움직여 나아가는 동작으로, 대표적인 여가 및 취미 활동입니다."
+    },
+    {
+      "meaning_id": "헤치다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "장애물 제거",
+      "rationale_short": "가로막는 것을 밀어 갈라 나아가는 일반적인 행동 동사입니다."
+    },
+    {
+      "meaning_id": "헬리콥터_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "항공 운송 수단",
+      "rationale_short": "수직으로 오르내리는 비행기로, 운송 및 교통 수단에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "헬스_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 활동",
+      "rationale_short": "운동 기구로 몸을 단련하는 일로, 대표적인 여가 및 취미 활동입니다."
+    },
+    {
+      "meaning_id": "현대극_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공연 예술",
+      "rationale_short": "현대 사회를 배경으로 한 연극으로, 문화 예술 분야에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "현대사_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "역사 시대",
+      "rationale_short": "근대 이후 지금까지의 역사로, 시간의 흐름 속에서 특정 시대를 지칭합니다."
+    },
+    {
+      "meaning_id": "현명_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "지혜로운 성품",
+      "rationale_short": "생각이 깊고 판단이 똑똑한 성품으로, 사람의 성격 및 태도에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "현지인_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "지역 거주민",
+      "rationale_short": "그 지역에서 태어나 살고 있는 사람으로, 인물 유형에 해당합니다."
+    },
+    {
+      "meaning_id": "혈관_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 기관",
+      "rationale_short": "피가 흐르는 관 모양의 기관으로, 신체 부위에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "혈압_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 건강 지표",
+      "rationale_short": "피가 혈관벽을 누르는 압력으로, 건강 상태를 나타내는 의료 지표입니다."
+    },
+    {
+      "meaning_id": "혐오감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "강한 부정 감정",
+      "rationale_short": "몹시 싫고 가까이하기 싫은 느낌으로, 내면의 부정적 감정에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "협정_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공식적 약속",
+      "rationale_short": "나라나 단체 사이에 공식으로 맺은 약속으로, 공적인 합의 및 제도와 관련됩니다."
+    },
+    {
+      "meaning_id": "협주곡_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 장르",
+      "rationale_short": "독주 악기와 관현악이 함께 연주하는 곡으로, 음악 예술 분야에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "협회장_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "단체 대표자",
+      "rationale_short": "협회를 대표하여 이끄는 사람으로, 조직 내 직책 및 업무에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "형상_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "겉모습 형태",
+      "rationale_short": "겉으로 드러난 모양으로, 사물의 외형을 묘사하는 감각적 표현에 해당합니다."
+    },
+    {
+      "meaning_id": "형체_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물건의 모양",
+      "rationale_short": "눈으로 볼 수 있는 물건의 모양으로, 사물의 외형을 묘사하는 감각적 표현에 해당합니다."
+    },
+    {
+      "meaning_id": "호기_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "좋은 상황",
+      "rationale_short": "좋은 기회를 의미하며, 일반적인 상황이나 조건을 나타냅니다."
+    },
+    {
+      "meaning_id": "호두_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "견과류",
+      "rationale_short": "딱딱한 껍데기 안에 기름진 씨가 든 열매로, 음식 재료인 식생활에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "호소_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "도움 요청",
+      "rationale_short": "사정을 말하며 도와 달라고 하는 사회적 행위로, 소통 및 사회 활동에 해당합니다."
+    },
+    {
+      "meaning_id": "호소력_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "설득력",
+      "rationale_short": "듣는 사람의 마음을 움직이는 힘으로, 표현의 효과를 묘사하는 데 사용됩니다."
+    },
+    {
+      "meaning_id": "호의_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "긍정적 마음",
+      "rationale_short": "누군가에게 보이는 좋은 마음과 태도로, 내면의 긍정적 감정에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "호칭_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 지칭어",
+      "rationale_short": "사람을 부를 때 쓰는 이름이나 말로, 사람 간의 관계 및 소통에 관련됩니다."
+    },
+    {
+      "meaning_id": "호평_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "긍정적 평가",
+      "rationale_short": "좋게 평가하는 행위로, 가치 판단 및 의견 표명에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "호황_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "경제 활황",
+      "rationale_short": "경기나 장사가 아주 잘되는 상태로, 경제 활동 및 시장 상황인 쇼핑에 관련됩니다."
+    },
+    {
+      "meaning_id": "혹자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "불특정 인물",
+      "rationale_short": "어떤 사람을 가리키는 말로, 불특정한 인물을 지칭하는 데 사용됩니다."
+    },
+    {
+      "meaning_id": "혹평_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "부정적 평가",
+      "rationale_short": "매우 심하게 나쁘게 평가하는 행위로, 가치 판단 및 의견 표명에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "혼_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "정신적 존재",
+      "rationale_short": "사람의 몸과 떨어져 생각되는 정신이나 넋으로, 내면의 정신적 영역에 해당합니다."
+    },
+    {
+      "meaning_id": "혼나다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "힘든 경험",
+      "rationale_short": "심하게 꾸중을 듣거나 큰일을 겪는 경험으로, 내면의 감정적 경험에 해당합니다."
+    },
+    {
+      "meaning_id": "홍보비_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 비용",
+      "rationale_short": "홍보 활동에 쓰이는 돈으로, 직장 및 업무 관련 비용에 명확히 속합니다."
+    },
+    {
+      "meaning_id": "홍보실_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사무 부서",
+      "rationale_short": "기관의 홍보 업무를 맡은 부서나 방으로, 직장 내 공간 및 업무 조직에 명확히 속합니다."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위 명사의 분류 (예: 항의)",
+      "역할어/직업어의 '사람과 관계' vs '직장과 업무' 경계 판단 (예: 해결사, 해설가, 해양학자, 해커, 협회장)"
+    ],
+    "ia_suggestions": [
+      "추상적인 행위 명사에 대한 '상황 지시/기타' 또는 '의견과 가치' 내 하위 분류 기준을 명확히 할 필요가 있습니다.",
+      "역할어/직업어의 경우, '사람과 관계'는 일반적인 인물 유형, '직장과 업무'는 공식적인 직업/직책으로 구분하는 기준을 강화할 수 있습니다."
+    ]
+  }
+}

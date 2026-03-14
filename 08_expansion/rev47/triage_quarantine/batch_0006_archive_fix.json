@@ -1,0 +1,671 @@
+{
+  "batch_index": 6,
+  "issues": [
+    "입력 source 순서와 출력 source 순서가 다름"
+  ],
+  "items": [
+    {
+      "id": "값싸다_형용사-1",
+      "word": "값싸다",
+      "pos": "형용사",
+      "roman": "gapssada",
+      "def_ko": "사는 데 드는 돈이 적다",
+      "def_en": "cheap",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "쇼핑",
+        "category": "구매와 결제",
+        "path_ko": "상황과 장소 > 쇼핑 > 구매와 결제",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "쇼핑"
+      },
+      "stats": {
+        "frequency": 1,
+        "rank": 5493,
+        "round_count": 1,
+        "band": 5,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "갓_일반명사-1",
+      "word": "갓",
+      "pos": "일반명사",
+      "roman": "gat",
+      "def_ko": "옛날에 남자들이 쓰던 테 큰 모자",
+      "def_en": "gat (Korean hat)",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "문화와 사회",
+        "category": "전통과 명절",
+        "path_ko": "상황과 장소 > 문화와 사회 > 전통과 명절",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "문화와 사회"
+      },
+      "stats": {
+        "frequency": 1,
+        "rank": 5494,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강_일반명사-1",
+      "word": "강",
+      "pos": "일반명사",
+      "roman": "",
+      "def_ko": "넓고 길게 흘러 바다로 들어가는 물줄기",
+      "def_en": "river",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "지형과 풍경",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 지형과 풍경",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": null,
+        "rank": null,
+        "round_count": null,
+        "band": null,
+        "level": "Beginner"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강국_일반명사-1",
+      "word": "강국",
+      "pos": "일반명사",
+      "roman": "gangguk",
+      "def_ko": "힘이 세고 영향력이 큰 나라",
+      "def_en": "powerful nation",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "문화와 사회",
+        "category": "국가와 역사",
+        "path_ko": "상황과 장소 > 문화와 사회 > 국가와 역사",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "문화와 사회"
+      },
+      "stats": {
+        "frequency": 1,
+        "rank": 5496,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강물_일반명사-1",
+      "word": "강물",
+      "pos": "일반명사",
+      "roman": "gangmul",
+      "def_ko": "강에 흐르는 물",
+      "def_en": "river water",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "지형과 풍경",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 지형과 풍경",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": 6,
+        "rank": 2575,
+        "round_count": 3,
+        "band": 4,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강사_일반명사-1",
+      "word": "강사",
+      "pos": "일반명사",
+      "roman": "gangsa",
+      "def_ko": "강의를 하는 사람",
+      "def_en": "instructor",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "학교 사람과 직책",
+        "path_ko": "상황과 장소 > 학교와 공부 > 학교 사람과 직책",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 6,
+        "rank": 2576,
+        "round_count": 4,
+        "band": 4,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강수량_일반명사-1",
+      "word": "강수량",
+      "pos": "일반명사",
+      "roman": "",
+      "def_ko": "일정한 기간 동안 일정한 곳에 비나 눈 등이 내려 생기는 물의 양",
+      "def_en": "precipitation",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "날씨와 기상",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 날씨와 기상",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": null,
+        "rank": null,
+        "round_count": null,
+        "band": null,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강습_일반명사-1",
+      "word": "강습",
+      "pos": "일반명사",
+      "roman": "gangseup",
+      "def_ko": "기술이나 지식을 가르치는 짧은 과정의 수업",
+      "def_en": "short course",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "수업과 교육 활동",
+        "path_ko": "상황과 장소 > 학교와 공부 > 수업과 교육 활동",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 5,
+        "rank": 2882,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강아지_일반명사-1",
+      "word": "강아지",
+      "pos": "일반명사",
+      "roman": "gangaji",
+      "def_ko": "어린 개",
+      "def_en": "puppy",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "동물과 곤충",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 동물과 곤충",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": 17,
+        "rank": 1281,
+        "round_count": 4,
+        "band": 4,
+        "level": "Beginner"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [
+        "토끼"
+      ],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강연_일반명사-1",
+      "word": "강연",
+      "pos": "일반명사",
+      "roman": "gangyeon",
+      "def_ko": "여럿을 앞에 두고 하는 설명이나 이야기",
+      "def_en": "lecture",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "수업과 교육 활동",
+        "path_ko": "상황과 장소 > 학교와 공부 > 수업과 교육 활동",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 49,
+        "rank": 506,
+        "round_count": 16,
+        "band": 1,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강요_일반명사-1",
+      "word": "강요",
+      "pos": "일반명사",
+      "roman": "gangyo",
+      "def_ko": "마음에 내키지 않는 일을 억지로 시킴",
+      "def_en": "coercion",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "사람과 관계",
+        "category": "관계의 행위",
+        "path_ko": "상황과 장소 > 사람과 관계 > 관계의 행위",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "사람과 관계"
+      },
+      "stats": {
+        "frequency": 7,
+        "rank": 2359,
+        "round_count": 2,
+        "band": 4,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강우_일반명사-1",
+      "word": "강우",
+      "pos": "일반명사",
+      "roman": "gangu",
+      "def_ko": "비가 내림",
+      "def_en": "rainfall",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "날씨와 기상",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 날씨와 기상",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": 5,
+        "rank": 2883,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강의_일반명사-1",
+      "word": "강의",
+      "pos": "일반명사",
+      "roman": "gangui",
+      "def_ko": "여럿에게 내용을 설명하며 가르치는 일",
+      "def_en": "lecture",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "수업과 교육 활동",
+        "path_ko": "상황과 장소 > 학교와 공부 > 수업과 교육 활동",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 14,
+        "rank": 1487,
+        "round_count": 8,
+        "band": 3,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강의실_일반명사-1",
+      "word": "강의실",
+      "pos": "일반명사",
+      "roman": "",
+      "def_ko": "강의를 하는 데에 사용하는 교실",
+      "def_en": "classroom; lecture room",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "학교 시설과 환경",
+        "path_ko": "상황과 장소 > 학교와 공부 > 학교 시설과 환경",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": null,
+        "rank": null,
+        "round_count": null,
+        "band": null,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강제_일반명사-1",
+      "word": "강제",
+      "pos": "일반명사",
+      "roman": "gangje",
+      "def_ko": "억지로 시킴",
+      "def_en": "compulsion",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "사람과 관계",
+        "category": "관계의 행위",
+        "path_ko": "상황과 장소 > 사람과 관계 > 관계의 행위",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "사람과 관계"
+      },
+      "stats": {
+        "frequency": 3,
+        "rank": 3739,
+        "round_count": 2,
+        "band": 5,
+        "level": "Intermediate"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강좌_일반명사-1",
+      "word": "강좌",
+      "pos": "일반명사",
+      "roman": "gangjwa",
+      "def_ko": "특정 주제로 이어서 하는 강의",
+      "def_en": "course",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "수업과 교육 활동",
+        "path_ko": "상황과 장소 > 학교와 공부 > 수업과 교육 활동",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 2,
+        "rank": 4406,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "강풍_일반명사-1",
+      "word": "강풍",
+      "pos": "일반명사",
+      "roman": "gangpung",
+      "def_ko": "매우 세게 부는 바람",
+      "def_en": "strong wind",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "날씨와 기상",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 날씨와 기상",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": 2,
+        "rank": 4407,
+        "round_count": 2,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "갚다_동사-1",
+      "word": "갚다",
+      "pos": "동사",
+      "roman": "gapda",
+      "def_ko": "빌린 돈이나 은혜를 되돌려 주다",
+      "def_en": "repay",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "사람과 관계",
+        "category": "관계의 행위",
+        "path_ko": "상황과 장소 > 사람과 관계 > 관계의 행위",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "사람과 관계"
+      },
+      "stats": {
+        "frequency": 5,
+        "rank": 2884,
+        "round_count": 2,
+        "band": 4,
+        "level": "Beginner"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "개_일반명사-1",
+      "word": "개",
+      "pos": "일반명사",
+      "roman": "gae",
+      "def_ko": "사람이 기르는 대표적인 동물",
+      "def_en": "dog",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "날씨와 자연",
+        "category": "동물과 곤충",
+        "path_ko": "상황과 장소 > 날씨와 자연 > 동물과 곤충",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "날씨와 자연"
+      },
+      "stats": {
+        "frequency": 19,
+        "rank": 1163,
+        "round_count": 8,
+        "band": 3,
+        "level": "Beginner"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    },
+    {
+      "id": "개강_일반명사-1",
+      "word": "개강",
+      "pos": "일반명사",
+      "roman": "gaegang",
+      "def_ko": "학기나 강의를 시작함",
+      "def_en": "start of semester",
+      "surface": "mindmap_core",
+      "routing": "mindmap_core",
+      "hierarchy": {
+        "system": "상황과 장소",
+        "root": "학교와 공부",
+        "category": "수업과 교육 활동",
+        "path_ko": "상황과 장소 > 학교와 공부 > 수업과 교육 활동",
+        "root_id": "상황과 장소",
+        "root_label": "상황과 장소",
+        "root_en": "",
+        "scene": "학교와 공부"
+      },
+      "stats": {
+        "frequency": 1,
+        "rank": 5498,
+        "round_count": 1,
+        "band": 5,
+        "level": "Unrated"
+      },
+      "chunk_id": "chunk_001",
+      "related_vocab": [],
+      "refs": {
+        "cross_links": []
+      },
+      "is_center_profile": false
+    }
+  ],
+  "response": "{\n  \"links\": [\n    {\n      \"source_id\": \"값싸다_형용사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"저렴하다_형용사-1\",\n          \"hook_id\": \"H12\",\n          \"reason\": \"값이 싸다는 의미의 유사어\"\n        },\n        {\n          \"target_id\": \"가격_일반명사-1\",\n          \"hook_id\": \"H12\",\n          \"reason\": \"값싸다는 가격의 특성을 나타냄\"\n        },\n        {\n          \"target_id\": \"값_일반명사-1\",\n          \"hook_id\": \"H12\",\n          \"reason\": \"값싸다의 핵심 명사\"\n        },\n        {\n          \"target_id\": \"비싸다_형용사-1\",\n          \"hook_id\": \"H12\",\n          \"reason\": \"값싸다의 반대 의미\"\n        },\n        {\n          \"target_id\": \"세일_일반명사-1\",\n          \"hook_id\": \"H12\",\n          \"reason\": \"값이 싸지는 상황\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"갓_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"전통_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"갓은 전통적인 사물임\"\n        },\n        {\n          \"target_id\": \"전통문화_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"갓은 전통문화의 일부임\"\n        },\n        {\n          \"target_id\": \"복식_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"갓은 전통 복식의 한 종류임\"\n        },\n        {\n          \"target_id\": \"예복_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"갓은 예복과 함께 착용되었음\"\n        },\n        {\n          \"target_id\": \"문화유산_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"갓은 문화유산적 가치를 지님\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강물_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강에 흐르는 물\"\n        },\n        {\n          \"target_id\": \"바다_일반명사-1\",\n          \"hook_id\": \"H15\",\n          \"reason\": \"강물이 흘러 들어가는 종착지\"\n        },\n        {\n          \"target_id\": \"물길_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강은 물이 흐르는 길\"\n        },\n        {\n          \"target_id\": \"개울_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강보다 작은 물줄기\"\n        },\n        {\n          \"target_id\": \"민물_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물의 특성\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강국_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"열강_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"힘이 센 큰 나라들을 의미하는 유사어\"\n        },\n        {\n          \"target_id\": \"나라_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"강국은 나라의 한 종류\"\n        },\n        {\n          \"target_id\": \"국가_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"강국은 국가의 한 종류\"\n        },\n        {\n          \"target_id\": \"선진국_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"선진국은 보통 강국에 해당함\"\n        },\n        {\n          \"target_id\": \"외교_일반명사-1\",\n          \"hook_id\": \"H17\",\n          \"reason\": \"강국은 외교에서 큰 영향력을 가짐\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강물_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물은 강에 흐르는 물\"\n        },\n        {\n          \"target_id\": \"물_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물은 물의 한 종류\"\n        },\n        {\n          \"target_id\": \"물길_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물은 물길을 따라 흐름\"\n        },\n        {\n          \"target_id\": \"물살_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물의 흐름의 빠르기와 세기\"\n        },\n        {\n          \"target_id\": \"민물_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강물의 특성\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강사_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강의실_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강사가 강의를 하는 장소\"\n        },\n        {\n          \"target_id\": \"강연_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강사가 하는 행위\"\n        },\n        {\n          \"target_id\": \"교수_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"강사와 유사한 교육 직책\"\n        },\n        {\n          \"target_id\": \"교사_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"강사와 유사한 교육 직책\"\n        },\n        {\n          \"target_id\": \"수강_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강사의 강의를 듣는 행위\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강수량_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"비_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강수량의 주요 구성 요소\"\n        },\n        {\n          \"target_id\": \"눈_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강수량의 주요 구성 요소\"\n        },\n        {\n          \"target_id\": \"홍수_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"과도한 강수량으로 인한 결과\"\n        },\n        {\n          \"target_id\": \"가뭄_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강수량 부족으로 인한 현상\"\n        },\n        {\n          \"target_id\": \"장마_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강수량이 많은 시기\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강습_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"수업_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강습은 수업의 한 형태\"\n        },\n        {\n          \"target_id\": \"강의_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강습은 강의를 포함함\"\n        },\n        {\n          \"target_id\": \"학습_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강습의 목적은 학습\"\n        },\n        {\n          \"target_id\": \"실습_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강습에 실습이 포함될 수 있음\"\n        },\n        {\n          \"target_id\": \"연수_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강습은 연수의 한 형태\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강아지_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"개_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"강아지는 어린 개\"\n        },\n        {\n          \"target_id\": \"새끼_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"강아지는 동물의 새끼\"\n        },\n        {\n          \"target_id\": \"동물_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"강아지는 동물임\"\n        },\n        {\n          \"target_id\": \"멍멍_일반부사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"강아지가 내는 소리\"\n        },\n        {\n          \"target_id\": \"꼬리_일반명사-1\",\n          \"hook_id\": \"H02\",\n          \"reason\": \"강아지의 신체 부위\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강연_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강의_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강연은 강의의 유사어\"\n        },\n        {\n          \"target_id\": \"강좌_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강연은 강좌의 한 부분\"\n        },\n        {\n          \"target_id\": \"수업_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강연은 수업의 한 형태\"\n        },\n        {\n          \"target_id\": \"가르치다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강연을 통해 지식을 가르침\"\n        },\n        {\n          \"target_id\": \"수강_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강연을 듣는 행위\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강요_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강제_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강요와 강제는 유사한 의미\"\n        },\n        {\n          \"target_id\": \"떠넘기다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"억지로 일을 시키는 행위\"\n        },\n        {\n          \"target_id\": \"빼앗다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"억지로 취하는 행위\"\n        },\n        {\n          \"target_id\": \"가로채다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"억지로 빼앗는 행위\"\n        },\n        {\n          \"target_id\": \"간섭_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강요는 간섭의 한 형태일 수 있음\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강우_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"비_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강우는 비가 내리는 현상\"\n        },\n        {\n          \"target_id\": \"내리다_동사-2\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"비가 내리는 동작\"\n        },\n        {\n          \"target_id\": \"강수량_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강우는 강수량에 영향을 줌\"\n        },\n        {\n          \"target_id\": \"홍수_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"과도한 강우로 인한 결과\"\n        },\n        {\n          \"target_id\": \"장마_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강우가 지속되는 시기\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강의_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강연_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강의와 강연은 유사어\"\n        },\n        {\n          \"target_id\": \"수업_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강의는 수업의 한 형태\"\n        },\n        {\n          \"target_id\": \"강좌_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강의는 강좌의 한 부분\"\n        },\n        {\n          \"target_id\": \"가르치다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강의를 통해 지식을 가르침\"\n        },\n        {\n          \"target_id\": \"수강_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강의를 듣는 행위\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강의실_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"교실_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강의실은 교실의 한 종류\"\n        },\n        {\n          \"target_id\": \"학교_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강의실은 학교의 시설\"\n        },\n        {\n          \"target_id\": \"강사_일반명사-1\",\n          \"hook_id\": \"H05\",\n          \"reason\": \"강의실에서 강의하는 사람\"\n        },\n        {\n          \"target_id\": \"칠판_일반명사-1\",\n          \"hook_id\": \"H19\",\n          \"reason\": \"강의실에 있는 도구\"\n        },\n        {\n          \"target_id\": \"분필_일반명사-1\",\n          \"hook_id\": \"H19\",\n          \"reason\": \"칠판과 함께 강의실에서 사용되는 도구\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강제_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강요_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강제와 강요는 유사한 의미\"\n        },\n        {\n          \"target_id\": \"빼앗다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강제로 취하는 행위\"\n        },\n        {\n          \"target_id\": \"떠넘기다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강제로 일을 시키는 행위\"\n        },\n        {\n          \"target_id\": \"가로채다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강제로 빼앗는 행위\"\n        },\n        {\n          \"target_id\": \"끌어들이다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강제로 참여하게 하는 행위\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강좌_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"강의_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강좌는 여러 강의로 구성됨\"\n        },\n        {\n          \"target_id\": \"강연_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강좌는 여러 강연으로 구성됨\"\n        },\n        {\n          \"target_id\": \"수업_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강좌는 수업의 한 형태\"\n        },\n        {\n          \"target_id\": \"수강_일반명사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강좌를 듣는 행위\"\n        },\n        {\n          \"target_id\": \"개강_일반명사-1\",\n          \"hook_id\": \"H04\",\n          \"reason\": \"강좌가 시작되는 시점\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"강풍_일반명사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"바람_일반명사-1\",\n          \"hook_id\": \"H18\",\n          \"reason\": \"강풍은 강한 바람\"\n        },\n        {\n          \"target_id\": \"태풍_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"태풍은 강풍을 동반함\"\n        },\n        {\n          \"target_id\": \"불다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강풍이 부는 동작\"\n        },\n        {\n          \"target_id\": \"날리다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"강풍으로 인해 물체가 날림\"\n        },\n        {\n          \"target_id\": \"산불_일반명사-1\",\n          \"hook_id\": \"H10\",\n          \"reason\": \"강풍은 산불을 확산시킬 수 있음\"\n        }\n      ]\n    },\n    {\n      \"source_id\": \"갚다_동사-1\",\n      \"related\": [\n        {\n          \"target_id\": \"주다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"빌린 것을 되돌려 주는 행위\"\n        },\n        {\n          \"target_id\": \"돕다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"은혜를 갚기 위해 돕는 행위\"\n        },\n        {\n          \"target_id\": \"도와주다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"은혜를 갚기 위해 도와주는 행위\"\n        },\n        {\n          \"target_id\": \"드리다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"윗사람에게 공손히 갚는 행위\"\n        },\n        {\n          \"target_id\": \"베풀다_동사-1\",\n          \"hook_id\": \"H03\",\n          \"reason\": \"갚아야 할 은혜를 베푸는 행위\"\n        }\n      ]\n    }\n  ]\n}"
+}

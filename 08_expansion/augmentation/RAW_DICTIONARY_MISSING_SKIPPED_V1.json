@@ -1,0 +1,44 @@
+[
+  {
+    "lemma": "교실",
+    "raw_pos": null,
+    "pos_ko": null,
+    "level_pos_notation": null,
+    "raw_homonym_no": null,
+    "raw_sense_no": 1,
+    "meaning_kr": "",
+    "example_ko": null,
+    "e_word": null,
+    "meaning_en": null,
+    "raw_page_number": 53,
+    "skip_reason": "missing_meaning_or_pos"
+  },
+  {
+    "lemma": "동물원",
+    "raw_pos": null,
+    "pos_ko": null,
+    "level_pos_notation": null,
+    "raw_homonym_no": null,
+    "raw_sense_no": 1,
+    "meaning_kr": "",
+    "example_ko": null,
+    "e_word": null,
+    "meaning_en": null,
+    "raw_page_number": 143,
+    "skip_reason": "missing_meaning_or_pos"
+  },
+  {
+    "lemma": "애기",
+    "raw_pos": "명",
+    "pos_ko": "일반명사",
+    "level_pos_notation": "[중] [명]",
+    "raw_homonym_no": null,
+    "raw_sense_no": 1,
+    "meaning_kr": "",
+    "example_ko": "애기를 낳다.",
+    "e_word": "baby",
+    "meaning_en": null,
+    "raw_page_number": 342,
+    "skip_reason": "missing_meaning_or_pos"
+  }
+]

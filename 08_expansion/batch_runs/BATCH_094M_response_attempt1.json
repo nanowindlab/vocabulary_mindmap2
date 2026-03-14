@@ -1,0 +1,292 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "칼_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "조리 도구",
+      "rationale_short": "식생활과 관련된 조리 도구."
+    },
+    {
+      "meaning_id": "커다랗다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "크기 묘사",
+      "rationale_short": "사물의 크기를 묘사하는 형용사."
+    },
+    {
+      "meaning_id": "코끼리_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 종류",
+      "rationale_short": "자연에 속하는 동물."
+    },
+    {
+      "meaning_id": "콘텐츠_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 매체",
+      "rationale_short": "문화적 정보 및 놀이거리의 총칭."
+    },
+    {
+      "meaning_id": "키_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "높이 측정",
+      "rationale_short": "사람이나 물건의 높이를 나타내는 수량."
+    },
+    {
+      "meaning_id": "타_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "지시적 기능어이며 시각화가 어렵고 학습 적합성이 낮음.",
+      "rationale_short": "지시적 기능어로 시각화 및 학습 적합성 낮음."
+    },
+    {
+      "meaning_id": "타자_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "야구 선수 역할",
+      "rationale_short": "야구라는 스포츠 활동 내의 특정 역할."
+    },
+    {
+      "meaning_id": "탄소_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "과학 분야의 전문 용어로, 기존 루트에 명확히 분류하기 모호함.",
+      "rationale_short": "과학 전문 용어로 분류 모호."
+    },
+    {
+      "meaning_id": "탐사선_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "탐사용 탈것",
+      "rationale_short": "우주나 자연 환경을 탐사하는 데 사용되는 특수 탈것."
+    },
+    {
+      "meaning_id": "탐험_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "미지 탐색 행위",
+      "rationale_short": "미지의 장소를 찾아 조사하는 행위로 여행과 밀접."
+    },
+    {
+      "meaning_id": "톤_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색/소리 정도",
+      "rationale_short": "색깔이나 소리의 느낌을 묘사하는 정도."
+    },
+    {
+      "meaning_id": "톱니_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "도구 부분",
+      "rationale_short": "톱과 같은 도구의 특정 부분."
+    },
+    {
+      "meaning_id": "통보_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달 행위",
+      "rationale_short": "소식이나 내용을 전달하는 사회적 행위."
+    },
+    {
+      "meaning_id": "통제_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "제한 및 관리",
+      "rationale_short": "제한하고 다스리는 사회적/관리적 행위."
+    },
+    {
+      "meaning_id": "튀다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물체 움직임",
+      "rationale_short": "물체의 물리적 움직임을 묘사하는 동사."
+    },
+    {
+      "meaning_id": "특산품_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "지역 상품",
+      "rationale_short": "특정 지역에서 생산되어 판매되는 상품."
+    },
+    {
+      "meaning_id": "특유_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "특정 대상에만 있는 고유한 특성을 나타내는 추상적 개념으로, 묘사의 영역과 겹치지만 분류가 모호함.",
+      "rationale_short": "고유한 특성을 나타내는 추상적 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "틀림없다_형용사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "확실성 판단",
+      "rationale_short": "어떤 사실이나 판단의 확실성을 나타내는 형용사."
+    },
+    {
+      "meaning_id": "파_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "채소 재료",
+      "rationale_short": "식생활과 관련된 음식 재료."
+    },
+    {
+      "meaning_id": "파_일반명사-2",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "유사 집단",
+      "rationale_short": "생각이나 이해관계가 비슷한 사람들의 사회적 집단."
+    },
+    {
+      "meaning_id": "팔_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "rationale_short": "사람의 신체 부위."
+    },
+    {
+      "meaning_id": "팝콘_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "간식 종류",
+      "rationale_short": "식생활과 관련된 간식."
+    },
+    {
+      "meaning_id": "패션_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "유행 스타일",
+      "rationale_short": "옷차림과 꾸밈의 유행하는 스타일로 문화적 현상."
+    },
+    {
+      "meaning_id": "펜_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "필기 도구",
+      "rationale_short": "일상생활에서 사용하는 필기 도구."
+    },
+    {
+      "meaning_id": "편중_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "힘이나 자원의 불균형 상태를 나타내는 추상적 개념으로 분류가 모호함.",
+      "rationale_short": "힘이나 자원의 불균형 상태를 나타내는 추상적 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "평등_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 가치",
+      "rationale_short": "사회적 권리와 대우의 평등을 나타내는 가치."
+    },
+    {
+      "meaning_id": "평생_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "전 생애 기간",
+      "rationale_short": "태어나서 죽을 때까지의 시간적 흐름."
+    },
+    {
+      "meaning_id": "폐기물_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "버려진 물건",
+      "rationale_short": "일상생활에서 버려지는 물질이나 물건."
+    },
+    {
+      "meaning_id": "폭넓다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "범위 묘사",
+      "rationale_short": "관계나 지식 등의 범위가 넓음을 묘사하는 형용사."
+    },
+    {
+      "meaning_id": "표지판_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "안내 표시물",
+      "rationale_short": "장소나 주의 사항을 알리는 공공 시설물."
+    },
+    {
+      "meaning_id": "풀_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 종류",
+      "rationale_short": "자연에 속하는 식물."
+    },
+    {
+      "meaning_id": "풍기다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "냄새 발산",
+      "rationale_short": "냄새나 기운이 퍼져 나오는 것을 묘사하는 동사."
+    },
+    {
+      "meaning_id": "풍부하다_형용사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "넉넉한 수량",
+      "rationale_short": "수량이나 내용이 많음을 나타내는 형용사."
+    },
+    {
+      "meaning_id": "풍요_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "넉넉한 상태",
+      "rationale_short": "먹을 것과 쓸 것이 넉넉한 사회적 상태."
+    },
+    {
+      "meaning_id": "풍자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "비판적 표현",
+      "rationale_short": "부조리를 비꼬는 문화적 표현 방식."
+    },
+    {
+      "meaning_id": "플랜트_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "산업 시설",
+      "rationale_short": "산업 현장의 대규모 설비 체계."
+    },
+    {
+      "meaning_id": "하루하루_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "매일의 시간",
+      "rationale_short": "날마다 이어지는 시간의 흐름."
+    },
+    {
+      "meaning_id": "학생회_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학생 자치 조직",
+      "rationale_short": "학교 내 학생들의 자치 조직."
+    },
+    {
+      "meaning_id": "학습법_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "공부 방법",
+      "rationale_short": "효과적인 공부를 위한 방법."
+    },
+    {
+      "meaning_id": "한두_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "수량을 지시하는 기능어이며 시각화가 어렵고 학습 적합성이 낮음.",
+      "rationale_short": "수량을 지시하는 기능어로 시각화 및 학습 적합성 낮음."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념 중 특정 루트에 명확히 속하지 않는 경우 (예: 탄소, 특유, 편중)",
+      "관형사 등 기능어의 exclusion 판단 (시각화 어려움 기준 적용)"
+    ],
+    "ia_suggestions": [
+      "과학/학술 분야의 전문 용어를 위한 '과학과 기술' 또는 '학문과 지식'과 같은 새로운 루트 추가를 고려하여 '탄소'와 같은 단어의 분류 모호성을 줄일 수 있습니다.",
+      "추상적 개념 중 '상태'나 '특성'을 나타내는 단어들을 위한 '개념과 상태'와 같은 루트를 고려하여 '특유', '편중'과 같은 단어의 분류를 명확히 할 수 있습니다."
+    ]
+  }
+}

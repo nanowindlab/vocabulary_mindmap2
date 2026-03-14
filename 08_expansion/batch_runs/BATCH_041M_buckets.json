@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "좁다_형용사-1",
+      "rationale_short": "공간의 물리적 특성을 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "공간 폭 묘사"
+    },
+    {
+      "meaning_id": "증상_일반명사-1",
+      "rationale_short": "의료 증상에 대한 명확한 정의.",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 신체 상태"
+    },
+    {
+      "meaning_id": "지하_일반명사-1",
+      "rationale_short": "물리적 장소를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 아래 공간"
+    },
+    {
+      "meaning_id": "짐_일반명사-1",
+      "rationale_short": "일상생활에서 다루는 물건의 한 종류.",
+      "root": "주거와 일상",
+      "category_label_ko": "이동용 물건"
+    },
+    {
+      "meaning_id": "처벌_일반명사-1",
+      "rationale_short": "사회 제도 및 법적 행위와 명확히 관련.",
+      "root": "공공 서비스",
+      "category_label_ko": "법적 제재 행위"
+    },
+    {
+      "meaning_id": "친절_일반명사-1",
+      "rationale_short": "사람의 성격과 태도를 명확히 묘사.",
+      "root": "성격과 태도",
+      "category_label_ko": "상냥한 태도"
+    },
+    {
+      "meaning_id": "평일_일반명사-1",
+      "rationale_short": "시간을 명확히 지칭.",
+      "root": "시간과 흐름",
+      "category_label_ko": "주중 시간"
+    },
+    {
+      "meaning_id": "한옥_일반명사-1",
+      "rationale_short": "주거 형태를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "전통 가옥"
+    },
+    {
+      "meaning_id": "훈련_일반명사-1",
+      "rationale_short": "능력 향상을 위한 반복적 활동을 명확히 지칭.",
+      "root": "학교와 공부",
+      "category_label_ko": "능력 개발 활동"
+    },
+    {
+      "meaning_id": "휴식_일반명사-1",
+      "rationale_short": "여가 활동의 한 형태를 명확히 지칭.",
+      "root": "여가와 취미",
+      "category_label_ko": "쉬는 활동"
+    },
+    {
+      "meaning_id": "강의_일반명사-1",
+      "rationale_short": "교육 활동을 명확히 지칭.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 설명 활동"
+    },
+    {
+      "meaning_id": "검토_일반명사-1",
+      "rationale_short": "정보나 내용을 확인하는 행위를 명확히 지칭.",
+      "root": "직장과 업무",
+      "category_label_ko": "내용 확인 작업"
+    },
+    {
+      "meaning_id": "공장_일반명사-1",
+      "rationale_short": "생산 활동이 이루어지는 장소를 명확히 지칭.",
+      "root": "직장과 업무",
+      "category_label_ko": "생산 시설"
+    },
+    {
+      "meaning_id": "관광객_일반명사-1",
+      "rationale_short": "여행과 관련된 사람을 명확히 지칭.",
+      "root": "여행",
+      "category_label_ko": "여행하는 사람"
+    },
+    {
+      "meaning_id": "그만두다_동사-1",
+      "rationale_short": "특정 행위나 역할을 중단하는 것을 명확히 지칭.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "행동 중단"
+    },
+    {
+      "meaning_id": "깨끗하다_형용사-1",
+      "rationale_short": "사물의 상태를 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "청결 상태 묘사"
+    },
+    {
+      "meaning_id": "꾸미다_동사-1",
+      "rationale_short": "외형을 좋게 만드는 행위를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "장식 행위"
+    },
+    {
+      "meaning_id": "꿀_일반명사-1",
+      "rationale_short": "음식 재료를 명확히 지칭.",
+      "root": "식생활",
+      "category_label_ko": "달콤한 식품"
+    },
+    {
+      "meaning_id": "나뭇잎_일반명사-1",
+      "rationale_short": "자연물을 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "나무의 잎"
+    },
+    {
+      "meaning_id": "남녀_일반명사-1",
+      "rationale_short": "사람의 기본적인 분류를 명확히 지칭.",
+      "root": "사람과 관계",
+      "category_label_ko": "성별 구분"
+    },
+    {
+      "meaning_id": "넘어지다_동사-1",
+      "rationale_short": "물리적 상황을 명확히 지칭.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "균형 상실"
+    },
+    {
+      "meaning_id": "논리_일반명사-1",
+      "rationale_short": "논리적 사고 체계를 명확히 지칭.",
+      "root": "논리와 연결",
+      "category_label_ko": "사고 체계"
+    },
+    {
+      "meaning_id": "대리_일반명사-1",
+      "rationale_short": "업무나 역할을 대신하는 행위를 명확히 지칭.",
+      "root": "직장과 업무",
+      "category_label_ko": "대신 처리"
+    },
+    {
+      "meaning_id": "땀_일반명사-1",
+      "rationale_short": "신체 반응 및 건강과 관련된 명확한 개념.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 배출액"
+    },
+    {
+      "meaning_id": "리듬_일반명사-1",
+      "rationale_short": "음악이나 동작의 규칙적인 패턴을 명확히 지칭.",
+      "root": "여가와 취미",
+      "category_label_ko": "규칙적 박자"
+    },
+    {
+      "meaning_id": "마르다_동사-1",
+      "rationale_short": "물리적 상태 변화를 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "물기 없어짐"
+    },
+    {
+      "meaning_id": "마르다_동사-2",
+      "rationale_short": "신체 상태 변화를 명확히 지칭.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 여윔"
+    },
+    {
+      "meaning_id": "먼지_일반명사-1",
+      "rationale_short": "일상생활에서 접하는 물질을 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "작은 오염 물질"
+    },
+    {
+      "meaning_id": "멈추다_동사-1",
+      "rationale_short": "행동 중단을 명확히 지칭.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "행동 중단"
+    },
+    {
+      "meaning_id": "메모_일반명사-1",
+      "rationale_short": "기록 행위의 결과물을 명확히 지칭.",
+      "root": "학교와 공부",
+      "category_label_ko": "간단한 기록"
+    },
+    {
+      "meaning_id": "모기_일반명사-1",
+      "rationale_short": "자연 속 생물을 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "흡혈 곤충"
+    },
+    {
+      "meaning_id": "목표_일반명사-1",
+      "rationale_short": "개인의 의지나 계획과 관련된 개념을 명확히 지칭.",
+      "root": "내면과 감정",
+      "category_label_ko": "달성 지점"
+    },
+    {
+      "meaning_id": "무지개_일반명사-1",
+      "rationale_short": "자연 현상을 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "하늘 자연 현상"
+    },
+    {
+      "meaning_id": "문양_일반명사-1",
+      "rationale_short": "물건의 장식 요소를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "장식 무늬"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "정신_일반명사-2",
+      "rationale_short": "내면적 태도와 관련된 모호성.",
+      "root": "내면과 감정",
+      "candidate_reason": "어떤 일에 쏟는 마음가짐이나 태도는 내면적 태도와 관련되지만, '태도'는 '성격과 태도'와도 겹칠 수 있어 모호함."
+    },
+    {
+      "meaning_id": "정체_일반명사-1",
+      "rationale_short": "특정 상황에 대한 묘사이지만, 일반적인 상태를 나타내므로 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "앞으로 나아가지 못하고 머무는 상태는 일반적인 상황 묘사이지만, 교통 정체 등 특정 맥락에서 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "정체_일반명사-2",
+      "rationale_short": "사람/사물의 본질을 나타내어 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사물이나 사람의 본모습이나 참모양은 '내면과 감정'(사람의 정체성) 또는 '상황 지시/기타'(사물의 본질)와 겹칠 수 있어 모호함."
+    },
+    {
+      "meaning_id": "충돌_일반명사-1",
+      "rationale_short": "물리적 충돌과 의견 충돌 두 가지 의미를 포함하여 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적으로 부딪히는 것과 생각이 맞지 않아 다투는 것 두 가지 의미를 포함하여 모호함."
+    },
+    {
+      "meaning_id": "흘리다_동사-1",
+      "rationale_short": "액체가 떨어지는 물리적 현상과 신체 반응이 겹쳐 모호.",
+      "root": "감각과 묘사",
+      "candidate_reason": "액체가 떨어지는 물리적 현상과 눈물, 땀 등 신체 반응이 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "꾸미다_동사-2",
+      "rationale_short": "이야기나 일을 지어내거나 계획하는 행위로, 내면적 사고와 외부적 행동이 겹쳐 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "이야기나 일을 지어내거나 계획하는 행위로, 내면적 사고와 외부적 행동이 겹쳐 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "다의어 처리: 하나의 어휘가 여러 의미를 가질 때, 각 의미가 다른 root에 속하거나 모호성을 가질 수 있음. (예: 충돌, 꾸미다)",
+      "추상적 개념과 구체적 상황의 경계: '정신', '정체'와 같이 내면적/추상적 개념이면서도 특정 상황에 적용될 수 있는 경우 분류 모호성이 발생함."
+    ],
+    "ia_suggestions": [
+      "IA V4의 '상황 지시/기타' root는 다의어 또는 추상적 개념의 임시 분류로 자주 사용되므로, 이 root 내에서 하위 분류를 더 세분화하거나 다른 root로의 재배치를 위한 추가 논의가 필요할 수 있습니다.",
+      "동사/형용사의 경우, 그 행위나 상태가 주로 어떤 맥락(예: 신체, 감각, 일상)에서 발생하는지 명확히 정의하는 가이드라인을 강화하여 '감각과 묘사'와 같은 root의 활용 기준을 명확히 할 필요가 있습니다."
+    ]
+  }
+}

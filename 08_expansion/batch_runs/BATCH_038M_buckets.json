@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "데리다_동사-1",
+      "rationale_short": "사람과 함께하는 명확한 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "사람 동반 행위"
+    },
+    {
+      "meaning_id": "돌_일반명사-1",
+      "rationale_short": "땅을 이루는 자연 물질.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 물질"
+    },
+    {
+      "meaning_id": "돌_일반명사-2",
+      "rationale_short": "아이의 첫 생일을 기념하는 문화적 행사.",
+      "root": "문화와 사회",
+      "category_label_ko": "기념일 행사"
+    },
+    {
+      "meaning_id": "드러내다_동사-1",
+      "rationale_short": "감추어진 것을 보이게 하는 명확한 행위.",
+      "root": "감각과 묘사",
+      "category_label_ko": "보이게 하는 행위"
+    },
+    {
+      "meaning_id": "드론_일반명사-1",
+      "rationale_short": "원격 조종 비행기로 교통/운송 기술에 해당.",
+      "root": "교통",
+      "category_label_ko": "무인 비행 장치"
+    },
+    {
+      "meaning_id": "따로_일반부사-1",
+      "rationale_short": "함께가 아닌 분리된 상태를 나타내는 부사.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "분리된 상태"
+    },
+    {
+      "meaning_id": "또는_일반부사-1",
+      "rationale_short": "둘 중 하나를 선택하는 논리적 연결어.",
+      "root": "논리와 연결",
+      "category_label_ko": "선택 연결어"
+    },
+    {
+      "meaning_id": "마케팅_일반명사-1",
+      "rationale_short": "물건/서비스 판매를 위한 직업/업무 활동.",
+      "root": "직장과 업무",
+      "category_label_ko": "판매 촉진 활동"
+    },
+    {
+      "meaning_id": "무리_일반명사-1",
+      "rationale_short": "여럿이 모인 집단을 나타내는 수량 개념.",
+      "root": "수량과 단위",
+      "category_label_ko": "집단 단위"
+    },
+    {
+      "meaning_id": "믿음_일반명사-1",
+      "rationale_short": "틀림없다고 여기는 내면의 마음.",
+      "root": "내면과 감정",
+      "category_label_ko": "확신하는 마음"
+    },
+    {
+      "meaning_id": "반드시_일반부사-1",
+      "rationale_short": "틀림없이 꼭 해야 하는 상황을 지시.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "확실한 상태"
+    },
+    {
+      "meaning_id": "발_일반명사-1",
+      "rationale_short": "신체 부위는 '보건과 의료'로 분류.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 하단 부위"
+    },
+    {
+      "meaning_id": "방해_일반명사-1",
+      "rationale_short": "일의 진행을 막는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "진행 방해 행위"
+    },
+    {
+      "meaning_id": "배려_일반명사-1",
+      "rationale_short": "다른 사람을 살피고 돕는 마음씀은 성격/태도에 해당.",
+      "root": "성격과 태도",
+      "category_label_ko": "타인 존중 태도"
+    },
+    {
+      "meaning_id": "복권_일반명사-1",
+      "rationale_short": "상금을 받는 종이표는 여가 활동의 일종.",
+      "root": "여가와 취미",
+      "category_label_ko": "추첨 상금권"
+    },
+    {
+      "meaning_id": "복사기_일반명사-1",
+      "rationale_short": "문서 복제 기계는 직장/업무 환경에서 주로 사용.",
+      "root": "직장과 업무",
+      "category_label_ko": "문서 복제 기계"
+    },
+    {
+      "meaning_id": "불_일반명사-1",
+      "rationale_short": "물질이 타는 자연 현상.",
+      "root": "날씨와 자연",
+      "category_label_ko": "연소 현상"
+    },
+    {
+      "meaning_id": "불법_일반명사-1",
+      "rationale_short": "법에 어긋나는 행위는 공공 서비스(법률) 관련.",
+      "root": "공공 서비스",
+      "category_label_ko": "법률 위반"
+    },
+    {
+      "meaning_id": "빗물_일반명사-1",
+      "rationale_short": "하늘에서 내리는 자연 현상인 비의 물.",
+      "root": "날씨와 자연",
+      "category_label_ko": "비 내린 물"
+    },
+    {
+      "meaning_id": "사진관_일반명사-1",
+      "rationale_short": "사진을 찍거나 인화하는 상점은 쇼핑/서비스에 해당.",
+      "root": "쇼핑",
+      "category_label_ko": "사진 촬영 상점"
+    },
+    {
+      "meaning_id": "살펴보다_동사-1",
+      "rationale_short": "주의 깊게 보는 시각적 감각 행위.",
+      "root": "감각과 묘사",
+      "category_label_ko": "주의 깊게 봄"
+    },
+    {
+      "meaning_id": "생물_일반명사-1",
+      "rationale_short": "스스로 자라고 번식하는 자연의 존재.",
+      "root": "날씨와 자연",
+      "category_label_ko": "살아있는 존재"
+    },
+    {
+      "meaning_id": "설문_일반명사-1",
+      "rationale_short": "여러 사람에게 물어보는 사회적 조사 활동.",
+      "root": "문화와 사회",
+      "category_label_ko": "질문 조사 내용"
+    },
+    {
+      "meaning_id": "세대_일반명사-1",
+      "rationale_short": "비슷한 시기를 사는 사람들의 사회적 집단.",
+      "root": "문화와 사회",
+      "category_label_ko": "동시대 집단"
+    },
+    {
+      "meaning_id": "신체_일반명사-1",
+      "rationale_short": "사람이나 동물의 몸 전체는 보건/의료 관련.",
+      "root": "보건과 의료",
+      "category_label_ko": "생명체 몸 전체"
+    },
+    {
+      "meaning_id": "싫다_형용사-1",
+      "rationale_short": "마음에 들지 않는 내면의 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "부정적 감정"
+    },
+    {
+      "meaning_id": "싫어하다_동사-1",
+      "rationale_short": "마음에 들지 않아 피하려는 감정 표현.",
+      "root": "내면과 감정",
+      "category_label_ko": "부정적 감정 표현"
+    },
+    {
+      "meaning_id": "심사_일반명사-1",
+      "rationale_short": "정해진 기준에 따라 따져 살피는 업무 과정.",
+      "root": "직장과 업무",
+      "category_label_ko": "기준 검토 과정"
+    },
+    {
+      "meaning_id": "쌓이다_동사-1",
+      "rationale_short": "물건이나 일이 포개지거나 모이는 일반적 상황.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건/일 축적"
+    },
+    {
+      "meaning_id": "쓰기_일반명사-1",
+      "rationale_short": "글자를 적거나 글을 짓는 학습 활동.",
+      "root": "학교와 공부",
+      "category_label_ko": "글 작성 활동"
+    },
+    {
+      "meaning_id": "쓰이다_동사-1",
+      "rationale_short": "글이나 기록이 적히는 학습/기록 관련 행위.",
+      "root": "학교와 공부",
+      "category_label_ko": "글 기록됨"
+    },
+    {
+      "meaning_id": "쓰이다_동사-2",
+      "rationale_short": "도구나 돈이 어떤 일에 사용되는 일반적 상황.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "도구/돈 사용"
+    },
+    {
+      "meaning_id": "아기_일반명사-1",
+      "rationale_short": "태어난 지 얼마 안 된 어린 사람.",
+      "root": "사람과 관계",
+      "category_label_ko": "어린 사람"
+    },
+    {
+      "meaning_id": "아끼다_동사-1",
+      "rationale_short": "낭비하지 않으려는 조심스러운 태도.",
+      "root": "성격과 태도",
+      "category_label_ko": "절약하는 태도"
+    },
+    {
+      "meaning_id": "어둡다_형용사-1",
+      "rationale_short": "빛이 적어 환하지 않은 시각적 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빛 부족 상태"
+    },
+    {
+      "meaning_id": "여전히_일반부사-1",
+      "rationale_short": "전과 다르지 않게 계속되는 시간적 흐름.",
+      "root": "시간과 흐름",
+      "category_label_ko": "변함없는 지속"
+    },
+    {
+      "meaning_id": "오랜_관형사-1",
+      "rationale_short": "시간이 꽤 많이 흐른 것을 나타내는 관형사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "긴 시간 경과"
+    },
+    {
+      "meaning_id": "완성_일반명사-1",
+      "rationale_short": "어떤 것을 전부 다 만들어 마치는 일반적 상황.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "모든 과정 마침"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "동일_일반명사-1",
+      "rationale_short": "서로 같다는 추상적 개념으로 분류 모호.",
+      "root": "감각과 묘사",
+      "candidate_reason": "추상적 개념으로 '감각과 묘사'와 '논리와 연결' 등 여러 root와 경계가 모호함."
+    },
+    {
+      "meaning_id": "상처_일반명사-1",
+      "rationale_short": "신체적/정신적 의미 모두 포함하여 분류 모호.",
+      "root": "보건과 의료",
+      "candidate_reason": "몸과 마음 모두에 해당하여 '보건과 의료'와 '내면과 감정' 사이 경계가 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념어는 여러 root와 경계가 모호하여 candidate로 분류될 가능성이 높음 (예: 동일).",
+      "신체/감정적 이중 의미를 가진 명사는 분류 모호성으로 candidate로 분류될 수 있음 (예: 상처)."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어에 대한 분류 가이드라인을 강화하여 '논리와 연결', '감각과 묘사', '상황 지시/기타' 간의 명확한 구분 기준을 마련해야 합니다.",
+      "신체 부위/의료 증상 관련 어휘 중 물리적/정신적 의미를 동시에 가지는 경우, 주된 의미를 기준으로 하되, 보조 의미에 대한 명확한 처리 방안 (예: 복수 root 허용 또는 특정 root 우선)을 고려해야 합니다."
+    ]
+  }
+}

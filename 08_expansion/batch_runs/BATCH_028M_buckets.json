@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "과거_일반명사-1",
+      "rationale_short": "시간 개념으로 명확하게 분류 가능.",
+      "root": "시간과 흐름",
+      "category_label_ko": "지나간 시간"
+    },
+    {
+      "meaning_id": "관객_일반명사-1",
+      "rationale_short": "사람의 역할/관계에 해당하며 명확함.",
+      "root": "사람과 관계",
+      "category_label_ko": "공연 관람자"
+    },
+    {
+      "meaning_id": "긴장_일반명사-1",
+      "rationale_short": "명확한 내면/감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "심리적 상태"
+    },
+    {
+      "meaning_id": "농구_일반명사-1",
+      "rationale_short": "명확한 여가/취미 활동.",
+      "root": "여가와 취미",
+      "category_label_ko": "구기 운동"
+    },
+    {
+      "meaning_id": "대표_일반명사-1",
+      "rationale_short": "사람의 역할/관계에 해당하며 명확함.",
+      "root": "사람과 관계",
+      "category_label_ko": "집단 대표자"
+    },
+    {
+      "meaning_id": "만족_일반명사-1",
+      "rationale_short": "명확한 내면/감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "흡족한 감정"
+    },
+    {
+      "meaning_id": "문명_일반명사-1",
+      "rationale_short": "사회 및 문화적 개념으로 명확함.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 발달 상태"
+    },
+    {
+      "meaning_id": "문의_일반명사-1",
+      "rationale_short": "질문 행위에 해당하며 명확함.",
+      "root": "지시와 질문",
+      "category_label_ko": "정보 요청"
+    },
+    {
+      "meaning_id": "범죄_일반명사-1",
+      "rationale_short": "법과 사회 질서에 관련된 개념으로, 공공 서비스 영역에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "불법 행위"
+    },
+    {
+      "meaning_id": "상담_일반명사-1",
+      "rationale_short": "전문적인 도움을 주는 행위로, 공공 서비스 영역에 해당.",
+      "root": "공공 서비스",
+      "category_label_ko": "문제 해결 지원"
+    },
+    {
+      "meaning_id": "심다_동사-1",
+      "rationale_short": "자연 및 식물 관련 행위로 명확함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 재배"
+    },
+    {
+      "meaning_id": "예전_일반명사-1",
+      "rationale_short": "시간 개념으로 명확하게 분류 가능.",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거의 시간"
+    },
+    {
+      "meaning_id": "요일_일반명사-1",
+      "rationale_short": "시간 개념으로 명확하게 분류 가능.",
+      "root": "시간과 흐름",
+      "category_label_ko": "주간 단위"
+    },
+    {
+      "meaning_id": "잠깐_일반부사-1",
+      "rationale_short": "시간의 길이를 나타내는 부사로 명확함.",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 시간"
+    },
+    {
+      "meaning_id": "제안_일반명사-1",
+      "rationale_short": "의견을 내는 행위로 명확함.",
+      "root": "의견과 가치",
+      "category_label_ko": "의견 제시"
+    },
+    {
+      "meaning_id": "주의_일반명사-1",
+      "rationale_short": "특정 상황에서의 태도나 행위로, '성격과 태도'에 적합.",
+      "root": "성격과 태도",
+      "category_label_ko": "조심하는 태도"
+    },
+    {
+      "meaning_id": "주의_일반명사-2",
+      "rationale_short": "사상이나 가치관에 대한 개념으로 명확함.",
+      "root": "의견과 가치",
+      "category_label_ko": "사상적 입장"
+    },
+    {
+      "meaning_id": "초기_일반명사-1",
+      "rationale_short": "시간 개념으로 명확하게 분류 가능.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시작 시기"
+    },
+    {
+      "meaning_id": "테니스_일반명사-1",
+      "rationale_short": "명확한 여가/취미 활동.",
+      "root": "여가와 취미",
+      "category_label_ko": "라켓 운동"
+    },
+    {
+      "meaning_id": "편안_일반명사-1",
+      "rationale_short": "명확한 내면/감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "안정된 상태"
+    },
+    {
+      "meaning_id": "편의점_일반명사-1",
+      "rationale_short": "쇼핑 행위가 이루어지는 장소로 명확함.",
+      "root": "쇼핑",
+      "category_label_ko": "소규모 상점"
+    },
+    {
+      "meaning_id": "해_일반명사-1",
+      "rationale_short": "자연 현상 및 천체에 해당하며 명확함.",
+      "root": "날씨와 자연",
+      "category_label_ko": "태양 천체"
+    },
+    {
+      "meaning_id": "해_일반명사-2",
+      "rationale_short": "시간 개념으로 명확하게 분류 가능.",
+      "root": "시간과 흐름",
+      "category_label_ko": "연간 단위"
+    },
+    {
+      "meaning_id": "교환_일반명사-1",
+      "rationale_short": "물건이나 돈을 주고받는 행위로, 쇼핑과 밀접하게 관련됨.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 바꾸기"
+    },
+    {
+      "meaning_id": "그래_감탄사-1",
+      "rationale_short": "의사소통의 한 형태로, 질문에 대한 응답이나 동의 표현에 해당.",
+      "root": "지시와 질문",
+      "category_label_ko": "동의 표현"
+    },
+    {
+      "meaning_id": "눈물_일반명사-1",
+      "rationale_short": "신체 부위/증상으로 볼 수도 있지만, 주로 감정 표현과 연관되므로 '내면과 감정'으로 분류.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 표현 액체"
+    },
+    {
+      "meaning_id": "담당_일반명사-1",
+      "rationale_short": "주로 직업적 역할이나 업무 분담과 관련되므로 '직장과 업무'로 분류.",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 책임"
+    },
+    {
+      "meaning_id": "대답_일반명사-1",
+      "rationale_short": "질문에 대한 응답 행위로 명확함.",
+      "root": "지시와 질문",
+      "category_label_ko": "질문 응답"
+    },
+    {
+      "meaning_id": "대여_일반명사-1",
+      "rationale_short": "물건을 빌려주는 행위로, 쇼핑(거래)과 유사한 맥락에서 볼 수 있음.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 빌려주기"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "갖추다_동사-1",
+      "rationale_short": "행위의 맥락이 광범위하여 임시 제안 root로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "행위 자체는 명확하나, 그 대상이나 맥락이 광범위하여 특정 코어에 묶기 모호함."
+    },
+    {
+      "meaning_id": "국내_일반명사-1",
+      "rationale_short": "국가 내부라는 사회적 맥락이 강하여 임시 제안 root로 분류.",
+      "root": "문화와 사회",
+      "candidate_reason": "장소 개념이지만, '나라'라는 사회적/정치적 맥락이 강하여 임시 제안 root로 분류."
+    },
+    {
+      "meaning_id": "끝_일반명사-1",
+      "rationale_short": "추상적인 개념으로, 임시 제안 root로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로, 맥락에 따라 다양한 의미를 가질 수 있어 모호함."
+    },
+    {
+      "meaning_id": "단계_일반명사-1",
+      "rationale_short": "진행 과정의 논리적 구분에 해당하나 모호하여 임시 제안 root로 분류.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, 진행 과정의 논리적 구분에 가깝지만, 다른 root와 겹칠 가능성도 있어 모호함."
+    },
+    {
+      "meaning_id": "소식_일반명사-1",
+      "rationale_short": "정보의 종류로, 광범위하여 임시 제안 root로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "정보의 한 종류로, 특정 카테고리에 명확히 속하기보다 광범위하게 사용됨."
+    },
+    {
+      "meaning_id": "안녕히_일반부사-1",
+      "rationale_short": "상태 묘사 부사로, 모호하여 임시 제안 root로 분류.",
+      "root": "감각과 묘사",
+      "candidate_reason": "상태를 묘사하는 부사로, 특정 코어에 묶기 모호함."
+    },
+    {
+      "meaning_id": "없애다_동사-1",
+      "rationale_short": "광범위한 행위로, 임시 제안 root로 분류.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "광범위한 행위로, 특정 코어에 묶기 모호함."
+    },
+    {
+      "meaning_id": "유리_일반명사-1",
+      "rationale_short": "주로 주거 및 일상생활 용품에 사용되어 임시 제안 root로 분류.",
+      "root": "주거와 일상",
+      "candidate_reason": "물질 자체는 광범위하지만, 주로 주거 및 일상생활 용품에 사용되므로 임시 제안 root로 분류."
+    },
+    {
+      "meaning_id": "전혀_일반부사-1",
+      "rationale_short": "정도를 나타내는 부사로, 모호하여 임시 제안 root로 분류.",
+      "root": "수량과 단위",
+      "candidate_reason": "정도를 나타내는 부사로, '수량과 단위' 또는 '논리와 연결'에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "그래프_일반명사-1",
+      "rationale_short": "수량 및 데이터 시각화 도구로, 모호하여 임시 제안 root로 분류.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량 및 데이터 시각화 도구로, '수량과 단위' 또는 '논리와 연결'에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "뜻_일반명사-1",
+      "rationale_short": "언어의 의미나 의도를 나타내는 추상적인 개념으로, 모호하여 임시 제안 root로 분류.",
+      "root": "논리와 연결",
+      "candidate_reason": "언어의 의미나 의도를 나타내는 추상적인 개념으로, 여러 root에 걸쳐 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어는 여러 root에 걸쳐 모호성을 가질 수 있어 candidate로 분류하고, 가장 적합한 임시 root를 제안한다.",
+      "행위나 상태를 나타내는 동사/부사는 맥락에 따라 광범위하게 사용될 수 있어 candidate로 분류하고 '상황 지시/기타' 또는 '감각과 묘사'를 임시 root로 제안한다."
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타' root에 추상적이거나 광범위한 개념들이 많이 모이는 경향이 있으므로, 해당 root의 하위 분류를 세분화하거나 새로운 추상 개념 root를 고려할 필요가 있다.",
+      "부사의 경우, '시간과 흐름', '수량과 단위', '감각과 묘사' 등 특정 root에 명확히 속하는 경우를 제외하고는 '상황 지시/기타' 또는 '논리와 연결' 등 더 추상적인 root로 분류되는 경향이 있다. 부사 분류 기준에 대한 추가 논의가 필요하다."
+    ]
+  }
+}

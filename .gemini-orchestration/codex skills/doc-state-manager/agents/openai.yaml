@@ -1,0 +1,7 @@
+interface:
+  display_name: "Doc State Manager"
+  short_description: "Keep roadmap, tasklists, and handoffs aligned."
+  default_prompt: "Use $doc-state-manager to keep roadmap, tasklist, handoff, and workboards synchronized with one source of truth."
+
+policy:
+  allow_implicit_invocation: true

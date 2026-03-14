@@ -1,0 +1,293 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "안개_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 현상",
+      "rationale_short": "자연 현상으로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "안기다_동사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "candidate_reason": "동사로, 물리적 행위 자체를 나타내어 분류가 모호할 수 있음. '사람과 관계'의 하위 개념으로 볼 수 있으나, 더 넓은 범위의 행위일 수도 있음.",
+      "rationale_short": "물리적 행위 동사로, 특정 관계에 한정되지 않을 수 있어 모호함."
+    },
+    {
+      "meaning_id": "안정감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음 상태",
+      "rationale_short": "명확하게 내면의 감정 상태를 나타냄."
+    },
+    {
+      "meaning_id": "안팎_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "공간적 위치를 나타내는 일반적인 개념어로, 특정 root에 명확히 속하기보다 여러 상황에 적용될 수 있어 모호함.",
+      "rationale_short": "공간적 위치를 나타내는 일반 개념어."
+    },
+    {
+      "meaning_id": "않다_동사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법적 기능어 (보조 동사)로, 시각화가 어렵고 학습 비적합 파편어에 해당함.",
+      "rationale_short": "문법적 기능어."
+    },
+    {
+      "meaning_id": "알뜰_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "절약하는 태도",
+      "rationale_short": "사람의 성격이나 태도를 명확히 나타냄."
+    },
+    {
+      "meaning_id": "앓다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 증상",
+      "rationale_short": "질병 및 건강 상태와 관련된 명확한 동사."
+    },
+    {
+      "meaning_id": "압도_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념어로, 특정 상황이나 관계에 국한되지 않고 다양한 맥락에서 사용될 수 있어 분류가 모호함.",
+      "rationale_short": "추상적인 개념어로, 여러 맥락에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "앞당기다_동사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 변경",
+      "rationale_short": "시간을 조절하는 행위를 명확히 나타냄."
+    },
+    {
+      "meaning_id": "앞면_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 물리적 특성(방향, 면)을 나타내는 일반적인 개념어로, '감각과 묘사'에 포함될 수 있으나, 다른 root와의 경계가 모호할 수 있음.",
+      "rationale_short": "사물의 물리적 특성 묘사어로, 분류 모호성 있음."
+    },
+    {
+      "meaning_id": "앞서_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 순서",
+      "rationale_short": "시간적 선후 관계를 명확히 나타내는 부사."
+    },
+    {
+      "meaning_id": "앞장서다_동사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "candidate_reason": "리더십 또는 선도하는 행위를 나타내는 동사로, '사람과 관계'의 하위 개념으로 볼 수 있으나, 특정 상황에 따라 다른 root에 속할 수도 있어 모호함.",
+      "rationale_short": "리더십 행위 동사로, 여러 맥락에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "야유회_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "단체 야외 활동",
+      "rationale_short": "여가 활동의 한 종류로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "야호_감탄사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "감탄사로, 시각화가 어렵고 학습 비적합 파편어에 해당함.",
+      "rationale_short": "감탄사로, 시각화 및 학습 적합성 낮음."
+    },
+    {
+      "meaning_id": "약물_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 물질",
+      "rationale_short": "보건 및 의료 분야의 핵심 어휘."
+    },
+    {
+      "meaning_id": "약화_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 상태 변화를 나타내는 추상 명사로, 특정 root에 명확히 속하기보다 여러 상황에 적용될 수 있어 모호함.",
+      "rationale_short": "일반적인 상태 변화를 나타내는 추상 명사."
+    },
+    {
+      "meaning_id": "양면_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념어로, 사물의 두 가지 측면을 나타내며, '논리와 연결'에 포함될 수 있으나, 다른 root와의 경계가 모호할 수 있음.",
+      "rationale_short": "추상적인 개념어로, 여러 맥락에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "양보_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 태도",
+      "rationale_short": "사람 간의 관계에서 나타나는 태도나 행위를 명확히 나타냄."
+    },
+    {
+      "meaning_id": "양복_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "의류",
+      "rationale_short": "일상생활에서 입는 의류로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "양분_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "영양 물질",
+      "rationale_short": "생물의 식생활 및 영양과 관련된 핵심 어휘."
+    },
+    {
+      "meaning_id": "양식_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념어로, 형식이나 방식을 나타내며, 특정 root에 명확히 속하기보다 여러 분야에 걸쳐 사용될 수 있어 모호함.",
+      "rationale_short": "추상적인 개념어로, 여러 분야에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "양쪽_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "공간적 위치나 방향을 나타내는 일반적인 개념어로, '감각과 묘사'에 포함될 수 있으나, 다른 root와의 경계가 모호할 수 있음.",
+      "rationale_short": "공간적 위치/방향 묘사어로, 분류 모호성 있음."
+    },
+    {
+      "meaning_id": "양치_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "개인 위생",
+      "rationale_short": "일상생활의 개인 위생 활동으로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "양품점_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상점 종류",
+      "rationale_short": "쇼핑과 관련된 장소로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "얕다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "깊이 묘사",
+      "rationale_short": "사물의 물리적 특성을 묘사하는 형용사로 명확함."
+    },
+    {
+      "meaning_id": "어떡하다_동사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "일반적인 상황 처리 동사로, 의미가 매우 포괄적이고 시각화가 어려워 학습 비적합 파편어에 해당함.",
+      "rationale_short": "의미가 매우 포괄적이고 시각화가 어려움."
+    },
+    {
+      "meaning_id": "어젯밤_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시간",
+      "rationale_short": "시간을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "어차피_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "결과 연결",
+      "rationale_short": "논리적 관계(결과의 필연성)를 나타내는 부사로 명확함."
+    },
+    {
+      "meaning_id": "어획량_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "candidate_reason": "물고기의 양을 나타내는 명사로, '수량과 단위'에 포함될 수 있으나, 어업 활동과도 연관되어 다른 root와의 경계가 모호할 수 있음.",
+      "rationale_short": "수량 개념과 어업 활동이 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "언덕_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형",
+      "rationale_short": "자연 지형을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "언젠가_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "불특정 시간",
+      "rationale_short": "시간을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "얼른_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "행동 속도",
+      "rationale_short": "행동의 속도나 방식을 묘사하는 부사로 명확함."
+    },
+    {
+      "meaning_id": "여건_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념어로, 환경이나 조건을 나타내며, 특정 root에 명확히 속하기보다 여러 상황에 적용될 수 있어 모호함.",
+      "rationale_short": "추상적인 개념어로, 여러 상황에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "여관_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "숙박 시설",
+      "rationale_short": "여행과 관련된 숙박 시설로 명확하게 분류 가능."
+    },
+    {
+      "meaning_id": "여신_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "종교 신화",
+      "rationale_short": "문화, 종교, 신화와 관련된 개념으로 명확함."
+    },
+    {
+      "meaning_id": "연고_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의약품",
+      "rationale_short": "보건 및 의료 분야의 핵심 어휘."
+    },
+    {
+      "meaning_id": "연속_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념어로, 끊어지지 않고 이어지는 상태를 나타내며, '논리와 연결'에 포함될 수 있으나, 다른 root와의 경계가 모호할 수 있음.",
+      "rationale_short": "추상적인 개념어로, 여러 맥락에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "연습실_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "candidate_reason": "특정 활동(연습)을 위한 공간을 나타내며, '주거와 일상'의 하위 개념으로 볼 수 있으나, 연습의 목적에 따라 '학교와 공부', '여가와 취미' 등 다양한 root와 연관될 수 있어 모호함.",
+      "rationale_short": "특정 활동 공간으로, 여러 root와 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "연안_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "해안 지형",
+      "rationale_short": "자연 지형을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "열대_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "기후 지대",
+      "rationale_short": "기후 및 자연 지대를 나타내는 명확한 어휘."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 압도, 약화, 양면, 양식, 연속, 여건)는 여러 root에 걸쳐 모호성을 보이며, '상황 지시/기타' 또는 '논리와 연결' 등으로 임시 분류하는 경향이 있음.",
+      "공간적 위치/방향을 나타내는 일반 명사 (예: 안팎, 앞면, 양쪽)는 '감각과 묘사' 또는 '상황 지시/기타' 사이에서 모호성을 보임.",
+      "문법적 기능어 또는 의미가 매우 포괄적인 동사/감탄사 (예: 않다, 어떡하다, 야호)는 시각화 및 학습 적합성이 낮아 제외되는 경향이 있음."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 분류 가이드라인을 강화하여, '상황 지시/기타' 또는 '논리와 연결' 내에 더 세분화된 하위 카테고리를 고려할 필요가 있음.",
+      "공간/방향 관련 어휘를 '감각과 묘사' 또는 '상황 지시/기타' 중 어느 root에 더 우선적으로 배치할지 명확한 기준을 수립해야 함.",
+      "동사/형용사 중 행위나 상태가 특정 root에 명확히 연결되지 않고 일반적인 경우, '상황 지시/기타' 또는 '감각과 묘사' 내에 '일반 행위/상태'와 같은 하위 카테고리를 고려할 수 있음."
+    ]
+  }
+}

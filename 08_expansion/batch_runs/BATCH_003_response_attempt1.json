@@ -1,0 +1,664 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "이다_긍정지정사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (지정사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 동사"
+    },
+    {
+      "meaning_id": "고르다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "선택 행위는 평가, 선호 등 내면적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "내면적 판단과 관련"
+    },
+    {
+      "meaning_id": "남자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사람의 성별",
+      "rationale_short": "사람의 기본적인 성별"
+    },
+    {
+      "meaning_id": "여자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사람의 성별",
+      "rationale_short": "사람의 기본적인 성별"
+    },
+    {
+      "meaning_id": "있다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "존재 여부나 위치를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "있다_형용사-2",
+      "bucket": "candidate",
+      "candidate_reason": "소유 여부를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "다음_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "순서와 시점",
+      "rationale_short": "시간적 순서나 시점"
+    },
+    {
+      "meaning_id": "가다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "이동의 가장 기본적인 동사로, 특정 장소나 목적에 한정되지 않아 분류 모호성이 있음.",
+      "rationale_short": "매우 일반적인 이동 동사"
+    },
+    {
+      "meaning_id": "보다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 인지",
+      "rationale_short": "시각을 통한 인지"
+    },
+    {
+      "meaning_id": "이_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "지시 기능을 하는 관형사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "지시 관형사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "사람_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "인간 존재",
+      "rationale_short": "인간 존재 자체"
+    },
+    {
+      "meaning_id": "되다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "상태 변화를 나타내는 매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 상태 변화 동사"
+    },
+    {
+      "meaning_id": "되다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "일의 성사나 가능성을 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "일의 성사/가능성 동사"
+    },
+    {
+      "meaning_id": "되다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "허용이나 평가와 관련된 상태를 나타내어 분류 모호성이 있음.",
+      "rationale_short": "평가와 관련된 상태"
+    },
+    {
+      "meaning_id": "되다_동사-4",
+      "bucket": "candidate",
+      "candidate_reason": "역할이나 지위 변화를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "역할/지위 변화 동사"
+    },
+    {
+      "meaning_id": "듣다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청각적 인지",
+      "rationale_short": "청각을 통한 인지"
+    },
+    {
+      "meaning_id": "듣다_동사-2",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청취 행위",
+      "rationale_short": "청각을 이용한 집중 행위"
+    },
+    {
+      "meaning_id": "듣다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "충고나 수업을 받아들이는 행위는 내면적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "내면적 판단과 관련"
+    },
+    {
+      "meaning_id": "각_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "지시 기능을 하는 관형사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "지시 관형사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "내용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "매우 추상적이고 광범위한 개념으로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "추상적이고 광범위한 개념"
+    },
+    {
+      "meaning_id": "알맞다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "적합성을 평가하는 형용사로, 평가적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "평가적 판단과 관련"
+    },
+    {
+      "meaning_id": "좋다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "주관적인 감정이나 가치 판단을 나타내는 형용사로, 분류 모호성이 있음.",
+      "rationale_short": "주관적 감정/가치 판단"
+    },
+    {
+      "meaning_id": "같다_형용사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "비교와 유사성",
+      "rationale_short": "사물/개념의 동일성"
+    },
+    {
+      "meaning_id": "때_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 경과",
+      "rationale_short": "시간의 시점/기간"
+    },
+    {
+      "meaning_id": "때_일반명사-2",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "위생과 청결",
+      "rationale_short": "물리적인 오염물"
+    },
+    {
+      "meaning_id": "없다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "존재하지 않는 상태를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "위하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "특정 대상이나 목적을 위한 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 행위"
+    },
+    {
+      "meaning_id": "많다_형용사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량의 많고 적음"
+    },
+    {
+      "meaning_id": "읽다_동사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 활동",
+      "rationale_short": "글을 이해하는 학습 활동"
+    },
+    {
+      "meaning_id": "물음_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "질문의 내용",
+      "rationale_short": "질문 행위의 결과물"
+    },
+    {
+      "meaning_id": "답_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "질문에 대한 응답",
+      "rationale_short": "질문에 대한 응답"
+    },
+    {
+      "meaning_id": "잘_일반부사-1",
+      "bucket": "candidate",
+      "candidate_reason": "행위의 정도나 방식을 나타내는 매우 일반적인 부사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 부사"
+    },
+    {
+      "meaning_id": "일_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 활동",
+      "rationale_short": "직업적 활동/업무"
+    },
+    {
+      "meaning_id": "일_일반명사-2",
+      "bucket": "candidate",
+      "candidate_reason": "사건이나 문제를 나타내는 매우 일반적인 명사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 명사"
+    },
+    {
+      "meaning_id": "대하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "상대방이나 상황에 대한 태도를 나타내는 동사로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 태도"
+    },
+    {
+      "meaning_id": "쓰다_동사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "글쓰기 활동",
+      "rationale_short": "글을 기록하는 활동"
+    },
+    {
+      "meaning_id": "쓰다_동사-2",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "착용 행위",
+      "rationale_short": "신체에 착용하는 행위"
+    },
+    {
+      "meaning_id": "글_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "문자 기록물",
+      "rationale_short": "글자로 표현된 결과물"
+    },
+    {
+      "meaning_id": "생각_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "사고와 인지",
+      "rationale_short": "내면의 사고 활동"
+    },
+    {
+      "meaning_id": "말_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언어적 표현",
+      "rationale_short": "의사소통 수단"
+    },
+    {
+      "meaning_id": "말_일반명사-2",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언어 체계",
+      "rationale_short": "특정 집단의 언어 체계"
+    },
+    {
+      "meaning_id": "오다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "이동의 가장 기본적인 동사로, 특정 장소나 목적에 한정되지 않아 분류 모호성이 있음.",
+      "rationale_short": "매우 일반적인 이동 동사"
+    },
+    {
+      "meaning_id": "만들다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "창조 또는 생산 행위를 나타내는 매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 창조 동사"
+    },
+    {
+      "meaning_id": "네_감탄사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "감탄사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "감탄사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "가장_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도의 최상",
+      "rationale_short": "정도/순서의 최상급"
+    },
+    {
+      "meaning_id": "더_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도의 비교",
+      "rationale_short": "정도/수량의 비교급"
+    },
+    {
+      "meaning_id": "사다_동사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "구매 행위",
+      "rationale_short": "물건을 돈 주고 얻는 행위"
+    },
+    {
+      "meaning_id": "한_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량의 단일성",
+      "rationale_short": "수량의 단일성"
+    },
+    {
+      "meaning_id": "받다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "무언가를 수령하는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 수령 동사"
+    },
+    {
+      "meaning_id": "시간_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 개념",
+      "rationale_short": "시간의 추상적 개념"
+    },
+    {
+      "meaning_id": "필요_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "필요성을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 필요성 개념"
+    },
+    {
+      "meaning_id": "안_일반부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "부정의 의미를 나타내는 부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "부정 부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "친구_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "친밀한 관계",
+      "rationale_short": "친밀한 인간관계"
+    },
+    {
+      "meaning_id": "많이_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량/정도의 많음"
+    },
+    {
+      "meaning_id": "들어가다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "특정 공간으로 진입하는 행위로, 다양한 장소에 적용될 수 있어 분류 모호성이 있음.",
+      "rationale_short": "다양한 장소의 진입 행위"
+    },
+    {
+      "meaning_id": "맞다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "사실 여부를 판단하는 평가적 의미가 강하여 분류 모호성이 있음.",
+      "rationale_short": "평가적 의미 강함"
+    },
+    {
+      "meaning_id": "맞다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "적합성을 평가하는 의미가 강하여 분류 모호성이 있음.",
+      "rationale_short": "평가적 의미 강함"
+    },
+    {
+      "meaning_id": "맞다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "물리적 충격을 받는 행위로, 부상과 관련될 수 있으나 일반적인 상황에서도 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 물리적 충격"
+    },
+    {
+      "meaning_id": "아니다_부정지정사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (지정사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "집_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 공간",
+      "rationale_short": "사람이 거주하는 공간"
+    },
+    {
+      "meaning_id": "같이_일반부사-1",
+      "bucket": "candidate",
+      "candidate_reason": "동반 또는 유사성을 나타내는 부사로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 동반/유사성"
+    },
+    {
+      "meaning_id": "아이_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "연령별 사람",
+      "rationale_short": "연령에 따른 사람 구분"
+    },
+    {
+      "meaning_id": "책_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 도구",
+      "rationale_short": "학습/정보 전달 매체"
+    },
+    {
+      "meaning_id": "못_일반부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "불가능을 나타내는 부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "불가능 부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "와_접속조사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (조사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "주다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "소유물을 타인에게 전달하는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 전달 동사"
+    },
+    {
+      "meaning_id": "사용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 대상을 활용하는 행위를 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 활용 개념"
+    },
+    {
+      "meaning_id": "그래서_접속부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문장 연결 기능을 하는 접속부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "접속부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "크다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "크기 묘사",
+      "rationale_short": "사물의 물리적 크기"
+    },
+    {
+      "meaning_id": "그렇다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "앞선 내용을 지칭하며 상태를 나타내는 형용사로, 맥락에 따라 의미가 달라져 분류 모호성이 있음.",
+      "rationale_short": "맥락 의존적 상태 형용사"
+    },
+    {
+      "meaning_id": "한국_고유명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "고유명사로, 일반 어휘 마인드맵 분류 대상이 아님.",
+      "rationale_short": "고유명사"
+    },
+    {
+      "meaning_id": "다른_관형사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "비교와 차이",
+      "rationale_short": "사물/개념의 차이점"
+    },
+    {
+      "meaning_id": "그런데_접속부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문장 연결 기능을 하는 접속부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "접속부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "곳_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "장소나 위치를 나타내는 매우 일반적인 명사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 장소 명사"
+    },
+    {
+      "meaning_id": "방법_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 일을 수행하는 방식이나 수단을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 방식/수단 개념"
+    },
+    {
+      "meaning_id": "회사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 기관",
+      "rationale_short": "이윤 추구 직업 기관"
+    },
+    {
+      "meaning_id": "자신_일반명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "대명사적 성격이 강하며, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "대명사적, 시각화 어려움"
+    },
+    {
+      "meaning_id": "보이다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 현상",
+      "rationale_short": "시각적으로 인지되는 현상"
+    },
+    {
+      "meaning_id": "전_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "rationale_short": "현재보다 앞선 시점"
+    },
+    {
+      "meaning_id": "좀_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량/정도의 적음"
+    },
+    {
+      "meaning_id": "시작_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시작 시점",
+      "rationale_short": "일의 최초 시점"
+    },
+    {
+      "meaning_id": "알다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "지식이나 사실을 인지하고 기억하는 내면적 상태를 나타내어 분류 모호성이 있음.",
+      "rationale_short": "내면적 인지 상태"
+    },
+    {
+      "meaning_id": "중요_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "가치의 판단",
+      "rationale_short": "가치/필요성 평가"
+    },
+    {
+      "meaning_id": "찾다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "잃어버린 것이나 필요한 것을 탐색하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 탐색 행위"
+    },
+    {
+      "meaning_id": "찾다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "사람이나 장소를 방문하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 방문 행위"
+    },
+    {
+      "meaning_id": "문제_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "해결해야 할 과제나 질문을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 과제/질문 개념"
+    },
+    {
+      "meaning_id": "이용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 대상을 활용하는 행위를 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 활용 개념"
+    },
+    {
+      "meaning_id": "영화_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "영상 매체",
+      "rationale_short": "여가 영상 매체"
+    },
+    {
+      "meaning_id": "좋아하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "선호 감정",
+      "rationale_short": "긍정적 감정/선호"
+    },
+    {
+      "meaning_id": "만나다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "대면 행위",
+      "rationale_short": "사람 간의 대면 행위"
+    },
+    {
+      "meaning_id": "그림_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "시각 예술",
+      "rationale_short": "선과 색의 시각 예술"
+    },
+    {
+      "meaning_id": "치다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "물리적인 충격을 가하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 물리적 충격"
+    },
+    {
+      "meaning_id": "앞_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "공간적 위치",
+      "rationale_short": "공간적 위치/방향"
+    },
+    {
+      "meaning_id": "앞_일반명사-2",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "미래 시점",
+      "rationale_short": "현재 이후의 시점"
+    },
+    {
+      "meaning_id": "이번_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점",
+      "rationale_short": "현재의 특정 차례/시점"
+    },
+    {
+      "meaning_id": "가지다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "소유하거나 지니는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 소유 동사"
+    },
+    {
+      "meaning_id": "요즘_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "최근 시점",
+      "rationale_short": "현재와 가까운 최근 시점"
+    },
+    {
+      "meaning_id": "어렵다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 일의 난이도를 평가하는 형용사로, 평가적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "평가적 판단과 관련"
+    },
+    {
+      "meaning_id": "다양_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "종류의 다양성",
+      "rationale_short": "여러 종류의 다름"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "고빈도 동사/형용사의 다의어 처리 (하다, 되다, 있다, 듣다, 맞다, 찾다, 쓰다, 가다, 오다, 받다, 가지다): 의미가 추상적이거나 여러 맥락에 걸쳐 사용될 때 candidate로 분류하는 경향이 강함.",
+      "문법 기능어 (지정사, 관형사, 접속부사, 조사, 감탄사)는 시각화가 어렵고 학습 비적합 파편어로 판단하여 exclusion 처리함.",
+      "추상적인 명사 (내용, 필요, 방법, 문제, 곳, 사용, 일_사건)는 특정 root에 100% 확실하게 분류하기 어려워 candidate로 분류함."
+    ],
+    "ia_suggestions": [
+      "고빈도 동사/형용사의 다의어 중 핵심 의미는 core로 분류하고, 파생적이거나 맥락 의존적인 의미는 candidate로 유지하는 전략을 고려해야 함. 예를 들어 '있다'의 존재/소유 의미는 '상황 지시/기타' 또는 '내면과 감정'에 더 깊은 논의가 필요할 수 있음.",
+      "IA V4의 '상황 지시/기타' root의 역할과 범위를 명확히 정의하여, 현재 candidate로 분류된 추상적인 동사/명사 중 일부를 수용할 수 있는지 검토 필요. 특히 '하다', '되다', '일_사건', '곳', '방법', '사용' 등.",
+      "문법 기능어의 exclusion 기준을 재검토하여, 학습자에게 필수적인 일부 기능어(예: 지시 대명사, 기본적인 접속 부사)는 '지시와 질문' 또는 '논리와 연결' 등 특정 root의 하위 카테고리로 포함할 가능성을 논의해야 함. 현재 '이', '각', '네', '안', '못', '와', '그래서', '그런데', '자신' 등이 exclusion 되었는데, 이들이 학습에 미치는 영향과 시각화 가능성을 다시 평가할 필요가 있음."
+    ]
+  }
+}

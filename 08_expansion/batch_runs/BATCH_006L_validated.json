@@ -1,0 +1,239 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "방법_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 개념으로 특정 도메인에 속하기 모호하며, 일반적인 방식이나 수단을 지칭함.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 방식/수단으로, 특정 도메인에 100% 확실하게 분류하기 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "회사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 조직",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "이윤 추구 조직으로 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "자신_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "자아 개념으로 내면과 관련되지만, 특정 감정이나 태도보다 근원적인 개념이라 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "자기 스스로를 지칭하는 개념으로, '내면과 감정'과 관련되나 분류 모호성이 있어 candidate로 분류."
+    },
+    {
+      "meaning_id": "보이다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 인지",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "눈에 들어와 알아볼 수 있게 되는 시각적 인지 행위로 '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "전_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지금보다 앞선 때를 의미하는 시간 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "좀_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "양이나 정도가 많지 않음을 나타내는 표현으로 '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "시작_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시작 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일을 처음으로 하는 시점이나 행위로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "알다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "인지 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사실이나 내용을 이해하고 기억하는 인지 활동으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "중요_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "가치 판단",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가치가 크고 꼭 필요함을 나타내는 평가 개념으로 '의견과 가치'에 명확히 해당."
+    },
+    {
+      "meaning_id": "찾다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "잃어버리거나 필요한 것을 찾는 일반적인 행위로 특정 도메인에 속하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "잃어버린 것을 찾는 일반적인 행위로, 특정 도메인에 100% 확실하게 분류하기 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "찾다_동사-2",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "사람이나 장소를 방문하는 행위로 '사람과 관계'에 속할 수 있으나, '여행' 등 다른 도메인과도 겹쳐 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 장소를 방문하는 행위로, '사람과 관계'와 관련되나 다른 도메인과 겹쳐 분류 모호성이 있어 candidate로 분류."
+    },
+    {
+      "meaning_id": "문제_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "해결해야 할 일이나 질문이라는 추상적인 개념으로, 여러 도메인에 걸쳐 사용되어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "해결해야 할 일이나 질문이라는 추상적인 개념으로, 여러 도메인에 걸쳐 사용되어 분류 모호성이 있어 candidate로 분류."
+    },
+    {
+      "meaning_id": "이용_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것을 필요에 맞게 쓰는 일반적인 행위로 특정 도메인에 속하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것을 필요에 맞게 쓰는 일반적인 행위로, 특정 도메인에 100% 확실하게 분류하기 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "영화_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "영상 매체",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "이야기를 화면과 소리로 보여주는 작품으로 '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "좋아하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "긍정적 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음에 들어 기쁘게 여기는 감정으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "만나다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "대면 관계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "서로 마주 보게 되는 사회적 행위로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "그림_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "시각 예술",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "선과 색으로 사물을 나타낸 예술 형태로 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "치다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "손이나 도구로 세게 부딪치게 하는 일반적인 물리적 행위로 특정 도메인에 속하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "손이나 도구로 부딪치게 하는 일반적인 물리적 행위로, 특정 도메인에 100% 확실하게 분류하기 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "앞_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "공간 위치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 물건이 바라보는 쪽의 공간적 위치로 '상황 지시/기타'에 명확히 해당."
+    },
+    {
+      "meaning_id": "앞_일반명사-2",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "미래 시점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지금보다 뒤에 올 때를 의미하는 시간 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "이번_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 차례",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지금 말하는 바로 이 차례를 의미하는 시간 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "가지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것을 소유하거나 지니는 일반적인 상태/행위로 특정 도메인에 속하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것을 소유하거나 지니는 일반적인 상태/행위로, 특정 도메인에 100% 확실하게 분류하기 모호하여 candidate로 분류."
+    },
+    {
+      "meaning_id": "요즘_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "최근 시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "최근의 이 무렵을 의미하는 시간 개념으로 '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "어렵다_형용사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "난이도 평가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "하기가 힘들거나 복잡함을 나타내는 평가 개념으로 '의견과 가치'에 명확히 해당."
+    },
+    {
+      "meaning_id": "다양_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "여러 가지 특성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 가지로 서로 다름을 나타내는 묘사 개념으로 '감각과 묘사'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적이거나 일반적인 행위/개념어는 특정 도메인에 100% 확실하게 분류하기 어려워 candidate로 분류되는 경향이 있음 (예: 방법, 자신, 찾다, 문제, 이용, 치다, 가지다).",
+      "시간, 감정, 인지, 평가, 감각 등 명확한 추상적 개념은 해당 root로 core 분류가 용이함."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root에 일반적인 행위, 상태, 개념어를 위한 하위 카테고리 세분화가 필요할 수 있음.",
+      "인지 활동, 자아 개념 등 '내면과 감정' root 내에서 더 세분화된 카테고리 (예: '인지', '자아')를 고려할 수 있음."
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "core": [
+    {
+      "meaning_id": "겨울옷_일반명사-1",
+      "rationale_short": "명확한 의류 품목으로, 주거와 일상생활의 한 부분.",
+      "root": "주거와 일상",
+      "category_label_ko": "계절 의류"
+    },
+    {
+      "meaning_id": "견학_일반명사-1",
+      "rationale_short": "교육 및 학습과 관련된 명확한 활동.",
+      "root": "학교와 공부",
+      "category_label_ko": "현장 학습"
+    },
+    {
+      "meaning_id": "경영난_일반명사-1",
+      "rationale_short": "직장 및 회사 운영과 관련된 명확한 상황.",
+      "root": "직장과 업무",
+      "category_label_ko": "회사 운영 문제"
+    },
+    {
+      "meaning_id": "계산대_일반명사-1",
+      "rationale_short": "쇼핑 장소의 명확한 구성 요소.",
+      "root": "쇼핑",
+      "category_label_ko": "상점 시설"
+    },
+    {
+      "meaning_id": "고난_일반명사-1",
+      "rationale_short": "내면적 어려움과 감정 상태를 나타내는 명확한 개념.",
+      "root": "내면과 감정",
+      "category_label_ko": "어려운 상황"
+    },
+    {
+      "meaning_id": "고령_일반명사-1",
+      "rationale_short": "사람의 나이와 관련된 명확한 상태.",
+      "root": "사람과 관계",
+      "category_label_ko": "인구 특성"
+    },
+    {
+      "meaning_id": "고분_일반명사-1",
+      "rationale_short": "역사적 유적지로 명확히 분류 가능.",
+      "root": "문화와 사회",
+      "category_label_ko": "역사 유적"
+    },
+    {
+      "meaning_id": "고소득자_일반명사-1",
+      "rationale_short": "사람의 경제적 지위와 관련된 명확한 분류.",
+      "root": "사람과 관계",
+      "category_label_ko": "사회 경제 계층"
+    },
+    {
+      "meaning_id": "고속도로_일반명사-1",
+      "rationale_short": "교통 관련 명확한 장소/시설.",
+      "root": "교통",
+      "category_label_ko": "도로 시설"
+    },
+    {
+      "meaning_id": "고유어_일반명사-1",
+      "rationale_short": "언어학적 개념으로 명확히 분류 가능.",
+      "root": "문화와 사회",
+      "category_label_ko": "언어 종류"
+    },
+    {
+      "meaning_id": "골든타임_일반명사-1",
+      "rationale_short": "보건 및 의료 분야의 명확한 전문 용어.",
+      "root": "보건과 의료",
+      "category_label_ko": "응급 상황 용어"
+    },
+    {
+      "meaning_id": "골프장_일반명사-1",
+      "rationale_short": "여가 활동을 위한 명확한 장소.",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 시설"
+    },
+    {
+      "meaning_id": "곰_일반명사-1",
+      "rationale_short": "자연의 명확한 동물.",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 동물"
+    },
+    {
+      "meaning_id": "공감대_일반명사-1",
+      "rationale_short": "내면의 감정 및 이해와 관련된 명확한 개념.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정적 교류"
+    },
+    {
+      "meaning_id": "공금_일반명사-1",
+      "rationale_short": "공공의 목적을 위한 자금으로 명확히 분류 가능.",
+      "root": "공공 서비스",
+      "category_label_ko": "공동 자금"
+    },
+    {
+      "meaning_id": "공론_일반명사-1",
+      "rationale_short": "사회 구성원들의 의견 형성 과정과 관련된 명확한 개념.",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 의견"
+    },
+    {
+      "meaning_id": "공무원_일반명사-1",
+      "rationale_short": "직업/역할어 규칙에 따라 직장과 업무로 분류.",
+      "root": "직장과 업무",
+      "category_label_ko": "공공 직업"
+    },
+    {
+      "meaning_id": "공법_일반명사-1",
+      "rationale_short": "공공 서비스와 관련된 명확한 법률 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "법률 체계"
+    },
+    {
+      "meaning_id": "공익_일반명사-1",
+      "rationale_short": "공공 서비스의 목적과 관련된 명확한 개념.",
+      "root": "공공 서비스",
+      "category_label_ko": "공공의 이익"
+    },
+    {
+      "meaning_id": "공중_일반명사-1",
+      "rationale_short": "자연 환경의 한 부분인 공간을 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 공간"
+    },
+    {
+      "meaning_id": "공포_일반명사-1",
+      "rationale_short": "내면의 감정을 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "두려운 감정"
+    },
+    {
+      "meaning_id": "과반수_일반명사-1",
+      "rationale_short": "수량 및 단위에 대한 명확한 기준.",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 기준"
+    },
+    {
+      "meaning_id": "과수_일반명사-1",
+      "rationale_short": "자연의 명확한 식물.",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 종류"
+    },
+    {
+      "meaning_id": "과유불급_일반명사-1",
+      "rationale_short": "가치 판단 및 교훈을 담은 명확한 개념.",
+      "root": "의견과 가치",
+      "category_label_ko": "삶의 지혜"
+    },
+    {
+      "meaning_id": "과학관_일반명사-1",
+      "rationale_short": "교육 및 학습과 관련된 명확한 장소.",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 시설"
+    },
+    {
+      "meaning_id": "관념_일반명사-1",
+      "rationale_short": "내면의 생각과 인지 활동을 명확히 나타냄.",
+      "root": "내면과 감정",
+      "category_label_ko": "사고와 인지"
+    },
+    {
+      "meaning_id": "관람료_일반명사-1",
+      "rationale_short": "쇼핑 및 비용 지불과 관련된 명확한 개념.",
+      "root": "쇼핑",
+      "category_label_ko": "문화 활동 비용"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "견제_일반명사-1",
+      "rationale_short": "추상적 행위/개념으로 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위 개념으로, 특정 장면이나 사물에 명확히 연결하기 어려움."
+    },
+    {
+      "meaning_id": "결과물_일반명사-1",
+      "rationale_short": "추상적 개념으로 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 포괄적이고 추상적인 개념으로, 특정 root에 명확히 분류하기 어려움."
+    },
+    {
+      "meaning_id": "곁_일반명사-1",
+      "rationale_short": "추상적 공간 개념으로 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "공간적 위치를 나타내는 추상적인 개념으로, 특정 장면이나 사물에 명확히 연결하기 어려움."
+    },
+    {
+      "meaning_id": "계세_일반명사-1",
+      "rationale_short": "추상적 사회 현상으로 분류 모호성.",
+      "root": "문화와 사회",
+      "candidate_reason": "세상의 흐름이나 형편을 나타내는 추상적인 개념으로, 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "계승_일반명사-1",
+      "rationale_short": "추상적 행위로 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 포괄적인 행위 개념으로, 특정 root에 명확히 연결하기 어려움."
+    },
+    {
+      "meaning_id": "계열_일반명사-1",
+      "rationale_short": "추상적 관계 개념으로 분류 모호성.",
+      "root": "논리와 연결",
+      "candidate_reason": "관계나 분류를 나타내는 추상적인 개념으로, 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "고가_일반명사-1",
+      "rationale_short": "추상적 가치 평가로 분류 모호성.",
+      "root": "의견과 가치",
+      "candidate_reason": "사물의 가치나 상태를 나타내는 개념으로, '쇼핑'과 '의견과 가치' 사이의 모호성이 있음."
+    },
+    {
+      "meaning_id": "고안_일반명사-1",
+      "rationale_short": "추상적 행위로 분류 모호성.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위 개념으로, 특정 root에 명확히 연결하기 어려움."
+    },
+    {
+      "meaning_id": "공존_일반명사-1",
+      "rationale_short": "추상적 관계/상태로 분류 모호성.",
+      "root": "문화와 사회",
+      "candidate_reason": "추상적인 상태나 관계를 나타내는 개념으로, 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "과다_일반명사-1",
+      "rationale_short": "추상적 수량/정도로 분류 모호성.",
+      "root": "수량과 단위",
+      "candidate_reason": "양이나 정도를 나타내는 추상적인 개념으로, 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [
+    {
+      "meaning_id": "고사하고_일반부사-1",
+      "rationale_short": "문법적 기능이 강한 부사로, 시각화 및 학습 적합성이 낮음.",
+      "exclusion_reason": "시각화가 거의 불가능한 학습 비적합 파편어 (부사)."
+    },
+    {
+      "meaning_id": "고스란히_일반부사-1",
+      "rationale_short": "문법적 기능이 강한 부사로, 시각화 및 학습 적합성이 낮음.",
+      "exclusion_reason": "시각화가 거의 불가능한 학습 비적합 파편어 (부사)."
+    },
+    {
+      "meaning_id": "고작_일반부사-1",
+      "rationale_short": "문법적 기능이 강한 부사로, 시각화 및 학습 적합성이 낮음.",
+      "exclusion_reason": "시각화가 거의 불가능한 학습 비적합 파편어 (부사)."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어/부사의 분류 모호성: '견제', '결과물', '곁', '계세', '계승', '계열', '고가', '고안', '공존', '과다'와 같이 특정 장면이나 사물에 직접 연결하기 어려운 추상적인 개념어들은 분류 모호성이 높음. 이들은 '상황 지시/기타', '논리와 연결', '의견과 가치' 등으로 임시 분류되었으나, IA V4의 '감각/평가/내면/신체와 경계가 겹치면 candidate를 우선한다'는 규칙에 따라 candidate로 분류됨.",
+      "부사어의 시각화 및 학습 적합성: '고사하고', '고스란히', '고작'과 같은 부사어들은 시각화가 어렵고 마인드맵 노드로 학습 적합성이 낮아 'exclusion' 처리됨. 이러한 문법적 기능이 강한 파편어들에 대한 일관된 처리 기준이 필요함."
+    ],
+    "ia_suggestions": [
+      "추상적 개념어에 대한 '상황 지시/기타' root의 세분화 또는 명확화: 현재 '상황 지시/기타' root가 너무 포괄적으로 사용될 가능성이 있어, 추상적 행위, 상태, 관계 등을 더 구체적으로 분류할 수 있는 하위 root 또는 별도의 추상 개념 root를 고려해볼 수 있음.",
+      "부사어 및 문법적 기능어 처리 가이드라인 강화: 'exclusion' 처리된 부사어 외에도, 마인드맵의 시각적/학습적 효과를 저해하는 문법적 기능어들에 대한 명확한 'exclusion' 또는 'candidate' 처리 기준을 마련하여 일관성을 높여야 함."
+    ]
+  }
+}

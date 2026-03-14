@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "우승_일반명사-1",
+      "rationale_short": "경기나 경쟁에서 첫째가 되는 행위/결과로, 여가 활동과 밀접하게 관련됨.",
+      "root": "여가와 취미",
+      "category_label_ko": "경기 승리"
+    },
+    {
+      "meaning_id": "울다_동사-1",
+      "rationale_short": "슬픔, 아픔 등 내면의 감정을 신체적으로 표현하는 행위.",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 표현"
+    },
+    {
+      "meaning_id": "원장_일반명사-1",
+      "rationale_short": "특정 기관이나 조직의 최고 책임자 역할로, 직장 및 업무와 관련된 인물.",
+      "root": "직장과 업무",
+      "category_label_ko": "기관 책임자"
+    },
+    {
+      "meaning_id": "유리병_일반명사-1",
+      "rationale_short": "일상생활에서 흔히 사용되는 유리 재질의 용기.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 용품"
+    },
+    {
+      "meaning_id": "유물_일반명사-1",
+      "rationale_short": "과거의 문화와 역사를 보여주는 중요한 물건.",
+      "root": "문화와 사회",
+      "category_label_ko": "역사 유산"
+    },
+    {
+      "meaning_id": "유적_일반명사-1",
+      "rationale_short": "과거의 문화와 역사를 보여주는 장소나 흔적.",
+      "root": "문화와 사회",
+      "category_label_ko": "역사 유산"
+    },
+    {
+      "meaning_id": "의원_일반명사-1",
+      "rationale_short": "국가나 지방의 공공 정책을 결정하는 역할을 하는 사람.",
+      "root": "공공 서비스",
+      "category_label_ko": "정치인"
+    },
+    {
+      "meaning_id": "인간관계_일반명사-1",
+      "rationale_short": "사람과 사람 사이의 상호작용 및 연결 상태를 나타내는 핵심 개념.",
+      "root": "사람과 관계",
+      "category_label_ko": "대인 관계"
+    },
+    {
+      "meaning_id": "인테리어_일반명사-1",
+      "rationale_short": "집이나 건물의 내부 공간을 꾸미는 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "실내 장식"
+    },
+    {
+      "meaning_id": "입학_일반명사-1",
+      "rationale_short": "교육 기관에 처음으로 들어가는 중요한 과정.",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 진입"
+    },
+    {
+      "meaning_id": "자랑_일반명사-1",
+      "rationale_short": "자신의 성취나 좋은 점을 드러내어 표현하는 감정적 행위.",
+      "root": "내면과 감정",
+      "category_label_ko": "긍정적 표현"
+    },
+    {
+      "meaning_id": "자신감_일반명사-1",
+      "rationale_short": "자신의 능력에 대한 믿음과 관련된 내면의 감정.",
+      "root": "내면과 감정",
+      "category_label_ko": "자기 확신"
+    },
+    {
+      "meaning_id": "잔치_일반명사-1",
+      "rationale_short": "기쁜 일을 기념하여 여러 사람이 함께 모여 즐기는 사회적 행사.",
+      "root": "사람과 관계",
+      "category_label_ko": "축하 모임"
+    },
+    {
+      "meaning_id": "장갑_일반명사-1",
+      "rationale_short": "손을 보호하거나 장식하는 데 사용되는 일상적인 물건.",
+      "root": "주거와 일상",
+      "category_label_ko": "의류 및 소품"
+    },
+    {
+      "meaning_id": "재미없다_형용사-1",
+      "rationale_short": "어떤 대상이나 상황이 흥미롭지 않거나 즐거움을 주지 못하는 상태를 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "흥미 부족"
+    },
+    {
+      "meaning_id": "전망_일반명사-2",
+      "rationale_short": "특정 장소에서 바라보이는 자연 또는 도시의 경관.",
+      "root": "날씨와 자연",
+      "category_label_ko": "경치"
+    },
+    {
+      "meaning_id": "접촉_일반명사-1",
+      "rationale_short": "두 대상이 물리적으로 서로 닿는 상태나 행위.",
+      "root": "감각과 묘사",
+      "category_label_ko": "물리적 닿음"
+    },
+    {
+      "meaning_id": "정성_일반명사-1",
+      "rationale_short": "어떤 일에 마음을 다하여 기울이는 성의 있는 태도.",
+      "root": "성격과 태도",
+      "category_label_ko": "성의와 노력"
+    },
+    {
+      "meaning_id": "정확히_일반부사-1",
+      "rationale_short": "어떤 행위나 상태가 오차 없이 바르게 이루어짐을 묘사하는 부사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "정확한 방식"
+    },
+    {
+      "meaning_id": "종이컵_일반명사-1",
+      "rationale_short": "음료를 마시는 데 사용되는 종이 재질의 일회용 용기.",
+      "root": "식생활",
+      "category_label_ko": "일회용 식기"
+    },
+    {
+      "meaning_id": "주고받다_동사-1",
+      "rationale_short": "사람과 사람 사이에 물건이나 말 등을 서로 교환하는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "상호 교환"
+    },
+    {
+      "meaning_id": "지급_일반명사-1",
+      "rationale_short": "돈이나 물품을 건네주는 행위로, 구매 및 거래와 관련이 깊음.",
+      "root": "쇼핑",
+      "category_label_ko": "대금 지불"
+    },
+    {
+      "meaning_id": "지능_일반명사-1",
+      "rationale_short": "생각하고 판단하며 문제를 해결하는 정신적 능력.",
+      "root": "내면과 감정",
+      "category_label_ko": "사고 능력"
+    },
+    {
+      "meaning_id": "지시어_일반명사-1",
+      "rationale_short": "특정 대상이나 방향을 가리키는 데 사용되는 언어 표현.",
+      "root": "지시와 질문",
+      "category_label_ko": "가리키는 말"
+    },
+    {
+      "meaning_id": "지하철역_일반명사-1",
+      "rationale_short": "지하철을 이용하는 승객들이 타고 내리는 교통 시설.",
+      "root": "교통",
+      "category_label_ko": "대중교통 시설"
+    },
+    {
+      "meaning_id": "진실_일반명사-1",
+      "rationale_short": "거짓 없이 있는 그대로의 사실이나 진리.",
+      "root": "의견과 가치",
+      "category_label_ko": "사실 여부"
+    },
+    {
+      "meaning_id": "차다_동사-1",
+      "rationale_short": "발을 사용하여 어떤 대상을 밀거나 치는 물리적 행위.",
+      "root": "감각과 묘사",
+      "category_label_ko": "발로 치기"
+    },
+    {
+      "meaning_id": "차다_동사-2",
+      "rationale_short": "시계, 장신구 등을 몸에 걸치거나 착용하는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "몸에 착용"
+    },
+    {
+      "meaning_id": "차별_일반명사-1",
+      "rationale_short": "사회적으로 특정 사람이나 집단을 부당하게 다르게 대하는 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "불평등 대우"
+    },
+    {
+      "meaning_id": "참가비_일반명사-1",
+      "rationale_short": "행사나 대회에 참여하기 위해 지불하는 비용.",
+      "root": "쇼핑",
+      "category_label_ko": "행사 비용"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "올라오다_동사-1",
+      "rationale_short": "일반적인 이동 동사로, 여러 root에 걸쳐 사용될 수 있어 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 이동/상황 변화 동사로, 특정 장면으로 한정하기 모호함."
+    },
+    {
+      "meaning_id": "올바르다_형용사-1",
+      "rationale_short": "생각이나 행동의 규범 적합성을 평가하는 형용사.",
+      "root": "의견과 가치",
+      "candidate_reason": "생각이나 행동의 옳고 그름을 평가하는 형용사로, '의견과 가치'에 가깝지만 다른 맥락에서도 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "완전_일반명사-1",
+      "rationale_short": "빠짐없이 갖추어진 상태를 묘사하는 추상명사.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 상태나 정도를 묘사하는 추상명사로, '감각과 묘사'에 가깝지만 다른 root와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "우주선_일반명사-1",
+      "rationale_short": "우주 공간을 오가는 특수 탈것으로, 일반 교통수단과 구분 필요.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 분야(우주)의 탈것으로, 기존 교통 root에 넣기에는 범위가 넓어질 수 있어 임시 보류."
+    },
+    {
+      "meaning_id": "울리다_동사-1",
+      "rationale_short": "소리를 내거나 감정을 유발하는 다의어 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "소리를 내는 행위와 감정을 유발하는 행위 두 가지 의미가 있어 분류가 모호함."
+    },
+    {
+      "meaning_id": "전망_일반명사-1",
+      "rationale_short": "미래의 일을 내다보는 추상적 개념.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "미래의 상황을 예측하거나 내다보는 추상적인 개념으로, 특정 root에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "절차_일반명사-1",
+      "rationale_short": "일을 진행하기 위한 순서나 과정을 나타내는 추상명사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 일을 처리하는 데 필요한 순서나 과정을 나타내는 추상적인 개념."
+    },
+    {
+      "meaning_id": "주어지다_동사-1",
+      "rationale_short": "어떤 일이나 조건이 맡겨지거나 생기는 일반적인 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 상황이나 조건이 발생하거나 부여되는 일반적인 상태 변화 동사."
+    },
+    {
+      "meaning_id": "진입_일반명사-1",
+      "rationale_short": "어떤 곳이나 분야에 들어가는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장소나 분야로 들어가는 일반적인 행위나 상태 변화."
+    },
+    {
+      "meaning_id": "차단_일반명사-1",
+      "rationale_short": "흐름이나 통로를 가로막아 끊는 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "흐름이나 통로를 막아 끊는 일반적인 행위나 상태."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "다의어 동사의 의미 분할 및 분류 (예: 울리다)",
+      "추상적인 개념어(예: 완전, 전망_1, 절차, 진입, 차단)의 적절한 root 선정 어려움",
+      "일반적인 상태/행위 동사(예: 올라오다, 주어지다)의 특정 root 귀속 모호성"
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타'로 분류된 일반적인 상태/행위 동사 및 추상명사를 위한 '일반 동사/개념' 또는 '상태/과정'과 같은 새로운 root 또는 하위 카테고리 신설 검토",
+      "'감각과 묘사'와 '내면과 감정' 간의 경계가 모호한 형용사/부사(예: 올바르다, 재미없다, 정확히)에 대한 분류 기준 명확화 필요",
+      "특정 분야(예: 우주선)에 속하는 명사에 대한 '과학과 기술' 또는 '미래 기술'과 같은 새로운 root 추가 고려"
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "결정짓다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "선택 확정 행위",
+      "rationale_short": "최종 선택을 확정하는 일반적인 행위."
+    },
+    {
+      "meaning_id": "결집_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람, 힘 등 다양한 대상에 적용 가능하여 특정 root로 확정하기 모호함.",
+      "rationale_short": "흩어진 것을 모으는 행위나 상태를 나타냄."
+    },
+    {
+      "meaning_id": "결함_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 상태나 특성을 묘사하는 개념이지만, 평가적 의미도 있어 모호함.",
+      "rationale_short": "완전하지 못한 부족한 점을 묘사하는 개념."
+    },
+    {
+      "meaning_id": "결혼관_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "결혼에 대한 태도",
+      "rationale_short": "결혼에 대한 개인의 생각과 태도를 나타냄."
+    },
+    {
+      "meaning_id": "겸손_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "자신을 낮추는 태도",
+      "rationale_short": "자기를 낮추고 남을 높이는 태도를 명확히 지칭."
+    },
+    {
+      "meaning_id": "겹겹이_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "포개진 모양 묘사",
+      "rationale_short": "여러 겹으로 포개진 상태를 묘사하는 부사."
+    },
+    {
+      "meaning_id": "겹다_형용사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "감정으로 인한 신체적 반응을 묘사하여 '내면과 감정'과 '감각과 묘사'의 경계가 모호함.",
+      "rationale_short": "감정으로 인한 신체적 메임 현상을 나타냄."
+    },
+    {
+      "meaning_id": "경고음_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "위험 알림 소리",
+      "rationale_short": "위험을 알리는 소리라는 명확한 감각적 묘사."
+    },
+    {
+      "meaning_id": "경도_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "지리적 위치 각도",
+      "rationale_short": "지구상의 위치를 나타내는 지리적 개념."
+    },
+    {
+      "meaning_id": "경보_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위험 알림 신호",
+      "rationale_short": "위험을 알리는 일반적인 신호."
+    },
+    {
+      "meaning_id": "경비_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물/사람 보호",
+      "rationale_short": "건물이나 사람을 지키는 일상적인 행위."
+    },
+    {
+      "meaning_id": "경사_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "집안/조직의 기쁜 일",
+      "rationale_short": "집안이나 조직에 생긴 기쁜 사회적/문화적 사건."
+    },
+    {
+      "meaning_id": "경영서_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "경영 관련 서적",
+      "rationale_short": "경영 이론이나 사례를 다룬 책으로 직장/업무와 관련."
+    },
+    {
+      "meaning_id": "경영인_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "회사 운영 책임자",
+      "rationale_short": "회사를 운영하는 책임자라는 직업/역할어."
+    },
+    {
+      "meaning_id": "경영주_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사업체 소유 운영자",
+      "rationale_short": "사업체를 소유하고 운영하는 사람이라는 직업/역할어."
+    },
+    {
+      "meaning_id": "경영학_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "경영 연구 학문",
+      "rationale_short": "조직 운영 방법을 연구하는 학문 분야."
+    },
+    {
+      "meaning_id": "경지_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 분야의 '수준'이나 '단계'를 나타내는 추상적인 개념으로, 특정 root에 명확히 분류하기 모호함.",
+      "rationale_short": "어떤 분야에서 이른 수준이나 단계를 나타냄."
+    },
+    {
+      "meaning_id": "경찰력_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "경찰의 인원과 힘",
+      "rationale_short": "경찰이라는 공공 서비스 기관의 역량."
+    },
+    {
+      "meaning_id": "경찰청_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "경찰 총괄 기관",
+      "rationale_short": "나라 전체의 경찰을 총괄하는 중앙 기관."
+    },
+    {
+      "meaning_id": "경청_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "주의 깊은 듣기",
+      "rationale_short": "상대의 말을 주의 깊게 듣는 대인 관계 행위."
+    },
+    {
+      "meaning_id": "경축_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "기쁜 일 축하",
+      "rationale_short": "기쁜 일을 함께 즐기며 축하하는 사회적 행위."
+    },
+    {
+      "meaning_id": "계곡_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "산 속 물 흐르는 곳",
+      "rationale_short": "산 사이로 물이 흐르는 자연 지형."
+    },
+    {
+      "meaning_id": "계급_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 신분 층",
+      "rationale_short": "신분이나 지위에 따라 나눈 사회적 층."
+    },
+    {
+      "meaning_id": "계약서_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "계약 내용 문서",
+      "rationale_short": "계약 내용을 적어 서명한 일반적인 문서."
+    },
+    {
+      "meaning_id": "계열사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "관련 기업 조직",
+      "rationale_short": "큰 회사에 속한 관련 회사라는 업무/조직 개념."
+    },
+    {
+      "meaning_id": "계정_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "온라인 사용자 기록",
+      "rationale_short": "서비스나 시스템 사용을 위한 사용자 기록."
+    },
+    {
+      "meaning_id": "계집애_일반명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "욕설/비속어",
+      "rationale_short": "어린 여자아이를 낮추어 이르는 비속어."
+    },
+    {
+      "meaning_id": "고갈_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "모두 소진된 상태",
+      "rationale_short": "있던 것이 다 쓰여 없어지는 일반적인 상태."
+    },
+    {
+      "meaning_id": "고궁_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "옛 왕의 궁궐",
+      "rationale_short": "옛 왕이 살던 궁궐로 문화유산에 해당."
+    },
+    {
+      "meaning_id": "고래_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "바다 대형 포유류",
+      "rationale_short": "바다에 사는 몸집이 큰 포유류 동물."
+    },
+    {
+      "meaning_id": "고루_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "균등하게 빠짐없이",
+      "rationale_short": "고르게 빠짐없이 하는 방식을 묘사하는 부사."
+    },
+    {
+      "meaning_id": "고립_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "홀로 떨어져 있음",
+      "rationale_short": "다른 것과 어울리지 못하고 홀로 떨어져 있는 상태."
+    },
+    {
+      "meaning_id": "고민거리_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음 괴롭히는 걱정",
+      "rationale_short": "마음을 괴롭히는 걱정거리가 되는 일."
+    },
+    {
+      "meaning_id": "고사_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "실력 평가 시험",
+      "rationale_short": "실력을 알아보기 위해 치르는 시험."
+    },
+    {
+      "meaning_id": "고속버스_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "도시 간 이동 버스",
+      "rationale_short": "도시간을 빠르게 오가는 대중교통 수단."
+    },
+    {
+      "meaning_id": "고수_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "분야 능숙한 사람",
+      "rationale_short": "어떤 분야에 매우 능숙한 사람을 지칭."
+    },
+    {
+      "meaning_id": "고액권_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "고액 지폐",
+      "rationale_short": "금액이 큰 지폐로 쇼핑/경제 활동과 관련."
+    },
+    {
+      "meaning_id": "고용인_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "고용된 근로자",
+      "rationale_short": "일을 위해 고용된 사람이라는 직업/역할어."
+    },
+    {
+      "meaning_id": "고위_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "높은 직급/위치",
+      "rationale_short": "직급이나 위치가 높음을 나타내는 일반적인 상태."
+    },
+    {
+      "meaning_id": "고조_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "기운/분위기 상승",
+      "rationale_short": "기운이나 분위기가 높아지는 일반적인 상태 변화."
+    },
+    {
+      "meaning_id": "고추장_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "매운 한국 양념",
+      "rationale_short": "고추와 찹쌀로 만든 매운 양념으로 식생활과 관련."
+    },
+    {
+      "meaning_id": "곡선_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "휘어진 모양 선",
+      "rationale_short": "휘어져 이어지는 선의 모양을 묘사."
+    },
+    {
+      "meaning_id": "곤혹_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "당황하고 난처한 감정",
+      "rationale_short": "당황하고 난처한 내면의 감정 상태."
+    },
+    {
+      "meaning_id": "곧바로_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "지체 없는 즉시",
+      "rationale_short": "지체 없이 바로라는 시간적 의미를 강조."
+    },
+    {
+      "meaning_id": "곧장_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "다른 곳 안 들르고",
+      "rationale_short": "다른 곳에 들르지 않고 바로 가는 방식을 묘사."
+    },
+    {
+      "meaning_id": "골_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 경기 득점",
+      "rationale_short": "운동 경기에서 득점을 나타내는 용어."
+    },
+    {
+      "meaning_id": "골라내다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "특정 대상 선택",
+      "rationale_short": "여럿 중에서 특정한 것을 가려 빼는 행위."
+    },
+    {
+      "meaning_id": "골목_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "집 사이 좁은 길",
+      "rationale_short": "집들 사이의 좁은 길로 주거 환경과 관련."
+    },
+    {
+      "meaning_id": "골짜기_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "산 깊게 팬 곳",
+      "rationale_short": "산 사이가 깊게 팬 자연 지형."
+    },
+    {
+      "meaning_id": "골치_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "복잡하고 귀찮은 일",
+      "rationale_short": "생각이 복잡하거나 귀찮은 내면의 문제."
+    },
+    {
+      "meaning_id": "골프_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "공 치는 운동",
+      "rationale_short": "작은 공을 쳐서 구멍에 넣는 운동."
+    },
+    {
+      "meaning_id": "곰곰이_일반부사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "깊이 생각하는 방식",
+      "rationale_short": "깊이 생각하는 내면의 행위를 묘사."
+    },
+    {
+      "meaning_id": "곱다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "아름다운 모양/빛깔",
+      "rationale_short": "모양이나 빛깔이 보기 좋음을 묘사하는 형용사."
+    },
+    {
+      "meaning_id": "공경_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "윗사람을 높이는 태도",
+      "rationale_short": "어른이나 윗사람을 높이고 받드는 태도."
+    },
+    {
+      "meaning_id": "공고_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공식 알림 문서",
+      "rationale_short": "많은 사람에게 알리기 위해 공식적으로 내는 글."
+    },
+    {
+      "meaning_id": "공공요금_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "공공 서비스 비용",
+      "rationale_short": "전기, 수도 등 공공서비스에 내는 돈."
+    },
+    {
+      "meaning_id": "공교육_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "국가 운영 교육",
+      "rationale_short": "국가나 지방이 운영하는 교육 시스템."
+    },
+    {
+      "meaning_id": "공급원_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건/서비스 제공처",
+      "rationale_short": "물건이나 서비스를 제공하는 일반적인 곳."
+    },
+    {
+      "meaning_id": "공범_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "범죄 가담자",
+      "rationale_short": "범죄를 함께 저지른 사람으로 사회/법률적 개념."
+    },
+    {
+      "meaning_id": "공범자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "범죄 공동 참여자",
+      "rationale_short": "범죄에 함께 참여한 사람으로 사회/법률적 개념."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

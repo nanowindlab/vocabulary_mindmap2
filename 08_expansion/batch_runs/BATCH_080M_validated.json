@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "악보_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 기록물",
+      "rationale_short": "음악 관련 도구로 명확함."
+    },
+    {
+      "meaning_id": "알려지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 상태 변화 동사로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 동사."
+    },
+    {
+      "meaning_id": "야구단_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스포츠 팀 조직",
+      "rationale_short": "스포츠 활동의 팀 조직으로 명확함."
+    },
+    {
+      "meaning_id": "야외무대_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공연 시설물",
+      "rationale_short": "공연을 위한 장소로 명확함."
+    },
+    {
+      "meaning_id": "약품_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "의료 치료 약품",
+      "rationale_short": "치료에 사용되는 물품으로 명확함."
+    },
+    {
+      "meaning_id": "양성_일반명사-1",
+      "bucket": "candidate",
+      "root": "학교와 공부",
+      "candidate_reason": "추상적인 행위 명사로, 교육/육성 맥락이 강하나, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 행위 명사."
+    },
+    {
+      "meaning_id": "어업인_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "어업 종사자",
+      "rationale_short": "직업/역할어로 명확함."
+    },
+    {
+      "meaning_id": "억_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "큰 숫자 단위",
+      "rationale_short": "수량 단위로 명확함."
+    },
+    {
+      "meaning_id": "엄청나다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "정도를 나타내는 묘사",
+      "rationale_short": "정도를 묘사하는 형용사로 명확함."
+    },
+    {
+      "meaning_id": "업적_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "추상적인 결과 명사로, 주로 업무와 관련되지만 일반적인 성과를 지칭할 수 있어 모호함.",
+      "rationale_short": "추상적 결과 명사."
+    },
+    {
+      "meaning_id": "없어지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 상태 변화 동사로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 동사."
+    },
+    {
+      "meaning_id": "엘리베이터_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 내 이동 장치",
+      "rationale_short": "주거/건물 내 시설물로 명확함."
+    },
+    {
+      "meaning_id": "여동생_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 구성원",
+      "rationale_short": "가족 관계를 나타내는 명사로 명확함."
+    },
+    {
+      "meaning_id": "역설_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, 언어적 표현 방식이나 사고 방식과 관련되나 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 개념."
+    },
+    {
+      "meaning_id": "연대_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 구분 단위",
+      "rationale_short": "시간의 구분을 나타내는 명사로 명확함."
+    },
+    {
+      "meaning_id": "연주자_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 공연 예술인",
+      "rationale_short": "직업/역할어로 명확함."
+    },
+    {
+      "meaning_id": "열매_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 씨앗 부분",
+      "rationale_short": "자연의 식물 부분으로 명확함."
+    },
+    {
+      "meaning_id": "염증_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 질병 증상",
+      "rationale_short": "신체 부위/의료 증상으로 명확함."
+    },
+    {
+      "meaning_id": "영감_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "추상적인 내면의 개념으로, 사고 과정이나 창의성과 관련되나 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 내면 개념."
+    },
+    {
+      "meaning_id": "영구_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "candidate_reason": "추상적인 시간의 속성으로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 시간 속성."
+    },
+    {
+      "meaning_id": "예고_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 정보 전달 행위로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 행위."
+    },
+    {
+      "meaning_id": "예법_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 예의 규범",
+      "rationale_short": "사회적 규범으로 명확함."
+    },
+    {
+      "meaning_id": "오보에_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "서양 관악기",
+      "rationale_short": "악기로 명확함."
+    },
+    {
+      "meaning_id": "오이_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식재료 채소",
+      "rationale_short": "음식 재료(채소)로 명확함."
+    },
+    {
+      "meaning_id": "오천_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 단위",
+      "rationale_short": "수량 단위로 명확함."
+    },
+    {
+      "meaning_id": "와인_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "포도 발효 주류",
+      "rationale_short": "음식/음료(주류)로 명확함."
+    },
+    {
+      "meaning_id": "외면_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "두 가지 의미(신체 부위 vs. 추상적 태도/행위)가 혼재되어 분류가 모호함.",
+      "rationale_short": "다의어, 추상적 의미 포함."
+    },
+    {
+      "meaning_id": "외식_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "외부 식사 행위",
+      "rationale_short": "식사 행위로 명확함."
+    },
+    {
+      "meaning_id": "외우다_동사-1",
+      "bucket": "candidate",
+      "root": "학교와 공부",
+      "candidate_reason": "추상적인 인지/학습 행위로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 인지 행위."
+    },
+    {
+      "meaning_id": "외출_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 외부 활동",
+      "rationale_short": "일상적인 행위로 명확함."
+    },
+    {
+      "meaning_id": "욕실_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 공간 욕실",
+      "rationale_short": "주거 공간으로 명확함."
+    },
+    {
+      "meaning_id": "우리나라_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "소속 국가",
+      "rationale_short": "국가 개념으로 명확함."
+    },
+    {
+      "meaning_id": "우수_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "뛰어난 평가",
+      "rationale_short": "평가/가치를 나타내는 명사로 명확함."
+    },
+    {
+      "meaning_id": "우윳_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 질감 묘사",
+      "rationale_short": "색깔/질감 묘사로 명확함."
+    },
+    {
+      "meaning_id": "원동력_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 개념."
+    },
+    {
+      "meaning_id": "원칙_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "추상적인 개념으로, 규칙/규범과 관련되나 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 개념."
+    },
+    {
+      "meaning_id": "위상_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "추상적인 사회적 개념으로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 사회 개념."
+    },
+    {
+      "meaning_id": "위주_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "추상적인 태도/판단 개념으로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 태도 개념."
+    },
+    {
+      "meaning_id": "유니폼_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "단체 복장 의류",
+      "rationale_short": "의류의 한 종류로 명확함."
+    },
+    {
+      "meaning_id": "유입_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 이동/흐름 개념으로, 특정 장면이나 사물에 직접 연결하기 모호함.",
+      "rationale_short": "추상적 이동 개념."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 동사/명사는 특정 장면과 연결하기 어려워 candidate로 분류되는 경향이 있음.",
+      "다의어의 경우, 의미 중 하나라도 추상적이거나 모호하면 candidate로 분류됨."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념을 위한 '개념과 사상' 또는 '행위와 상태'와 같은 새로운 루트를 고려하여 candidate 비율을 줄일 수 있습니다.",
+      "다의어 처리 시, 각 의미를 분리하여 개별 meaning_id로 관리하는 방안을 검토하여 명확성을 높일 수 있습니다."
+    ]
+  }
+}

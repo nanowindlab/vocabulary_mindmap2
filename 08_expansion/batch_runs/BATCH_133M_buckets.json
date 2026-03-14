@@ -1,0 +1,251 @@
+{
+  "core": [
+    {
+      "meaning_id": "탯줄_일반명사-1",
+      "rationale_short": "출산 관련 신체",
+      "root": "보건과 의료",
+      "category_label_ko": "출산 관련 신체"
+    },
+    {
+      "meaning_id": "테이블_일반명사-1",
+      "rationale_short": "가구 및 생활용품",
+      "root": "주거와 일상",
+      "category_label_ko": "가구 및 생활용품"
+    },
+    {
+      "meaning_id": "토성_일반명사-1",
+      "rationale_short": "우주와 천체",
+      "root": "날씨와 자연",
+      "category_label_ko": "우주와 천체"
+    },
+    {
+      "meaning_id": "톱_일반명사-1",
+      "rationale_short": "공구 및 작업도구",
+      "root": "주거와 일상",
+      "category_label_ko": "공구 및 작업도구"
+    },
+    {
+      "meaning_id": "통나무_일반명사-1",
+      "rationale_short": "나무와 목재",
+      "root": "날씨와 자연",
+      "category_label_ko": "나무와 목재"
+    },
+    {
+      "meaning_id": "통로_일반명사-1",
+      "rationale_short": "공간 및 이동경로",
+      "root": "주거와 일상",
+      "category_label_ko": "공간 및 이동경로"
+    },
+    {
+      "meaning_id": "통신망_일반명사-1",
+      "rationale_short": "정보통신 인프라",
+      "root": "공공 서비스",
+      "category_label_ko": "정보통신 인프라"
+    },
+    {
+      "meaning_id": "퇴근길_일반명사-1",
+      "rationale_short": "퇴근 및 이동",
+      "root": "직장과 업무",
+      "category_label_ko": "퇴근 및 이동"
+    },
+    {
+      "meaning_id": "퇴사_일반명사-1",
+      "rationale_short": "직장 생활 변화",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 생활 변화"
+    },
+    {
+      "meaning_id": "퇴적_일반명사-1",
+      "rationale_short": "지형 및 지질현상",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형 및 지질현상"
+    },
+    {
+      "meaning_id": "투어_일반명사-1",
+      "rationale_short": "여행 활동",
+      "root": "여행",
+      "category_label_ko": "여행 활동"
+    },
+    {
+      "meaning_id": "투자자_일반명사-1",
+      "rationale_short": "경제 활동 인물",
+      "root": "직장과 업무",
+      "category_label_ko": "경제 활동 인물"
+    },
+    {
+      "meaning_id": "튀어나오다_동사-1",
+      "rationale_short": "움직임 및 돌출",
+      "root": "감각과 묘사",
+      "category_label_ko": "움직임 및 돌출"
+    },
+    {
+      "meaning_id": "특허청_일반명사-1",
+      "rationale_short": "정부 행정 기관",
+      "root": "공공 서비스",
+      "category_label_ko": "정부 행정 기관"
+    },
+    {
+      "meaning_id": "틈새_일반명사-1",
+      "rationale_short": "공간의 틈",
+      "root": "주거와 일상",
+      "category_label_ko": "공간의 틈"
+    },
+    {
+      "meaning_id": "파견_일반명사-1",
+      "rationale_short": "인력 배치 및 이동",
+      "root": "직장과 업무",
+      "category_label_ko": "인력 배치 및 이동"
+    },
+    {
+      "meaning_id": "파리_일반명사-1",
+      "rationale_short": "곤충 및 벌레",
+      "root": "날씨와 자연",
+      "category_label_ko": "곤충 및 벌레"
+    },
+    {
+      "meaning_id": "파편_일반명사-1",
+      "rationale_short": "조각 및 잔해",
+      "root": "주거와 일상",
+      "category_label_ko": "조각 및 잔해"
+    },
+    {
+      "meaning_id": "팝페라_일반명사-1",
+      "rationale_short": "음악 장르",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 장르"
+    },
+    {
+      "meaning_id": "페달_일반명사-1",
+      "rationale_short": "기계 부품",
+      "root": "주거와 일상",
+      "category_label_ko": "기계 부품"
+    },
+    {
+      "meaning_id": "페트병_일반명사-1",
+      "rationale_short": "용기 및 포장재",
+      "root": "주거와 일상",
+      "category_label_ko": "용기 및 포장재"
+    },
+    {
+      "meaning_id": "편집장_일반명사-1",
+      "rationale_short": "언론/출판 직업",
+      "root": "직장과 업무",
+      "category_label_ko": "언론/출판 직업"
+    },
+    {
+      "meaning_id": "편찬_일반명사-1",
+      "rationale_short": "서적 제작 활동",
+      "root": "학교와 공부",
+      "category_label_ko": "서적 제작 활동"
+    },
+    {
+      "meaning_id": "편찮다_형용사-1",
+      "rationale_short": "건강 상태 묘사",
+      "root": "보건과 의료",
+      "category_label_ko": "건강 상태 묘사"
+    },
+    {
+      "meaning_id": "평면_일반명사-1",
+      "rationale_short": "형태 및 표면",
+      "root": "감각과 묘사",
+      "category_label_ko": "형태 및 표면"
+    },
+    {
+      "meaning_id": "폐교_일반명사-1",
+      "rationale_short": "학교 관련 시설",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 관련 시설"
+    },
+    {
+      "meaning_id": "포용_일반명사-1",
+      "rationale_short": "관용적 태도",
+      "root": "성격과 태도",
+      "category_label_ko": "관용적 태도"
+    },
+    {
+      "meaning_id": "포장지_일반명사-1",
+      "rationale_short": "포장 재료",
+      "root": "쇼핑",
+      "category_label_ko": "포장 재료"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "토종_일반명사-1",
+      "rationale_short": "특정 지역의 품종 특성을 나타내며, 생물학적/농업적 맥락에 따라 '날씨와 자연' 또는 '식생활' 등 여러 root에 걸쳐 사용될 수 있어 분류 모호.",
+      "root": "날씨와 자연",
+      "candidate_reason": "특정 지역의 품종 특성을 나타내며, 생물학적/농업적 맥락에 따라 '날씨와 자연' 또는 '식생활' 등 여러 root에 걸쳐 사용될 수 있어 분류 모호."
+    },
+    {
+      "meaning_id": "통일_일반명사-1",
+      "rationale_short": "국가적, 사회적 통합을 주로 의미하나, 일반적인 '합침'의 의미도 포함하여 분류 모호.",
+      "root": "문화와 사회",
+      "candidate_reason": "국가적, 사회적 통합을 주로 의미하나, 일반적인 '합침'의 의미도 포함하여 분류 모호."
+    },
+    {
+      "meaning_id": "퇴화_일반명사-1",
+      "rationale_short": "생물학적, 기능적, 사회적 등 다양한 맥락에서 '기능이나 모습이 약해짐'을 의미하여 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "생물학적, 기능적, 사회적 등 다양한 맥락에서 '기능이나 모습이 약해짐'을 의미하여 분류 모호."
+    },
+    {
+      "meaning_id": "투입_일반명사-1",
+      "rationale_short": "자원, 인력 등을 어떤 일에 들여보내는 일반적인 행위로, 특정 root에 한정하기 어려움.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "자원, 인력 등을 어떤 일에 들여보내는 일반적인 행위로, 특정 root에 한정하기 어려움."
+    },
+    {
+      "meaning_id": "특급_일반명사-1",
+      "rationale_short": "속도나 수준의 '최상급'을 나타내는 개념어로, 다양한 대상에 적용될 수 있어 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "속도나 수준의 '최상급'을 나타내는 개념어로, 다양한 대상에 적용될 수 있어 분류 모호."
+    },
+    {
+      "meaning_id": "틈_일반명사-1",
+      "rationale_short": "물리적인 공간과 시간적인 여유를 모두 의미하여 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 공간과 시간적인 여유를 모두 의미하여 분류 모호."
+    },
+    {
+      "meaning_id": "티_일반명사-1",
+      "rationale_short": "겉으로 드러나는 미세한 흔적이나 기색을 의미하며, 물리적/심리적 맥락 모두 가능하여 분류 모호.",
+      "root": "감각과 묘사",
+      "candidate_reason": "겉으로 드러나는 미세한 흔적이나 기색을 의미하며, 물리적/심리적 맥락 모두 가능하여 분류 모호."
+    },
+    {
+      "meaning_id": "파행_일반명사-1",
+      "rationale_short": "일이나 제도의 비정상적인 진행 상태를 의미하며, 사회, 업무 등 다양한 맥락에서 사용될 수 있어 분류 모호.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일이나 제도의 비정상적인 진행 상태를 의미하며, 사회, 업무 등 다양한 맥락에서 사용될 수 있어 분류 모호."
+    },
+    {
+      "meaning_id": "판독_일반명사-1",
+      "rationale_short": "글자, 수치, 표시 등을 읽고 해석하는 일반적인 행위로, 특정 root에 한정하기 어려움.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "글자, 수치, 표시 등을 읽고 해석하는 일반적인 행위로, 특정 root에 한정하기 어려움."
+    },
+    {
+      "meaning_id": "편성_일반명사-1",
+      "rationale_short": "사람, 프로그램 등을 조직하고 정리하는 일반적인 행위로, 특정 root에 한정하기 어려움.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람, 프로그램 등을 조직하고 정리하는 일반적인 행위로, 특정 root에 한정하기 어려움."
+    },
+    {
+      "meaning_id": "폐단_일반명사-1",
+      "rationale_short": "제도나 관행의 부정적인 결과를 의미하며, 사회 전반에 걸쳐 나타날 수 있어 분류 모호.",
+      "root": "문화와 사회",
+      "candidate_reason": "제도나 관행의 부정적인 결과를 의미하며, 사회 전반에 걸쳐 나타날 수 있어 분류 모호."
+    }
+  ],
+  "exclusion": [
+    {
+      "meaning_id": "톡톡히_일반부사-1",
+      "rationale_short": "시각화가 거의 불가능한 학습 비적합 파편어",
+      "exclusion_reason": "시각화가 거의 불가능한 학습 비적합 파편어"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "병들다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 발생",
+      "rationale_short": "몸에 병이 생기는 의료 관련 행위/상태"
+    },
+    {
+      "meaning_id": "병충해_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "candidate_reason": "식물 관련 피해로 '날씨와 자연'에 가깝지만, '병'이라는 측면에서 '보건과 의료'와도 연관될 수 있어 모호함.",
+      "rationale_short": "식물 관련 자연 현상으로 분류하나, '병'의 개념이 모호"
+    },
+    {
+      "meaning_id": "보람_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "노력의 만족감",
+      "rationale_short": "수고 후 느끼는 내면적 만족감"
+    },
+    {
+      "meaning_id": "보살피다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "돌봄 행위",
+      "rationale_short": "타인을 돌보는 관계적 행위"
+    },
+    {
+      "meaning_id": "보수_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "노동의 대가",
+      "rationale_short": "고용의 대가로 받는 돈으로 직장/업무와 명확히 관련"
+    },
+    {
+      "meaning_id": "보험료_일반명사-1",
+      "bucket": "candidate",
+      "root": "공공 서비스",
+      "candidate_reason": "보험이라는 제도는 '공공 서비스'에 가깝지만, '돈'이라는 측면에서 '주거와 일상'의 경제 활동으로도 볼 수 있어 모호함.",
+      "rationale_short": "보험 제도와 관련되나, 가계 경제 측면에서 모호"
+    },
+    {
+      "meaning_id": "복약_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "약 복용",
+      "rationale_short": "약을 먹는 의료 행위"
+    },
+    {
+      "meaning_id": "복잡하다_형용사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물의 상태를 묘사하는 형용사로 '감각과 묘사'에 가깝지만, 추상적인 상황 묘사로도 쓰여 '상황 지시/기타'와도 겹칠 수 있어 모호함.",
+      "rationale_short": "사물/상황의 상태 묘사로, 추상적 의미가 있어 모호"
+    },
+    {
+      "meaning_id": "본격_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일의 진행 단계나 성격을 나타내는 추상적인 개념으로, '상황 지시/기타'에 가깝지만, '논리와 연결'과도 겹칠 수 있어 모호함.",
+      "rationale_short": "일의 진행 단계나 성격을 나타내는 추상적 개념으로 모호"
+    },
+    {
+      "meaning_id": "본보기_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "사회적 모범을 의미하여 '문화와 사회'에 가깝지만, 개인의 '성격과 태도'와도 연관될 수 있어 모호함.",
+      "rationale_short": "사회적 모범을 의미하나, 개인의 태도와도 연관되어 모호"
+    },
+    {
+      "meaning_id": "본선_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "경기 최종 단계",
+      "rationale_short": "경기의 최종 단계로 여가/취미 활동에 해당"
+    },
+    {
+      "meaning_id": "볼일_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "처리할 용무",
+      "rationale_short": "처리해야 할 일이나 용무를 지시하는 개념"
+    },
+    {
+      "meaning_id": "봉선화_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "여름 꽃나무",
+      "rationale_short": "식물 이름으로 자연에 해당"
+    },
+    {
+      "meaning_id": "뵈다_동사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "candidate_reason": "'눈에 들어오다'는 '감각과 묘사', '윗사람을 만나다'는 '사람과 관계'에 해당하여 의미가 중첩되고 모호함.",
+      "rationale_short": "두 가지 의미가 있어 분류가 모호함"
+    },
+    {
+      "meaning_id": "부각_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 것을 두드러지게 하는 행위로 '상황 지시/기타'에 가깝지만, 강조의 의미에서 '의견과 가치'와도 연관될 수 있어 모호함.",
+      "rationale_short": "어떤 것을 두드러지게 하는 행위로 모호"
+    },
+    {
+      "meaning_id": "부근_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "주변 위치",
+      "rationale_short": "어떤 곳의 주변 위치를 지시하는 개념"
+    },
+    {
+      "meaning_id": "부서지다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "물체 파손",
+      "rationale_short": "물리적 상태 변화를 묘사"
+    },
+    {
+      "meaning_id": "부스_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "행사 전시 공간",
+      "rationale_short": "전시회/행사 공간으로 문화/사회 활동에 해당"
+    },
+    {
+      "meaning_id": "부인_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "배우자 호칭",
+      "rationale_short": "결혼한 남자의 아내를 이르는 말로 사람 관계에 해당"
+    },
+    {
+      "meaning_id": "부인_일반명사-2",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "사실 부정",
+      "rationale_short": "어떤 사실을 아니라고 하는 의견 표명"
+    },
+    {
+      "meaning_id": "부재_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "자리 없음",
+      "rationale_short": "어떤 사람이 그 자리에 없는 상황을 지시"
+    },
+    {
+      "meaning_id": "부지런_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "꾸준한 성질",
+      "rationale_short": "게으르지 않고 꾸준히 일하는 성질"
+    },
+    {
+      "meaning_id": "부쩍_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "변화의 정도를 나타내는 부사로 '상황 지시/기타'에 가깝지만, '수량과 단위'나 '시간과 흐름'과도 연관될 수 있어 모호함.",
+      "rationale_short": "변화의 정도를 나타내는 부사로 모호"
+    },
+    {
+      "meaning_id": "부풀리다_동사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "실제보다 과장하는 행위로 '의견과 가치'에 가깝지만, 시각적으로 '크게 보이게 하다'는 '감각과 묘사'와도 연관될 수 있어 모호함.",
+      "rationale_short": "실제보다 과장하는 행위로 모호"
+    },
+    {
+      "meaning_id": "북쪽_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방향 지시",
+      "rationale_short": "방향을 지시하는 개념"
+    },
+    {
+      "meaning_id": "분꽃_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "저녁에 피는 꽃",
+      "rationale_short": "식물 이름으로 자연에 해당"
+    },
+    {
+      "meaning_id": "분량_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "나누어진 양",
+      "rationale_short": "나누어진 양이나 전체에서 차지하는 양"
+    },
+    {
+      "meaning_id": "분산_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "모여 있던 것이 흩어지는 상태 변화로 '상황 지시/기타'에 가깝지만, 통계적 '분산' 개념과 같이 '논리와 연결'과도 연관될 수 있어 모호함.",
+      "rationale_short": "흩어지는 상태 변화를 의미하나, 추상적 개념과도 연관되어 모호"
+    },
+    {
+      "meaning_id": "분쟁_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 갈등",
+      "rationale_short": "서로 맞지 않아 다투고 싸우는 관계적 갈등"
+    },
+    {
+      "meaning_id": "분주_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "바쁜 상태",
+      "rationale_short": "여러 일을 하느라 매우 바쁜 상황"
+    },
+    {
+      "meaning_id": "불가_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "불가능 개념",
+      "rationale_short": "할 수 없음을 나타내는 논리적 개념"
+    },
+    {
+      "meaning_id": "불구하다_동사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "조건 무시",
+      "rationale_short": "어떤 조건이나 어려움을 문제 삼지 않는 논리적 관계"
+    },
+    {
+      "meaning_id": "불량_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "좋지 않은 품질",
+      "rationale_short": "품질이나 태도가 좋지 않다는 평가"
+    },
+    {
+      "meaning_id": "불씨_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "남은 불꽃",
+      "rationale_short": "꺼지지 않고 남아 있는 작은 불로 자연 현상에 해당"
+    },
+    {
+      "meaning_id": "붐비다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "혼잡한 상태",
+      "rationale_short": "사람이나 차가 많아 복잡한 상황"
+    },
+    {
+      "meaning_id": "붙잡다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "손으로 잡기",
+      "rationale_short": "손으로 꽉 잡는 행위를 묘사"
+    },
+    {
+      "meaning_id": "블라우스_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "여성 윗옷",
+      "rationale_short": "일상적으로 입는 의류"
+    },
+    {
+      "meaning_id": "비례_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "양의 관계",
+      "rationale_short": "두 양 사이의 일정한 관계를 나타내는 논리적 개념"
+    },
+    {
+      "meaning_id": "비상벨_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "위급 경보 장치",
+      "rationale_short": "위급 상황 시 사용하는 공공 안전 장치"
+    },
+    {
+      "meaning_id": "비속어_일반명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "욕설/비속어 관련 어휘는 제외",
+      "rationale_short": "욕설/비속어 규칙에 따라 제외"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 상태/개념을 나타내는 명사/형용사/부사는 여러 root와 겹쳐 candidate로 분류되는 경향이 있음 (예: 복잡하다, 본격, 부각, 부쩍, 분산).",
+      "다의어의 경우, 각 의미가 다른 root에 속할 수 있어 candidate로 분류됨 (예: 뵈다)."
+    ],
+    "ia_suggestions": [
+      "추상적인 상태/개념을 위한 '상황 지시/기타' 하위 카테고리를 세분화하여 모호성을 줄일 수 있습니다.",
+      "다의어 처리 시, 의미별로 분리하여 각각의 적절한 root에 배치하는 방안을 고려해야 합니다. (예: '뵈다'의 '눈에 들어오다'와 '만나다' 의미 분리)"
+    ]
+  }
+}

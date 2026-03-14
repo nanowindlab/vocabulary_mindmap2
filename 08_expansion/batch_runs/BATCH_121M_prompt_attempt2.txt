@@ -1,0 +1,399 @@
+이전 응답은 로컬 검증에서 실패했다. 이전 응답을 버리고 아래 오류를 모두 수정해서 JSON만 다시 반환하라.
+
+검증 오류:
+[
+  "살리초_일반명사-1: exclusion 사유가 과도하거나 SDCP 필터와 불일치"
+]
+
+수정 규칙:
+- `decisions`는 입력 40건과 정확히 1:1이어야 한다.
+- 각 `meaning_id`는 정확히 한 번만 등장한다.
+- candidate는 모두 `root`를 반드시 가져야 한다.
+- exclusion은 SDCP 필터 기준에만 사용한다.
+- 아래 표현은 exclusion 사유로 금지한다:
+  - 너무 일반적인 명사/동사
+  - 특정 재료라서 부적합
+  - 사람이라서 부적합
+  - 신체 부위라서 exclusion
+- 의심되면 candidate로 이동한다.
+- root는 다음 목록에서만 선택한다:
+["사람과 관계", "식생활", "주거와 일상", "쇼핑", "교통", "학교와 공부", "직장과 업무", "여가와 취미", "여행", "보건과 의료", "날씨와 자연", "공공 서비스", "문화와 사회", "상황 지시/기타", "내면과 감정", "성격과 태도", "감각과 묘사", "의견과 가치", "수량과 단위", "시간과 흐름", "논리와 연결", "지시와 질문"]
+
+이전 응답:
+{
+  "decisions": [
+    {
+      "meaning_id": "비우다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일반적인 행위 동사로, 물리적/추상적 맥락 모두에 사용되어 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 맥락에 적용되는 일반 동사."
+    },
+    {
+      "meaning_id": "비치다_동사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "빛 발생/현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "빛이 나는 자연 현상을 나타냄."
+    },
+    {
+      "meaning_id": "비치다_동사-2",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "모습 나타남",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "모습이나 형체가 시각적으로 나타나는 것을 묘사함."
+    },
+    {
+      "meaning_id": "비틀다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "물리적 행위 동사이나, 특정 맥락에 강하게 연결되지 않아 분류 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 대상에 적용되는 일반적인 물리적 행위."
+    },
+    {
+      "meaning_id": "빈도_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "반복되는 정도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 되풀이되는 시간적 정도를 나타내는 개념."
+    },
+    {
+      "meaning_id": "빚다_동사-1",
+      "bucket": "candidate",
+      "root": "식생활",
+      "category_label_ko": null,
+      "candidate_reason": "주로 음식(가루 반죽)과 관련되지만, 도자기 등을 만드는 창작 행위에도 사용될 수 있어 분류 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "음식 조리 외 다른 창작 행위에도 사용 가능."
+    },
+    {
+      "meaning_id": "빚어지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상황 발생",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이나 현상이 새로 생겨나는 상황을 나타냄."
+    },
+    {
+      "meaning_id": "빛깔_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색상/색채",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "눈으로 보이는 색의 차이를 묘사하는 개념."
+    },
+    {
+      "meaning_id": "빠짐없이_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "전체성/완전함",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "부분 없이 모두를 의미하는 전체성 개념."
+    },
+    {
+      "meaning_id": "빨판_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 신체 기관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "동물의 특정 신체 기관을 지칭함."
+    },
+    {
+      "meaning_id": "빼앗다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "강탈/탈취",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "타인의 것을 억지로 취하는 사람 간의 행위."
+    },
+    {
+      "meaning_id": "뽑아내다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "안에 있는 것을 꺼내는 일반적인 행위 동사로, 다양한 맥락에 사용되어 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 대상에 적용되는 일반적인 추출 행위."
+    },
+    {
+      "meaning_id": "뿌듯하다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "만족감/성취감",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음이 기쁘고 만족스러운 감정 상태를 나타냄."
+    },
+    {
+      "meaning_id": "사립문_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 출입문",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집의 출입문으로 주거 공간의 구성 요소."
+    },
+    {
+      "meaning_id": "사물놀이_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 음악",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한국의 전통 음악 공연 형식."
+    },
+    {
+      "meaning_id": "사방_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "여러 방향",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 방향을 지칭하는 공간적 개념."
+    },
+    {
+      "meaning_id": "사업비_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 운영 비용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사업 수행에 필요한 재정적 비용."
+    },
+    {
+      "meaning_id": "사유_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "원인/이유",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 일어난 까닭을 나타내는 개념."
+    },
+    {
+      "meaning_id": "사유서_일반명사-1",
+      "bucket": "candidate",
+      "root": "공공 서비스",
+      "category_label_ko": null,
+      "candidate_reason": "이유를 적은 문서로, 직장, 학교, 공공기관 등 다양한 특정 상황에서 사용되어 분류 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 목적을 가진 문서로 여러 제도적 맥락에 걸쳐 사용."
+    },
+    {
+      "meaning_id": "사절_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "외교 대표",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국가 간의 공식적인 대표 역할."
+    },
+    {
+      "meaning_id": "사태_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "상황/현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 벌어진 상태나 현상."
+    },
+    {
+      "meaning_id": "사회생활_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회 구성원으로서 겪는 활동 전반."
+    },
+    {
+      "meaning_id": "삭제_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "제거/지움",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것을 없애거나 지우는 행위 또는 개념."
+    },
+    {
+      "meaning_id": "산골_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "산간 마을",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "산이 많은 지역의 마을을 지칭."
+    },
+    {
+      "meaning_id": "산길_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "산악 도로",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "산속에 있는 길을 지칭."
+    },
+    {
+      "meaning_id": "산새_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "산림 조류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "산에 서식하는 새를 지칭."
+    },
+    {
+      "meaning_id": "산조_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 기악",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한국 전통 기악 독주 형식."
+    },
+    {
+      "meaning_id": "살리초_일반명사-1",
+      "bucket": "exclusion",
+      "root": null,
+      "category_label_ko": null,
+      "candidate_reason": null,
+      "exclusion_reason": "전문적인 화학 용어로, 일반적인 한국어 어휘 학습에 부적합하며 시각화가 어려움.",
+      "rationale_short": "전문 화학 용어, 학습 비적합 파편어."
+    },
+    {
+      "meaning_id": "살림_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가정 관리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집안일을 꾸려 나가는 행위."
+    },
+    {
+      "meaning_id": "삼월_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "세 번째 달",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한 해의 세 번째 달을 지칭하는 시간 단위."
+    },
+    {
+      "meaning_id": "상공업_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "산업 경제",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상업과 공업을 아우르는 경제 분야."
+    },
+    {
+      "meaning_id": "상관_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직장 상사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장이나 조직 내 윗사람의 역할."
+    },
+    {
+      "meaning_id": "상관관계_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "상호 연관성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "두 대상이 서로 관련되는 관계를 나타내는 개념."
+    },
+    {
+      "meaning_id": "상권_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상업 활동 지역",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가게들이 영향을 미치는 상업 지역."
+    },
+    {
+      "meaning_id": "상급_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "높은 등급",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "등급이나 단계가 높은 쪽을 나타내는 개념."
+    },
+    {
+      "meaning_id": "상담원_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "상담 업무 직원",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상담 업무를 맡은 직업/역할."
+    },
+    {
+      "meaning_id": "상류_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "강 상류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "강이나 냇물의 위쪽 부분을 지칭하는 지형."
+    },
+    {
+      "meaning_id": "상비약_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "가정 비치 약",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집에 늘 준비해 두는 의약품."
+    },
+    {
+      "meaning_id": "상세히_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "자세한 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자세하고 낱낱이 묘사하는 방식을 나타냄."
+    },
+    {
+      "meaning_id": "상소문_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "진정서/청원서",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "윗사람에게 사정을 적어 올리는 글의 형식."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "일반적인 행위 동사 (비우다, 비틀다, 뽑아내다)는 여러 맥락에 걸쳐 사용되어 특정 root에 100% 확실하게 분류하기 어려움. '상황 지시/기타' 또는 가장 대표적인 맥락을 임시 root로 제안하는 경향이 있음.",
+      "문서류 명사 (사유서)는 사용되는 제도적 맥락(직장, 학교, 공공 서비스)이 다양하여 분류 모호성이 발생할 수 있음."
+    ],
+    "ia_suggestions": [
+      "일반적인 행위 동사(e.g., 비우다, 비틀다, 뽑아내다)에 대해 '상황 지시/기타' root 내에 '일반 행위' 또는 '동작'과 같은 하위 카테고리 신설을 고려하여 모호성을 줄일 수 있습니다.",
+      "문서류 명사(e.g., 사유서)의 경우, '공공 서비스' root 내에 '행정 문서' 또는 '제도 관련 문서'와 같은 하위 카테고리를 구체화하여 분류의 일관성을 높일 수 있습니다."
+    ]
+  }
+}
+
+원본 입력:
+[{"meaning_id": "비우다_동사-1", "lemma": "비우다", "pos_ko": "동사", "meaning_kr": "안에 있는 것을 모두 내보내어 남기지 않게 하다", "frequency": 2, "frequency_rank": 5036, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "비치다_동사-1", "lemma": "비치다", "pos_ko": "동사", "meaning_kr": "빛이 나서 주변이 밝게 되다", "frequency": 2, "frequency_rank": 5037, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "비치다_동사-2", "lemma": "비치다", "pos_ko": "동사", "meaning_kr": "모습이나 형체가 비쳐 나타나다", "frequency": 2, "frequency_rank": 5038, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "비틀다_동사-1", "lemma": "비틀다", "pos_ko": "동사", "meaning_kr": "한쪽을 잡고 돌려 꼬이게 하다", "frequency": 2, "frequency_rank": 5039, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빈도_일반명사-1", "lemma": "빈도", "pos_ko": "일반명사", "meaning_kr": "어떤 일이 되풀이되어 일어나는 잦은 정도", "frequency": 2, "frequency_rank": 5040, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빚다_동사-1", "lemma": "빚다", "pos_ko": "동사", "meaning_kr": "가루 반죽 따위를 둥글게 또는 다른 모양으로 만들다", "frequency": 2, "frequency_rank": 5041, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빚어지다_동사-1", "lemma": "빚어지다", "pos_ko": "동사", "meaning_kr": "어떤 일이나 현상이 새로 생겨나다", "frequency": 2, "frequency_rank": 5042, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빛깔_일반명사-1", "lemma": "빛깔", "pos_ko": "일반명사", "meaning_kr": "눈으로 보이는 붉은색, 파란색 같은 색의 차이", "frequency": 2, "frequency_rank": 5043, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빠짐없이_일반부사-1", "lemma": "빠짐없이", "pos_ko": "일반부사", "meaning_kr": "빠뜨리거나 빼놓는 부분 없이 모두", "frequency": 2, "frequency_rank": 5044, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빨판_일반명사-1", "lemma": "빨판", "pos_ko": "일반명사", "meaning_kr": "문어나 빨판고기 등이 물체에 들러붙는 데 쓰는 기관", "frequency": 2, "frequency_rank": 5045, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "빼앗다_동사-1", "lemma": "빼앗다", "pos_ko": "동사", "meaning_kr": "남의 것을 억지로 자기 것으로 만들다", "frequency": 2, "frequency_rank": 5046, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "뽑아내다_동사-1", "lemma": "뽑아내다", "pos_ko": "동사", "meaning_kr": "안에 있는 것을 모두 잡아 꺼내다", "frequency": 2, "frequency_rank": 5047, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "뿌듯하다_형용사-1", "lemma": "뿌듯하다", "pos_ko": "형용사", "meaning_kr": "마음이 기쁘고 만족스러워 가득 차 있다", "frequency": 2, "frequency_rank": 5048, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사립문_일반명사-1", "lemma": "사립문", "pos_ko": "일반명사", "meaning_kr": "작고 가벼운 출입문", "frequency": 2, "frequency_rank": 5049, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사물놀이_일반명사-1", "lemma": "사물놀이", "pos_ko": "일반명사", "meaning_kr": "네 가지 타악기로 연주하는 우리 음악", "frequency": 2, "frequency_rank": 5050, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사방_일반명사-1", "lemma": "사방", "pos_ko": "일반명사", "meaning_kr": "여러 방향", "frequency": 2, "frequency_rank": 5051, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사업비_일반명사-1", "lemma": "사업비", "pos_ko": "일반명사", "meaning_kr": "사업을 수행하는 데 필요한 비용", "frequency": 2, "frequency_rank": 5052, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사유_일반명사-1", "lemma": "사유", "pos_ko": "일반명사", "meaning_kr": "어떤 일이 일어난 까닭", "frequency": 2, "frequency_rank": 5053, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사유서_일반명사-1", "lemma": "사유서", "pos_ko": "일반명사", "meaning_kr": "이유를 적은 문서", "frequency": 2, "frequency_rank": 5054, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사절_일반명사-1", "lemma": "사절", "pos_ko": "일반명사", "meaning_kr": "나라의 일을 맡아 다른 나라에 가는 대표", "frequency": 2, "frequency_rank": 5055, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사태_일반명사-1", "lemma": "사태", "pos_ko": "일반명사", "meaning_kr": "어떤 일이 벌어진 상태", "frequency": 2, "frequency_rank": 5056, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사회생활_일반명사-1", "lemma": "사회생활", "pos_ko": "일반명사", "meaning_kr": "사회에서 겪으며 살아가는 활동", "frequency": 2, "frequency_rank": 5057, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "삭제_일반명사-1", "lemma": "삭제", "pos_ko": "일반명사", "meaning_kr": "없애거나 지움", "frequency": 2, "frequency_rank": 5058, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "산골_일반명사-1", "lemma": "산골", "pos_ko": "일반명사", "meaning_kr": "산이 많은 깊은 마을", "frequency": 2, "frequency_rank": 5059, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "산길_일반명사-1", "lemma": "산길", "pos_ko": "일반명사", "meaning_kr": "산속의 길", "frequency": 2, "frequency_rank": 5060, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "산새_일반명사-1", "lemma": "산새", "pos_ko": "일반명사", "meaning_kr": "산에 사는 작은 새", "frequency": 2, "frequency_rank": 5061, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "산조_일반명사-1", "lemma": "산조", "pos_ko": "일반명사", "meaning_kr": "우리 전통 기악 독주 형식", "frequency": 2, "frequency_rank": 5062, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "살리초_일반명사-1", "lemma": "살리초", "pos_ko": "일반명사", "meaning_kr": "살리에트가 들어 있는 화합물", "frequency": 2, "frequency_rank": 5063, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "살림_일반명사-1", "lemma": "살림", "pos_ko": "일반명사", "meaning_kr": "집에서 필요한 일을 꾸려 나가는 일", "frequency": 2, "frequency_rank": 5064, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "삼월_일반명사-1", "lemma": "삼월", "pos_ko": "일반명사", "meaning_kr": "한 해의 세 번째 달", "frequency": 2, "frequency_rank": 5065, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상공업_일반명사-1", "lemma": "상공업", "pos_ko": "일반명사", "meaning_kr": "상업과 공업을 아울러 이르는 말", "frequency": 2, "frequency_rank": 5066, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상관_일반명사-1", "lemma": "상관", "pos_ko": "일반명사", "meaning_kr": "직장이나 조직에서 윗사람", "frequency": 2, "frequency_rank": 5067, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상관관계_일반명사-1", "lemma": "상관관계", "pos_ko": "일반명사", "meaning_kr": "두 대상이 서로 관련되는 관계", "frequency": 2, "frequency_rank": 5068, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상권_일반명사-1", "lemma": "상권", "pos_ko": "일반명사", "meaning_kr": "가게들이 영향을 미치는 지역", "frequency": 2, "frequency_rank": 5069, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상급_일반명사-1", "lemma": "상급", "pos_ko": "일반명사", "meaning_kr": "등급이나 단계가 높은 쪽", "frequency": 2, "frequency_rank": 5070, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상담원_일반명사-1", "lemma": "상담원", "pos_ko": "일반명사", "meaning_kr": "전화나 창구에서 상담을 맡은 직원", "frequency": 2, "frequency_rank": 5071, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상류_일반명사-1", "lemma": "상류", "pos_ko": "일반명사", "meaning_kr": "강이나 냇물의 위쪽 부분", "frequency": 2, "frequency_rank": 5072, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상비약_일반명사-1", "lemma": "상비약", "pos_ko": "일반명사", "meaning_kr": "집에 늘 준비해 두는 약", "frequency": 2, "frequency_rank": 5073, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상세히_일반부사-1", "lemma": "상세히", "pos_ko": "일반부사", "meaning_kr": "자세하고 낱낱이", "frequency": 2, "frequency_rank": 5074, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "상소문_일반명사-1", "lemma": "상소문", "pos_ko": "일반명사", "meaning_kr": "윗사람에게 사정을 적어 올리는 글", "frequency": 2, "frequency_rank": 5075, "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}]

@@ -1,0 +1,437 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "특별전_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "특별 전시회",
+      "rationale_short": "특정 주제의 전시회는 문화 활동에 해당."
+    },
+    {
+      "meaning_id": "특산물_일반명사-1",
+      "bucket": "candidate",
+      "root": "쇼핑",
+      "candidate_reason": "지역 특색을 나타내는 상품으로, '쇼핑'과 '문화와 사회' 사이 분류 모호.",
+      "rationale_short": "지역에서 나는 유명한 물건으로, 상품의 성격이 강함."
+    },
+    {
+      "meaning_id": "특색_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "다른 것과 구별되는 독특한 점은 추상적 개념으로, '감각과 묘사'와 '의견과 가치' 사이 분류 모호.",
+      "rationale_short": "사물이나 현상의 독특한 점을 묘사하는 개념."
+    },
+    {
+      "meaning_id": "특출나다_형용사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "candidate_reason": "사람의 능력이나 실력에 대한 평가로, '성격과 태도'와 '의견과 가치' 사이 분류 모호.",
+      "rationale_short": "다른 사람보다 뛰어난 능력이나 실력을 가진 사람의 특성."
+    },
+    {
+      "meaning_id": "틀어지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "계획이 나쁘게 변하는 상황과 사람 사이가 나빠지는 관계라는 두 가지 맥락을 포함하여 분류 모호.",
+      "rationale_short": "계획이나 관계가 원래 뜻대로 되지 않고 나쁘게 변하는 상황."
+    },
+    {
+      "meaning_id": "틈틈이_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 활용 방식",
+      "rationale_short": "시간이 날 때마다 조금씩 하는 행위를 나타내는 부사."
+    },
+    {
+      "meaning_id": "티끌_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "작은 자연 물질",
+      "rationale_short": "아주 작은 먼지 같은 자연 물질."
+    },
+    {
+      "meaning_id": "팀원_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "조직 구성원",
+      "rationale_short": "하나의 팀에 속해 함께 활동하는 사람으로, 직업/역할어는 관련 scene root 우선."
+    },
+    {
+      "meaning_id": "파급_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "영향이나 현상이 주변으로 번져 나가는 추상적 현상으로, '상황'과 '논리' 사이 분류 모호.",
+      "rationale_short": "어떤 영향이나 현상이 주변으로 번져 나가는 상황."
+    },
+    {
+      "meaning_id": "파급력_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "주변에 끼치는 영향의 크기라는 추상적 개념으로, '상황'과 '의견과 가치' 사이 분류 모호.",
+      "rationale_short": "어떤 일이 주변에 끼치는 영향의 크기."
+    },
+    {
+      "meaning_id": "파내다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "땅 파는 행위",
+      "rationale_short": "흙이나 물건을 파서 안에 있는 것을 드러내는 일상적 행위."
+    },
+    {
+      "meaning_id": "파노라마_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "넓은 경치가 펼쳐지는 시각적 모습으로, '감각과 묘사'와 '날씨와 자연' 사이 분류 모호.",
+      "rationale_short": "넓은 경치가 한눈에 길게 펼쳐지는 시각적 모습."
+    },
+    {
+      "meaning_id": "파랗다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "푸른색 묘사",
+      "rationale_short": "맑은 하늘처럼 푸른 빛을 띠는 색깔을 묘사."
+    },
+    {
+      "meaning_id": "파마_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "머리 모양 꾸미기",
+      "rationale_short": "머리카락을 구부러지게 꾸미는 미용 행위."
+    },
+    {
+      "meaning_id": "파묻다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "땅에 묻는 행위",
+      "rationale_short": "파 놓은 구덩이에 넣고 흙이나 물건으로 덮는 일상적 행위."
+    },
+    {
+      "meaning_id": "파손_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 손상 상태",
+      "rationale_short": "물건이 깨지거나 부서져 상하는 상태."
+    },
+    {
+      "meaning_id": "파수_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "안전 지키는 일",
+      "rationale_short": "적이나 위험을 살피며 지키는 공공의 안전 관련 업무."
+    },
+    {
+      "meaning_id": "파일_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "candidate_reason": "물리적 문서철과 컴퓨터 자료 단위라는 두 가지 의미가 혼재하여 분류 모호.",
+      "rationale_short": "문서나 자료를 묶어 두는 철 또는 컴퓨터에 저장된 자료 단위."
+    },
+    {
+      "meaning_id": "파출소_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "지역 치안 기관",
+      "rationale_short": "동네 치안을 맡아 보는 작은 경찰서."
+    },
+    {
+      "meaning_id": "파헤치다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "깊게 파는 행위",
+      "rationale_short": "흙이나 덮인 것을 깊게 파서 속을 드러내는 행위."
+    },
+    {
+      "meaning_id": "판결_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "법원 재판 결정",
+      "rationale_short": "법원이 재판에서 옳고 그름을 정하여 내리는 결정."
+    },
+    {
+      "meaning_id": "판별_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "여러 가지를 비교하여 구별해 내는 인지적 행위로, '논리'와 '의견과 가치' 사이 분류 모호.",
+      "rationale_short": "여러 가지를 서로 비교하여 구별해 내는 사고 과정."
+    },
+    {
+      "meaning_id": "팔월_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "여덟 번째 달",
+      "rationale_short": "일 년 열두 달 가운데 여덟 번째 달."
+    },
+    {
+      "meaning_id": "팔자_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "사람이 타고난 운세나 살아가는 형편이라는 추상적 개념으로, '상황'과 '내면과 감정' 사이 분류 모호.",
+      "rationale_short": "사람이 타고난 운세나 살아가는 형편."
+    },
+    {
+      "meaning_id": "팔찌_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "팔목 장신구",
+      "rationale_short": "팔목에 끼는 장신구로, 쇼핑 품목에 해당."
+    },
+    {
+      "meaning_id": "패키지_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "묶음 상품 구성",
+      "rationale_short": "여러 가지를 한데 묶어 놓은 상품이나 구성."
+    },
+    {
+      "meaning_id": "팩스_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "문서 전송 장치",
+      "rationale_short": "전화선을 이용해 문서를 보내는 장치나 서비스로, 주로 업무에 사용."
+    },
+    {
+      "meaning_id": "팽개치다_동사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "candidate_reason": "물건을 내던지는 물리적 행위와 일을 신경 쓰지 않는 태도라는 두 가지 의미가 혼재하여 분류 모호.",
+      "rationale_short": "물건이나 일을 아무렇게나 내던지고 신경 쓰지 않는 태도."
+    },
+    {
+      "meaning_id": "팽팽하다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "단단히 당겨진 상태",
+      "rationale_short": "줄이나 표면이 늘어지지 않고 단단히 당겨져 있는 상태를 묘사."
+    },
+    {
+      "meaning_id": "퍼센트_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "백분율 단위",
+      "rationale_short": "전체를 100으로 보았을 때의 비율을 나타내는 단위."
+    },
+    {
+      "meaning_id": "퍼즐_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "조각 맞추기 놀이",
+      "rationale_short": "조각을 맞추거나 문제를 풀어 완성하는 놀이."
+    },
+    {
+      "meaning_id": "펄_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "반짝이는 진주빛 가루라는 물리적 물질과 그러한 효과라는 시각적 묘사라는 두 가지 의미가 혼재하여 분류 모호.",
+      "rationale_short": "반짝이는 진주빛 가루나 그러한 시각적 효과."
+    },
+    {
+      "meaning_id": "페어_일반명사-1",
+      "bucket": "candidate",
+      "root": "수량과 단위",
+      "candidate_reason": "둘이 짝을 이룬 한 쌍이라는 수량적 의미와 관계적 의미(커플)가 혼재하여 분류 모호.",
+      "rationale_short": "둘이 짝을 이룬 한 쌍."
+    },
+    {
+      "meaning_id": "페이지_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "문서 쪽 단위",
+      "rationale_short": "책이나 문서, 웹사이트의 한 쪽 단위."
+    },
+    {
+      "meaning_id": "편곡_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "음악 재창작",
+      "rationale_short": "기존의 곡을 다른 악기나 형식에 맞게 고쳐 만드는 음악 활동."
+    },
+    {
+      "meaning_id": "편안히_일반부사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음 편한 상태",
+      "rationale_short": "걱정이나 불편함 없이 편하게 느끼는 마음 상태."
+    },
+    {
+      "meaning_id": "폄하_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "가치 낮추는 행위",
+      "rationale_short": "남의 가치나 업적을 낮추어 깎아내리는 행위."
+    },
+    {
+      "meaning_id": "평온_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "마음이 조용하고 어수선하지 않은 상태와 상황이 조용한 상태라는 두 가지 맥락을 포함하여 분류 모호.",
+      "rationale_short": "마음이나 상황이 조용하고 어수선하지 않은 상태."
+    },
+    {
+      "meaning_id": "폐_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "호흡 기관",
+      "rationale_short": "가슴 안에 있어 숨을 쉬게 하는 장기."
+    },
+    {
+      "meaning_id": "폐_일반명사-2",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "타인에게 끼치는 해",
+      "rationale_short": "남에게 끼치는 해나 피해."
+    },
+    {
+      "meaning_id": "포_일반명사-2",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "원거리 사격 무기",
+      "rationale_short": "멀리 있는 목표를 향해 탄환을 쏘는 무기."
+    },
+    {
+      "meaning_id": "포괄_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "내용 포함 방식",
+      "rationale_short": "여러 내용을 넓게 한데 감싸서 포함하는 방식."
+    },
+    {
+      "meaning_id": "포도당_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "몸의 에너지원",
+      "rationale_short": "몸에서 에너지원으로 쓰이는 가장 기본적인 당."
+    },
+    {
+      "meaning_id": "포부_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "미래에 대한 큰 뜻",
+      "rationale_short": "앞으로 이루고자 하는 크고 원대한 마음."
+    },
+    {
+      "meaning_id": "포식자_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "다른 동물 먹는 동물",
+      "rationale_short": "다른 동물을 잡아먹고 사는 동물."
+    },
+    {
+      "meaning_id": "포착_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "순간적인 기회를 잡아내는 상황과 장면을 잡아내는 시각적 행위라는 두 가지 맥락을 포함하여 분류 모호.",
+      "rationale_short": "순간적인 기회나 장면을 잡아냄."
+    },
+    {
+      "meaning_id": "폭포_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물 떨어지는 지형",
+      "rationale_short": "물이 절벽에서 세차게 떨어지는 자연 지형."
+    },
+    {
+      "meaning_id": "폰_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "휴대용 통신 기기",
+      "rationale_short": "휴대전화기를 줄여 이르는 말로, 일상생활의 전자 기기."
+    },
+    {
+      "meaning_id": "폴리에틸렌_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "플라스틱 재료",
+      "rationale_short": "비닐봉지나 플라스틱 용기 등에 쓰이는 합성수지 재료."
+    },
+    {
+      "meaning_id": "표명_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "생각 입장 밝힘",
+      "rationale_short": "자기 생각이나 입장을 겉으로 드러내어 밝히는 행위."
+    },
+    {
+      "meaning_id": "표준어_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "나라의 대표 언어",
+      "rationale_short": "공식적으로 쓰도록 정한 한 나라의 대표 말."
+    },
+    {
+      "meaning_id": "표출_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 생각 드러남",
+      "rationale_short": "속에 있던 감정이나 생각이 겉으로 드러남."
+    },
+    {
+      "meaning_id": "풀썩_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "갑자기 쓰러지는 모양",
+      "rationale_short": "갑자기 주저앉거나 쓰러지는 모양을 묘사."
+    },
+    {
+      "meaning_id": "풀어지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "느슨해지는 상태",
+      "rationale_short": "매이거나 조여 있던 것이 느슨해지는 상태 변화."
+    },
+    {
+      "meaning_id": "풀어지다_동사-2",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "긴장 풀리는 상태",
+      "rationale_short": "긴장이나 힘이 빠져 몸이나 표정이 늘어지는 마음 상태."
+    },
+    {
+      "meaning_id": "품격_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "사람이나 사물에서 느껴지는 고상하고 격 있는 느낌으로, '의견과 가치'와 '감각과 묘사' 사이 분류 모호.",
+      "rationale_short": "사람이나 사물에서 느껴지는 고상하고 격 있는 느낌."
+    },
+    {
+      "meaning_id": "품절_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 판매 완료",
+      "rationale_short": "가게에 있던 물건이 모두 팔려 없어지는 상황."
+    },
+    {
+      "meaning_id": "풍물_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "지역 고유 모습",
+      "rationale_short": "그 고장이나 나라에서만 볼 수 있는 여러 가지 모습."
+    },
+    {
+      "meaning_id": "풍속_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 생활 방식",
+      "rationale_short": "한 사회나 지방에 오래전부터 내려오는 생활 방식."
+    },
+    {
+      "meaning_id": "프로_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "전문 직업인",
+      "rationale_short": "어떤 일을 직업으로 삼아 전문적으로 하는 사람으로, 직업/역할어는 관련 scene root 우선."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "하나의 어휘가 물리적 의미와 추상적/태도적 의미를 동시에 가질 때 (예: 팽개치다)",
+      "추상적인 개념어가 여러 추상적 루트(내면/감정, 성격/태도, 감각/묘사, 의견/가치, 상황/기타)와 겹칠 때 (예: 특색, 파급, 팔자, 평온, 품격)",
+      "물리적 대상과 디지털 개념이 혼재된 어휘 (예: 파일)",
+      "두 가지 이상의 명확한 맥락(예: 계획 vs 관계, 물리적 가루 vs 시각적 효과)을 포함하는 어휘 (예: 틀어지다, 펄, 페어, 포착)"
+    ],
+    "ia_suggestions": [
+      "추상적 개념어를 위한 '상황 지시/기타' 하위 분류 체계를 강화하여 '현상/상태', '영향/결과' 등으로 세분화하는 것을 고려.",
+      "다의어의 경우, 각 의미별로 분류를 분리하거나, 가장 대표적인 의미를 기준으로 임시 루트를 설정하는 기준을 명확히 할 필요가 있음.",
+      "'쇼핑'과 '문화와 사회'처럼 지역 특색 상품과 관련된 어휘(예: 특산물)의 분류 기준을 명확히 할 필요가 있음."
+    ]
+  }
+}

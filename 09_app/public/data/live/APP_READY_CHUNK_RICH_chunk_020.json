@@ -1,0 +1,5798 @@
+{
+  "이분법_일반명사-1": {
+    "id": "이분법_일반명사-1",
+    "def_ko": "어떤 대상을 둘로 나누어 생각하는 방식",
+    "related_vocab": [
+      "방식",
+      "반면",
+      "배제",
+      "분석",
+      "제외"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ibunbeop"
+  },
+  "이상_일반명사-1": {
+    "id": "이상_일반명사-1",
+    "def_ko": "기준보다 많거나 위인 정도",
+    "related_vocab": [
+      "과반수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "isang"
+  },
+  "이성_일반명사-1": {
+    "id": "이성_일반명사-1",
+    "def_ko": "이치에 따라 생각하고 판단하는 힘",
+    "related_vocab": [
+      "구분",
+      "분류",
+      "유형"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iseong"
+  },
+  "이십_수사-1": {
+    "id": "이십_수사-1",
+    "def_ko": "숫자 이십",
+    "related_vocab": [
+      "수십",
+      "스물",
+      "이십이",
+      "이천"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "isip"
+  },
+  "이십이_수사-1": {
+    "id": "이십이_수사-1",
+    "def_ko": "숫자 이십이",
+    "related_vocab": [
+      "스물",
+      "이십"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "isibi"
+  },
+  "이어서_일반부사-1": {
+    "id": "이어서_일반부사-1",
+    "def_ko": "끊기지 않고 바로 뒤이어",
+    "related_vocab": [
+      "지속",
+      "한가하다",
+      "쭉"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ieoseo"
+  },
+  "이어지다_동사-1": {
+    "id": "이어지다_동사-1",
+    "def_ko": "앞의 것이 끝난 뒤에 계속되다",
+    "related_vocab": [
+      "끊이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ieojida"
+  },
+  "이에_일반부사-1": {
+    "id": "이에_일반부사-1",
+    "def_ko": "이 때문에 또는 이 다음에",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ie"
+  },
+  "이외_일반명사-1": {
+    "id": "이외_일반명사-1",
+    "def_ko": "이것 말고 다른 것",
+    "related_vocab": [
+      "시키다",
+      "아무",
+      "아무것"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ioe"
+  },
+  "이용_일반명사-1": {
+    "id": "이용_일반명사-1",
+    "def_ko": "어떤 것을 필요에 맞게 씀",
+    "related_vocab": [
+      "도입"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iyong"
+  },
+  "이유_일반명사-1": {
+    "id": "이유_일반명사-1",
+    "def_ko": "어떤 일이 그렇게 된 까닭",
+    "related_vocab": [
+      "구실",
+      "병목",
+      "사유",
+      "필연"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iyu"
+  },
+  "이윽고_일반부사-1": {
+    "id": "이윽고_일반부사-1",
+    "def_ko": "얼마 지나지 않아 곧",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "i-eukgo"
+  },
+  "이음_일반명사-1": {
+    "id": "이음_일반명사-1",
+    "def_ko": "끊어진 것을 잇거나 이어 붙이는 것",
+    "related_vocab": [
+      "문법",
+      "문장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ieum"
+  },
+  "이전_일반명사-1": {
+    "id": "이전_일반명사-1",
+    "def_ko": "어떤 때보다 앞선 때",
+    "related_vocab": [
+      "이르다",
+      "전",
+      "전후",
+      "직전",
+      "진작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ijeon"
+  },
+  "이제_일반명사-1": {
+    "id": "이제_일반명사-1",
+    "def_ko": "말하고 있는 바로 이때",
+    "related_vocab": [
+      "방금",
+      "지금"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "이제_일반부사-1": {
+    "id": "이제_일반부사-1",
+    "def_ko": "바로 지금부터",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ije"
+  },
+  "이제야_일반부사-1": {
+    "id": "이제야_일반부사-1",
+    "def_ko": "말하고 있는 지금에야 비로소",
+    "related_vocab": [
+      "그제야",
+      "비로소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "이중_일반명사-1": {
+    "id": "이중_일반명사-1",
+    "def_ko": "둘로 겹쳐 있음 또는 두 가지 성격을 함께 가짐",
+    "related_vocab": [
+      "가르다",
+      "반",
+      "절반",
+      "내지",
+      "중복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ijung"
+  },
+  "이쯤_일반부사-1": {
+    "id": "이쯤_일반부사-1",
+    "def_ko": "이 정도쯤의 때나 정도에",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ijjeum"
+  },
+  "이천_수사-1": {
+    "id": "이천_수사-1",
+    "def_ko": "숫자 이천",
+    "related_vocab": [
+      "이십"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "icheon"
+  },
+  "이튿날_일반명사-1": {
+    "id": "이튿날_일반명사-1",
+    "def_ko": "기준이 되는 날의 다음 날",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "이틀_일반명사-1": {
+    "id": "이틀_일반명사-1",
+    "def_ko": "연속된 이 날",
+    "related_vocab": [
+      "보름",
+      "며칠",
+      "사흘",
+      "주간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iteul"
+  },
+  "이하_일반명사-1": {
+    "id": "이하_일반명사-1",
+    "def_ko": "어떤 수나 수준보다 같거나 적음",
+    "related_vocab": [
+      "감축",
+      "미만",
+      "소수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iha"
+  },
+  "이해_일반명사-2": {
+    "id": "이해_일반명사-2",
+    "def_ko": "이익과 손해 따위의 관계",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ihae"
+  },
+  "이해관계_일반명사-1": {
+    "id": "이해관계_일반명사-1",
+    "def_ko": "이익이나 손해가 서로 얽힌 관계",
+    "related_vocab": [
+      "관계있다",
+      "상충",
+      "연결"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ihaegwanggye"
+  },
+  "이후_일반명사-1": {
+    "id": "이후_일반명사-1",
+    "def_ko": "어떤 때가 지나간 뒤의 때",
+    "related_vocab": [
+      "내후년",
+      "뒤늦다",
+      "왕년",
+      "후"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ihu"
+  },
+  "인도_일반명사-2": {
+    "id": "인도_일반명사-2",
+    "def_ko": "앞에서 이끌어 올바른 길로 안내함",
+    "related_vocab": [
+      "앞장서다",
+      "계승",
+      "도출",
+      "선도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "indo"
+  },
+  "인용_일반명사-1": {
+    "id": "인용_일반명사-1",
+    "def_ko": "남의 말이나 글을 가져와 쓰는 것",
+    "related_vocab": [
+      "해석",
+      "용법",
+      "용어",
+      "침입",
+      "침해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "inyong"
+  },
+  "인증_일반명사-1": {
+    "id": "인증_일반명사-1",
+    "def_ko": "어떤 사실이 맞음을 증명함",
+    "related_vocab": [
+      "입증",
+      "증명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "injeung"
+  },
+  "인하다_동사-1": {
+    "id": "인하다_동사-1",
+    "def_ko": "어떤 까닭이나 원인에 따라 일어나다",
+    "related_vocab": [
+      "작용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "inhada"
+  },
+  "일_수사-1": {
+    "id": "일_수사-1",
+    "def_ko": "수를 셀 때 제일 처음 오는 수",
+    "related_vocab": [
+      "육",
+      "약수",
+      "이",
+      "칠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "일곱째_수사-1": {
+    "id": "일곱째_수사-1",
+    "def_ko": "순서가 일곱 번째인 차례",
+    "related_vocab": [
+      "셋째",
+      "아홉째",
+      "일등",
+      "일회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "일등_일반명사-1": {
+    "id": "일등_일반명사-1",
+    "def_ko": "경쟁에서 가장 앞선 순위",
+    "related_vocab": [
+      "상위",
+      "일곱째",
+      "선두"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ildeung"
+  },
+  "일련번호_일반명사-1": {
+    "id": "일련번호_일반명사-1",
+    "def_ko": "정해진 순서대로 매긴 번호",
+    "related_vocab": [
+      "번호"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "illyeonbeonho"
+  },
+  "일체_일반명사-1": {
+    "id": "일체_일반명사-1",
+    "def_ko": "모든 것 전부",
+    "related_vocab": [
+      "다",
+      "만반",
+      "온갖",
+      "전",
+      "전력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilche"
+  },
+  "일치_일반명사-1": {
+    "id": "일치_일반명사-1",
+    "def_ko": "여럿이 서로 꼭 같음",
+    "related_vocab": [
+      "맞추다",
+      "같다",
+      "동의",
+      "동일",
+      "부합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilchi"
+  },
+  "일탈_일반명사-1": {
+    "id": "일탈_일반명사-1",
+    "def_ko": "정해진 틀이나 범위에서 벗어남",
+    "related_vocab": [
+      "정규",
+      "맞춤법",
+      "위반",
+      "제외"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "iltal"
+  },
+  "일회_일반명사-1": {
+    "id": "일회_일반명사-1",
+    "def_ko": "한 번의 차례",
+    "related_vocab": [
+      "일곱째",
+      "차례"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilhoe"
+  },
+  "일흔_수사-1": {
+    "id": "일흔_수사-1",
+    "def_ko": "열의 일곱 배가 되는 수",
+    "related_vocab": [
+      "아흔",
+      "칠십",
+      "칠천"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잃다_동사-1": {
+    "id": "잃다_동사-1",
+    "def_ko": "가지고 있던 것을 더 이상 갖지 못하게 되다",
+    "related_vocab": [
+      "없애다",
+      "잃어버리다",
+      "넘어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ilta"
+  },
+  "잃어버리다_동사-1": {
+    "id": "잃어버리다_동사-1",
+    "def_ko": "가지고 있던 것을 완전히 잃다",
+    "related_vocab": [
+      "되찾다",
+      "버리다",
+      "빠뜨리다",
+      "잃다",
+      "넘어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ireobeorida"
+  },
+  "임박_일반명사-1": {
+    "id": "임박_일반명사-1",
+    "def_ko": "어떤 때나 일이 아주 가까이 닥쳐옴",
+    "related_vocab": [
+      "기회",
+      "도래",
+      "앞두다",
+      "직전",
+      "와중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "imbak"
+  },
+  "임시_일반명사-1": {
+    "id": "임시_일반명사-1",
+    "def_ko": "잠시 동안만 그렇게 함",
+    "related_vocab": [
+      "단기",
+      "당분간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "imsi"
+  },
+  "입자_일반명사-1": {
+    "id": "입자_일반명사-1",
+    "def_ko": "아주 잘게 나뉜 물질의 작은 조각",
+    "related_vocab": [
+      "단어",
+      "자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "티끌_일반명사-1",
+          "target_term": "티끌",
+          "target_system": "상황과 장소",
+          "target_root": "상황 지시/기타",
+          "target_category": "물리적 사물/물체",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "분자_일반명사-1",
+          "target_term": "분자",
+          "target_system": "상황과 장소",
+          "target_root": "상황 지시/기타",
+          "target_category": "물리적 사물/물체",
+          "hook_id": "H06"
+        },
+        {
+          "target_id": "조각_일반명사-1",
+          "target_term": "조각",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "수량 비교와 범위",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "ipja"
+  },
+  "입장_일반명사-1": {
+    "id": "입장_일반명사-1",
+    "def_ko": "어떤 장소나 모임 안으로 들어감",
+    "related_vocab": [
+      "맞이",
+      "머무르다",
+      "이르다",
+      "침입",
+      "진입"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ipjang"
+  },
+  "입증_일반명사-1": {
+    "id": "입증_일반명사-1",
+    "def_ko": "어떤 사실이 맞다는 것을 증거로 보여 줌",
+    "related_vocab": [
+      "차원",
+      "차치",
+      "인증",
+      "충분조건"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ipjeung"
+  },
+  "자_일반명사-2": {
+    "id": "자_일반명사-2",
+    "def_ko": "글자의 한 칸을 차지하는 낱글자",
+    "related_vocab": [
+      "단어",
+      "입자",
+      "쪽",
+      "칸",
+      "페이지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ja"
+  },
+  "자연스레_일반부사-1": {
+    "id": "자연스레_일반부사-1",
+    "def_ko": "억지 같지 않고 저절로",
+    "related_vocab": [
+      "다하다",
+      "절로",
+      "얼른",
+      "자연히",
+      "저절로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jayeonseure"
+  },
+  "자연히_일반부사-1": {
+    "id": "자연히_일반부사-1",
+    "def_ko": "억지로가 아니라 저절로 그렇게",
+    "related_vocab": [
+      "절로",
+      "자연스레",
+      "저절로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jayeonhi"
+  },
+  "자칫_일반부사-1": {
+    "id": "자칫_일반부사-1",
+    "def_ko": "조금만 잘못하면",
+    "related_vocab": [
+      "가령"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jachit"
+  },
+  "작년_일반명사-1": {
+    "id": "작년_일반명사-1",
+    "def_ko": "올해의 바로 지난 해",
+    "related_vocab": [
+      "내달",
+      "어젯밤",
+      "전년",
+      "지난",
+      "최근"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangnyeon"
+  },
+  "작다_형용사-1": {
+    "id": "작다_형용사-1",
+    "def_ko": "크기나 양이 기준보다 덜하다",
+    "related_vocab": [
+      "작아지다",
+      "소규모",
+      "덜",
+      "많다",
+      "적다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jakda"
+  },
+  "작동_일반명사-1": {
+    "id": "작동_일반명사-1",
+    "def_ko": "기계가 움직여 일을 함",
+    "related_vocab": [
+      "겪다",
+      "손동작",
+      "시도",
+      "실행",
+      "완료"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jakdong"
+  },
+  "작아지다_동사-1": {
+    "id": "작아지다_동사-1",
+    "def_ko": "크기나 양이 전보다 줄어들다",
+    "related_vocab": [
+      "작다",
+      "줄어들다",
+      "축소",
+      "늘리다",
+      "덜"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jagajida"
+  },
+  "작용_일반명사-1": {
+    "id": "작용_일반명사-1",
+    "def_ko": "어떤 원인에 따라 나타나는 힘이나 영향",
+    "related_vocab": [
+      "변수",
+      "영향",
+      "인하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jag-yong"
+  },
+  "잘_일반부사-1": {
+    "id": "잘_일반부사-1",
+    "def_ko": "능숙하거나 좋게",
+    "related_vocab": [
+      "안되다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jal"
+  },
+  "잘리다_동사-1": {
+    "id": "잘리다_동사-1",
+    "def_ko": "칼이나 힘에 의해 끊어지다",
+    "related_vocab": [
+      "갇히다",
+      "밀려나다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jallida"
+  },
+  "잠기다_동사-2": {
+    "id": "잠기다_동사-2",
+    "def_ko": "물속에 들어가 있다",
+    "related_vocab": [
+      "머무르다",
+      "빠지다",
+      "숨어들다",
+      "잠수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "잠깐_일반부사-1": {
+    "id": "잠깐_일반부사-1",
+    "def_ko": "아주 짧은 동안",
+    "related_vocab": [
+      "야간",
+      "열흘",
+      "주간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "순간_일반명사-1",
+          "target_term": "순간",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "H04"
+        },
+        {
+          "target_id": "순식간_일반명사-1",
+          "target_term": "순식간",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "jamkkan"
+  },
+  "잠수_일반명사-1": {
+    "id": "잠수_일반명사-1",
+    "def_ko": "물속에 들어가 가라앉아 있음",
+    "related_vocab": [
+      "빠지다",
+      "숨어들다",
+      "잠기다",
+      "존재",
+      "침체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jamsu"
+  },
+  "잠시_일반부사-1": {
+    "id": "잠시_일반부사-1",
+    "def_ko": "그리 길지 않은 동안",
+    "related_vocab": [
+      "며칠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jamsi"
+  },
+  "잡다_동사-1": {
+    "id": "잡다_동사-1",
+    "def_ko": "손으로 쥐거나 붙들다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jabda"
+  },
+  "잡아당기다_동사-1": {
+    "id": "잡아당기다_동사-1",
+    "def_ko": "붙잡고 자기 쪽으로 힘껏 끌다",
+    "related_vocab": [
+      "넘다",
+      "스스로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jabadang-gida"
+  },
+  "잡히다_동사-1": {
+    "id": "잡히다_동사-1",
+    "def_ko": "잡는 움직임을 당하다",
+    "related_vocab": [
+      "갇히다",
+      "걸리다",
+      "당하다",
+      "멈추다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "japida"
+  },
+  "장거리_일반명사-1": {
+    "id": "장거리_일반명사-1",
+    "def_ko": "거리가 먼 구간",
+    "related_vocab": [
+      "간격",
+      "거리",
+      "구간",
+      "깊이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "janggeori"
+  },
+  "장기_일반명사-2": {
+    "id": "장기_일반명사-2",
+    "def_ko": "오랫동안이라는 뜻의 긴 기간",
+    "related_vocab": [
+      "수명",
+      "장기간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "janggi"
+  },
+  "장기간_일반명사-1": {
+    "id": "장기간_일반명사-1",
+    "def_ko": "아주 긴 기간",
+    "related_vocab": [
+      "요새",
+      "요즈음",
+      "영구",
+      "장기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "janggigan"
+  },
+  "장래_일반명사-1": {
+    "id": "장래_일반명사-1",
+    "def_ko": "다가올 앞날",
+    "related_vocab": [
+      "앞날"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangnae"
+  },
+  "장수_일반명사-1": {
+    "id": "장수_일반명사-1",
+    "def_ko": "오래 삶",
+    "related_vocab": [
+      "고령",
+      "만성",
+      "장시간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "장시간_일반명사-1": {
+    "id": "장시간_일반명사-1",
+    "def_ko": "오래 걸리는 시간",
+    "related_vocab": [
+      "만성",
+      "장수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jangsigan"
+  },
+  "재고_일반명사-1": {
+    "id": "재고_일반명사-1",
+    "def_ko": "창고에 쌓아 둔 물건의 남은 양",
+    "related_vocab": [
+      "더미",
+      "나머지",
+      "남",
+      "수입량",
+      "판매량"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaego"
+  },
+  "재다_동사-1": {
+    "id": "재다_동사-1",
+    "def_ko": "길이, 무게, 양 등을 수나 도구로 알아보다",
+    "related_vocab": [
+      "지름",
+      "그래프",
+      "매기다",
+      "책정",
+      "측정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaeda"
+  },
+  "재력_일반명사-1": {
+    "id": "재력_일반명사-1",
+    "def_ko": "돈과 재산이 얼마나 있는 힘",
+    "related_vocab": [
+      "신뢰도",
+      "재산",
+      "활용도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaeryeok"
+  },
+  "재료비_일반명사-1": {
+    "id": "재료비_일반명사-1",
+    "def_ko": "재료를 사는 데 드는 돈",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaeryobi"
+  },
+  "재산_일반명사-1": {
+    "id": "재산_일반명사-1",
+    "def_ko": "사람이 가진 돈과 집, 땅 같은 경제적 가치 있는 것",
+    "related_vocab": [
+      "밀도",
+      "양",
+      "재력"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaesan"
+  },
+  "재원_일반명사-1": {
+    "id": "재원_일반명사-1",
+    "def_ko": "어떤 일을 하기 위해 필요한 돈이나 자금",
+    "related_vocab": [
+      "들다",
+      "넓이",
+      "대규모"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaewon"
+  },
+  "재작년_일반명사-1": {
+    "id": "재작년_일반명사-1",
+    "def_ko": "지난해의 바로 전 해",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "재정_일반명사-1": {
+    "id": "재정_일반명사-1",
+    "def_ko": "국가나 단체, 집안의 돈의 형편",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "액수_일반명사-1",
+          "target_term": "액수",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H12"
+        }
+      ]
+    },
+    "phonetic_romanization": "jaejeong"
+  },
+  "재판_일반명사-2": {
+    "id": "재판_일반명사-2",
+    "def_ko": "책이나 물건을 다시 만들어 내는 차수",
+    "related_vocab": [
+      "반복",
+      "차",
+      "차례"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaepan"
+  },
+  "재현_일반명사-1": {
+    "id": "재현_일반명사-1",
+    "def_ko": "다시 드러나거나 눈앞에 다시 나타남",
+    "related_vocab": [
+      "되돌리다",
+      "되살리다",
+      "되풀이",
+      "회복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaehyeon"
+  },
+  "저녁_일반명사-1": {
+    "id": "저녁_일반명사-1",
+    "def_ko": "해가 지고 난 뒤부터 잠자리에 들 때까지의 시간",
+    "related_vocab": [
+      "대낮",
+      "새벽",
+      "아침저녁"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "밤_일반명사-1",
+          "target_term": "밤",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "H04"
+        },
+        {
+          "target_id": "서쪽_일반명사-1",
+          "target_term": "서쪽",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeonyeok"
+  },
+  "저러다_동사-1": {
+    "id": "저러다_동사-1",
+    "def_ko": "저렇게 행동하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoreoda"
+  },
+  "저런_관형사-1": {
+    "id": "저런_관형사-1",
+    "def_ko": "저와 같은, 저와 비슷한",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoreon"
+  },
+  "저렇다_형용사-1": {
+    "id": "저렇다_형용사-1",
+    "def_ko": "저와 같은 상태이다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoreota"
+  },
+  "저리_일반부사-1": {
+    "id": "저리_일반부사-1",
+    "def_ko": "저곳으로. 또는 저쪽으로",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "저번_일반명사-1": {
+    "id": "저번_일반명사-1",
+    "def_ko": "바로 앞선 어느 한 번",
+    "related_vocab": [
+      "때로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeobeon"
+  },
+  "저절로_일반부사-1": {
+    "id": "저절로_일반부사-1",
+    "def_ko": "아무도 건드리지 않았는데 스스로",
+    "related_vocab": [
+      "절로",
+      "자연스레",
+      "자연히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeojeollo"
+  },
+  "저지_일반명사-1": {
+    "id": "저지_일반명사-1",
+    "def_ko": "앞으로 나아가거나 하려는 일을 막음",
+    "related_vocab": [
+      "밀폐",
+      "방지",
+      "제자리걸음",
+      "추진",
+      "정체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoji"
+  },
+  "저지르다_동사-1": {
+    "id": "저지르다_동사-1",
+    "def_ko": "실수나 나쁜 일을 하다",
+    "related_vocab": [
+      "퇴보"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeojireuda"
+  },
+  "저해_일반명사-1": {
+    "id": "저해_일반명사-1",
+    "def_ko": "잘되는 것을 가로막아 해를 줌",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeohae"
+  },
+  "적기_일반명사-1": {
+    "id": "적기_일반명사-1",
+    "def_ko": "무엇을 하기에 꼭 알맞은 때",
+    "related_vocab": [
+      "제때"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokgi"
+  },
+  "적다_형용사-1": {
+    "id": "적다_형용사-1",
+    "def_ko": "양이나 수가 기준보다 모자라다",
+    "related_vocab": [
+      "모자라다",
+      "어림",
+      "작다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokda"
+  },
+  "적어도_일반부사-1": {
+    "id": "적어도_일반부사-1",
+    "def_ko": "아무리 적게 잡아도",
+    "related_vocab": [
+      "고작",
+      "최소한",
+      "최소한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "적어지다_동사-1": {
+    "id": "적어지다_동사-1",
+    "def_ko": "양이나 수가 줄어 더 적게 되다",
+    "related_vocab": [
+      "줄이다",
+      "줄다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeogeojida"
+  },
+  "적용_일반명사-1": {
+    "id": "적용_일반명사-1",
+    "def_ko": "알맞은 경우에 방법이나 규칙을 실제로 씀",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeogyong"
+  },
+  "적잖이_일반부사-1": {
+    "id": "적잖이_일반부사-1",
+    "def_ko": "꽤나, 적지 않게",
+    "related_vocab": [
+      "약간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokjjani"
+  },
+  "적정량_일반명사-1": {
+    "id": "적정량_일반명사-1",
+    "def_ko": "알맞은 양",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokjeongnyang"
+  },
+  "적히다_동사-1": {
+    "id": "적히다_동사-1",
+    "def_ko": "글이나 기록으로 쓰이게 되다",
+    "related_vocab": [
+      "요약",
+      "편집",
+      "보급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeokida"
+  },
+  "전_관형사-1": {
+    "id": "전_관형사-1",
+    "def_ko": "모든. 전체의",
+    "related_vocab": [
+      "만반",
+      "온",
+      "일체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "전_관형사-2": {
+    "id": "전_관형사-2",
+    "def_ko": "이전의",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "전_일반명사-1": {
+    "id": "전_일반명사-1",
+    "def_ko": "지금보다 앞선 때나 일",
+    "related_vocab": [
+      "미처",
+      "아까",
+      "이전",
+      "진작",
+      "앞"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeon"
+  },
+  "전개_일반명사-1": {
+    "id": "전개_일반명사-1",
+    "def_ko": "일이나 이야기가 차례대로 펼쳐져 나감",
+    "related_vocab": [
+      "성립"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongae"
+  },
+  "전날_일반명사-1": {
+    "id": "전날_일반명사-1",
+    "def_ko": "어떤 날의 바로 앞날",
+    "related_vocab": [
+      "그저께",
+      "그제",
+      "다음날",
+      "어저께",
+      "어제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonnal"
+  },
+  "전년_일반명사-1": {
+    "id": "전년_일반명사-1",
+    "def_ko": "올해의 바로 지난 해",
+    "related_vocab": [
+      "어젯밤",
+      "작년",
+      "지난"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonnyeon"
+  },
+  "전달_일반명사-1": {
+    "id": "전달_일반명사-1",
+    "def_ko": "물건이나 말, 마음을 다른 사람에게 옮겨 줌",
+    "related_vocab": [
+      "곁들이다",
+      "돌다",
+      "알리다",
+      "첨부",
+      "채우다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeondal"
+  },
+  "전락_일반명사-1": {
+    "id": "전락_일반명사-1",
+    "def_ko": "신분이나 형편이 갑자기 나쁘게 떨어짐",
+    "related_vocab": [
+      "돌발",
+      "추락",
+      "틀어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeollak"
+  },
+  "전략_일반명사-1": {
+    "id": "전략_일반명사-1",
+    "def_ko": "목표를 이루기 위해 미리 짜는 전체적인 방법",
+    "related_vocab": [
+      "수법",
+      "돌파구",
+      "방안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeollyak"
+  },
+  "전력_일반명사-2": {
+    "id": "전력_일반명사-2",
+    "def_ko": "있는 힘 전부",
+    "related_vocab": [
+      "다",
+      "온통",
+      "일체",
+      "전부"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeollyeok"
+  },
+  "전망_일반명사-1": {
+    "id": "전망_일반명사-1",
+    "def_ko": "앞으로 일이 어떻게 될지 내다봄",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonmang"
+  },
+  "전문_일반명사-2": {
+    "id": "전문_일반명사-2",
+    "def_ko": "글이나 문서 전체의 내용",
+    "related_vocab": [
+      "당부",
+      "전방위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonmun"
+  },
+  "전반_일반명사-1": {
+    "id": "전반_일반명사-1",
+    "def_ko": "어떤 대상의 전체 또는 앞쪽 절반",
+    "related_vocab": [
+      "과반수",
+      "깊이",
+      "넓이",
+      "대부분",
+      "전체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonban"
+  },
+  "전방위_일반명사-1": {
+    "id": "전방위_일반명사-1",
+    "def_ko": "모든 방향, 여러 분야에 걸친 범위",
+    "related_vocab": [
+      "전문",
+      "전용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "방향_일반명사-1",
+          "target_term": "방향",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H15"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeonbangwi"
+  },
+  "전부_일반부사-1": {
+    "id": "전부_일반부사-1",
+    "def_ko": "하나도 남기지 않고 모두",
+    "related_vocab": [
+      "모두",
+      "싹쓸이",
+      "전력",
+      "힘껏"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonbu"
+  },
+  "전액_일반명사-1": {
+    "id": "전액_일반명사-1",
+    "def_ko": "전체 금액",
+    "related_vocab": [
+      "전체",
+      "과반수",
+      "대부분",
+      "상당수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonaek"
+  },
+  "전용_일반명사-1": {
+    "id": "전용_일반명사-1",
+    "def_ko": "특정한 사람이나 목적만을 위해 씀",
+    "related_vocab": [
+      "부르다",
+      "지시어",
+      "지칭",
+      "전방위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonyong"
+  },
+  "전이_일반명사-1": {
+    "id": "전이_일반명사-1",
+    "def_ko": "상태나 위치가 다른 곳으로 옮겨 감",
+    "related_vocab": [
+      "곁들이다",
+      "돌다",
+      "벗어나다",
+      "변동"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoni"
+  },
+  "전제_일반명사-1": {
+    "id": "전제_일반명사-1",
+    "def_ko": "어떤 판단의 바탕이 되는 조건",
+    "related_vocab": [
+      "경우",
+      "따라서",
+      "충분조건",
+      "화두",
+      "화제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonje"
+  },
+  "전체_일반명사-1": {
+    "id": "전체_일반명사-1",
+    "def_ko": "모두 합친 것",
+    "related_vocab": [
+      "전액",
+      "모두",
+      "전반"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonche"
+  },
+  "전혀_일반부사-1": {
+    "id": "전혀_일반부사-1",
+    "def_ko": "아무 정도도 없음",
+    "related_vocab": [
+      "순전히",
+      "절대",
+      "절대로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonhyeo"
+  },
+  "전후_일반명사-1": {
+    "id": "전후_일반명사-1",
+    "def_ko": "어떤 일을 기준으로 앞과 뒤",
+    "related_vocab": [
+      "이전",
+      "조기",
+      "중도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonhu"
+  },
+  "절대_일반부사-1": {
+    "id": "절대_일반부사-1",
+    "def_ko": "어떠한 경우에도 그렇지 않음을 강하게 나타내는 말",
+    "related_vocab": [
+      "굳이",
+      "그야말로",
+      "전혀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoldae"
+  },
+  "절대로_일반부사-1": {
+    "id": "절대로_일반부사-1",
+    "def_ko": "어떤 일이 전혀 일어나지 않음을 강조하는 말",
+    "related_vocab": [
+      "굳이",
+      "전혀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "방지_일반명사-1",
+          "target_term": "방지",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H10"
+        },
+        {
+          "target_id": "않다_동사-1",
+          "target_term": "않다",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "논리적 관계",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeoldaero"
+  },
+  "절대적_일반명사-1": {
+    "id": "절대적_일반명사-1",
+    "def_ko": "아무런 조건이나 제약이 붙지 않는 것",
+    "related_vocab": [
+      "조건",
+      "무조건",
+      "관계없다",
+      "맞아떨어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "절로_일반부사-1": {
+    "id": "절로_일반부사-1",
+    "def_ko": "저절로",
+    "related_vocab": [
+      "자연스레",
+      "자연히",
+      "저절로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeollo"
+  },
+  "절반_일반명사-1": {
+    "id": "절반_일반명사-1",
+    "def_ko": "전체를 둘로 나누었을 때의 한 부분",
+    "related_vocab": [
+      "가르다",
+      "반",
+      "반쪽",
+      "부분",
+      "이중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeolban"
+  },
+  "절차_일반명사-1": {
+    "id": "절차_일반명사-1",
+    "def_ko": "일을 진행하기 위해 거쳐야 하는 순서",
+    "related_vocab": [
+      "요건",
+      "필요조건",
+      "방침"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeolcha"
+  },
+  "젊다_형용사-1": {
+    "id": "젊다_형용사-1",
+    "def_ko": "나이가 적다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomtta"
+  },
+  "젊음_일반명사-1": {
+    "id": "젊음_일반명사-1",
+    "def_ko": "몸과 마음이 젊은 상태",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "점수_일반명사-1": {
+    "id": "점수_일반명사-1",
+    "def_ko": "시험이나 평가에서 매겨진 수치",
+    "related_vocab": [
+      "수치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "학점_일반명사-1",
+          "target_term": "학점",
+          "target_system": "상황과 장소",
+          "target_root": "학교와 공부",
+          "target_category": "시험과 성적",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeomsu"
+  },
+  "점심때_일반명사-1": {
+    "id": "점심때_일반명사-1",
+    "def_ko": "하루 중에 해가 가장 높이 떠 있는, 아침과 저녁의 중간이 되는 시간",
+    "related_vocab": [
+      "오전",
+      "오후",
+      "정오"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "점점_일반부사-1": {
+    "id": "점점_일반부사-1",
+    "def_ko": "시간이 지나면서 정도가 차츰 심해짐을 나타내는 말",
+    "related_vocab": [
+      "흘러가다",
+      "차차",
+      "차츰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomjeom"
+  },
+  "점차_일반부사-1": {
+    "id": "점차_일반부사-1",
+    "def_ko": "조금씩 변화해 가는 모양",
+    "related_vocab": [
+      "차차",
+      "차츰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeomcha"
+  },
+  "접속_일반명사-1": {
+    "id": "접속_일반명사-1",
+    "def_ko": "서로 맞대어 이음",
+    "related_vocab": [
+      "같다",
+      "교차"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "접어들다_동사-1": {
+    "id": "접어들다_동사-1",
+    "def_ko": "어떤 시기나 상태에 들어가기 시작하다",
+    "related_vocab": [
+      "말기",
+      "발생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "도래_일반명사-1",
+          "target_term": "도래",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeobeodeulda"
+  },
+  "정가_일반명사-1": {
+    "id": "정가_일반명사-1",
+    "def_ko": "정해 놓은 값",
+    "related_vocab": [
+      "가량",
+      "등급",
+      "품목",
+      "정원"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongga"
+  },
+  "정규_일반명사-1": {
+    "id": "정규_일반명사-1",
+    "def_ko": "정해진 규칙에 따름",
+    "related_vocab": [
+      "맞춤법",
+      "위반",
+      "일탈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonggyu"
+  },
+  "정기_일반명사-1": {
+    "id": "정기_일반명사-1",
+    "def_ko": "일정한 기간마다 되풀이됨",
+    "related_vocab": [
+      "흐르다",
+      "만",
+      "시대",
+      "시일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeonggi"
+  },
+  "정도_일반명사-1": {
+    "id": "정도_일반명사-1",
+    "def_ko": "어떤 상태나 수준의 크기",
+    "related_vocab": [
+      "극",
+      "너비",
+      "넓이",
+      "대규모",
+      "배수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongdo"
+  },
+  "정립_일반명사-1": {
+    "id": "정립_일반명사-1",
+    "def_ko": "기초를 세워 확립함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongnip"
+  },
+  "정밀_일반명사-1": {
+    "id": "정밀_일반명사-1",
+    "def_ko": "아주 자세하고 정확함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "면밀히_일반부사-1",
+          "target_term": "면밀히",
+          "target_system": "마음과 표현",
+          "target_root": "의견과 가치",
+          "target_category": "난이도와 복잡도",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeongmil"
+  },
+  "정반대_일반명사-1": {
+    "id": "정반대_일반명사-1",
+    "def_ko": "서로 완전히 다름",
+    "related_vocab": [
+      "다르다",
+      "동일",
+      "상반",
+      "상충",
+      "양극단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongbandae"
+  },
+  "정상_일반명사-2": {
+    "id": "정상_일반명사-2",
+    "def_ko": "상태나 기능에 이상이 없이 바른 모습",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsang"
+  },
+  "정수_일반명사-2": {
+    "id": "정수_일반명사-2",
+    "def_ko": "소수나 분수가 아닌 수",
+    "related_vocab": [
+      "약수",
+      "짝수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsu"
+  },
+  "정식_일반명사-1": {
+    "id": "정식_일반명사-1",
+    "def_ko": "형식과 절차를 제대로 갖춘 것",
+    "related_vocab": [
+      "성립"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongsik"
+  },
+  "정오_일반명사-1": {
+    "id": "정오_일반명사-1",
+    "def_ko": "해가 가장 높이 떠 있는 낮 열두 시",
+    "related_vocab": [
+      "오전",
+      "오후",
+      "점심때",
+      "한낮"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongo"
+  },
+  "정원_일반명사-2": {
+    "id": "정원_일반명사-2",
+    "def_ko": "정해 놓은 사람 수의 한도",
+    "related_vocab": [
+      "정가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongwon"
+  },
+  "정의_일반명사-1": {
+    "id": "정의_일반명사-1",
+    "def_ko": "말이나 개념의 뜻을 분명하게 설명한 것",
+    "related_vocab": [
+      "기호",
+      "상징",
+      "의미",
+      "풀이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "명시_일반명사-1",
+          "target_term": "명시",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "강조와 부연",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeongui"
+  },
+  "정체_일반명사-1": {
+    "id": "정체_일반명사-1",
+    "def_ko": "앞으로 나아가지 못하고 머무름",
+    "related_vocab": [
+      "밀어내다",
+      "놓치다",
+      "제자리걸음",
+      "추진",
+      "저지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongche"
+  },
+  "정체_일반명사-2": {
+    "id": "정체_일반명사-2",
+    "def_ko": "사물이나 사람의 본모습이나 참모양",
+    "related_vocab": [
+      "속성",
+      "식별"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongche"
+  },
+  "정초_일반명사-1": {
+    "id": "정초_일반명사-1",
+    "def_ko": "음력 정월의 앞쪽 몇 날",
+    "related_vocab": [
+      "공휴일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeongcho"
+  },
+  "정화_일반명사-1": {
+    "id": "정화_일반명사-1",
+    "def_ko": "더럽거나 나쁜 것을 없애서 깨끗하게 함",
+    "related_vocab": [
+      "냉각",
+      "바로잡다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "정수_일반명사-1",
+          "target_term": "정수",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "음료와 디저트",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeonghwa"
+  },
+  "제각각_일반명사-1": {
+    "id": "제각각_일반명사-1",
+    "def_ko": "하나하나가 모두 서로 다름",
+    "related_vocab": [
+      "계열",
+      "다양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jegakgak"
+  },
+  "제거_일반명사-1": {
+    "id": "제거_일반명사-1",
+    "def_ko": "없애 버림",
+    "related_vocab": [
+      "소각"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jego"
+  },
+  "제공_일반명사-1": {
+    "id": "제공_일반명사-1",
+    "def_ko": "필요한 것을 내어 줌",
+    "related_vocab": [
+      "내주다",
+      "선보이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jegong"
+  },
+  "제때_일반명사-1": {
+    "id": "제때_일반명사-1",
+    "def_ko": "알맞은 때",
+    "related_vocab": [
+      "때맞추다",
+      "공휴일",
+      "적기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "제시각_일반명사-1": {
+    "id": "제시각_일반명사-1",
+    "def_ko": "정한 시간",
+    "related_vocab": [
+      "동시",
+      "순식간",
+      "제시간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "제시간_일반명사-1": {
+    "id": "제시간_일반명사-1",
+    "def_ko": "미리 약속하거나 정한 바로 그 시간",
+    "related_vocab": [
+      "당일",
+      "제시각"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jesigan"
+  },
+  "제약_일반명사-1": {
+    "id": "제약_일반명사-1",
+    "def_ko": "어떤 조건을 붙여 자유를 막음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeyak"
+  },
+  "제외_일반명사-1": {
+    "id": "제외_일반명사-1",
+    "def_ko": "어떤 대상을 빼서 범위에서 물리침",
+    "related_vocab": [
+      "이분법",
+      "일탈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeoe"
+  },
+  "제일_일반부사-1": {
+    "id": "제일_일반부사-1",
+    "def_ko": "여럿 가운데 가장",
+    "related_vocab": [
+      "극",
+      "꼭대기",
+      "최대",
+      "최소한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeil"
+  },
+  "제자리걸음_일반명사-1": {
+    "id": "제자리걸음_일반명사-1",
+    "def_ko": "앞으로 나아가지 못하고 그대로인 상태",
+    "related_vocab": [
+      "놓치다",
+      "저지",
+      "정체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jejari-geo-reum"
+  },
+  "제치다_동사-1": {
+    "id": "제치다_동사-1",
+    "def_ko": "비켜 놓거나 뒤로 미루다",
+    "related_vocab": [
+      "곁들이다",
+      "배치",
+      "퇴보"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jechida"
+  },
+  "조_수사-1": {
+    "id": "조_수사-1",
+    "def_ko": "억보다 더 큰 아주 큰 수를 세는 말",
+    "related_vocab": [
+      "약수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jo"
+  },
+  "조각_일반명사-1": {
+    "id": "조각_일반명사-1",
+    "def_ko": "크던 것에서 잘라 낸 작은 한 부분",
+    "related_vocab": [
+      "가르다",
+      "소형"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "입자_일반명사-1",
+          "target_term": "입자",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "jogak"
+  },
+  "조건_일반명사-1": {
+    "id": "조건_일반명사-1",
+    "def_ko": "어떤 일이 이루어지기 위해 필요한 조건이나 환경",
+    "related_vocab": [
+      "수단",
+      "안성맞춤",
+      "요건",
+      "절대적",
+      "충분조건"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jogeon"
+  },
+  "조금_일반부사-1": {
+    "id": "조금_일반부사-1",
+    "def_ko": "양이나 정도가 많지 않게",
+    "related_vocab": [
+      "불과",
+      "어림",
+      "얼마간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jogeum"
+  },
+  "조금씩_일반부사-1": {
+    "id": "조금씩_일반부사-1",
+    "def_ko": "적은 정도로 계속해서",
+    "related_vocab": [
+      "축적",
+      "소수",
+      "소액",
+      "대충"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "조기_일반명사-1": {
+    "id": "조기_일반명사-1",
+    "def_ko": "어떤 일을 시작한 지 얼마 되지 않은 이른 시기",
+    "related_vocab": [
+      "벌써",
+      "전후",
+      "중도",
+      "초기",
+      "환절기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jogi"
+  },
+  "조리_일반명사-2": {
+    "id": "조리_일반명사-2",
+    "def_ko": "생각이나 말의 앞뒤가 맞는 체계",
+    "related_vocab": [
+      "논리",
+      "두서",
+      "모순"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "문법_일반명사-1",
+          "target_term": "문법",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "문장 연결",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "jori"
+  },
+  "조만간_일반부사-1": {
+    "id": "조만간_일반부사-1",
+    "def_ko": "머지않은 가까운 때에",
+    "related_vocab": [
+      "벌써",
+      "진작",
+      "최근",
+      "현대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jomangan"
+  },
+  "조성_일반명사-1": {
+    "id": "조성_일반명사-1",
+    "def_ko": "환경이나 분위기를 만들어 냄",
+    "related_vocab": [
+      "완성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "joseong"
+  },
+  "조절_일반명사-1": {
+    "id": "조절_일반명사-1",
+    "def_ko": "알맞게 맞추거나 조정함",
+    "related_vocab": [
+      "조정",
+      "처치",
+      "활용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jojeol"
+  },
+  "조정_일반명사-1": {
+    "id": "조정_일반명사-1",
+    "def_ko": "상태나 양을 알맞게 고침",
+    "related_vocab": [
+      "변동",
+      "움직임",
+      "이루다",
+      "조절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jojeong"
+  },
+  "조치_일반명사-1": {
+    "id": "조치_일반명사-1",
+    "def_ko": "문제를 해결하려고 취하는 방법이나 행동",
+    "related_vocab": [
+      "해결책",
+      "해법"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jochi"
+  },
+  "조화_일반명사-1": {
+    "id": "조화_일반명사-1",
+    "def_ko": "여러 요소가 잘 어울려 균형을 이룸",
+    "related_vocab": [
+      "어우러지다",
+      "체계",
+      "공유",
+      "교대",
+      "시너지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "johwa"
+  },
+  "조회_일반명사-1": {
+    "id": "조회_일반명사-1",
+    "def_ko": "궁금한 내용을 알아보려고 물어봄",
+    "related_vocab": [
+      "답변",
+      "대답",
+      "문의",
+      "문항",
+      "물어보다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "johwe"
+  },
+  "존재_일반명사-1": {
+    "id": "존재_일반명사-1",
+    "def_ko": "실제로 있거나 살아 있음",
+    "related_vocab": [
+      "내재",
+      "상용",
+      "잠수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jonjae"
+  },
+  "좀_일반부사-1": {
+    "id": "좀_일반부사-1",
+    "def_ko": "양이나 정도가 많지 않게 약간",
+    "related_vocab": [
+      "약간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jom"
+  },
+  "좀처럼_일반부사-1": {
+    "id": "좀처럼_일반부사-1",
+    "def_ko": "거의 그러하지 않게",
+    "related_vocab": [
+      "드물다",
+      "뜸"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jomcheoreom"
+  },
+  "종_일반명사-2": {
+    "id": "종_일반명사-2",
+    "def_ko": "같은 부류로 나눈 갈래",
+    "related_vocab": [
+      "동종",
+      "유형"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jong"
+  },
+  "종료_일반명사-1": {
+    "id": "종료_일반명사-1",
+    "def_ko": "하던 일을 끝내거나 끝남",
+    "related_vocab": [
+      "궁극",
+      "그만",
+      "그만하다",
+      "기말",
+      "마감"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongnyo"
+  },
+  "종류_일반명사-1": {
+    "id": "종류_일반명사-1",
+    "def_ko": "성질이 비슷한 것끼리 갈라 놓은 갈래",
+    "related_vocab": [
+      "다양하다",
+      "동질",
+      "목록",
+      "유형",
+      "종목"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongnyu"
+  },
+  "종말_일반명사-1": {
+    "id": "종말_일반명사-1",
+    "def_ko": "어떤 일이나 세상이 끝남",
+    "related_vocab": [
+      "마감",
+      "만료"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongmal"
+  },
+  "종목_일반명사-1": {
+    "id": "종목_일반명사-1",
+    "def_ko": "경기나 투자 등에서 나누어 놓은 각각의 항목",
+    "related_vocab": [
+      "목록",
+      "별도",
+      "분석",
+      "종류"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongmok"
+  },
+  "종일_일반명사-1": {
+    "id": "종일_일반명사-1",
+    "def_ko": "하루 온종일",
+    "related_vocab": [
+      "밤낮",
+      "하루",
+      "하룻밤",
+      "하루하루",
+      "종일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jongil"
+  },
+  "종일_일반부사-1": {
+    "id": "종일_일반부사-1",
+    "def_ko": "아침부터 저녁까지 내내",
+    "related_vocab": [
+      "하루",
+      "종일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "온종일_일반부사-1",
+          "target_term": "온종일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "기간과 경과",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "종합_일반명사-1": {
+    "id": "종합_일반명사-1",
+    "def_ko": "여러 가지를 한데 모아 하나로 합침",
+    "related_vocab": [
+      "공유",
+      "다각",
+      "추상",
+      "통일",
+      "포괄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jonghap"
+  },
+  "좌우_일반명사-1": {
+    "id": "좌우_일반명사-1",
+    "def_ko": "왼쪽과 오른쪽",
+    "related_vocab": [
+      "맞은편",
+      "옆",
+      "왼쪽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jwau"
+  },
+  "좌측_일반명사-1": {
+    "id": "좌측_일반명사-1",
+    "def_ko": "사람이 북쪽을 보고 있을 때 서쪽과 같은 쪽",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "우측_일반명사-1",
+          "target_term": "우측",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H15"
+        },
+        {
+          "target_id": "오른편_일반명사-1",
+          "target_term": "오른편",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "주간_일반명사-1": {
+    "id": "주간_일반명사-1",
+    "def_ko": "월요일부터 일요일까지 일주일 동안",
+    "related_vocab": [
+      "열흘",
+      "잠깐",
+      "야간",
+      "이틀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "주기_일반명사-1": {
+    "id": "주기_일반명사-1",
+    "def_ko": "어떤 현상이 되풀이되는 동안의 간격",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jugi"
+  },
+  "주되다_동사-1": {
+    "id": "주되다_동사-1",
+    "def_ko": "전체에서 가장 중요한 부분이 되다",
+    "related_vocab": [
+      "중심",
+      "중점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "judoeda"
+  },
+  "주로_일반부사-1": {
+    "id": "주로_일반부사-1",
+    "def_ko": "대부분, 거의",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "juro"
+  },
+  "주말_일반명사-1": {
+    "id": "주말_일반명사-1",
+    "def_ko": "한 주의 끝부분인 토요일과 일요일",
+    "related_vocab": [
+      "금요일",
+      "수요일",
+      "평상시",
+      "평소",
+      "평일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jumal"
+  },
+  "주어지다_동사-1": {
+    "id": "주어지다_동사-1",
+    "def_ko": "어떤 일이나 조건이 남에게 맡겨지거나 생기다",
+    "related_vocab": [
+      "노릇",
+      "당하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jueojida"
+  },
+  "주중_일반명사-1": {
+    "id": "주중_일반명사-1",
+    "def_ko": "한 주의 가운데 부분인 평일",
+    "related_vocab": [
+      "평상시",
+      "평소",
+      "평일",
+      "중순",
+      "지난주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jujung"
+  },
+  "주파수_일반명사-1": {
+    "id": "주파수_일반명사-1",
+    "def_ko": "파동이 일정한 시간 동안 되풀이되는 횟수",
+    "related_vocab": [
+      "각도",
+      "겹"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "시속_일반명사-1",
+          "target_term": "시속",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "수량 비교와 범위",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "jupasu"
+  },
+  "줄거리_일반명사-1": {
+    "id": "줄거리_일반명사-1",
+    "def_ko": "이야기나 영화에서 중요한 사건들을 간단히 이어 놓은 내용",
+    "related_vocab": [
+      "두서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "julgeori"
+  },
+  "줄곧_일반부사-1": {
+    "id": "줄곧_일반부사-1",
+    "def_ko": "처음부터 지금까지 내내",
+    "related_vocab": [
+      "지금껏",
+      "내리",
+      "살아오다",
+      "온종일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "끝내_일반부사-1",
+          "target_term": "끝내",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "julgot"
+  },
+  "줄다_동사-1": {
+    "id": "줄다_동사-1",
+    "def_ko": "수나 양, 크기가 이전보다 적어지다",
+    "related_vocab": [
+      "줄이다",
+      "소형",
+      "적어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "julda"
+  },
+  "줄어들다_동사-1": {
+    "id": "줄어들다_동사-1",
+    "def_ko": "차차 적거나 작게 되다",
+    "related_vocab": [
+      "작아지다",
+      "미니",
+      "그다지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jureodeulda"
+  },
+  "줄이다_동사-1": {
+    "id": "줄이다_동사-1",
+    "def_ko": "수나 양, 크기를 적게 하다",
+    "related_vocab": [
+      "덜다",
+      "적어지다",
+      "줄다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jurida"
+  },
+  "중간_일반명사-1": {
+    "id": "중간_일반명사-1",
+    "def_ko": "처음과 끝 사이의 위치나 단계",
+    "related_vocab": [
+      "단계",
+      "위계",
+      "중급",
+      "직결"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "junggan"
+  },
+  "중급_일반명사-1": {
+    "id": "중급_일반명사-1",
+    "def_ko": "어떤 과정이나 수준에서 가운데 단계",
+    "related_vocab": [
+      "단계",
+      "중간",
+      "중략"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "junggeup"
+  },
+  "중단_일반명사-1": {
+    "id": "중단_일반명사-1",
+    "def_ko": "하던 일을 그만두고 멈춤",
+    "related_vocab": [
+      "그만",
+      "마감",
+      "그만하다",
+      "끝내다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungdan"
+  },
+  "중도_일반명사-1": {
+    "id": "중도_일반명사-1",
+    "def_ko": "어떤 일을 끝까지 하지 않고 하다가 그만둔 시점",
+    "related_vocab": [
+      "미처",
+      "전후",
+      "조기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungdo"
+  },
+  "중략_일반명사-1": {
+    "id": "중략_일반명사-1",
+    "def_ko": "글 가운데 부분을 빼고 줄임",
+    "related_vocab": [
+      "중급",
+      "중심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "생략_일반명사-1",
+          "target_term": "생략",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "jungnyak"
+  },
+  "중반_일반명사-1": {
+    "id": "중반_일반명사-1",
+    "def_ko": "전체의 가운데에 해당하는 시기나 부분",
+    "related_vocab": [
+      "가속"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungban"
+  },
+  "중복_일반명사-1": {
+    "id": "중복_일반명사-1",
+    "def_ko": "겹쳐서 두 번 이상 있음",
+    "related_vocab": [
+      "감축",
+      "유한",
+      "이중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungbok"
+  },
+  "중상위_일반명사-1": {
+    "id": "중상위_일반명사-1",
+    "def_ko": "중간보다 약간 위에 속하는 수준",
+    "related_vocab": [
+      "단계"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungsangwi"
+  },
+  "중세_일반명사-1": {
+    "id": "중세_일반명사-1",
+    "def_ko": "근대 이전의 일정한 역사 시대",
+    "related_vocab": [
+      "과학사",
+      "근대",
+      "동시대",
+      "시대",
+      "현대사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungse"
+  },
+  "중순_일반명사-1": {
+    "id": "중순_일반명사-1",
+    "def_ko": "한 달 가운데 십일 일부터 이십 일까지의 기간",
+    "related_vocab": [
+      "주중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "중심_일반명사-1": {
+    "id": "중심_일반명사-1",
+    "def_ko": "가운데 부분이나 가장 중요한 자리",
+    "related_vocab": [
+      "주되다",
+      "중략"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungshim"
+  },
+  "중언부언_일반명사-1": {
+    "id": "중언부언_일반명사-1",
+    "def_ko": "같은 말을 자꾸 되풀이하며 말함",
+    "related_vocab": [
+      "아울러",
+      "즉"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungeonbueon"
+  },
+  "중점_일반명사-1": {
+    "id": "중점_일반명사-1",
+    "def_ko": "가장 힘을 쏟는 부분이나 핵심 내용",
+    "related_vocab": [
+      "공조",
+      "문제점",
+      "주되다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungjeom"
+  },
+  "중첩_일반명사-1": {
+    "id": "중첩_일반명사-1",
+    "def_ko": "여러 겹으로 포개어 겹침",
+    "related_vocab": [
+      "공용",
+      "교대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jungcheop"
+  },
+  "중흥_일반명사-1": {
+    "id": "중흥_일반명사-1",
+    "def_ko": "쇠퇴하던 것이 다시 일어나 잘되게 됨",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "새로이_일반부사-1",
+          "target_term": "새로이",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "junghung"
+  },
+  "즉_일반부사-1": {
+    "id": "즉_일반부사-1",
+    "def_ko": "다시 말하면, 곧",
+    "related_vocab": [
+      "어쨌든",
+      "문장",
+      "아울러",
+      "중언부언"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "이른바_일반부사-1",
+          "target_term": "이른바",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "강조와 부연",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeuk"
+  },
+  "즉각_일반명사-1": {
+    "id": "즉각_일반명사-1",
+    "def_ko": "바로 그 때, 지체 없이 하는 일",
+    "related_vocab": [
+      "당장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeukgak"
+  },
+  "즉석_일반명사-1": {
+    "id": "즉석_일반명사-1",
+    "def_ko": "자리에서 바로 할 수 있는 일",
+    "related_vocab": [
+      "당일",
+      "즉시"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "즉시_일반명사-1": {
+    "id": "즉시_일반명사-1",
+    "def_ko": "바로 그 순간, 지체 없는 때",
+    "related_vocab": [
+      "즉석"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeuksi"
+  },
+  "증가_일반명사-1": {
+    "id": "증가_일반명사-1",
+    "def_ko": "수나 양이 늘어남",
+    "related_vocab": [
+      "희소",
+      "그래프"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeungga"
+  },
+  "증감_일반명사-1": {
+    "id": "증감_일반명사-1",
+    "def_ko": "늘고 줄어드는 변화",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeunggam"
+  },
+  "증거_일반명사-1": {
+    "id": "증거_일반명사-1",
+    "def_ko": "어떤 사실을 밝히거나 믿게 하는 근거가 되는 것",
+    "related_vocab": [
+      "추론"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeunggeo"
+  },
+  "증대_일반명사-1": {
+    "id": "증대_일반명사-1",
+    "def_ko": "점점 더 늘어나 큼",
+    "related_vocab": [
+      "늘어나다",
+      "많아지다",
+      "확산"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeungdae"
+  },
+  "증명_일반명사-1": {
+    "id": "증명_일반명사-1",
+    "def_ko": "어떤 사실이 맞다는 것을 밝힘",
+    "related_vocab": [
+      "차원",
+      "요소",
+      "의하다",
+      "인증"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "비자_일반명사-1",
+          "target_term": "비자",
+          "target_system": "상황과 장소",
+          "target_root": "여행",
+          "target_category": "공항과 출입국 서비스",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeungmyeong"
+  },
+  "증명서_일반명사-1": {
+    "id": "증명서_일반명사-1",
+    "def_ko": "어떤 사실을 공식적으로 적어 준 문서",
+    "related_vocab": [
+      "사유서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "여권_일반명사-1",
+          "target_term": "여권",
+          "target_system": "상황과 장소",
+          "target_root": "여행",
+          "target_category": "공항과 출입국 서비스",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "jeungmyeongseo"
+  },
+  "증진_일반명사-1": {
+    "id": "증진_일반명사-1",
+    "def_ko": "수준이나 상태가 더 나아지도록 늘어나게 함",
+    "related_vocab": [
+      "변화",
+      "회복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jeungjin"
+  },
+  "지금_일반명사-1": {
+    "id": "지금_일반명사-1",
+    "def_ko": "말하고 있는 바로 이 때",
+    "related_vocab": [
+      "바로",
+      "오늘",
+      "오늘",
+      "이번",
+      "이제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jigeum"
+  },
+  "지금껏_일반부사-1": {
+    "id": "지금껏_일반부사-1",
+    "def_ko": "지금까지 줄곧",
+    "related_vocab": [
+      "갈수록",
+      "내리",
+      "줄곧"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jigeumkkeot"
+  },
+  "지나다_동사-1": {
+    "id": "지나다_동사-1",
+    "def_ko": "시간이나 때가 뒤로 물러가다",
+    "related_vocab": [
+      "늦어지다",
+      "늦추다",
+      "미루다",
+      "가속",
+      "갈수록"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinada"
+  },
+  "지난_관형사-1": {
+    "id": "지난_관형사-1",
+    "def_ko": "바로 앞의 때에 속하는",
+    "related_vocab": [
+      "작년",
+      "전년",
+      "직전",
+      "최근"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinan"
+  },
+  "지난날_일반명사-1": {
+    "id": "지난날_일반명사-1",
+    "def_ko": "지나온 과거의 날이나 생활",
+    "related_vocab": [
+      "행적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "지난달_일반명사-1": {
+    "id": "지난달_일반명사-1",
+    "def_ko": "지금 달의 바로 앞달",
+    "related_vocab": [
+      "이달",
+      "지난주",
+      "지난해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinandal"
+  },
+  "지난번_일반명사-1": {
+    "id": "지난번_일반명사-1",
+    "def_ko": "바로 앞에 있었던 차례",
+    "related_vocab": [
+      "이번"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinanbeon"
+  },
+  "지난주_일반명사-1": {
+    "id": "지난주_일반명사-1",
+    "def_ko": "지금 주의 바로 앞 주",
+    "related_vocab": [
+      "수요일",
+      "주중",
+      "지난달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinanju"
+  },
+  "지난해_일반명사-1": {
+    "id": "지난해_일반명사-1",
+    "def_ko": "올해의 바로 앞 해",
+    "related_vocab": [
+      "나이",
+      "지난달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinanhae"
+  },
+  "지다_동사-1": {
+    "id": "지다_동사-1",
+    "def_ko": "짐이나 책임을 등에 올려 메다",
+    "related_vocab": [
+      "걸치다",
+      "얹다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jida"
+  },
+  "지름_일반명사-1": {
+    "id": "지름_일반명사-1",
+    "def_ko": "원의 한쪽 가장자리에서 가운데를 지나 맞은쪽까지 잰 길이",
+    "related_vocab": [
+      "재다",
+      "측정",
+      "부분"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jireum"
+  },
+  "지속_일반명사-1": {
+    "id": "지속_일반명사-1",
+    "def_ko": "어떤 상태가 끊어지지 않고 계속 이어짐",
+    "related_vocab": [
+      "쭉",
+      "후반",
+      "명맥",
+      "이어서",
+      "한가하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jisok"
+  },
+  "지시_일반명사-1": {
+    "id": "지시_일반명사-1",
+    "def_ko": "해야 할 일을 자세히 일러 줌",
+    "related_vocab": [
+      "신호",
+      "표시",
+      "표지",
+      "달다",
+      "시키다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jisi"
+  },
+  "지시어_일반명사-1": {
+    "id": "지시어_일반명사-1",
+    "def_ko": "사람이나 사물을 가리켜 말할 때 쓰는 말",
+    "related_vocab": [
+      "이름",
+      "부르다",
+      "아무것",
+      "전용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jisio"
+  },
+  "지연_일반명사-1": {
+    "id": "지연_일반명사-1",
+    "def_ko": "일이 제때 이루어지지 못하고 늦어짐",
+    "related_vocab": [
+      "늦어지다",
+      "밀리다",
+      "지지부진",
+      "진행"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jiyeon"
+  },
+  "지지부진_일반명사-1": {
+    "id": "지지부진_일반명사-1",
+    "def_ko": "일이 좀처럼 나아가지 않고 늘어지는 상태",
+    "related_vocab": [
+      "지연",
+      "진행"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jijibujin"
+  },
+  "지칭_일반명사-1": {
+    "id": "지칭_일반명사-1",
+    "def_ko": "사람이나 대상을 가리켜 이른 말",
+    "related_vocab": [
+      "이름",
+      "명",
+      "전용"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jiching"
+  },
+  "지표_일반명사-1": {
+    "id": "지표_일반명사-1",
+    "def_ko": "상태나 경향을 가늠할 수 있게 해 주는 수치나 기준",
+    "related_vocab": [
+      "통계",
+      "포함"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jipyo"
+  },
+  "직결_일반명사-1": {
+    "id": "직결_일반명사-1",
+    "def_ko": "중간 과정 없이 곧바로 이어짐",
+    "related_vocab": [
+      "꼼짝없이",
+      "연속",
+      "중간"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jikgyeol"
+  },
+  "직전_일반명사-1": {
+    "id": "직전_일반명사-1",
+    "def_ko": "어떤 일이 막 일어나기 바로 앞의 때",
+    "related_vocab": [
+      "이전",
+      "임박",
+      "지난",
+      "와중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jikjeon"
+  },
+  "직접_일반부사-1": {
+    "id": "직접_일반부사-1",
+    "def_ko": "다른 사람을 거치지 않고 바로 몸으로",
+    "related_vocab": [
+      "다하다",
+      "스스로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "간접_일반명사-1",
+          "target_term": "간접",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "논리적 관계",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "곧장_일반부사-1",
+          "target_term": "곧장",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "답사_일반명사-1",
+          "target_term": "답사",
+          "target_system": "상황과 장소",
+          "target_root": "여행",
+          "target_category": "여행 계획과 여정",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "jikjeop"
+  },
+  "직후_일반명사-1": {
+    "id": "직후_일반명사-1",
+    "def_ko": "어떤 일이 끝난 바로 다음 때",
+    "related_vocab": [
+      "뒤",
+      "드디어",
+      "비로소",
+      "와중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jikhu"
+  },
+  "진도_일반명사-1": {
+    "id": "진도_일반명사-1",
+    "def_ko": "일이나 공부가 나아가고 있는 정도",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jindo"
+  },
+  "진입_일반명사-1": {
+    "id": "진입_일반명사-1",
+    "def_ko": "어떤 곳이나 분야에 들어감",
+    "related_vocab": [
+      "맞이",
+      "머무르다",
+      "침입",
+      "입장",
+      "진출"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinip"
+  },
+  "진작_일반부사-1": {
+    "id": "진작_일반부사-1",
+    "def_ko": "훨씬 앞선 때에 이미",
+    "related_vocab": [
+      "이전",
+      "전",
+      "조만간",
+      "이미"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinjak"
+  },
+  "진척_일반명사-1": {
+    "id": "진척_일반명사-1",
+    "def_ko": "일이 앞으로 나아간 정도",
+    "related_vocab": [
+      "속도",
+      "확률"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jincheok"
+  },
+  "진출_일반명사-1": {
+    "id": "진출_일반명사-1",
+    "def_ko": "새로운 곳이나 분야로 나아가 활동함",
+    "related_vocab": [
+      "만들다",
+      "도달",
+      "진입"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jinchul"
+  },
+  "진행_일반명사-1": {
+    "id": "진행_일반명사-1",
+    "def_ko": "일이 앞으로 나아가거나 이루어져 가는 것",
+    "related_vocab": [
+      "지연",
+      "지지부진",
+      "추세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "예정_일반명사-1",
+          "target_term": "예정",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "jinhaeng"
+  },
+  "질문_일반명사-1": {
+    "id": "질문_일반명사-1",
+    "def_ko": "모르는 것을 알기 위해 묻는 말",
+    "related_vocab": [
+      "문항",
+      "설문",
+      "대담",
+      "문답",
+      "도대체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jilmun"
+  },
+  "집합_일반명사-1": {
+    "id": "집합_일반명사-1",
+    "def_ko": "사람이나 물건이 한곳에 모임",
+    "related_vocab": [
+      "동원",
+      "편성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jiphap"
+  },
+  "짓_일반명사-1": {
+    "id": "짓_일반명사-1",
+    "def_ko": "(낮잡아 이르는 말로) 어떠한 행위나 행동",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "짝_일반명사-1": {
+    "id": "짝_일반명사-1",
+    "def_ko": "둘이 서로 짝을 이루는 것 가운데 하나",
+    "related_vocab": [
+      "반쪽",
+      "부분",
+      "비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "쌍_일반명사-1",
+          "target_term": "쌍",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H06"
+        },
+        {
+          "target_id": "페어_일반명사-1",
+          "target_term": "페어",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "jjak"
+  },
+  "짝수_일반명사-1": {
+    "id": "짝수_일반명사-1",
+    "def_ko": "이로 나누어서 나머지가 영이 되는 수",
+    "related_vocab": [
+      "약수",
+      "정수",
+      "홀수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "쪼개다_동사-1": {
+    "id": "쪼개다_동사-1",
+    "def_ko": "큰 것을 여러 조각으로 나누다",
+    "related_vocab": [
+      "가르다",
+      "각각",
+      "개별",
+      "나뉘다",
+      "사이사이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jjogaeda"
+  },
+  "쪽_일반명사-1": {
+    "id": "쪽_일반명사-1",
+    "def_ko": "책, 신문, 문서 등의 한 면",
+    "related_vocab": [
+      "부수",
+      "자",
+      "칸"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "쭉_일반부사-1": {
+    "id": "쭉_일반부사-1",
+    "def_ko": "끄지지 않고 계속해서",
+    "related_vocab": [
+      "지속",
+      "이어서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jjuk"
+  },
+  "찍다_동사-1": {
+    "id": "찍다_동사-1",
+    "def_ko": "도장을 눌러 자국을 남기다",
+    "related_vocab": [
+      "압박"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jjikda"
+  },
+  "차_일반명사-3": {
+    "id": "차_일반명사-3",
+    "def_ko": "첫째, 둘째 할 때의 순서 단계",
+    "related_vocab": [
+      "재판",
+      "둘째",
+      "첫",
+      "초보"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cha"
+  },
+  "차단_일반명사-1": {
+    "id": "차단_일반명사-1",
+    "def_ko": "흐르거나 통하는 것을 가로막아 끊음",
+    "related_vocab": [
+      "교체",
+      "보충"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chadan"
+  },
+  "차등_일반명사-1": {
+    "id": "차등_일반명사-1",
+    "def_ko": "서로 같지 않고 크고 작음의 차이가 있음",
+    "related_vocab": [
+      "같다",
+      "다르다",
+      "차이",
+      "편중",
+      "관련"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chadeung"
+  },
+  "차례_일반명사-1": {
+    "id": "차례_일반명사-1",
+    "def_ko": "일의 순서나 순번",
+    "related_vocab": [
+      "재판",
+      "하나하나",
+      "셋째",
+      "아홉째",
+      "일회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "charye"
+  },
+  "차원_일반명사-1": {
+    "id": "차원_일반명사-1",
+    "def_ko": "어떤 것을 보는 수준이나 관점",
+    "related_vocab": [
+      "의하다",
+      "입증",
+      "증명",
+      "차치",
+      "분석"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chawon"
+  },
+  "차이_일반명사-1": {
+    "id": "차이_일반명사-1",
+    "def_ko": "서로 같지 않고 다른 점",
+    "related_vocab": [
+      "같다",
+      "다르다",
+      "다른",
+      "차등",
+      "비하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chai"
+  },
+  "차이점_일반명사-1": {
+    "id": "차이점_일반명사-1",
+    "def_ko": "둘 사이에서 다른 부분",
+    "related_vocab": [
+      "간접",
+      "다른",
+      "대안",
+      "반면",
+      "비교적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaijeom"
+  },
+  "차차_일반부사-1": {
+    "id": "차차_일반부사-1",
+    "def_ko": "일이나 사물의 상태나 정도의 변화가 시간이 지남에 따라 조금씩 계속",
+    "related_vocab": [
+      "점점",
+      "점차",
+      "차츰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "차츰_일반부사-1": {
+    "id": "차츰_일반부사-1",
+    "def_ko": "조금씩 점점",
+    "related_vocab": [
+      "점점",
+      "점차",
+      "차차"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chacheum"
+  },
+  "차치_일반명사-1": {
+    "id": "차치_일반명사-1",
+    "def_ko": "어떤 것을 당장은 따지지 않고 제쳐 둠",
+    "related_vocab": [
+      "빼놓다",
+      "요소",
+      "의하다",
+      "입증",
+      "차원"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chachi"
+  },
+  "착안_일반명사-1": {
+    "id": "착안_일반명사-1",
+    "def_ko": "어떤 점에 눈을 두고 특별히 생각해 봄",
+    "related_vocab": [
+      "관건"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chakan"
+  },
+  "착오_일반명사-1": {
+    "id": "착오_일반명사-1",
+    "def_ko": "헷갈려서 잘못 생각하거나 처리한 일",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chago"
+  },
+  "참고_일반명사-1": {
+    "id": "참고_일반명사-1",
+    "def_ko": "어떤 일을 판단할 때 다른 자료나 예를 함께 살펴봄",
+    "related_vocab": [
+      "비례",
+      "참조"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chamgo"
+  },
+  "참조_일반명사-1": {
+    "id": "참조_일반명사-1",
+    "def_ko": "자료나 내용을 함께 보며 도움이 되게 함",
+    "related_vocab": [
+      "표",
+      "참고",
+      "확인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chamjo"
+  },
+  "창조_일반명사-1": {
+    "id": "창조_일반명사-1",
+    "def_ko": "아무것도 없던 것을 새로 있게 함",
+    "related_vocab": [
+      "벌이다",
+      "생겨나다",
+      "생기다",
+      "생성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "changjo"
+  },
+  "찾다_동사-1": {
+    "id": "찾다_동사-1",
+    "def_ko": "잃어버리거나 필요한 것을 이리저리 살펴 구하다",
+    "related_vocab": [
+      "검사",
+      "뒤지다",
+      "수색",
+      "찾아내다",
+      "찾아보다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chatda"
+  },
+  "찾아내다_동사-1": {
+    "id": "찾아내다_동사-1",
+    "def_ko": "숨겨지거나 모르는 것을 끝내 알아내다",
+    "related_vocab": [
+      "찾다",
+      "알리다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chajnaeda"
+  },
+  "찾아다니다_동사-1": {
+    "id": "찾아다니다_동사-1",
+    "def_ko": "원하는 것을 얻기 위해 이곳저곳을 다니다",
+    "related_vocab": [
+      "뒤지다",
+      "수색",
+      "탐색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chajadanida"
+  },
+  "찾아보다_동사-1": {
+    "id": "찾아보다_동사-1",
+    "def_ko": "필요한 정보나 사람을 일부러 살펴 구하다",
+    "related_vocab": [
+      "찾다",
+      "검사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chajaboda"
+  },
+  "채우다_동사-1": {
+    "id": "채우다_동사-1",
+    "def_ko": "비어 있는 곳에 물건이나 내용물을 넣어 가득하게 하다",
+    "related_vocab": [
+      "만들다",
+      "메우다",
+      "수거",
+      "수령",
+      "전달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaeuda"
+  },
+  "책무_일반명사-1": {
+    "id": "책무_일반명사-1",
+    "def_ko": "반드시 지켜야 할 책임과 의무",
+    "related_vocab": [
+      "과제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "반드시_일반부사-1",
+          "target_term": "반드시",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "강조와 부연",
+          "hook_id": "H09"
+        }
+      ]
+    },
+    "phonetic_romanization": "chaengmu"
+  },
+  "책임_일반명사-1": {
+    "id": "책임_일반명사-1",
+    "def_ko": "어떤 일에 대해 맡아 해야 할 일과 그 결과를 감당해야 하는 상태",
+    "related_vocab": [
+      "동참",
+      "책임지다",
+      "과제",
+      "투입",
+      "매사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaegim"
+  },
+  "책임지다_동사-1": {
+    "id": "책임지다_동사-1",
+    "def_ko": "어떤 일의 결과를 떠맡아 감당하다",
+    "related_vocab": [
+      "겪다",
+      "마무리",
+      "책임"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaegimjida"
+  },
+  "책정_일반명사-1": {
+    "id": "책정_일반명사-1",
+    "def_ko": "값이나 기준 등을 정함",
+    "related_vocab": [
+      "매기다",
+      "재다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaekjeong"
+  },
+  "챙기다_동사-1": {
+    "id": "챙기다_동사-1",
+    "def_ko": "빠뜨리지 않도록 모아 두거나 준비하다",
+    "related_vocab": [
+      "동원",
+      "피하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chaenggida"
+  },
+  "처리_일반명사-1": {
+    "id": "처리_일반명사-1",
+    "def_ko": "어떤 일을 정리하고 해결함",
+    "related_vocab": [
+      "겪다",
+      "도모",
+      "마치다",
+      "만지다",
+      "처하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheori"
+  },
+  "처박히다_동사-1": {
+    "id": "처박히다_동사-1",
+    "def_ko": "안쪽이나 구석에 깊이 박히다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheobakhida"
+  },
+  "처음_일반명사-1": {
+    "id": "처음_일반명사-1",
+    "def_ko": "어떤 일이 시작되는 맨 앞부분",
+    "related_vocab": [
+      "발생",
+      "비롯되다",
+      "새",
+      "서장",
+      "원시"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheoeum"
+  },
+  "처지_일반명사-1": {
+    "id": "처지_일반명사-1",
+    "def_ko": "사람이 놓여 있는 형편이나 상황",
+    "related_vocab": [
+      "되다",
+      "무인",
+      "부재",
+      "삶",
+      "상황"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheoji"
+  },
+  "처치_일반명사-1": {
+    "id": "처치_일반명사-1",
+    "def_ko": "어떤 일을 알맞게 다루어 해결함",
+    "related_vocab": [
+      "도모",
+      "만지다",
+      "시도",
+      "활용",
+      "조절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheochi"
+  },
+  "처하다_동사-1": {
+    "id": "처하다_동사-1",
+    "def_ko": "어떤 상황이나 형편에 놓이다",
+    "related_vocab": [
+      "처리",
+      "사정",
+      "상황"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheohada"
+  },
+  "천_수사-1": {
+    "id": "천_수사-1",
+    "def_ko": "백의 열 배가 되는 수",
+    "related_vocab": [
+      "백",
+      "오천",
+      "천만",
+      "천억"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheon"
+  },
+  "천만_수사-1": {
+    "id": "천만_수사-1",
+    "def_ko": "백만의 열 배가 되는 수",
+    "related_vocab": [
+      "억",
+      "천",
+      "천억"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheonman"
+  },
+  "천억_수사-1": {
+    "id": "천억_수사-1",
+    "def_ko": "억의 천 배가 되는 수",
+    "related_vocab": [
+      "천",
+      "천만"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheoneok"
+  },
+  "천오백_수사-1": {
+    "id": "천오백_수사-1",
+    "def_ko": "천에 오백을 더한 수",
+    "related_vocab": [
+      "사",
+      "삼",
+      "이",
+      "칠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheonobaek"
+  },
+  "철_일반명사-2": {
+    "id": "철_일반명사-2",
+    "def_ko": "어느 때에 반복되어 오는 계절이나 시기",
+    "related_vocab": [
+      "사계절",
+      "여름철"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheol"
+  },
+  "첨부_일반명사-1": {
+    "id": "첨부_일반명사-1",
+    "def_ko": "문서나 편지에 다른 서류나 파일을 더해 붙임",
+    "related_vocab": [
+      "전달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheombu"
+  },
+  "첫_관형사-1": {
+    "id": "첫_관형사-1",
+    "def_ko": "맨 앞에 오는 차례의",
+    "related_vocab": [
+      "선두",
+      "차",
+      "첫째"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheot"
+  },
+  "첫날_일반명사-1": {
+    "id": "첫날_일반명사-1",
+    "def_ko": "어떤 일이 시작되는 맨 처음 날",
+    "related_vocab": [
+      "시작",
+      "시작점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheonnal"
+  },
+  "첫발_일반명사-1": {
+    "id": "첫발_일반명사-1",
+    "def_ko": "처음으로 내딛는 걸음이나 시작",
+    "related_vocab": [
+      "시작점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheotbal"
+  },
+  "첫째_수사-1": {
+    "id": "첫째_수사-1",
+    "def_ko": "순서에서 맨 처음인 것",
+    "related_vocab": [
+      "건수",
+      "첫",
+      "초급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheotjjae"
+  },
+  "청소년기_일반명사-1": {
+    "id": "청소년기_일반명사-1",
+    "def_ko": "청소년으로 살아가는 시기",
+    "related_vocab": [
+      "고령",
+      "성수기",
+      "유아기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "cheongsonyeongi"
+  },
+  "체계_일반명사-1": {
+    "id": "체계_일반명사-1",
+    "def_ko": "여러 요소가 일정한 질서와 원리에 따라 짜인 구조",
+    "related_vocab": [
+      "구성",
+      "구조",
+      "분류",
+      "시스템",
+      "조화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chegye"
+  },
+  "체크_일반명사-1": {
+    "id": "체크_일반명사-1",
+    "def_ko": "맞는지 틀린지 점검함",
+    "related_vocab": [
+      "가능성",
+      "검증",
+      "결과",
+      "가령"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chekeu"
+  },
+  "초급_일반명사-1": {
+    "id": "초급_일반명사-1",
+    "def_ko": "처음 단계의 수준",
+    "related_vocab": [
+      "그때그때",
+      "첫째",
+      "초보"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chogeup"
+  },
+  "초기_일반명사-1": {
+    "id": "초기_일반명사-1",
+    "def_ko": "어떤 일이 시작된 바로 뒤의 시기",
+    "related_vocab": [
+      "새해",
+      "조기",
+      "환절기",
+      "초창기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chogi"
+  },
+  "초래_일반명사-1": {
+    "id": "초래_일반명사-1",
+    "def_ko": "어떤 결과를 불러옴",
+    "related_vocab": [
+      "내다",
+      "요인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chorae"
+  },
+  "초반_일반명사-1": {
+    "id": "초반_일반명사-1",
+    "def_ko": "어떤 기간이나 과정의 맨 앞부분",
+    "related_vocab": [
+      "앞두다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choban"
+  },
+  "초보_일반명사-1": {
+    "id": "초보_일반명사-1",
+    "def_ko": "어떤 일이나 기술을 처음으로 시작하거나 배우는 단계",
+    "related_vocab": [
+      "차",
+      "초급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "초봄_일반명사-1": {
+    "id": "초봄_일반명사-1",
+    "def_ko": "이른 봄",
+    "related_vocab": [
+      "벌써"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "초속_일반명사-1": {
+    "id": "초속_일반명사-1",
+    "def_ko": "1초 동안에 간 거리로 나타낸 속도",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chosok"
+  },
+  "초저녁_일반명사-1": {
+    "id": "초저녁_일반명사-1",
+    "def_ko": "저녁이 시작되는 때",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "초점_일반명사-1": {
+    "id": "초점_일반명사-1",
+    "def_ko": "관심이나 활동이 특히 모이는 중심 부분",
+    "related_vocab": [
+      "부각",
+      "핵심",
+      "특별히"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chojeom"
+  },
+  "초창기_일반명사-1": {
+    "id": "초창기_일반명사-1",
+    "def_ko": "어떤 일이나 사업이 막 시작된 시기",
+    "related_vocab": [
+      "새해",
+      "초기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chochanggi"
+  },
+  "촉진_일반명사-1": {
+    "id": "촉진_일반명사-1",
+    "def_ko": "일이 더 빨리 나아가도록 힘을 보탬",
+    "related_vocab": [
+      "공조"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chokjin"
+  },
+  "최근_일반명사-1": {
+    "id": "최근_일반명사-1",
+    "def_ko": "지금에 가장 가까운 지난 때",
+    "related_vocab": [
+      "어젯밤",
+      "작년",
+      "조만간",
+      "지난",
+      "최신"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choegeun"
+  },
+  "최대_일반명사-1": {
+    "id": "최대_일반명사-1",
+    "def_ko": "가장 큰 범위나 정도",
+    "related_vocab": [
+      "극",
+      "꼭대기",
+      "만점",
+      "제일",
+      "최대한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choedae"
+  },
+  "최대한_일반부사-1": {
+    "id": "최대한_일반부사-1",
+    "def_ko": "할 수 있는 범위 안에서 가장 많이",
+    "related_vocab": [
+      "최대",
+      "의존도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choedaehan"
+  },
+  "최상_일반명사-1": {
+    "id": "최상_일반명사-1",
+    "def_ko": "가장 윗자리나 가장 좋은 상태",
+    "related_vocab": [
+      "만점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choesang"
+  },
+  "최소_일반명사-1": {
+    "id": "최소_일반명사-1",
+    "def_ko": "가장 적은 수나 양",
+    "related_vocab": [
+      "미만",
+      "소수",
+      "소액",
+      "최소한",
+      "최저"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choeso"
+  },
+  "최소한_일반명사-1": {
+    "id": "최소한_일반명사-1",
+    "def_ko": "적어도 이것만은 필요하다고 여겨지는 가장 낮은 정도",
+    "related_vocab": [
+      "최소",
+      "최저",
+      "적어도",
+      "제일",
+      "최소한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choesohan"
+  },
+  "최소한_일반부사-1": {
+    "id": "최소한_일반부사-1",
+    "def_ko": "가장 적게 잡아도. 또는 일정한 조건에서 가능한 한 가장 적게",
+    "related_vocab": [
+      "적어도",
+      "최소한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "최신_일반명사-1": {
+    "id": "최신_일반명사-1",
+    "def_ko": "가장 최근의 경향이나 형식",
+    "related_vocab": [
+      "기존",
+      "요즘",
+      "최근"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choesin"
+  },
+  "최저_일반명사-1": {
+    "id": "최저_일반명사-1",
+    "def_ko": "가장 낮은 수준이나 정도",
+    "related_vocab": [
+      "최소",
+      "최소한"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choejeo"
+  },
+  "최종_일반명사-1": {
+    "id": "최종_일반명사-1",
+    "def_ko": "맨 나중의 단계나 결론",
+    "related_vocab": [
+      "기말",
+      "말기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choejong"
+  },
+  "최초_일반명사-1": {
+    "id": "최초_일반명사-1",
+    "def_ko": "맨 처음",
+    "related_vocab": [
+      "새",
+      "서장",
+      "신규",
+      "원시"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "choecho"
+  },
+  "추가_일반명사-1": {
+    "id": "추가_일반명사-1",
+    "def_ko": "원래 것에 더함",
+    "related_vocab": [
+      "배수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chuga"
+  },
+  "추락_일반명사-1": {
+    "id": "추락_일반명사-1",
+    "def_ko": "높은 곳에서 떨어짐",
+    "related_vocab": [
+      "탈출",
+      "전락"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "churak"
+  },
+  "추론_일반명사-1": {
+    "id": "추론_일반명사-1",
+    "def_ko": "알고 있는 사실을 바탕으로 다른 사실을 짐작해 냄",
+    "related_vocab": [
+      "단서",
+      "유추",
+      "증거"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "churon"
+  },
+  "추상_일반명사-1": {
+    "id": "추상_일반명사-1",
+    "def_ko": "여러 구체적인 것에서 공통된 성질만 뽑아 생각함",
+    "related_vocab": [
+      "공통",
+      "보편",
+      "종합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chusang"
+  },
+  "추세_일반명사-1": {
+    "id": "추세_일반명사-1",
+    "def_ko": "일이 나아가는 전반적인 방향",
+    "related_vocab": [
+      "진행",
+      "흐름"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chuse"
+  },
+  "추적_일반명사-1": {
+    "id": "추적_일반명사-1",
+    "def_ko": "도망가거나 숨은 대상을 뒤쫓아 찾음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chujeok"
+  },
+  "추정_일반명사-1": {
+    "id": "추정_일반명사-1",
+    "def_ko": "대강 짐작하여 헤아림",
+    "related_vocab": [
+      "추측"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chujeong"
+  },
+  "추진_일반명사-1": {
+    "id": "추진_일반명사-1",
+    "def_ko": "일이 앞으로 나아가게 힘씀",
+    "related_vocab": [
+      "밀어내다",
+      "방해",
+      "저지",
+      "정체"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chujin"
+  },
+  "추측_일반명사-1": {
+    "id": "추측_일반명사-1",
+    "def_ko": "확실하지 않은 일을 대강 짐작함",
+    "related_vocab": [
+      "추정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chucheuk"
+  },
+  "축소_일반명사-1": {
+    "id": "축소_일반명사-1",
+    "def_ko": "크기나 범위를 줄임",
+    "related_vocab": [
+      "작아지다",
+      "확대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chukso"
+  },
+  "축적_일반명사-1": {
+    "id": "축적_일반명사-1",
+    "def_ko": "조금씩 차곡차곡 쌓음",
+    "related_vocab": [
+      "겹겹이",
+      "감축",
+      "조금씩"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chukjeok"
+  },
+  "출발점_일반명사-1": {
+    "id": "출발점_일반명사-1",
+    "def_ko": "어떤 일이 시작되는 자리나 단계",
+    "related_vocab": [
+      "서장",
+      "탄생",
+      "시작점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chulbaljeom"
+  },
+  "출처_일반명사-1": {
+    "id": "출처_일반명사-1",
+    "def_ko": "어떤 말이나 글, 물건이 처음 나온 곳",
+    "related_vocab": [
+      "의미"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chulcheo"
+  },
+  "출하량_일반명사-1": {
+    "id": "출하량_일반명사-1",
+    "def_ko": "생산한 물건을 시장에 내보낸 양",
+    "related_vocab": [
+      "품목",
+      "감축"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chulharyang"
+  },
+  "충당_일반명사-1": {
+    "id": "충당_일반명사-1",
+    "def_ko": "모자라는 부분을 다른 것으로 채움",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chungdang"
+  },
+  "충분조건_일반명사-1": {
+    "id": "충분조건_일반명사-1",
+    "def_ko": "어떤 사실이 성립하기에 모자람이 없는 조건",
+    "related_vocab": [
+      "요건",
+      "입증",
+      "전제",
+      "조건"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chungbun jogeon"
+  },
+  "충분하다_형용사-1": {
+    "id": "충분하다_형용사-1",
+    "def_ko": "모자라지 않고 넉넉하다",
+    "related_vocab": [
+      "남다",
+      "그만"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chungbunhada"
+  },
+  "충분히_일반부사-1": {
+    "id": "충분히_일반부사-1",
+    "def_ko": "모자람이 없게 넉넉하게",
+    "related_vocab": [
+      "그만",
+      "실컷"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chungbunhi"
+  },
+  "취소_일반명사-1": {
+    "id": "취소_일반명사-1",
+    "def_ko": "이미 하기로 한 일이나 약속을 없던 일로 함",
+    "related_vocab": [
+      "모면",
+      "포기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chwiso"
+  },
+  "측정_일반명사-1": {
+    "id": "측정_일반명사-1",
+    "def_ko": "길이, 무게, 양 등을 재어 수로 나타냄",
+    "related_vocab": [
+      "지름",
+      "매기다",
+      "재다",
+      "크기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "몸무게_일반명사-1",
+          "target_term": "몸무게",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "cheukjeong"
+  },
+  "치수_일반명사-1": {
+    "id": "치수_일반명사-1",
+    "def_ko": "옷, 신발, 물건 등의 크기를 나타내는 수치",
+    "related_vocab": [
+      "미니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chisu"
+  },
+  "칠_수사-1": {
+    "id": "칠_수사-1",
+    "def_ko": "육에 일을 더한 수",
+    "related_vocab": [
+      "천오백",
+      "육"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "칠_일반명사-1": {
+    "id": "칠_일반명사-1",
+    "def_ko": "일곱이라는 수를 나타내는 말",
+    "related_vocab": [
+      "일",
+      "칠천"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chil"
+  },
+  "칠십_수사-1": {
+    "id": "칠십_수사-1",
+    "def_ko": "십의 일곱 배가 되는 수",
+    "related_vocab": [
+      "수천",
+      "육십",
+      "일흔",
+      "칠천"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "칠월_일반명사-1": {
+    "id": "칠월_일반명사-1",
+    "def_ko": "일곱 번째 달",
+    "related_vocab": [
+      "구월",
+      "팔월"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chilwol"
+  },
+  "칠천_수사-1": {
+    "id": "칠천_수사-1",
+    "def_ko": "일곱 개의 천을 나타내는 수",
+    "related_vocab": [
+      "일흔",
+      "칠",
+      "칠십"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chilcheon"
+  },
+  "침입_일반명사-1": {
+    "id": "침입_일반명사-1",
+    "def_ko": "허락 없이 남의 영역이나 집에 들어감",
+    "related_vocab": [
+      "입장",
+      "진입",
+      "무사히",
+      "인용",
+      "침해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chimip"
+  },
+  "침체_일반명사-1": {
+    "id": "침체_일반명사-1",
+    "def_ko": "활동이나 경기가 가라앉아 잘 움직이지 않는 상태",
+    "related_vocab": [
+      "걸리다",
+      "잠수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chimche"
+  },
+  "침해_일반명사-1": {
+    "id": "침해_일반명사-1",
+    "def_ko": "남의 권리나 영역을 함부로 깎아내리거나 빼앗음",
+    "related_vocab": [
+      "인용",
+      "침입"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "chimhae"
+  },
+  "카테고리_일반명사-1": {
+    "id": "카테고리_일반명사-1",
+    "def_ko": "성질이 비슷한 것끼리 묶은 분류 항목",
+    "related_vocab": [
+      "동질",
+      "별도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "kategoli"
+  },
+  "칸_일반명사-1": {
+    "id": "칸_일반명사-1",
+    "def_ko": "칸막이로 나뉜 한 구획이나 칸 수를 세는 단위",
+    "related_vocab": [
+      "자",
+      "쪽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "kan"
+  },
+  "칼로리_일반명사-1": {
+    "id": "칼로리_일반명사-1",
+    "def_ko": "음식이 내는 에너지의 양을 나타내는 단위",
+    "related_vocab": [
+      "몸무게",
+      "섭씨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "kallori"
+  },
+  "쿼터_일반명사-1": {
+    "id": "쿼터_일반명사-1",
+    "def_ko": "정해진 몫이나 할당량",
+    "related_vocab": [
+      "구간",
+      "배정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "kweoteo"
+  },
+  "크기_일반명사-1": {
+    "id": "크기_일반명사-1",
+    "def_ko": "사물의 길이, 넓이, 높이 같은 정도",
+    "related_vocab": [
+      "밀도",
+      "사이즈",
+      "측정",
+      "너비",
+      "높이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "keugi"
+  },
+  "키_일반명사-1": {
+    "id": "키_일반명사-1",
+    "def_ko": "사람이나 물건의 전체적인 높이",
+    "related_vocab": [
+      "고도",
+      "높이",
+      "배정",
+      "사이즈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ki"
+  },
+  "탄생_일반명사-1": {
+    "id": "탄생_일반명사-1",
+    "def_ko": "사람이나 사물이 새로 태어나거나 생겨남",
+    "related_vocab": [
+      "비롯되다",
+      "새것",
+      "새로이",
+      "신규",
+      "출발점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tansaeng"
+  },
+  "탈출_일반명사-1": {
+    "id": "탈출_일반명사-1",
+    "def_ko": "갇힌 곳이나 위험한 곳에서 빠져나옴",
+    "related_vocab": [
+      "내쫓다",
+      "추락",
+      "모면",
+      "도달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "talchul"
+  },
+  "탐색_일반명사-1": {
+    "id": "탐색_일반명사-1",
+    "def_ko": "이곳저곳을 더듬어 찾아봄",
+    "related_vocab": [
+      "뒤지다",
+      "찾아다니다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tamsaek"
+  },
+  "탓_일반명사-1": {
+    "id": "탓_일반명사-1",
+    "def_ko": "어떤 일이 잘못된 이유나 책임이 되는 것",
+    "related_vocab": [
+      "걸림돌",
+      "구실",
+      "그냥",
+      "그저",
+      "오류"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tat"
+  },
+  "태산_일반명사-1": {
+    "id": "태산_일반명사-1",
+    "def_ko": "아주 크고 높은 산에 비유하여, 매우 크고 중요한 존재",
+    "related_vocab": [
+      "광범위",
+      "대량",
+      "막대하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "taesan"
+  },
+  "토대_일반명사-1": {
+    "id": "토대_일반명사-1",
+    "def_ko": "어떤 일이나 생각이 서 있는 기본 바탕",
+    "related_vocab": [
+      "바탕",
+      "방침",
+      "성립",
+      "원천"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "todae"
+  },
+  "토요_일반명사-1": {
+    "id": "토요_일반명사-1",
+    "def_ko": "토요일과 관련된 것임을 나타내는 말",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "toyo"
+  },
+  "토요일_일반명사-1": {
+    "id": "토요일_일반명사-1",
+    "def_ko": "한 주의 여섯 번째 날",
+    "related_vocab": [
+      "월요일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "금요일_일반명사-1",
+          "target_term": "금요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "toyoil"
+  },
+  "통계_일반명사-1": {
+    "id": "통계_일반명사-1",
+    "def_ko": "수치를 모아 어떤 현상의 경향을 알아보는 자료",
+    "related_vocab": [
+      "지표",
+      "데이터",
+      "관련"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tonggye"
+  },
+  "통신_일반명사-1": {
+    "id": "통신_일반명사-1",
+    "def_ko": "멀리 떨어진 곳과 전기나 전파로 정보를 주고받음",
+    "related_vocab": [
+      "송수신",
+      "연락"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tongsin"
+  },
+  "통일_일반명사-1": {
+    "id": "통일_일반명사-1",
+    "def_ko": "나뉘어 있던 것을 하나로 합침",
+    "related_vocab": [
+      "종합",
+      "통합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tongil"
+  },
+  "통합_일반명사-1": {
+    "id": "통합_일반명사-1",
+    "def_ko": "흩어진 것들을 하나로 합침",
+    "related_vocab": [
+      "맞추다",
+      "통일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tonghap"
+  },
+  "퇴보_일반명사-1": {
+    "id": "퇴보_일반명사-1",
+    "def_ko": "예전보다 더 나쁜 상태로 뒤로 물러남",
+    "related_vocab": [
+      "되돌리다",
+      "저지르다",
+      "제치다",
+      "회귀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "toebo"
+  },
+  "퇴화_일반명사-1": {
+    "id": "퇴화_일반명사-1",
+    "def_ko": "기능이나 모습이 점점 뒤떨어지고 약해짐",
+    "related_vocab": [
+      "설정",
+      "쇠퇴",
+      "활성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "toehwa"
+  },
+  "투입_일반명사-1": {
+    "id": "투입_일반명사-1",
+    "def_ko": "인력이나 자금, 물자를 어떤 일에 들여보냄",
+    "related_vocab": [
+      "동참",
+      "사용",
+      "책임"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "tuip"
+  },
+  "특별히_일반부사-1": {
+    "id": "특별히_일반부사-1",
+    "def_ko": "보통 때와 다르게 특히",
+    "related_vocab": [
+      "가뜩이나",
+      "굳이",
+      "심지어",
+      "초점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "유난히_일반부사-1",
+          "target_term": "유난히",
+          "target_system": "마음과 표현",
+          "target_root": "의견과 가치",
+          "target_category": "양과 정도",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "teukbyeolhi"
+  },
+  "특정_일반명사-1": {
+    "id": "특정_일반명사-1",
+    "def_ko": "어느 하나를 꼭 집어 정함",
+    "related_vocab": [
+      "확정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "teukjeong"
+  },
+  "특히_일반부사-1": {
+    "id": "특히_일반부사-1",
+    "def_ko": "여럿 가운데서 두드러지게",
+    "related_vocab": [
+      "가뜩이나",
+      "부각"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "teukhi"
+  },
+  "틀어지다_동사-1": {
+    "id": "틀어지다_동사-1",
+    "def_ko": "계획이나 사이가 원래 뜻대로 되지 않고 나쁘게 변하다",
+    "related_vocab": [
+      "벌어지다",
+      "변하다",
+      "얼른",
+      "방해",
+      "전락"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "teureojida"
+  },
+  "판매량_일반명사-1": {
+    "id": "판매량_일반명사-1",
+    "def_ko": "팔려 나간 물건의 양",
+    "related_vocab": [
+      "수입량",
+      "재고"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "panmaeryang"
+  },
+  "팔월_일반명사-1": {
+    "id": "팔월_일반명사-1",
+    "def_ko": "일 년 열두 달 가운데 여덟 번째 달",
+    "related_vocab": [
+      "구월",
+      "여름",
+      "칠월"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "parwol"
+  },
+  "퍼센트_일반명사-1": {
+    "id": "퍼센트_일반명사-1",
+    "def_ko": "전체를 100으로 보았을 때의 비율",
+    "related_vocab": [
+      "부분",
+      "비율",
+      "시청률",
+      "효율"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "peosenteu"
+  },
+  "페어_일반명사-1": {
+    "id": "페어_일반명사-1",
+    "def_ko": "둘이 짝을 이룬 한 쌍",
+    "related_vocab": [
+      "송이",
+      "쌍"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "짝_일반명사-1",
+          "target_term": "짝",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "수량 비교와 범위",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "peeo"
+  },
+  "페이지_일반명사-1": {
+    "id": "페이지_일반명사-1",
+    "def_ko": "책이나 문서, 웹사이트의 한 쪽 단위",
+    "related_vocab": [
+      "부수",
+      "쌍",
+      "자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "peiji"
+  },
+  "편성_일반명사-1": {
+    "id": "편성_일반명사-1",
+    "def_ko": "사람이나 프로그램 따위를 짜서 한 묶음으로 정리함",
+    "related_vocab": [
+      "벌이다",
+      "집합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeonseong"
+  },
+  "편중_일반명사-1": {
+    "id": "편중_일반명사-1",
+    "def_ko": "힘이나 자원이 한쪽에만 치우쳐 있음",
+    "related_vocab": [
+      "차등"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeonjung"
+  },
+  "편집_일반명사-1": {
+    "id": "편집_일반명사-1",
+    "def_ko": "글이나 영상 등을 고르고 다듬어 한데 모으는 일",
+    "related_vocab": [
+      "섞다",
+      "수립",
+      "요약",
+      "적히다",
+      "해독"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeonjip"
+  },
+  "평균_일반명사-1": {
+    "id": "평균_일반명사-1",
+    "def_ko": "여러 값을 모두 합한 뒤 그 개수로 나눈 값",
+    "related_vocab": [
+      "비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeonggyun"
+  },
+  "평상시_일반명사-1": {
+    "id": "평상시_일반명사-1",
+    "def_ko": "특별한 일이 없는 보통 때",
+    "related_vocab": [
+      "낮",
+      "주말",
+      "주중",
+      "평소",
+      "휴일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "평생_일반명사-1": {
+    "id": "평생_일반명사-1",
+    "def_ko": "태어나서 죽을 때까지의 동안",
+    "related_vocab": [
+      "난생",
+      "연간",
+      "오랫동안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeongsaeng"
+  },
+  "평소_일반명사-1": {
+    "id": "평소_일반명사-1",
+    "def_ko": "특별한 일이 없을 때의 보통 때",
+    "related_vocab": [
+      "낮",
+      "주말",
+      "주중",
+      "평상시",
+      "해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeongso"
+  },
+  "평일_일반명사-1": {
+    "id": "평일_일반명사-1",
+    "def_ko": "토요일과 일요일을 뺀 보통의 근무일",
+    "related_vocab": [
+      "주말",
+      "주중"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pyeongil"
+  },
+  "포괄_일반명사-1": {
+    "id": "포괄_일반명사-1",
+    "def_ko": "여러 내용을 넓게 한데 감싸서 포함함",
+    "related_vocab": [
+      "표",
+      "종합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pogwal"
+  },
+  "포기_일반명사-1": {
+    "id": "포기_일반명사-1",
+    "def_ko": "하던 일이나 권리를 더 이상 가지려 하지 않고 그만둠",
+    "related_vocab": [
+      "마치다",
+      "멈추다",
+      "모면",
+      "얼른",
+      "취소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pogi"
+  }
+}

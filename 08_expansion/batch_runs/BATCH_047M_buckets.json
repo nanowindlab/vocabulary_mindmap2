@@ -1,0 +1,258 @@
+{
+  "core": [
+    {
+      "meaning_id": "장미_일반명사-1",
+      "rationale_short": "자연에 속하는 구체적인 식물.",
+      "root": "날씨와 자연",
+      "category_label_ko": "꽃과 식물"
+    },
+    {
+      "meaning_id": "전자책_일반명사-1",
+      "rationale_short": "학습 및 독서 활동에 사용되는 구체적인 도구.",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 도구"
+    },
+    {
+      "meaning_id": "정상_일반명사-1",
+      "rationale_short": "자연 지형의 한 부분.",
+      "root": "날씨와 자연",
+      "category_label_ko": "지형과 지리"
+    },
+    {
+      "meaning_id": "정전_일반명사-1",
+      "rationale_short": "일상생활에서 발생하는 구체적인 불편 상황.",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 불편"
+    },
+    {
+      "meaning_id": "조각_일반명사-2",
+      "rationale_short": "문화 예술 분야의 구체적인 작품 형태.",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 작품"
+    },
+    {
+      "meaning_id": "좌석_일반명사-1",
+      "rationale_short": "앉기 위해 마련된 구체적인 공간 또는 물건.",
+      "root": "주거와 일상",
+      "category_label_ko": "앉는 자리"
+    },
+    {
+      "meaning_id": "지나가다_동사-1",
+      "rationale_short": "특정 장소를 거쳐 이동하는 구체적인 행위.",
+      "root": "교통",
+      "category_label_ko": "이동하다"
+    },
+    {
+      "meaning_id": "지우개_일반명사-1",
+      "rationale_short": "학습 활동에 사용되는 구체적인 학용품.",
+      "root": "학교와 공부",
+      "category_label_ko": "학용품"
+    },
+    {
+      "meaning_id": "차량_일반명사-1",
+      "rationale_short": "교통 및 이동에 사용되는 구체적인 수단.",
+      "root": "교통",
+      "category_label_ko": "이동 수단"
+    },
+    {
+      "meaning_id": "채용_일반명사-1",
+      "rationale_short": "직장 및 업무와 관련된 구체적인 인사 행위.",
+      "root": "직장과 업무",
+      "category_label_ko": "인력 관리"
+    },
+    {
+      "meaning_id": "추다_동사-1",
+      "rationale_short": "여가 활동 및 취미로 즐기는 구체적인 행위.",
+      "root": "여가와 취미",
+      "category_label_ko": "춤추기"
+    },
+    {
+      "meaning_id": "충수_일반명사-1",
+      "rationale_short": "인체 해부학적 구체적인 기관.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 기관"
+    },
+    {
+      "meaning_id": "캐릭터_일반명사-1",
+      "rationale_short": "여가 활동(게임, 독서, 시청 등)과 관련된 구체적인 요소.",
+      "root": "여가와 취미",
+      "category_label_ko": "이야기 속 인물"
+    },
+    {
+      "meaning_id": "컵_일반명사-1",
+      "rationale_short": "식생활에 사용되는 구체적인 식기.",
+      "root": "식생활",
+      "category_label_ko": "식기류"
+    },
+    {
+      "meaning_id": "태양광_일반명사-1",
+      "rationale_short": "자연 현상 및 에너지원.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 에너지"
+    },
+    {
+      "meaning_id": "토_일반명사-1",
+      "rationale_short": "자연 환경의 구체적인 구성 요소.",
+      "root": "날씨와 자연",
+      "category_label_ko": "흙과 땅"
+    },
+    {
+      "meaning_id": "피다_동사-1",
+      "rationale_short": "자연 현상 중 꽃의 개화 과정을 나타내는 동사.",
+      "root": "날씨와 자연",
+      "category_label_ko": "꽃이 피다"
+    },
+    {
+      "meaning_id": "피로_일반명사-1",
+      "rationale_short": "신체적, 정신적 건강 상태를 나타내는 구체적인 증상.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 상태"
+    },
+    {
+      "meaning_id": "한글_일반명사-1",
+      "rationale_short": "한국의 고유한 문화적 유산이자 언어 체계.",
+      "root": "문화와 사회",
+      "category_label_ko": "한국어 문자"
+    },
+    {
+      "meaning_id": "건설_일반명사-1",
+      "rationale_short": "건물이나 시설을 만드는 구체적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 짓기"
+    },
+    {
+      "meaning_id": "견해_일반명사-1",
+      "rationale_short": "특정 사안에 대한 개인의 생각이나 관점.",
+      "root": "의견과 가치",
+      "category_label_ko": "생각과 관점"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "임시_일반명사-1",
+      "rationale_short": "시간적 개념이 강하나, 특정 상황의 임시성을 나타내기도 함.",
+      "root": "시간과 흐름",
+      "candidate_reason": "시간적 속성을 나타내지만, '상황 지시/기타'와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "자율_일반명사-1",
+      "rationale_short": "스스로 판단하고 행동하는 태도나 성향을 나타냄.",
+      "root": "성격과 태도",
+      "candidate_reason": "개인의 태도나 내면적 판단과 관련되지만, 사회적 맥락에서도 사용되어 모호함."
+    },
+    {
+      "meaning_id": "자체_일반명사-1",
+      "rationale_short": "'그것 스스로'라는 의미로, 특정 대상의 본질이나 독립성을 나타냄.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 대상을 지칭하는 지시적 성격이 강하지만, 독립적인 개념으로도 쓰여 모호함."
+    },
+    {
+      "meaning_id": "장식_일반명사-1",
+      "rationale_short": "주로 주거 공간이나 물건을 꾸미는 일상적인 행위.",
+      "root": "주거와 일상",
+      "candidate_reason": "일상생활에서 물건이나 공간을 꾸미는 행위와 관련되지만, 예술/문화적 맥락에서도 사용될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "장애_일반명사-1",
+      "rationale_short": "주로 신체적, 정신적 어려움을 지칭하며, 일반적인 방해물로도 쓰임.",
+      "root": "보건과 의료",
+      "candidate_reason": "신체적/정신적 장애를 의미할 때는 '보건과 의료'에 속하지만, 일반적인 방해물이라는 의미에서는 '상황 지시/기타'와 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "정상_일반명사-2",
+      "rationale_short": "사물이나 상태의 일반적인 모습을 묘사하는 단어.",
+      "root": "감각과 묘사",
+      "candidate_reason": "어떤 상태를 묘사하는 표현이지만, '의견과 가치' (정상적인 것의 판단)나 '상황 지시/기타' (정상적인 상황)와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "정착_일반명사-1",
+      "rationale_short": "주로 주거지나 직업 등 삶의 기반을 마련하는 행위.",
+      "root": "주거와 일상",
+      "candidate_reason": "주거와 관련된 행위이지만, 추상적인 개념의 '정착' (예: 기술의 정착)도 있어 모호함."
+    },
+    {
+      "meaning_id": "조각_일반명사-1",
+      "rationale_short": "전체에서 분리된 작은 부분을 의미.",
+      "root": "수량과 단위",
+      "candidate_reason": "수량이나 단위를 나타내는 개념이지만, 물리적인 '부분'을 지칭하는 경우도 있어 모호함."
+    },
+    {
+      "meaning_id": "조정_일반명사-1",
+      "rationale_short": "상태나 양을 적절하게 맞추는 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 상태를 조절하는 행위로, 다양한 맥락에서 사용되어 모호함."
+    },
+    {
+      "meaning_id": "조정_일반명사-2",
+      "rationale_short": "사람들 사이의 갈등을 해결하고 관계를 조율하는 행위.",
+      "root": "사람과 관계",
+      "candidate_reason": "사람 간의 관계에서 갈등을 해결하는 행위이지만, 법적/사회적 제도와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "지명_일반명사-1",
+      "rationale_short": "특정 지역이나 땅을 부르는 이름.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 장소를 지칭하는 이름이지만, '날씨와 자연'의 지형과도 연관될 수 있고, '문화와 사회'의 지역 개념과도 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "지지_일반명사-1",
+      "rationale_short": "특정 의견이나 사람에 대한 긍정적인 태도와 행동.",
+      "root": "의견과 가치",
+      "candidate_reason": "의견이나 사람에 대한 태도를 나타내지만, '사람과 관계'나 '문화와 사회'의 정치적 맥락에서도 사용되어 모호함."
+    },
+    {
+      "meaning_id": "촉구_일반명사-1",
+      "rationale_short": "특정 행동이나 의견을 강하게 요구하는 행위.",
+      "root": "의견과 가치",
+      "candidate_reason": "의견을 강하게 표현하는 행위이지만, '상황 지시/기타'의 특정 행동을 유도하는 맥락에서도 사용되어 모호함."
+    },
+    {
+      "meaning_id": "최선_일반명사-1",
+      "rationale_short": "여러 선택지 중 가장 바람직하다고 판단되는 것.",
+      "root": "의견과 가치",
+      "candidate_reason": "가치 판단과 관련된 개념이지만, '성격과 태도' (최선을 다하는 태도)나 '상황 지시/기타' (최선의 상황)와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "추상_일반명사-1",
+      "rationale_short": "구체적인 것에서 공통된 성질을 뽑아내는 사고 과정.",
+      "root": "논리와 연결",
+      "candidate_reason": "사고 방식과 관련된 개념이지만, '문화와 사회'의 예술 분야 (추상 미술)와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "취소_일반명사-1",
+      "rationale_short": "이미 결정된 사항을 무효화하는 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "약속이나 계획을 없던 일로 하는 행위로, 다양한 상황에서 사용되어 모호함."
+    },
+    {
+      "meaning_id": "측면_일반명사-1",
+      "rationale_short": "사물의 옆 부분이나 어떤 현상의 한 가지 관점.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적인 위치를 묘사하기도 하지만, 추상적인 '측면' (관점)을 의미할 때도 있어 모호함."
+    },
+    {
+      "meaning_id": "탄생_일반명사-1",
+      "rationale_short": "사람이나 사물이 새로 생겨나는 시점이나 사건.",
+      "root": "시간과 흐름",
+      "candidate_reason": "새로운 시작이라는 시간적 의미가 강하지만, '사람과 관계' (출생)나 '문화와 사회' (새로운 사상의 탄생)와도 연관될 수 있어 모호함."
+    },
+    {
+      "meaning_id": "형성_일반명사-1",
+      "rationale_short": "어떤 형태나 구조가 만들어지는 과정.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 것이 만들어지는 과정을 의미하며, 다양한 맥락에서 사용되어 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 중 여러 루트에 걸쳐 해석될 수 있는 경우 (예: 임시, 자율, 자체, 장애, 정상(상태), 정착, 조각(부분), 조정, 지지, 최선, 추상, 취소, 측면, 탄생, 형성)",
+      "행위/상태를 나타내는 명사가 특정 맥락에서는 명확하나, 일반적인 의미에서는 모호해지는 경우 (예: 장식, 장애, 정착, 조정, 지지, 촉구, 취소, 형성)"
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' 루트의 하위 분류를 좀 더 세분화하여, 일반적인 상태, 행위, 개념 등을 명확히 구분할 필요가 있음.",
+      "추상적인 개념어에 대한 분류 가이드라인을 강화하여, '내면과 감정', '성격과 태도', '의견과 가치', '논리와 연결' 등과의 경계를 명확히 할 필요가 있음.",
+      "동음이의어의 경우, 각 의미별로 명확한 분류 기준을 제시하여 혼동을 줄여야 함 (예: 정상, 조각, 조정)."
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "meta_groups": {
+    "시험과 지시어": {
+      "en": "Test Instructions",
+      "desc": "Vocabulary related to exam questions and directions."
+    },
+    "글말과 표현": {
+      "en": "Written Discourse",
+      "desc": "Formal expressions and connectors used in writing."
+    },
+    "입말과 대화": {
+      "en": "Spoken Discourse",
+      "desc": "Conversational markers and daily spoken language."
+    },
+    "논리와 추론": {
+      "en": "Logical Reasoning",
+      "desc": "Abstract concepts and logical connectors."
+    },
+    "기타 고빈도 메타어": {
+      "en": "Other High-Freq Meta",
+      "desc": "Miscellaneous high-frequency functional words."
+    }
+  },
+  "example_styles": {
+    "해요체": {
+      "en": "Polite (Haeyo-che)",
+      "desc": "Common polite spoken style."
+    },
+    "합쇼체": {
+      "en": "Formal Polite (Hapshyo-che)",
+      "desc": "Formal settings and news/announcements."
+    },
+    "해라체": {
+      "en": "Plain (Haera-che)",
+      "desc": "Used in writing, books, and informal speech to juniors."
+    }
+  },
+  "topik_levels": {
+    "초": "Beginner",
+    "중": "Intermediate",
+    "고": "Advanced"
+  }
+}

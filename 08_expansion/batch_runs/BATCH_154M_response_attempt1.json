@@ -1,0 +1,554 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "수령_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "물건이나 돈을 받는 행위는 다양한 맥락에서 발생하여 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 맥락의 수령 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "수리비_일반명사-1",
+      "bucket": "candidate",
+      "root": "쇼핑",
+      "category_label_ko": null,
+      "candidate_reason": "수리비는 물건이나 서비스에 대한 비용으로, '쇼핑' 또는 '주거와 일상' 등 여러 root와 연관될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "수리 비용은 다양한 맥락에서 발생하여 분류 모호."
+    },
+    {
+      "meaning_id": "수면제_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "수면 관련 약품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잠을 유도하는 약으로, 보건 및 의료 분야에 명확히 해당."
+    },
+    {
+      "meaning_id": "수백만_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "큰 수량 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수량을 나타내는 표현으로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수사_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "범죄 수사 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "범죄 사실을 밝히는 공적인 조사 활동으로, '공공 서비스'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수사관_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "수사 업무 담당자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "범죄 조사를 담당하는 직업/역할어로, '공공 서비스'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수상작_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "수상 작품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상을 받은 작품으로, 문화 및 예술 분야에 명확히 해당."
+    },
+    {
+      "meaning_id": "수선비_일반명사-1",
+      "bucket": "candidate",
+      "root": "쇼핑",
+      "category_label_ko": null,
+      "candidate_reason": "옷이나 물건을 고치는 비용으로, '쇼핑' 또는 '주거와 일상' 등 여러 root와 연관될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "수선 비용은 다양한 맥락에서 발생하여 분류 모호."
+    },
+    {
+      "meaning_id": "수송_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운송 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 물건을 실어 나르는 행위로, '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수술비_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "수술 관련 비용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수술에 드는 비용으로, 보건 및 의료 분야에 명확히 해당."
+    },
+    {
+      "meaning_id": "수습_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어려운 상황을 정리하는 추상적인 행위로, 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "상황 정리 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "수시_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "정해지지 않은 때",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정해진 때가 아닌 아무 때나를 의미하여, '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수신_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "편지, 전파, 신호 등을 받는 행위는 다양한 맥락에서 발생하여 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "정보/신호 수신 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "수심_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물의 깊이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물의 깊이를 나타내는 자연 현상 관련 어휘로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수위_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물의 높이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물의 높이를 나타내는 자연 현상 관련 어휘로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수입량_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수입 물품 양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "들여온 물건의 양을 나타내므로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수입원_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "수익 발생 근원",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "돈이나 이익이 들어오는 근원으로, '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수정안_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "수정된 계획",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "고쳐서 새로 내놓은 안이나 계획으로, 주로 업무 맥락에서 사용되어 '직장과 업무'에 해당."
+    },
+    {
+      "meaning_id": "수줍다_형용사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "부끄러워하는 성격이나 태도를 나타내며, '성격과 태도'와 '내면과 감정'의 경계에 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "성격/감정 경계에 있어 분류 모호."
+    },
+    {
+      "meaning_id": "수줍어하다_동사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "부끄러워하는 기색을 드러내는 행위로, '내면과 감정'과 '성격과 태도'의 경계에 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "감정 표현 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "수증기_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물 기체 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물이 기체 상태가 된 것으로, 자연 현상에 명확히 해당."
+    },
+    {
+      "meaning_id": "수직_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위아래 방향",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "위아래로 곧게 선 방향을 나타내는 일반적인 묘사로, '상황 지시/기타'에 해당."
+    },
+    {
+      "meaning_id": "수축_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "줄어들어 오그라드는 일반적인 변화 상태로, 다양한 맥락에서 사용되어 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 변화 상태로 분류 모호."
+    },
+    {
+      "meaning_id": "수평선_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "하늘과 땅 경계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "땅이나 바다와 하늘이 맞닿아 보이는 선으로, 자연 경관에 명확히 해당."
+    },
+    {
+      "meaning_id": "수하물_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "여행용 짐",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여행할 때 맡기는 짐으로, '여행'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수험표_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "시험 응시 증명서",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시험을 치르기 위한 증표로, '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수호_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "지켜 보호하는 추상적인 행위나 개념으로, 다양한 대상에 적용되어 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "보호 행위/개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "수확량_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "농작물 수확 양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "거둔 농작물의 양을 나타내므로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "숙박_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "잠자리 제공",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잠을 자며 머무르는 행위로, 주로 '여행' 맥락에서 중요하게 다뤄짐."
+    },
+    {
+      "meaning_id": "숙식_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "잠과 식사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "잠과 밥을 함께 해결하는 것으로, 기본적인 생활 요소로 '주거와 일상'에 해당."
+    },
+    {
+      "meaning_id": "순전히_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "오로지 한정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "다른 것 없이 오로지라는 의미로, 논리적 한정을 나타내 '논리와 연결'에 해당."
+    },
+    {
+      "meaning_id": "숨소리_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "호흡 소리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "숨을 들이쉬고 내쉴 때 나는 소리로, 청각적 감각 묘사에 해당."
+    },
+    {
+      "meaning_id": "숨쉬기_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "호흡 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "숨을 들이쉬고 내쉬는 생리적 행동으로, '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "숨어들다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "남이 모르게 안으로 들어가는 행위로, 다양한 맥락에서 발생하여 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "은밀한 이동 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "쉼터_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "휴식 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람들이 잠시 머물며 쉴 수 있는 장소로, '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "슈퍼마켓_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "생활용품 판매점",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생활에 필요한 물건을 구매하는 가게로, '쇼핑'에 명확히 해당."
+    },
+    {
+      "meaning_id": "스르르_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "부드러운 움직임",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "힘없이 부드럽게 움직이는 모양을 묘사하므로, '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "스물세_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 스물셋",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수량을 나타내는 말로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "스치다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "서로 가볍게 닿거나 지나가는 행위로, 다양한 맥락에서 발생하여 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "가벼운 접촉/지나침 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "스캐너_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "문서 변환 기기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "그림이나 글자를 컴퓨터로 옮기는 기계로, 주로 업무 환경에서 사용되어 '직장과 업무'에 해당."
+    },
+    {
+      "meaning_id": "스케이트장_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스케이트 타는 곳",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "스케이트를 탈 수 있는 장소로, '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "스케치_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "간단한 그림",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "간단히 그린 밑그림으로, 예술 활동이자 '여가와 취미'에 해당."
+    },
+    {
+      "meaning_id": "스티커_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "접착식 종이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "뒷면에 풀이 붙어 있는 종이 조각으로, 구매 가능한 물건으로 '쇼핑'에 해당."
+    },
+    {
+      "meaning_id": "스프레이_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "category_label_ko": null,
+      "candidate_reason": "액체를 뿜어내는 도구로, 용도에 따라 '주거와 일상', '쇼핑', '보건과 의료' 등 다양한 root와 연관될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 용도의 도구로 분류 모호."
+    },
+    {
+      "meaning_id": "슬다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "녹이 슬거나 곰팡이가 끼는 일반적인 변화 상태로, 다양한 대상에 적용되어 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 변화 상태로 분류 모호."
+    },
+    {
+      "meaning_id": "슬쩍_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "몰래 재빠르게",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "눈에 띄지 않게 가볍고 재빠르게 움직이는 모양을 묘사하므로, '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "슬퍼하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "슬픔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마음 아파하며 서러워하는 감정 표현으로, '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "승자_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "경쟁 승리자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "경기나 싸움에서 이긴 사람으로, '여가와 취미' (스포츠/게임)에 명확히 해당."
+    },
+    {
+      "meaning_id": "승진_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직급 상승",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장에서 자리나 직급이 올라가는 것으로, '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "승화_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것이 더 높고 좋은 상태로 바뀌는 추상적인 변화 개념으로, 특정 root로 확정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적인 변화 개념으로 분류 모호."
+    },
+    {
+      "meaning_id": "시간쯤_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "대략적인 시간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "대략적인 때를 짐작하는 표현으로, '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "시간표_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "일정 계획표",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정해진 시간에 할 일을 적어 놓은 표로, '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "시구_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "야구 경기 시작",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "야구 경기 시작을 알리는 첫 공으로, '여가와 취미' (스포츠)에 명확히 해당."
+    },
+    {
+      "meaning_id": "시급히_일반부사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "매우 급하게",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "매우 급하게 처리해야 할 정도를 나타내는 부사로, '상황 지시/기타'에 해당."
+    },
+    {
+      "meaning_id": "시다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "신맛 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식초나 레몬처럼 입 안이 당기는 맛을 묘사하므로, '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "시동_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "기계나 자동차의 움직임을 시작하게 하는 행위로, '교통' 또는 '주거와 일상' 등 다양한 root와 연관될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "기계 작동 시작 행위로 분류 모호."
+    },
+    {
+      "meaning_id": "시들시들_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "힘없이 마른 모양",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "풀이 힘없이 마르며 축 처진 모양을 묘사하므로, '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "시련_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "힘들고 괴로운 일을 겪는 과정으로, '내면과 감정' 또는 '상황 지시/기타'의 경계에 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "힘든 경험으로 분류 모호."
+    },
+    {
+      "meaning_id": "시료_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "분석용 물질",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시험이나 분석을 위해 떼어 내거나 모은 물질로, 주로 연구/업무 맥락에서 사용되어 '직장과 업무'에 해당."
+    },
+    {
+      "meaning_id": "시립_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "도시 운영",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "도시에서 세우고 운영하는 것으로, '공공 서비스'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위나 개념어는 여러 root에 걸쳐 모호성을 보임 (예: 수령, 수습, 수호, 승화).",
+      "비용 관련 어휘는 해당 서비스/물품의 root와 '쇼핑' 또는 '직장과 업무' 등 여러 root에 걸쳐 모호성을 보임 (예: 수리비, 수선비)."
+    ],
+    "ia_suggestions": [
+      "추상적인 행위/개념어에 대한 '상황 지시/기타' root의 하위 분류를 구체화하여 모호성을 줄일 필요가 있음.",
+      "비용 관련 어휘에 대해 '쇼핑' 또는 '직장과 업무' 내에 '비용/지출'과 같은 하위 카테고리를 신설하여 일관성을 확보할 수 있음."
+    ]
+  }
+}

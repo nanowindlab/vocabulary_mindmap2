@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "고전_일반명사-1",
+      "rationale_short": "문학, 예술 작품의 한 종류로 문화적 가치를 지님.",
+      "root": "문화와 사회",
+      "category_label_ko": "오래된 가치 작품"
+    },
+    {
+      "meaning_id": "공감_일반명사-1",
+      "rationale_short": "타인의 감정을 이해하고 느끼는 내면적 작용.",
+      "root": "내면과 감정",
+      "category_label_ko": "타인 감정 이해"
+    },
+    {
+      "meaning_id": "공휴일_일반명사-1",
+      "rationale_short": "국가가 지정한 쉬는 날로 공공 제도와 관련.",
+      "root": "공공 서비스",
+      "category_label_ko": "국가 지정 휴일"
+    },
+    {
+      "meaning_id": "과학자_일반명사-1",
+      "rationale_short": "과학 분야에서 연구하는 직업을 가진 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "과학 연구 직업"
+    },
+    {
+      "meaning_id": "교수_일반명사-1",
+      "rationale_short": "대학교에서 학생을 가르치는 직업을 가진 사람.",
+      "root": "학교와 공부",
+      "category_label_ko": "대학 교육 직책"
+    },
+    {
+      "meaning_id": "그럼요_감탄사-1",
+      "rationale_short": "상대방의 말에 강하게 동의하거나 긍정하는 표현.",
+      "root": "지시와 질문",
+      "category_label_ko": "강한 긍정 표현"
+    },
+    {
+      "meaning_id": "그물_일반명사-1",
+      "rationale_short": "물고기나 짐승을 잡는 데 사용되는 도구.",
+      "root": "주거와 일상",
+      "category_label_ko": "사냥/어업 도구"
+    },
+    {
+      "meaning_id": "꽃집_일반명사-1",
+      "rationale_short": "꽃을 사고파는 상점으로 쇼핑 활동과 관련.",
+      "root": "쇼핑",
+      "category_label_ko": "꽃 판매 상점"
+    },
+    {
+      "meaning_id": "꽤_일반부사-1",
+      "rationale_short": "정도나 양이 상당함을 나타내는 부사.",
+      "root": "수량과 단위",
+      "category_label_ko": "정도/양 부사"
+    },
+    {
+      "meaning_id": "꾸준히_일반부사-1",
+      "rationale_short": "어떤 행동이 지속적으로 이루어짐을 나타내는 부사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "지속성 표현 부사"
+    },
+    {
+      "meaning_id": "남편_일반명사-1",
+      "rationale_short": "결혼으로 맺어진 가족 관계의 한 종류.",
+      "root": "사람과 관계",
+      "category_label_ko": "배우자 관계"
+    },
+    {
+      "meaning_id": "노란색_일반명사-1",
+      "rationale_short": "시각적 감각을 통해 인지되는 색깔의 한 종류.",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현"
+    },
+    {
+      "meaning_id": "독특_일반명사-1",
+      "rationale_short": "다른 것과 구별되는 특별한 성질이나 특징.",
+      "root": "감각과 묘사",
+      "category_label_ko": "특별한 특징"
+    },
+    {
+      "meaning_id": "동기_일반명사-1",
+      "rationale_short": "어떤 행동을 유발하는 내면적인 이유나 원인.",
+      "root": "내면과 감정",
+      "category_label_ko": "행동의 이유"
+    },
+    {
+      "meaning_id": "동기_일반명사-2",
+      "rationale_short": "같은 시기에 특정 기관에 속했던 사람 간의 관계.",
+      "root": "사람과 관계",
+      "category_label_ko": "학업/직장 관계"
+    },
+    {
+      "meaning_id": "동료_일반명사-1",
+      "rationale_short": "같은 직장이나 활동에서 함께하는 사람 간의 관계.",
+      "root": "사람과 관계",
+      "category_label_ko": "직장/활동 관계"
+    },
+    {
+      "meaning_id": "동영상_일반명사-1",
+      "rationale_short": "소리와 함께 움직이는 영상 콘텐츠의 한 종류.",
+      "root": "문화와 사회",
+      "category_label_ko": "움직이는 영상 매체"
+    },
+    {
+      "meaning_id": "등장인물_일반명사-1",
+      "rationale_short": "문학, 연극, 영화 등 예술 작품에 나오는 인물.",
+      "root": "문화와 사회",
+      "category_label_ko": "작품 속 인물"
+    },
+    {
+      "meaning_id": "딸_일반명사-1",
+      "rationale_short": "부모와 자녀 간의 가족 관계를 나타내는 명사.",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계"
+    },
+    {
+      "meaning_id": "매체_일반명사-1",
+      "rationale_short": "정보나 소식을 전달하는 수단으로 문화/사회와 관련.",
+      "root": "문화와 사회",
+      "category_label_ko": "정보 전달 수단"
+    },
+    {
+      "meaning_id": "맵다_형용사-1",
+      "rationale_short": "혀로 느끼는 맛의 한 종류를 묘사하는 형용사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "맛 감각 표현"
+    },
+    {
+      "meaning_id": "며칠_일반명사-1",
+      "rationale_short": "짧은 기간의 날짜 수를 나타내는 명사.",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 기간"
+    },
+    {
+      "meaning_id": "모델_일반명사-1",
+      "rationale_short": "상품이나 옷을 홍보하는 직업을 가진 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "상품 홍보 직업"
+    },
+    {
+      "meaning_id": "모델_일반명사-2",
+      "rationale_short": "설명이나 연구를 위한 개념적 본보기나 구조.",
+      "root": "논리와 연결",
+      "category_label_ko": "연구/설명 본보기"
+    },
+    {
+      "meaning_id": "모래_일반명사-1",
+      "rationale_short": "자연에서 발견되는 잘게 부서진 돌 알갱이.",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 물질"
+    },
+    {
+      "meaning_id": "무늬_일반명사-1",
+      "rationale_short": "시각적으로 반복되는 모양이나 디자인.",
+      "root": "감각과 묘사",
+      "category_label_ko": "반복되는 모양"
+    },
+    {
+      "meaning_id": "무용_일반명사-1",
+      "rationale_short": "몸의 움직임을 통해 표현하는 공연 예술의 한 종류.",
+      "root": "문화와 사회",
+      "category_label_ko": "신체 표현 예술"
+    },
+    {
+      "meaning_id": "발굴_일반명사-1",
+      "rationale_short": "땅속에 묻히거나 숨겨진 것을 찾아내는 행위.",
+      "root": "문화와 사회",
+      "category_label_ko": "숨겨진 것 발견"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "계약_일반명사-1",
+      "rationale_short": "법적, 업무적 맥락에서 사용되는 개념.",
+      "root": "직장과 업무",
+      "candidate_reason": "법적, 업무적 맥락에서 사용되나, 다른 영역(예: 개인 간)에서도 발생 가능하여 모호함."
+    },
+    {
+      "meaning_id": "공통_일반명사-1",
+      "rationale_short": "사물이나 개념의 공유된 특성을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "candidate_reason": "사물이나 개념의 공유된 특성을 묘사하는 개념으로, '논리와 연결'과도 일부 겹칠 수 있어 모호함."
+    },
+    {
+      "meaning_id": "교체_일반명사-1",
+      "rationale_short": "어떤 대상을 다른 것으로 바꾸는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "특정 도메인에 한정되지 않는 일반적인 행위로, '상황 지시/기타'가 가장 적합하나 다른 분류 가능성도 있음."
+    },
+    {
+      "meaning_id": "그라다_동사-1",
+      "rationale_short": "앞선 내용을 지시하거나 상태를 나타내는 일반적인 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "앞선 내용을 지시하거나 상태를 나타내는 매우 일반적인 동사로, 특정 분류에 속하기 모호함."
+    },
+    {
+      "meaning_id": "그치다_동사-1",
+      "rationale_short": "어떤 행동이나 상태가 멈추는 것을 나타내는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 행동이나 상태가 멈추는 것을 나타내는 일반 동사로, 특정 분류에 속하기 모호함."
+    },
+    {
+      "meaning_id": "글로벌_일반명사-1",
+      "rationale_short": "전 세계적인 범위나 특성을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "candidate_reason": "전 세계적인 범위나 특성을 묘사하는 개념으로, '문화와 사회' 등 여러 분야에 걸쳐 사용되어 모호함."
+    },
+    {
+      "meaning_id": "기기_일반명사-1",
+      "rationale_short": "다양한 종류의 기계와 장치를 통칭하는 명사.",
+      "root": "주거와 일상",
+      "candidate_reason": "다양한 종류의 기계와 장치를 통칭하는 명사로, 사용처에 따라 여러 루트에 걸쳐 모호함."
+    },
+    {
+      "meaning_id": "낮추다_동사-1",
+      "rationale_short": "높이를 아래로 내리거나 정도를 줄이는 행위.",
+      "root": "감각과 묘사",
+      "candidate_reason": "높이를 아래로 내리거나 정도를 줄이는 행위로, 물리적 묘사 외에 추상적 의미도 있어 모호함."
+    },
+    {
+      "meaning_id": "내놓다_동사-1",
+      "rationale_short": "어떤 물건을 안에서 밖으로 옮겨 두는 일반적인 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "안에 있던 것을 밖으로 꺼내 두는 일반적인 행위로, 특정 분류에 속하기 모호함."
+    },
+    {
+      "meaning_id": "노출_일반명사-1",
+      "rationale_short": "숨겨진 것이 밖으로 드러나는 상태를 나타내는 명사.",
+      "root": "감각과 묘사",
+      "candidate_reason": "숨겨진 것이 밖으로 드러나는 상태를 나타내며, 시각적 묘사 외에 정보 공개 등 추상적 의미도 있어 모호함."
+    },
+    {
+      "meaning_id": "놓치다_동사-1",
+      "rationale_short": "기회나 대상을 잡지 못하고 지나치게 하는 행위.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "기회나 대상을 잡지 못하고 지나치게 하는 행위로, 특정 분류에 속하기 모호함."
+    },
+    {
+      "meaning_id": "마치다_동사-1",
+      "rationale_short": "어떤 일이나 행동을 끝내는 것을 나타내는 일반 동사.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 일이나 행동을 끝내는 것을 나타내는 일반 동사로, 특정 분류에 속하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적이거나 일반적인 동사/명사는 '상황 지시/기타' 또는 '감각과 묘사'와 같은 광범위한 루트에서 모호성을 보임.",
+      "개념적 명사 중 여러 도메인에 걸쳐 사용될 수 있는 경우 (예: 계약, 글로벌) 분류에 어려움이 있음."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' 루트의 하위 분류를 세분화하여 일반적인 행위/상태를 더 명확히 구분할 필요가 있음.",
+      "추상적인 개념어에 대한 분류 가이드라인을 강화하여 '내면과 감정', '논리와 연결', '감각과 묘사' 간의 경계를 명확히 할 필요가 있음."
+    ]
+  }
+}

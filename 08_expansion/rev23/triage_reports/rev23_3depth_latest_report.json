@@ -1,0 +1,1338 @@
+{
+  "model": "gemini-2.5-flash",
+  "batch_size": 60,
+  "total_input": 8744,
+  "source_total": 8744,
+  "is_partial_run": false,
+  "llm_queue": 8744,
+  "provider": "gemini",
+  "fallback_provider": "openai",
+  "core": 8092,
+  "system_cand": 73,
+  "cat_cand": 578,
+  "excluded": 1,
+  "batch_reports": [
+    {
+      "batch_index": 1,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 2,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 3,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 4,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 1,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 5,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 6,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 1,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 7,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 1,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 8,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 9,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 10,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 11,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 12,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 13,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 14,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 15,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 16,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 17,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 18,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 53,
+      "system_cand_count": 0,
+      "cat_cand_count": 7,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 19,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 20,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 21,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 49,
+      "system_cand_count": 0,
+      "cat_cand_count": 11,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 22,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 23,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 24,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 25,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 49,
+      "system_cand_count": 0,
+      "cat_cand_count": 11,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 26,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 27,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 28,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 29,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 30,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 31,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 55,
+      "system_cand_count": 0,
+      "cat_cand_count": 5,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 32,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 33,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 34,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 35,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 36,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 1,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 37,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 50,
+      "system_cand_count": 0,
+      "cat_cand_count": 10,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 38,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 39,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 40,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 41,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 42,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 43,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 44,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 45,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 46,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 0,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 47,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 48,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 53,
+      "system_cand_count": 0,
+      "cat_cand_count": 7,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 49,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 50,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 51,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 52,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 53,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 54,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 55,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 56,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 57,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 53,
+      "system_cand_count": 0,
+      "cat_cand_count": 7,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 58,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 59,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 60,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 53,
+      "system_cand_count": 0,
+      "cat_cand_count": 7,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 61,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 0,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 62,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 63,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 64,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 65,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 66,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 67,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 68,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 69,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 70,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 1,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 71,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 72,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 73,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 74,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 0,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 75,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 76,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 1,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 77,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 78,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 79,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 80,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 81,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 82,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 0,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 83,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 84,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 85,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 86,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 87,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 88,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 89,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 90,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 91,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 92,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 93,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 94,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 95,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 55,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 1
+    },
+    {
+      "batch_index": 96,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 97,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 1,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 98,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 99,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 100,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 48,
+      "system_cand_count": 4,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 101,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 8,
+      "system_cand_count": 0,
+      "cat_cand_count": 52,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 102,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 103,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 0,
+      "system_cand_count": 0,
+      "cat_cand_count": 60,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 104,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 105,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 51,
+      "system_cand_count": 0,
+      "cat_cand_count": 9,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 106,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 51,
+      "system_cand_count": 0,
+      "cat_cand_count": 9,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 107,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 108,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 109,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 48,
+      "system_cand_count": 0,
+      "cat_cand_count": 12,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 110,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 53,
+      "system_cand_count": 0,
+      "cat_cand_count": 7,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 111,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 0,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 112,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 113,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 114,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 49,
+      "system_cand_count": 0,
+      "cat_cand_count": 11,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 115,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 116,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 1,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 117,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 55,
+      "system_cand_count": 0,
+      "cat_cand_count": 5,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 118,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 119,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 120,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 55,
+      "system_cand_count": 0,
+      "cat_cand_count": 5,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 121,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 122,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 123,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 46,
+      "system_cand_count": 0,
+      "cat_cand_count": 14,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 124,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 125,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 126,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 127,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 128,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 46,
+      "system_cand_count": 0,
+      "cat_cand_count": 14,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 129,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 130,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 59,
+      "system_cand_count": 0,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 131,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 51,
+      "system_cand_count": 1,
+      "cat_cand_count": 8,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 132,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 2,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 133,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 55,
+      "system_cand_count": 0,
+      "cat_cand_count": 5,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 134,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 1,
+      "cat_cand_count": 1,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 135,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 136,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 5,
+      "system_cand_count": 0,
+      "cat_cand_count": 55,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 137,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 56,
+      "system_cand_count": 0,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 138,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 139,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 54,
+      "system_cand_count": 0,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 140,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 58,
+      "system_cand_count": 0,
+      "cat_cand_count": 2,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 141,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 60,
+      "system_cand_count": 0,
+      "cat_cand_count": 0,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 142,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 57,
+      "system_cand_count": 0,
+      "cat_cand_count": 3,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 143,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 35,
+      "system_cand_count": 21,
+      "cat_cand_count": 4,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 144,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 23,
+      "system_cand_count": 31,
+      "cat_cand_count": 6,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 145,
+      "provider_used": "gemini",
+      "input_count": 60,
+      "core_count": 52,
+      "system_cand_count": 3,
+      "cat_cand_count": 5,
+      "excluded_count": 0
+    },
+    {
+      "batch_index": 146,
+      "provider_used": "gemini",
+      "input_count": 44,
+      "core_count": 24,
+      "system_cand_count": 2,
+      "cat_cand_count": 18,
+      "excluded_count": 0
+    }
+  ],
+  "publish_summary": {
+    "situations_total": 4541,
+    "expressions_total": 1829,
+    "basics_total": 1722,
+    "search_total": 8092,
+    "band_non_null_total": 6727,
+    "level_unrated_total": 3646
+  }
+}

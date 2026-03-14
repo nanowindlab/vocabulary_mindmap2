@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "시_일반명사-2",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "도시 행정 구역",
+      "rationale_short": "행정 구역으로서의 도시."
+    },
+    {
+      "meaning_id": "오후_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "하루 중 시간",
+      "rationale_short": "특정 시간대를 나타내는 명사."
+    },
+    {
+      "meaning_id": "일치_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로, 분류 기준이 모호할 수 있음.",
+      "rationale_short": "추상적인 상태/개념."
+    },
+    {
+      "meaning_id": "자다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 휴식 행위",
+      "rationale_short": "일상생활의 기본적인 행위."
+    },
+    {
+      "meaning_id": "참여_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위 명사로, 여러 맥락에서 사용될 수 있어 분류 기준이 모호할 수 있음.",
+      "rationale_short": "추상적인 행위 개념."
+    },
+    {
+      "meaning_id": "할머니_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계 호칭",
+      "rationale_short": "명확한 가족 관계 호칭."
+    },
+    {
+      "meaning_id": "관계_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "매우 추상적이고 포괄적인 개념으로, 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 추상적이고 포괄적인 개념."
+    },
+    {
+      "meaning_id": "매일_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 반복 부사",
+      "rationale_short": "시간의 반복을 나타내는 부사."
+    },
+    {
+      "meaning_id": "박물관_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "문화 전시 시설",
+      "rationale_short": "명확한 문화 시설."
+    },
+    {
+      "meaning_id": "예쁘다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "외모 묘사 형용사",
+      "rationale_short": "외모나 모습을 묘사하는 형용사."
+    },
+    {
+      "meaning_id": "갖다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "매우 일반적이고 추상적인 동사로, 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적이고 추상적인 동사."
+    },
+    {
+      "meaning_id": "걷다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 이동 행위",
+      "rationale_short": "일상생활의 기본적인 이동 행위."
+    },
+    {
+      "meaning_id": "광고_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 홍보 활동",
+      "rationale_short": "상품이나 서비스 홍보 활동."
+    },
+    {
+      "meaning_id": "드라마_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "방송 연속극",
+      "rationale_short": "여가 시간에 즐기는 방송 콘텐츠."
+    },
+    {
+      "meaning_id": "모습_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "추상적인 형태/상태 개념으로, 분류 기준이 모호할 수 있음.",
+      "rationale_short": "추상적인 형태/상태 개념."
+    },
+    {
+      "meaning_id": "역사_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "인류 사회 기록",
+      "rationale_short": "인류 사회의 과거와 기록."
+    },
+    {
+      "meaning_id": "자리_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "공간 위치",
+      "rationale_short": "물리적인 공간의 위치."
+    },
+    {
+      "meaning_id": "자리_일반명사-2",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 위치나 역할 개념으로, 특정 root에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "추상적인 위치/역할 개념."
+    },
+    {
+      "meaning_id": "적다_형용사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 부족",
+      "rationale_short": "수량의 많고 적음을 나타내는 형용사."
+    },
+    {
+      "meaning_id": "감사_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "고마운 감정",
+      "rationale_short": "고마움을 느끼는 감정."
+    },
+    {
+      "meaning_id": "상대방_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 속 인물",
+      "rationale_short": "관계를 맺는 대상으로서의 사람."
+    },
+    {
+      "meaning_id": "시설_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "candidate_reason": "매우 포괄적인 개념으로, 특정 목적에 따라 다양한 root에 속할 수 있어 분류 기준이 모호함.",
+      "rationale_short": "매우 포괄적인 설비/장치 개념."
+    },
+    {
+      "meaning_id": "이사_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거지 이동",
+      "rationale_short": "주거와 관련된 이동 행위."
+    },
+    {
+      "meaning_id": "이어지다_동사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 연속성 개념으로, 물리적/시간적/논리적 등 다양한 맥락에서 사용될 수 있어 분류 기준이 모호함.",
+      "rationale_short": "추상적인 연속성 동사."
+    },
+    {
+      "meaning_id": "가구_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "집안 생활용품",
+      "rationale_short": "주거 공간의 생활용품."
+    },
+    {
+      "meaning_id": "도서관_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 문화 시설",
+      "rationale_short": "학습 및 문화 활동을 위한 공공 시설."
+    },
+    {
+      "meaning_id": "도시_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "대규모 생활 지역",
+      "rationale_short": "사람들이 모여 사는 대규모 지역."
+    },
+    {
+      "meaning_id": "방송_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "미디어 송출 활동",
+      "rationale_short": "미디어를 통한 정보 송출 활동."
+    },
+    {
+      "meaning_id": "부족_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 상태",
+      "rationale_short": "양이나 수준의 상태를 나타냄."
+    },
+    {
+      "meaning_id": "부족_일반명사-2",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "원시 사회 집단",
+      "rationale_short": "원시 사회의 공동체 집단."
+    },
+    {
+      "meaning_id": "세계_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "지구 전체",
+      "rationale_short": "지구 전체의 공간적 개념."
+    },
+    {
+      "meaning_id": "식사_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음식 섭취 행위",
+      "rationale_short": "음식 섭취와 관련된 행위."
+    },
+    {
+      "meaning_id": "아프다_형용사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 정신 고통",
+      "rationale_short": "몸이나 마음의 고통을 나타내는 형용사."
+    },
+    {
+      "meaning_id": "열리다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 상태 변화",
+      "rationale_short": "물리적인 상태 변화를 나타내는 동사."
+    },
+    {
+      "meaning_id": "예약_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "미리 약속 정하기",
+      "rationale_short": "미리 약속을 정하는 행위."
+    },
+    {
+      "meaning_id": "제시_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위 명사로, 맥락에 따라 다양한 root에 속할 수 있어 분류 기준이 모호함.",
+      "rationale_short": "추상적인 행위 개념."
+    },
+    {
+      "meaning_id": "계속_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 연속 부사",
+      "rationale_short": "시간의 연속성을 나타내는 부사."
+    },
+    {
+      "meaning_id": "내리다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물리적 하강 이동",
+      "rationale_short": "물리적인 하강 이동 행위."
+    },
+    {
+      "meaning_id": "내리다_동사-2",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "기상 현상",
+      "rationale_short": "날씨와 관련된 자연 현상."
+    },
+    {
+      "meaning_id": "내리다_동사-3",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 행위 동사로, 맥락에 따라 다양한 root에 속할 수 있어 분류 기준이 모호함.",
+      "rationale_short": "추상적인 결정/명령 행위."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 명사/동사는 여러 root에 걸쳐 분류될 수 있어 candidate로 분류하는 경향이 있음 (예: 일치, 관계, 갖다, 참여, 모습, 자리(역할), 시설, 이어지다, 제시, 내리다(명령)).",
+      "동음이의어는 각 의미별로 다른 bucket/root에 분류될 수 있음 (예: 자리, 부족, 내리다)."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root에 너무 많은 추상적인 개념이 모이지 않도록, 향후 IA V5에서는 '개념과 상태' 또는 '행위와 과정'과 같은 더 세분화된 추상적 root를 고려할 수 있음.",
+      "'주거와 일상' root가 물리적 공간, 생활용품, 일상 행위 등 다양한 요소를 포함하고 있어, 필요시 '주거 공간', '일상 행위' 등으로 세분화 검토."
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "참다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 억제",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "내면의 감정이나 욕구를 억제하는 행위로 '내면과 감정'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "창고_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 보관 장소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 보관하는 건물로 '주거와 일상'의 공간 및 사물에 해당."
+    },
+    {
+      "meaning_id": "책장_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가구 책 보관",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "책을 꽂아 두는 가구로 '주거와 일상'의 사물에 해당."
+    },
+    {
+      "meaning_id": "챙기다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "행위의 대상과 맥락이 다양하여 특정 root에 100% 확실하게 분류하기 모호함. (예: 물건을 챙기다, 몸을 챙기다, 서류를 챙기다 등)",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 맥락에서 사용되는 일반적인 준비/보살핌 행위."
+    },
+    {
+      "meaning_id": "청소년기_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "성장 발달 시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "인생의 특정 시기를 나타내므로 '시간과 흐름'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "초등학생_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "초등학교 재학생",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교에 다니는 학생을 지칭하므로 '학교와 공부'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "추구_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "목표나 가치를 향한 노력은 '내면과 감정' 또는 '의견과 가치'와 겹칠 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "목표나 가치를 이루려는 내면적 노력과 관련된 추상 명사."
+    },
+    {
+      "meaning_id": "추석_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "한국 전통 명절",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한국의 대표적인 명절로 '문화와 사회'의 전통에 해당."
+    },
+    {
+      "meaning_id": "출판_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "인쇄물 제작 배포",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "책이나 잡지를 만들어 널리 알리는 행위로 '문화와 사회'의 정보 전달 활동에 해당."
+    },
+    {
+      "meaning_id": "취재_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "언론 정보 수집",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신문이나 방송을 위한 정보 수집 행위로 '직장과 업무'의 언론 활동에 해당."
+    },
+    {
+      "meaning_id": "취지_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 말이나 행동의 근본적인 생각이나 목적을 나타내는 추상적인 개념으로 '의견과 가치' 또는 '내면과 감정'과 겹칠 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "말이나 행동의 기본이 되는 생각이나 목적을 나타내는 추상 명사."
+    },
+    {
+      "meaning_id": "취직_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 구직 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "직장을 얻는 행위로 '직장과 업무'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "취하다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "선택하고 자기 것으로 만드는 일반적인 행위로 맥락에 따라 다양한 root에 걸칠 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "여러 가지 중 하나를 선택하여 자기 것으로 만드는 일반적인 행위."
+    },
+    {
+      "meaning_id": "취하다_동사-2",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "음주 상태 변화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "술에 취해 정신이 흐려지는 신체 상태 변화로 '보건과 의료'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "친화_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "관계 친밀성 형성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "서로 잘 어울리고 가까이 지내는 관계로 '사람과 관계'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "텐트_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "야외 숙박 도구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "야외 활동 시 사용하는 임시 거처로 '여가와 취미'의 도구에 해당."
+    },
+    {
+      "meaning_id": "통계_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "현상 분석 자료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수치를 모아 현상을 분석하는 자료로, 특정 분야에 한정되지 않는 일반적인 정보 유형."
+    },
+    {
+      "meaning_id": "통과_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 곳을 지나가는 물리적 행위와 시험/심사를 통과하는 결과적 의미가 혼재되어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "장소를 지나가거나 시험에 합격하는 등 다양한 맥락의 행위/결과."
+    },
+    {
+      "meaning_id": "특강_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "특별 교육 강연",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특별히 마련된 강의로 '학교와 공부'의 교육 활동에 해당."
+    },
+    {
+      "meaning_id": "티켓_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "이용권 구매",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "공연, 교통편 등을 이용할 수 있게 하는 표로 '쇼핑'의 구매 품목에 해당."
+    },
+    {
+      "meaning_id": "폭_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "길이 너비 단위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가로로 잰 너비를 나타내는 측정 단위로 '수량과 단위'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "폭발_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물질 파괴 현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물질이 터지는 현상으로, 자연 현상뿐 아니라 인위적 현상도 포함하는 일반적인 상황."
+    },
+    {
+      "meaning_id": "표기_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "문자 기록 방식",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "소리나 뜻을 글자로 나타내는 행위로 '문화와 사회'의 언어/기록 활동에 해당."
+    },
+    {
+      "meaning_id": "하얗다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 흰색 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색깔을 묘사하는 형용사로 '감각과 묘사'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "한쪽_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "부분 방향 지칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "전체 중 한 부분을 지칭하는 개념으로 '수량과 단위'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "해킹_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "정보 보안 침해",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "컴퓨터나 통신망에 몰래 침입하는 행위로 '공공 서비스'의 정보 보안 및 사회 안전과 관련."
+    },
+    {
+      "meaning_id": "허리_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위 허리",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위 중 하나로 '보건과 의료'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "현지_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "특정 장소 지칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 일어나거나 관계된 바로 그곳을 지칭하는 일반적인 장소 개념."
+    },
+    {
+      "meaning_id": "협상_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "의견 조율 과정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "서로 의견을 주고받아 조건을 맞추는 행위로 '직장과 업무'의 소통 과정에 해당."
+    },
+    {
+      "meaning_id": "호르몬_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 조절 물질",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "몸속에서 기능을 조절하는 물질로 '보건과 의료'의 생체 물질에 해당."
+    },
+    {
+      "meaning_id": "호수_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 지형 호수",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "땅이 움푹 팬 곳에 물이 괴어 있는 자연 지형으로 '날씨와 자연'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "혼란_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "정신적인 혼란과 물리적인 혼란 상태를 모두 포함하여 '내면과 감정' 또는 '상황 지시/기타'와 겹칠 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "정리가 안 되어 뒤섞인 상태를 나타내는 추상 명사."
+    },
+    {
+      "meaning_id": "화요일_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "요일 시간 단위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "한 주의 둘째 날을 나타내는 시간 단위로 '시간과 흐름'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "확장_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "범위나 규모를 넓히는 일반적인 행위나 상태 변화로, 특정 root에 한정하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "범위나 규모를 넓히는 일반적인 행위/상태 변화."
+    },
+    {
+      "meaning_id": "회관_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "모임 단체 건물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "단체나 모임이 사용하는 건물로 '주거와 일상'의 공공 공간에 해당."
+    },
+    {
+      "meaning_id": "흐름_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "연속적 변화 방향",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "흐르는 모양이나 변화의 방향을 나타내는 개념으로 '시간과 흐름'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "흔들리다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "움직임 불안정 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "안정되지 못하고 움직이는 상태를 묘사하는 동사로 '감각과 묘사'에 확실히 분류됨."
+    },
+    {
+      "meaning_id": "가공_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "원재료 형태 변환",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "원재료에 손질을 더해 새 형태로 만드는 행위로 '직장과 업무'의 생산 활동에 해당."
+    },
+    {
+      "meaning_id": "가까이_일반부사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "거리 위치 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "멀지 않은 곳을 나타내는 부사로 '지시와 질문'의 위치 표현에 해당."
+    },
+    {
+      "meaning_id": "가리키다_동사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "대상 지적 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "손이나 눈으로 대상을 지적하는 행위로 '지시와 질문'에 확실히 분류됨."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 행위 동사는 여러 root에 걸쳐 모호성을 가질 수 있음. (예: 챙기다, 추구, 취지, 취하다, 통과, 혼란, 확장)",
+      "명확한 물리적 대상이나 특정 제도/장면과 관련된 어휘는 core로 분류하기 용이함."
+    ],
+    "ia_suggestions": [
+      "모호한 동사/명사의 경우, 의미를 더 세분화하거나 사용 예시를 통해 맥락을 명확히 하는 추가 정보가 필요할 수 있음.",
+      "'상황 지시/기타' root에 너무 많은 일반적인 행위/개념이 집중되지 않도록, 필요시 새로운 root 또는 하위 카테고리 신설을 고려해야 함."
+    ]
+  }
+}

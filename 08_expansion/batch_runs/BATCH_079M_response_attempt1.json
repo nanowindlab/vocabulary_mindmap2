@@ -1,0 +1,294 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "사피엔스_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "현생 인류",
+      "rationale_short": "현생 인류를 지칭하는 명확한 개념으로 '사람과 관계'에 해당."
+    },
+    {
+      "meaning_id": "살아남다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "생존 행위는 여러 상황에 걸쳐 발생하며, 특정 카테고리에 100% 확실하게 분류하기 모호함. 일반적인 행위로 임시 분류.",
+      "rationale_short": "생존 행위의 일반성으로 인해 분류 모호."
+    },
+    {
+      "meaning_id": "살짝_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "가볍게 움직이는 방식",
+      "rationale_short": "행위의 정도나 방식을 묘사하는 부사로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "삼십_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자 서른",
+      "rationale_short": "명확한 수량 표현으로 '수량과 단위'에 해당."
+    },
+    {
+      "meaning_id": "상관없다_형용사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "관련성 없음",
+      "rationale_short": "두 대상 간의 관련성 유무를 나타내는 개념으로 '논리와 연결'에 해당."
+    },
+    {
+      "meaning_id": "상식_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회적 기본 지식",
+      "rationale_short": "사회 구성원들이 공유하는 보편적인 지식으로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "상장_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "상을 주었다는 문서 자체는 물리적 객체이나, 상의 의미는 '학교와 공부', '직장과 업무', '여가와 취미' 등 다양한 맥락에 걸쳐 있어 모호함. 사회적 인정의 의미로 임시 분류.",
+      "rationale_short": "상장의 의미가 다양한 맥락에 걸쳐 있어 분류 모호."
+    },
+    {
+      "meaning_id": "상점_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "물건 파는 가게",
+      "rationale_short": "물건을 사고파는 장소로 '쇼핑'에 명확히 해당."
+    },
+    {
+      "meaning_id": "생산량_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "만들어 낸 물건 양",
+      "rationale_short": "생산된 물건의 양을 나타내는 수량 개념으로 '수량과 단위'에 해당."
+    },
+    {
+      "meaning_id": "생활비_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상생활 지출 비용",
+      "rationale_short": "일상생활에 필요한 비용으로 '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "서양_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "유럽 미주 지역",
+      "rationale_short": "특정 문화권 및 지리적 지역을 나타내므로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "선명_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "또렷한 모양 색깔",
+      "rationale_short": "모양이나 색깔의 시각적 특성을 묘사하는 표현으로 '감각과 묘사'에 해당."
+    },
+    {
+      "meaning_id": "설거지_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식사 후 그릇 씻기",
+      "rationale_short": "식사 후 행위로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "섬유_일반명사-1",
+      "bucket": "candidate",
+      "root": "주거와 일상",
+      "candidate_reason": "옷감의 재료가 되는 물질로, '쇼핑' (옷), '주거와 일상' (생활용품 재료) 등 여러 맥락에 걸쳐 사용될 수 있어 모호함. 일상생활에서 접하는 재료의 의미로 임시 분류.",
+      "rationale_short": "재료의 용도가 다양하여 분류 모호."
+    },
+    {
+      "meaning_id": "성별_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "남녀 구분",
+      "rationale_short": "사람의 기본적인 구분을 나타내므로 '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "성인병_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "성인 만성 질병",
+      "rationale_short": "질병의 한 종류로 '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "소감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "경험 후 생각 느낌",
+      "rationale_short": "어떤 일을 겪고 난 뒤의 생각과 느낌을 나타내므로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "소극_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "작은 규모 연극",
+      "rationale_short": "연극 작품의 한 종류로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "소나무_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "늘푸른 바늘잎나무",
+      "rationale_short": "자연의 한 요소인 나무의 종류로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "소문_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사람들 사이 떠도는 말",
+      "rationale_short": "사회 구성원들 사이에 퍼지는 정보 현상으로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "소설가_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "소설 쓰는 직업인",
+      "rationale_short": "소설을 쓰는 것을 직업으로 하는 사람으로 '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "속상하다_형용사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "마음이 괴로운 상태",
+      "rationale_short": "마음의 괴로움과 언짢음을 나타내는 감정 표현으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수건_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "몸 닦는 천",
+      "rationale_short": "일상생활에서 몸을 닦는 데 사용하는 물건으로 '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수상_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "상을 받는 행위는 '학교와 공부', '직장과 업무', '여가와 취미' 등 다양한 맥락에서 발생할 수 있어 모호함. 사회적 인정의 의미로 임시 분류.",
+      "rationale_short": "상을 받는 행위의 맥락이 다양하여 분류 모호."
+    },
+    {
+      "meaning_id": "수상자_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "candidate_reason": "상을 받은 사람이라는 역할은 '학교와 공부', '직장과 업무', '여가와 취미' 등 다양한 맥락에 걸쳐 있어 모호함. 사람의 특정 역할/상태로 임시 분류.",
+      "rationale_short": "수상자의 역할이 다양한 맥락에 걸쳐 있어 분류 모호."
+    },
+    {
+      "meaning_id": "수선_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "옷 고쳐 입기",
+      "rationale_short": "옷을 고치는 일상적인 행위로 '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "수십_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "몇십 정도의 수",
+      "rationale_short": "명확한 수량 표현으로 '수량과 단위'에 해당."
+    },
+    {
+      "meaning_id": "수요_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "상품 서비스 구매 욕구",
+      "rationale_short": "경제 활동의 기본 개념으로 '공공 서비스' (경제 분야)에 해당."
+    },
+    {
+      "meaning_id": "수화기_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "전화기 통화 부분",
+      "rationale_short": "전화기의 한 부분으로 일상생활에서 사용하는 물건에 해당."
+    },
+    {
+      "meaning_id": "숙성_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음식 알맞게 익음",
+      "rationale_short": "음식이 알맞게 익는 과정으로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "스무_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "스물 수량 나타냄",
+      "rationale_short": "명확한 수량 표현으로 '수량과 단위'에 해당."
+    },
+    {
+      "meaning_id": "스키장_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "스키 타는 장소",
+      "rationale_short": "스키를 타는 여가 활동 장소로 '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "스프_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "서양식 묽은 국",
+      "rationale_short": "음식의 한 종류로 '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "습지_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물기 많은 땅",
+      "rationale_short": "자연 환경의 한 종류로 '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "시사_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 현안 소식",
+      "rationale_short": "현재 사회의 소식이나 문제를 다루는 개념으로 '문화와 사회'에 해당."
+    },
+    {
+      "meaning_id": "시험장_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "시험 보는 장소",
+      "rationale_short": "시험을 치르는 장소로 '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "신뢰감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "믿고 의지하는 느낌",
+      "rationale_short": "믿고 의지하고 싶어지는 느낌으로 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "쓰러지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 넘어짐 행위는 다양한 상황에서 발생하며, 특정 카테고리에 100% 확실하게 분류하기 모호함. 일반적인 행위로 임시 분류.",
+      "rationale_short": "물리적 행위의 일반성으로 인해 분류 모호."
+    },
+    {
+      "meaning_id": "쓸모없다_형용사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "소용없는 상태",
+      "rationale_short": "어떤 대상의 가치나 유용성을 평가하는 표현으로 '의견과 가치'에 해당."
+    },
+    {
+      "meaning_id": "아침밥_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "아침 식사",
+      "rationale_short": "아침에 먹는 끼니로 '식생활'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 행위, 또는 여러 맥락에 걸쳐 사용될 수 있는 명사는 분류 모호성이 높음.",
+      "특정 사물이나 현상이 다양한 사회적/문화적 의미를 가질 때, 가장 보편적인 의미를 기준으로 임시 분류하는 경향이 있음."
+    ],
+    "ia_suggestions": [
+      "다양한 맥락에서 사용되는 명사(예: 상장, 수상, 섬유)에 대해 '상황 지시/기타' 또는 '문화와 사회'와 같은 포괄적인 임시 루트를 활용하는 것이 적절함.",
+      "행위 동사(예: 살아남다, 쓰러지다)는 '상황 지시/기타'를 임시 루트로 활용하여 모호성을 관리하는 것이 효과적임."
+    ]
+  }
+}

@@ -1,0 +1,5593 @@
+[
+  {
+    "id": "lemma__결과__일반명사__0",
+    "word": "결과",
+    "def_en": "result",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일이나 과정이 끝난 후의 상태나 현상.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 124,
+      "source_count": 35,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 185
+    }
+  },
+  {
+    "id": "lemma__내용__일반명사__0",
+    "word": "내용",
+    "def_en": "content",
+    "routing": "meta_learning",
+    "original_cluster": "abstract_reasoning",
+    "display_group": "논리와 추론",
+    "surface": "meta_learning",
+    "def_ko": "사물이나 일의 속을 이루는 사정이나 형편.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 823,
+      "source_count": 79,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 25
+    }
+  },
+  {
+    "id": "lemma__동안__일반명사__0",
+    "word": "동안",
+    "def_en": "period",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "한때에서 다른 때까지의 시간의 길이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 112,
+      "source_count": 49,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 223
+    }
+  },
+  {
+    "id": "lemma__때__일반명사__0",
+    "word": "때",
+    "def_en": "time",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "어떤 시기 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 724,
+      "source_count": 75,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 29
+    }
+  },
+  {
+    "id": "lemma__문제__일반명사__0",
+    "word": "문제",
+    "def_en": "problem",
+    "routing": "meta_learning",
+    "original_cluster": "abstract_reasoning",
+    "display_group": "논리와 추론",
+    "surface": "meta_learning",
+    "def_ko": "답을 요구하는 물음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 203,
+      "source_count": 47,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 100
+    }
+  },
+  {
+    "id": "lemma__방법__일반명사__0",
+    "word": "방법",
+    "def_en": "method",
+    "routing": "meta_learning",
+    "original_cluster": "abstract_reasoning",
+    "display_group": "논리와 추론",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일을 해 나가기 위한 수단이나 방식.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 234,
+      "source_count": 67,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 89
+    }
+  },
+  {
+    "id": "lemma__상황__일반명사__0",
+    "word": "상황",
+    "def_en": "situation",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "일이 진행되어 가는 형편이나 모양.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 111,
+      "source_count": 32,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 229
+    }
+  },
+  {
+    "id": "lemma__설명__일반명사__0",
+    "word": "설명",
+    "def_en": "explanation",
+    "routing": "meta_learning",
+    "original_cluster": "abstract_reasoning",
+    "display_group": "논리와 추론",
+    "surface": "meta_learning",
+    "def_ko": "어떤 것을 남에게 알기 쉽게 풀어 말함. 또는 그런 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 127,
+      "source_count": 43,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 180
+    }
+  },
+  {
+    "id": "lemma__시작__일반명사__0",
+    "word": "시작",
+    "def_en": "start",
+    "routing": "meta_learning",
+    "original_cluster": "abstract_reasoning",
+    "display_group": "논리와 추론",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일이나 행동의 처음 단계를 이루거나 이루게 함. 또는 그런 단계.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 213,
+      "source_count": 55,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 95
+    }
+  },
+  {
+    "id": "lemma__오후__일반명사__0",
+    "word": "오후",
+    "def_en": "afternoon",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "정오부터 해가 질 때까지의 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 67,
+      "source_count": 37,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 416
+    }
+  },
+  {
+    "id": "lemma__이렇다__형용사__0",
+    "word": "이렇다",
+    "def_en": "be like this",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "상태, 모양, 성질 등이 이와 같다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 112,
+      "source_count": 46,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 225
+    }
+  },
+  {
+    "id": "lemma__이번__일반명사__0",
+    "word": "이번",
+    "def_en": "this time",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "곧 돌아올 차례. 또는 막 지나간 차례.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 178,
+      "source_count": 60,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 110
+    }
+  },
+  {
+    "id": "lemma__이유__일반명사__0",
+    "word": "이유",
+    "def_en": "reason",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "어떠한 결과가 생기게 된 까닭이나 근거.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 138,
+      "source_count": 53,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 165
+    }
+  },
+  {
+    "id": "lemma__장소__일반명사__0",
+    "word": "장소",
+    "def_en": "place",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일이 일어나는 곳. 또는 어떤 일을 하는 곳.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 108,
+      "source_count": 49,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 238
+    }
+  },
+  {
+    "id": "lemma__전__일반명사__0",
+    "word": "전",
+    "def_en": "the past",
+    "routing": "meta_learning",
+    "original_cluster": "ambiguity_risk",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "모든. 전체의.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 215,
+      "source_count": 61,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 93
+    }
+  },
+  {
+    "id": "lemma__주__일반명사__0",
+    "word": "주",
+    "def_en": "alcohol",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "월요일부터 일요일까지의 칠 일 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 114,
+      "source_count": 50,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 218
+    }
+  },
+  {
+    "id": "lemma__확인__일반명사__0",
+    "word": "확인",
+    "def_en": "confirmation",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "틀림없이 그러한지를 알아보거나 인정함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 115,
+      "source_count": 39,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 215
+    }
+  },
+  {
+    "id": "lemma__효과__일반명사__0",
+    "word": "효과",
+    "def_en": "effect",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "어떠한 것을 하여 얻어지는 좋은 결과.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 118,
+      "source_count": 33,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 207
+    }
+  },
+  {
+    "id": "lemma__후__일반명사__0",
+    "word": "후",
+    "def_en": "after, later time",
+    "routing": "meta_learning",
+    "original_cluster": "unmapped_high_frequency",
+    "display_group": "기타 고빈도 메타어",
+    "surface": "meta_learning",
+    "def_ko": "얼마만큼 시간이 지난 다음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 159,
+      "source_count": 54,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 136
+    }
+  },
+  {
+    "id": "meta__가입__0",
+    "word": "가입",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "단체에 들어가거나 상품 및 서비스를 받기 위해 계약을 함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__가입자__0",
+    "word": "가입자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "단체나 조직에 들어가거나 상품 및 서비스 계약을 한 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__가져오다__0",
+    "word": "가져오다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__간편하다__0",
+    "word": "간편하다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "간단하고 편리하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 1,
+      "source_count": 1,
+      "round_count": 1,
+      "frequency_band": 1,
+      "frequency_rank": 5720
+    }
+  },
+  {
+    "id": "meta__감독__0",
+    "word": "감독",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "일이나 사람이 잘못되지 않도록 살피고 단속함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__강아지__0",
+    "word": "강아지",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "개의 새끼.",
+    "related_vocab": [
+      "토끼"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__강연__0",
+    "word": "강연",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__강하다__0",
+    "word": "강하다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "힘이 세다; 수준이나 정도가 높다",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 44,
+      "source_count": 20,
+      "round_count": 16,
+      "frequency_band": 3,
+      "frequency_rank": 627
+    }
+  },
+  {
+    "id": "meta__갖다__0",
+    "word": "갖다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "무엇을 손에 쥐거나 몸에 지니다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 65,
+      "source_count": 26,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 425
+    }
+  },
+  {
+    "id": "meta__같이__0",
+    "word": "같이",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "둘 이상이 함께.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 306,
+      "source_count": 58,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 72
+    }
+  },
+  {
+    "id": "meta__걷다__0",
+    "word": "걷다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "바닥에서 발을 번갈아 떼어 옮기면서 움직여 위치를 옮기다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 65,
+      "source_count": 29,
+      "round_count": 14,
+      "frequency_band": 4,
+      "frequency_rank": 426
+    }
+  },
+  {
+    "id": "meta__검색__0",
+    "word": "검색",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "책이나 컴퓨터에서 필요한 자료를 찾아내는 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__게임__0",
+    "word": "게임",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "규칙을 정해 이기고 지는 것을 가르는 놀이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__경영__0",
+    "word": "경영",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "기업이나 사업을 관리하고 운영함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__경우__0",
+    "word": "경우",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "놓여 있는 조건이나 형편.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__경쟁__0",
+    "word": "경쟁",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 분야에서 이기거나 앞서려고 서로 겨룸.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__계시다__0",
+    "word": "계시다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(높임말로) 높은 분이나 어른이 어느 곳에 살다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 29,
+      "source_count": 14,
+      "round_count": 9,
+      "frequency_band": 3,
+      "frequency_rank": 926
+    }
+  },
+  {
+    "id": "meta__고르다__0",
+    "word": "고르다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "여럿 중에서 어떤 것을 가려내거나 뽑다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 1840,
+      "source_count": 67,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 5
+    }
+  },
+  {
+    "id": "meta__고양이__0",
+    "word": "고양이",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어두운 곳에서도 사물을 잘 보고 쥐를 잘 잡으며 집 안에서 기르기도 하는 자그마한 동물.",
+    "related_vocab": [
+      "토끼"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__곧__0",
+    "word": "곧",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "지체하지 않고 바로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 29,
+      "source_count": 20,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 927
+    }
+  },
+  {
+    "id": "meta__공기__0",
+    "word": "공기",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "지구나 별을 둘러싸고 있는 기체.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__과학__0",
+    "word": "과학",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "자연에서 일어나는 현상을 연구하는 학문.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__관찰__0",
+    "word": "관찰",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사물이나 현상을 주의 깊게 자세히 살펴봄.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__귀__0",
+    "word": "귀",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 동물의 머리 양옆에 있어 소리를 듣는 몸의 한 부분.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__귀걸이__0",
+    "word": "귀걸이",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "귀에 다는 장식품.",
+    "related_vocab": [
+      "액세서리"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__규모__0",
+    "word": "규모",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "물건이나 현상의 크기나 범위.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__균형__0",
+    "word": "균형",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어느 한쪽으로 기울거나 치우치지 않은 상태.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__그냥__0",
+    "word": "그냥",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "아무것도 하지 않고 있는 그대로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 34,
+      "source_count": 26,
+      "round_count": 16,
+      "frequency_band": 3,
+      "frequency_rank": 795
+    }
+  },
+  {
+    "id": "meta__그래프__0",
+    "word": "그래프",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__그렇다__0",
+    "word": "그렇다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "상태, 모양, 성질 등이 그와 같다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 252,
+      "source_count": 54,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 82
+    }
+  },
+  {
+    "id": "meta__그릇__0",
+    "word": "그릇",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "음식을 담는 도구.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__글__0",
+    "word": "글",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "생각이나 일 등의 내용을 글자로 나타낸 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__금__0",
+    "word": "금",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "화려한 광택이 나는 노란색의 귀금속.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__기사__0",
+    "word": "기사",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "직업적으로 자동차나 기계 등을 운전하는 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__기숙사__0",
+    "word": "기숙사",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "학교나 회사에서 학생이나 직원들이 함께 자고 식사하도록 제공하는 시설.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__기억__0",
+    "word": "기억",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "이전의 모습, 사실, 지식, 경험 등을 잊지 않거나 다시 생각해 냄.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__꽃다발__0",
+    "word": "꽃다발",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "여러 송이의 꽃을 하나로 묶은 것.",
+    "related_vocab": [
+      "꽃"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__꽃잎__0",
+    "word": "꽃잎",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "꽃을 이루고 있는 하나하나의 잎.",
+    "related_vocab": [
+      "꽃"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__끌다__0",
+    "word": "끌다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "바닥에 댄 채로 잡아당겨 움직이다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 48,
+      "source_count": 22,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 578
+    }
+  },
+  {
+    "id": "meta__나다__0",
+    "word": "나다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "피부 표면이나 땅 위로 솟다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 131,
+      "source_count": 46,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 173
+    }
+  },
+  {
+    "id": "meta__나중__0",
+    "word": "나중",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "일정한 시간이 지난 뒤.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__나타나다__0",
+    "word": "나타나다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "보이지 않던 어떤 대상의 모습이 드러나다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 93,
+      "source_count": 28,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 287
+    }
+  },
+  {
+    "id": "meta__날__0",
+    "word": "날",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "밤 열두 시에서 다음 밤 열두 시까지의 이십사 시간 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__남__0",
+    "word": "남",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "내가 아닌 다른 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__넓다__0",
+    "word": "넓다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "면이나 바닥 등의 면적이 크다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 37,
+      "source_count": 19,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 746
+    }
+  },
+  {
+    "id": "meta__넣다__0",
+    "word": "넣다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 공간 속에 들어가게 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 89,
+      "source_count": 33,
+      "round_count": 15,
+      "frequency_band": 4,
+      "frequency_rank": 300
+    }
+  },
+  {
+    "id": "meta__놀다__0",
+    "word": "놀다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "놀이 등을 하면서 재미있고 즐겁게 지내다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 35,
+      "source_count": 16,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 782
+    }
+  },
+  {
+    "id": "meta__농가__0",
+    "word": "농가",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__눈물__0",
+    "word": "눈물",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 동물의 눈에서 흘러나오는 맑은 액체.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__뉴스__0",
+    "word": "뉴스",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "새 소식을 전해 주는 방송 프로그램.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__느낌__0",
+    "word": "느낌",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "몸이나 마음에서 일어나는 기분이나 감정.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__다녀오다__0",
+    "word": "다녀오다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 곳에 갔다가 돌아오다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 28,
+      "source_count": 22,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 961
+    }
+  },
+  {
+    "id": "meta__다리__0",
+    "word": "다리",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 동물의 몸통 아래에 붙어, 서고 걷고 뛰는 일을 하는 신체 부위.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__단위__0",
+    "word": "단위",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "미터, 리터, 그램과 같이 길이, 양, 무게 등을 수로 나타낼 때 기초가 되는 기준.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__달리__0",
+    "word": "달리",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "다르게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 20,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 870
+    }
+  },
+  {
+    "id": "meta__담다__0",
+    "word": "담다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 물건을 그릇 등에 넣다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 23,
+      "source_count": 14,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 1112
+    }
+  },
+  {
+    "id": "meta__대담__0",
+    "word": "대담",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__대답__0",
+    "word": "대답",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "부르는 말에 대해 어떤 말을 함. 또는 그 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__대상__0",
+    "word": "대상",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일이나 행동의 상대나 목표가 되는 사람이나 물건.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__대신__0",
+    "word": "대신",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 대상이 맡던 구실을 다른 대상이 새로 맡음. 또는 그렇게 새로 맡은 대상.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__대여__0",
+    "word": "대여",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__대학교__0",
+    "word": "대학교",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "고등학교를 졸업하고 진학하는, 학교 교육의 마지막 단계인 최고 교육 기관. 또는 그런 기관이 들어 있는 건물과 시설.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__더욱__0",
+    "word": "더욱",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "정도가 한층 더 심하게. 더 크게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 28,
+      "source_count": 17,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 963
+    }
+  },
+  {
+    "id": "meta__덕분__0",
+    "word": "덕분",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 사람이 베풀어준 은혜나 도움. 혹은 어떤 일이 발생한 것이 준 이익.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__도덕__0",
+    "word": "도덕",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__도와주다__0",
+    "word": "도와주다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "다른 사람의 일을 거들거나 힘을 보태 주다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 42,
+      "source_count": 24,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 653
+    }
+  },
+  {
+    "id": "meta__독자__0",
+    "word": "독자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "책이나 신문, 잡지 등을 읽는 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__돌아오다__0",
+    "word": "돌아오다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "원래 있던 곳으로 다시 오거나 다시 그 상태가 되다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 27,
+      "source_count": 13,
+      "round_count": 10,
+      "frequency_band": 3,
+      "frequency_rank": 993
+    }
+  },
+  {
+    "id": "meta__동물__0",
+    "word": "동물",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람을 제외한 길짐승, 날짐승, 물짐승 등의 움직이는 생물.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__돼지__0",
+    "word": "돼지",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "몸이 뚱뚱하고 다리와 꼬리가 짧고 눈이 작은, 고기를 먹기 위해 기르는 짐승.",
+    "related_vocab": [
+      "토끼"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__드리다__0",
+    "word": "드리다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(높임말로) 주다. 무엇을 다른 사람에게 건네어 가지게 하거나 사용하게 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 116,
+      "source_count": 43,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 210
+    }
+  },
+  {
+    "id": "meta__듣다__0",
+    "word": "듣다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "귀로 소리를 알아차리다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 875,
+      "source_count": 59,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 21
+    }
+  },
+  {
+    "id": "meta__들어가다__0",
+    "word": "들어가다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "밖에서 안으로 향하여 가다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 347,
+      "source_count": 54,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 64
+    }
+  },
+  {
+    "id": "meta__등산__0",
+    "word": "등산",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "운동이나 놀이 등의 목적으로 산에 올라감.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__등장__0",
+    "word": "등장",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이 무대 등에 나타남.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__떠나다__0",
+    "word": "떠나다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "있던 곳에서 다른 곳으로 옮겨 가다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 21,
+      "source_count": 16,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 1187
+    }
+  },
+  {
+    "id": "meta__또한__0",
+    "word": "또한",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "거기에다가 더하여.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 41,
+      "source_count": 19,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 674
+    }
+  },
+  {
+    "id": "meta__로봇__0",
+    "word": "로봇",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람의 전체 모습이나 몸의 한 부위와 비슷하게 만들어서 사람이 하는 행동이나 작업 등을 할 수 있도록 만든 기계.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__마음__0",
+    "word": "마음",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이 태어날 때부터 지닌 성질.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__막히다__0",
+    "word": "막히다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "길, 통로, 구멍 등이 통하지 못하게 되다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 14,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 1223
+    }
+  },
+  {
+    "id": "meta__만화__0",
+    "word": "만화",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람의 인생이나 사회 또는 상상 속의 이야기를 재미있게 표현한 그림. 또는 그런 그림을 엮은 책.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__만화책__0",
+    "word": "만화책",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__말씀__0",
+    "word": "말씀",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(높이는 말로) 남의 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__맞추다__0",
+    "word": "맞추다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "떨어져 있는 여러 부분을 알맞은 자리에 대어 붙이다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 39,
+      "source_count": 16,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 706
+    }
+  },
+  {
+    "id": "meta__맡다__0",
+    "word": "맡다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "책임을 지고 어떤 일을 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 11,
+      "round_count": 10,
+      "frequency_band": 3,
+      "frequency_rank": 1224
+    }
+  },
+  {
+    "id": "meta__매출__0",
+    "word": "매출",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__멀리__0",
+    "word": "멀리",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "시간이나 거리가 꽤 떨어지게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 21,
+      "source_count": 17,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 1189
+    }
+  },
+  {
+    "id": "meta__모양__0",
+    "word": "모양",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "겉으로 나타나는 생김새나 모습.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__모이다__0",
+    "word": "모이다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "따로 있는 것이 한데 합쳐지다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 37,
+      "source_count": 21,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 747
+    }
+  },
+  {
+    "id": "meta__모집__0",
+    "word": "모집",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 작품, 물건 등을 일정한 조건에 맞게 널리 알려 뽑거나 모음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__목적__0",
+    "word": "목적",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "이루려고 하는 일이나 나아가고자 하는 방향.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__몸__0",
+    "word": "몸",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 동물의 모습을 이루는 머리부터 발끝까지의 전체. 또는 그것의 상태.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__무궁화__0",
+    "word": "무궁화",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "여름부터 가을까지 피며, 흰색, 보라색, 붉은색 등의 꽃잎이 종 모양으로 넓게 피는 꽃.",
+    "related_vocab": [
+      "개나리",
+      "무궁화",
+      "장미",
+      "튤립",
+      "동백꽃"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__문명__0",
+    "word": "문명",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람의 물질적, 기술적, 사회적 생활이 발전한 상태.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__문방구__0",
+    "word": "문방구",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "노트, 연필 등 공부를 하거나 사무를 보는 데 필요한 도구를 파는 가게.",
+    "related_vocab": [
+      "노트",
+      "연필"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__문자__0",
+    "word": "문자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "언어의 소리나 뜻을 눈으로 볼 수 있도록 적은 기호 체계.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__문장__0",
+    "word": "문장",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "서술, 물음, 명령, 감탄 등의 형식을 통하여 하나의 완결된 뜻을 나타내는, 말과 글을 이루는 기본 단위.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__문제점__0",
+    "word": "문제점",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "문제가 되는 부분이나 요소.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__물음__0",
+    "word": "물음",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "묻는 일. 또는 묻는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__물질__0",
+    "word": "물질",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "재산이나 재물.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__미안__0",
+    "word": "미안",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__민수__0",
+    "word": "민수",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__및__0",
+    "word": "및",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "그리고 또.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 47,
+      "source_count": 17,
+      "round_count": 10,
+      "frequency_band": 3,
+      "frequency_rank": 591
+    }
+  },
+  {
+    "id": "meta__밑줄__0",
+    "word": "밑줄",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "문장 부호의 하나로, 가로로 쓴 글에서 중요한 부분의 아래에 긋는 줄.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__반면__0",
+    "word": "반면",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "뒤에 오는 말이 앞의 내용과는 반대임.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__반지__0",
+    "word": "반지",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "손가락에 끼는 동그란 장신구.",
+    "related_vocab": [
+      "액세서리"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__발견__0",
+    "word": "발견",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "아직 찾아내지 못했거나 세상에 알려지지 않은 것을 처음으로 찾아냄.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__밝다__0",
+    "word": "밝다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "밤이 지나 아침이 되다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__밤__0",
+    "word": "밤",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "해가 진 후부터 다음 날 해가 뜨기 전까지의 어두운 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__방지__0",
+    "word": "방지",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 좋지 않은 일이나 현상이 일어나지 않도록 막음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__버리다__0",
+    "word": "버리다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "가지고 있을 필요가 없는 물건을 내던지거나 쏟거나 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 18,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 876
+    }
+  },
+  {
+    "id": "meta__벌__0",
+    "word": "벌",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "꽃에서 꿀과 꽃가루를 모아 저장하며, 몸 끝에 독이 있는 침이 달린 날아다니는 곤충.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__벌써__0",
+    "word": "벌써",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "생각보다 빠르게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 22,
+      "source_count": 17,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 1152
+    }
+  },
+  {
+    "id": "meta__보통__0",
+    "word": "보통",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "흔히 볼 수 있어 특별하지 않고 평범함. 또는 뛰어나지도 뒤떨어지지도 않은 중간 정도.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__보호__0",
+    "word": "보호",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "위험하거나 곤란하지 않게 지키고 보살핌.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__부르다__0",
+    "word": "부르다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "말이나 행동으로 다른 사람을 오라고 하거나 주의를 끌다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 61,
+      "source_count": 26,
+      "round_count": 14,
+      "frequency_band": 4,
+      "frequency_rank": 464
+    }
+  },
+  {
+    "id": "meta__부분__0",
+    "word": "부분",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "전체를 이루고 있는 작은 범위. 또는 전체를 여러 개로 나눈 것 가운데 하나.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__비다__0",
+    "word": "비다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "어떤 공간에 아무도, 혹은 아무것도 없다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 27,
+      "source_count": 17,
+      "round_count": 8,
+      "frequency_band": 3,
+      "frequency_rank": 1000
+    }
+  },
+  {
+    "id": "meta__비용__0",
+    "word": "비용",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일을 하는 데 드는 돈.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__비율__0",
+    "word": "비율",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "기준이 되는 수나 양에 대한 어떤 값의 비.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__빛__0",
+    "word": "빛",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "해, 달, 전등, 불 등에서 나와 사물을 밝게 비추는 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__사고__0",
+    "word": "사고",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "예상하지 못하게 일어난 좋지 않은 일.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__사라지다__0",
+    "word": "사라지다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 현상이나 물체의 자취 등이 없어진다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 36,
+      "source_count": 18,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 767
+    }
+  },
+  {
+    "id": "meta__사업__0",
+    "word": "사업",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "경제적 이익을 얻기 위하여 어떤 조직을 경영하는 일.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__사이__0",
+    "word": "사이",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "한 물체에서 다른 물체까지 또는 한곳에서 다른 곳까지의 거리나 공간.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__사자__0",
+    "word": "사자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "몸집이 크고 사나우며 수컷은 뒷머리와 앞가슴에 긴 갈기가 있는 동물.",
+    "related_vocab": [
+      "동물원"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__사항__0",
+    "word": "사항",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 일이나 사실을 이루는 항목 또는 내용.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__살리다__0",
+    "word": "살리다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "생명을 지니게 하거나 유지하게 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 27,
+      "source_count": 16,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 1001
+    }
+  },
+  {
+    "id": "meta__상징__0",
+    "word": "상징",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "추상적인 사물이나 개념을 구체적인 사물로 나타냄. 또는 그렇게 나타낸 구체적인 사물.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__생태__0",
+    "word": "생태",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__선거__0",
+    "word": "선거",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "일정한 조직이나 집단에서 투표를 통해 대표자나 임원을 뽑음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__설치__0",
+    "word": "설치",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 목적에 맞게 쓰기 위하여 기관이나 설비 등을 만들거나 제자리에 맞게 놓음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__세상__0",
+    "word": "세상",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "지구 위 전체.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소__0",
+    "word": "소",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "몸집이 크고 갈색이나 흰색과 검은색의 털이 있으며, 젖을 짜 먹거나 고기를 먹기 위해 기르는 짐승.",
+    "related_vocab": [
+      "토끼"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소비__0",
+    "word": "소비",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "돈, 물건, 시간, 노력, 힘 등을 써서 없앰.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소비자__0",
+    "word": "소비자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "생산자가 만든 물건이나 서비스를 돈을 주고 사는 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소설__0",
+    "word": "소설",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "작가가 지어내어 쓴 이야기 형식으로 된 문학 작품.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소재__0",
+    "word": "소재",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "글의 내용을 이루는 재료.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__소포__0",
+    "word": "소포",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "우편으로 보내는, 포장된 작은 짐.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__속__0",
+    "word": "속",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "일정하게 둘러싸인 것의 안쪽으로 들어간 부분.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__쇼핑몰__0",
+    "word": "쇼핑몰",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__수미__0",
+    "word": "수미",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__순서__0",
+    "word": "순서",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "정해진 기준에서 앞뒤, 좌우, 위아래 등으로 벌여진 관계.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__숫자__0",
+    "word": "숫자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "수를 나타내는 글자.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__스스로__0",
+    "word": "스스로",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "누구의 도움을 받지 않고 자신의 힘으로.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 14,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 879
+    }
+  },
+  {
+    "id": "meta__시골__0",
+    "word": "시골",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "도시에서 떨어져 있어 인구가 적고 개발이 덜 된 곳.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__시설__0",
+    "word": "시설",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 목적을 위하여 건물이나 도구, 기계, 장치 등의 물건을 만듦. 또는 그런 건물이나 도구, 기계, 장치 등의 물건.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__시청__0",
+    "word": "시청",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "시의 행정 사무를 맡아보는 기관.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__시청자__0",
+    "word": "시청자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "텔레비전의 방송 프로그램을 보는 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__신문__0",
+    "word": "신문",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "정기적으로 세상에서 일어나는 새로운 일들을 알려 주는 간행물.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__실례__0",
+    "word": "실례",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "말이나 행동이 예의에 벗어남. 또는 그런 말이나 행동.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__실패__0",
+    "word": "실패",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "원하거나 목적한 것을 이루지 못함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__심정__0",
+    "word": "심정",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "마음속에 가지고 있는 감정과 생각.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__씻다__0",
+    "word": "씻다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "몸이나 물건에 묻은 때나 더러운 것을 없애 깨끗하게 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 31,
+      "source_count": 12,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 882
+    }
+  },
+  {
+    "id": "meta__아버지__0",
+    "word": "아버지",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "자기를 낳아 준 남자를 이르거나 부르는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__아파트__0",
+    "word": "아파트",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "한 채의 높고 큰 건물 안에 여러 가구가 독립하여 살 수 있게 지은 주택.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__안경__0",
+    "word": "안경",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "눈을 보호하거나 시력이 좋지 않은 사람이 잘 볼 수 있도록 눈에 쓰는 물건.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__안녕히__0",
+    "word": "안녕히",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "아무 문제나 걱정 없이 편안하게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 25,
+      "source_count": 14,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 1063
+    }
+  },
+  {
+    "id": "meta__안정__0",
+    "word": "안정",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "변하거나 흔들리지 않고 일정한 상태를 유지함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__알맞다__0",
+    "word": "알맞다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "일정한 기준이나 조건 또는 정도에 잘 맞아 넘치거나 모자라지 않은 데가 있다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 820,
+      "source_count": 76,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 26
+    }
+  },
+  {
+    "id": "meta__알아보다__0",
+    "word": "알아보다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "모르는 것을 알려 살 살펴보거나 조사하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 47,
+      "source_count": 19,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 594
+    }
+  },
+  {
+    "id": "meta__야구__0",
+    "word": "야구",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "아홉 명씩으로 이루어진 두 팀이 공격과 수비를 번갈아 하며, 상대 선수가 던진 공을 방망이로 치고 경기장을 돌아 점수를 내는 경기.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__약속__0",
+    "word": "약속",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "다른 사람과 어떤 일을 하기로 미리 정함. 또는 그렇게 정한 내용.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__양__0",
+    "word": "양",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "털과 고기를 얻기 위해 기르는, 온몸에 흰 털이 많이 나 있는 순한 동물.",
+    "related_vocab": [
+      "동물원"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__어떻다__0",
+    "word": "어떻다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "생각, 느낌, 상태, 형편 등이 어찌 되어 있다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 165,
+      "source_count": 48,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 127
+    }
+  },
+  {
+    "id": "meta__어머니__0",
+    "word": "어머니",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "자기를 낳아 준 여자를 이르거나 부르는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__어서__0",
+    "word": "어서",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "일이나 행동을 빨리 하도록 재촉하는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 18,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 1239
+    }
+  },
+  {
+    "id": "meta__얼굴__0",
+    "word": "얼굴",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "눈, 코, 입이 있는 머리의 앞쪽 부분.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__에어컨__0",
+    "word": "에어컨",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "차가운 공기를 나오게 하고 습도를 조절하는 장치.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__여기다__0",
+    "word": "여기다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "마음속으로 어떤 대상을 무엇으로 또는 어떻게 생각하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 33,
+      "source_count": 22,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 826
+    }
+  },
+  {
+    "id": "meta__여성__0",
+    "word": "여성",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "어른이 되어 아이를 낳을 수 있는 여자.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__연구소__0",
+    "word": "연구소",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 사물이나 일을 자세히 조사하고 분석하는 일을 전문으로 하는 기관.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__열차__0",
+    "word": "열차",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__영수__0",
+    "word": "영수",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__예상__0",
+    "word": "예상",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "앞으로 있을 일이나 상황을 짐작함. 또는 그런 내용.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__예술인__0",
+    "word": "예술인",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__예의__0",
+    "word": "예의",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "공손한 말투나 바른 행동과 같이 사람이 사회생활을 하면서 마땅히 지켜야 할 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__예전__0",
+    "word": "예전",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__예측__0",
+    "word": "예측",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "앞으로의 일을 미리 추측함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__오랫동안__0",
+    "word": "오랫동안",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "매우 긴 시간 동안.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__오르다__0",
+    "word": "오르다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "값, 수치, 온도, 성적 등이 이전보다 많아지거나 높아지다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 32,
+      "source_count": 14,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 850
+    }
+  },
+  {
+    "id": "meta__왜__0",
+    "word": "왜",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "무슨 이유로. 또는 어째서.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 104,
+      "source_count": 58,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 244
+    }
+  },
+  {
+    "id": "meta__운전__0",
+    "word": "운전",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "기계나 자동차를 움직이고 조종함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__움직이다__0",
+    "word": "움직이다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "위치나 자세가 바뀌다. 또는 위치나 자리를 바꾸다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 39,
+      "source_count": 16,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 717
+    }
+  },
+  {
+    "id": "meta__윗글__0",
+    "word": "윗글",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__음악회__0",
+    "word": "음악회",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "음악을 연주하여 사람들이 음악을 들을 수 있게 마련한 모임.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__의견__0",
+    "word": "의견",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "어떤 대상이나 현상 등에 대해 나름대로 판단하여 가지는 생각.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__의료__0",
+    "word": "의료",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__의미__0",
+    "word": "의미",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "말이나 글, 기호 등이 나타내는 뜻.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__의심__0",
+    "word": "의심",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "불확실하게 여기거나 믿지 못하는 마음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__이상__0",
+    "word": "이상",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "수량이나 정도가 일정한 기준을 포함하여 그보다 많거나 나은 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__이어지다__0",
+    "word": "이어지다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__이전__0",
+    "word": "이전",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "지금보다 앞.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__인류__0",
+    "word": "인류",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "전 세계의 모든 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__인물__0",
+    "word": "인물",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람 그 자체.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__일상__0",
+    "word": "일상",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "날마다 반복되는 평범한 생활.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__일요일__0",
+    "word": "일요일",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "월요일을 기준으로 한 주의 마지막 날.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__일치__0",
+    "word": "일치",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "비교되는 대상이 서로 다르지 않고 꼭 같거나 들어맞음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__읽다__0",
+    "word": "읽다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "글이나 글자를 보고 그 음대로 소리를 내어 말로 나타내다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 620,
+      "source_count": 67,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 35
+    }
+  },
+  {
+    "id": "meta__잇다__0",
+    "word": "잇다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "실, 끈, 조각 등의 두 끝을 매거나 붙여서 하나로 만들거나 물건 등을 맞대어 붙이다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 37,
+      "source_count": 25,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 751
+    }
+  },
+  {
+    "id": "meta__잊어버리다__0",
+    "word": "잊어버리다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__자__0",
+    "word": "자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "눈금이 그려져 있는, 길이를 재는 데 쓰는 도구.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__자라다__0",
+    "word": "자라다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "생물이 부분적으로 또는 전체적으로 점점 커지다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 13,
+      "round_count": 10,
+      "frequency_band": 3,
+      "frequency_rank": 1245
+    }
+  },
+  {
+    "id": "meta__자료__0",
+    "word": "자료",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "연구나 조사를 하는 데 기본이 되는 재료.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__자세__0",
+    "word": "자세",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "몸을 움직이거나 가누는 태도.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__자원__0",
+    "word": "자원",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "광물, 수산물 등과 같이 사람이 생활하거나 경제적인 생산을 하는 데 이용되는 원료.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__작가__0",
+    "word": "작가",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "시, 소설, 연극, 방송 대본, 그림 등을 처음으로 만들어 내는 사람.",
+    "related_vocab": [
+      "시나리오 작가"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__작년__0",
+    "word": "작년",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "지금 지나가고 있는 해의 바로 전 해.",
+    "related_vocab": [
+      "작년 겨울"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__잠깐__0",
+    "word": "잠깐",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "아주 짧은 시간 동안에.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 25,
+      "source_count": 18,
+      "round_count": 13,
+      "frequency_band": 3,
+      "frequency_rank": 1068
+    }
+  },
+  {
+    "id": "meta__잠시__0",
+    "word": "잠시",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "잠깐 동안에.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 35,
+      "source_count": 23,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 794
+    }
+  },
+  {
+    "id": "meta__잡다__0",
+    "word": "잡다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "손으로 쥐고 놓지 않다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 61,
+      "source_count": 23,
+      "round_count": 14,
+      "frequency_band": 4,
+      "frequency_rank": 470
+    }
+  },
+  {
+    "id": "meta__장미__0",
+    "word": "장미",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "줄기에 가시가 있고 오월이나 유월에 향기롭게 피는 빨간색, 하얀색, 노란색 등의 꽃.",
+    "related_vocab": [
+      "무궁화"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__저축__0",
+    "word": "저축",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "돈이나 재물 등을 아껴 써서 모아 둠.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__적다__0",
+    "word": "적다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 내용을 글로 쓰다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__전체__0",
+    "word": "전체",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "낱낱이나 부분의 집합으로 이루어진 것을 하나의 대상으로 할 때 바로 그 대상.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__점검__0",
+    "word": "점검",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "낱낱이 검사함. 또는 그런 검사.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__접수__0",
+    "word": "접수",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "신청이나 신고 등을 말이나 문서로 받음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__정치__0",
+    "word": "정치",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "사회 질서를 바로잡고 국민의 기본 생활을 보장하기 위해 국가의 권력을 유지하며 나라를 다스리는 일.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__정확__0",
+    "word": "정확",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "바르고 확실함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__제목__0",
+    "word": "제목",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "글이나 영화, 공연 등에서, 중심이 되는 내용을 나타내기 위해 붙이는 이름.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__제일__0",
+    "word": "제일",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "여럿 중에서 가장.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 14,
+      "round_count": 11,
+      "frequency_band": 3,
+      "frequency_rank": 1250
+    }
+  },
+  {
+    "id": "meta__조절__0",
+    "word": "조절",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "균형에 맞게 바로잡거나 상황에 알맞게 맞춤.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__좀__0",
+    "word": "좀",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "분량이나 정도가 적게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 215,
+      "source_count": 46,
+      "round_count": 16,
+      "frequency_band": 5,
+      "frequency_rank": 94
+    }
+  },
+  {
+    "id": "meta__주인__0",
+    "word": "주인",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "대상이나 물건을 자기의 것으로 가진 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__주제__0",
+    "word": "주제",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "대화나 연구 등에서 중심이 되는 문제.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__줄다__0",
+    "word": "줄다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "물체의 길이나 넓이, 부피 등이 원래보다 작아지다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 29,
+      "source_count": 18,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 952
+    }
+  },
+  {
+    "id": "meta__중심__0",
+    "word": "중심",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "어떤 것의 한가운데.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__즐겁다__0",
+    "word": "즐겁다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "마음에 들어 흐뭇하고 기쁘다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 32,
+      "source_count": 21,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 859
+    }
+  },
+  {
+    "id": "meta__지갑__0",
+    "word": "지갑",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "돈, 카드, 명함 등을 넣어 가지고 다닐 수 있게 가죽이나 헝겊 등으로 만든 물건.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__지방__0",
+    "word": "지방",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "행정 구획이나 어떤 특징 등에 의해 나누어지는 지역.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__짧다__0",
+    "word": "짧다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "공간이나 물체의 양 끝 사이가 가깝다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 38,
+      "source_count": 27,
+      "round_count": 15,
+      "frequency_band": 3,
+      "frequency_rank": 738
+    }
+  },
+  {
+    "id": "meta__차이__0",
+    "word": "차이",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "서로 같지 않고 다름. 또는 서로 다른 정도.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__참가__0",
+    "word": "참가",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "모임이나 단체, 경기, 행사 등의 자리에 가서 함께함.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__청소__0",
+    "word": "청소",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "더럽고 지저분한 것을 깨끗하게 치움.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__최고__0",
+    "word": "최고",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "정도가 가장 높음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__축하__0",
+    "word": "축하",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "남의 좋은 일에 대하여 기쁜 마음으로 인사함. 또는 그런 인사.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__춤__0",
+    "word": "춤",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "음악이나 규칙적인 박자에 맞춰 몸을 움직이는 것.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__치다__0",
+    "word": "치다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "바람이 세차게 불거나 비나 눈 등이 세차게 오다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 189,
+      "source_count": 38,
+      "round_count": 16,
+      "frequency_band": 4,
+      "frequency_rank": 106
+    }
+  },
+  {
+    "id": "meta__친하다__0",
+    "word": "친하다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "가까이 사귀어 서로 잘 알고 정이 두텁다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 20,
+      "source_count": 16,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 1258
+    }
+  },
+  {
+    "id": "meta__카드__0",
+    "word": "카드",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "특별한 날을 기념하거나 인사를 전하기 위해 그림이나 장식, 글 등을 인쇄한 종이.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__코끼리__0",
+    "word": "코끼리",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "매우 긴 코와 두 개의 큰 어금니가 있는, 육지에 사는 동물 가운데 가장 큰 동물.",
+    "related_vocab": [
+      "동물원"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__키우다__0",
+    "word": "키우다",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "동식물을 보살펴 자라게 하다.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 42,
+      "source_count": 21,
+      "round_count": 14,
+      "frequency_band": 3,
+      "frequency_rank": 669
+    }
+  },
+  {
+    "id": "meta__타이어__0",
+    "word": "타이어",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__탓__0",
+    "word": "탓",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__태도__0",
+    "word": "태도",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "몸을 움직이거나 어떤 일을 대하는 마음이 드러난 자세.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__토끼__0",
+    "word": "토끼",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "귀가 길고 뒷다리가 앞다리보다 발달하였으며 꼬리는 짧은 동물.",
+    "related_vocab": [
+      "강아지",
+      "고양이",
+      "말",
+      "소",
+      "돼지"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__특허__0",
+    "word": "특허",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__편의점__0",
+    "word": "편의점",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "하루 이십사 시간 내내 문을 열고 간단한 생활필수품 등을 파는 가게.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__피부__0",
+    "word": "피부",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "사람이나 동물의 몸을 싸고 있는 살의 겉 부분.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__피아노__0",
+    "word": "피아노",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "검은색과 흰색 건반을 손가락으로 두드리거나 눌러서 소리를 내는 큰 악기.",
+    "related_vocab": [
+      "연주회"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__필자__0",
+    "word": "필자",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "(상세 정의 준비 중)",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__하늘__0",
+    "word": "하늘",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "땅 위로 펼쳐진 무한히 넓은 공간.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__학원__0",
+    "word": "학원",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "학생을 모집하여 지식, 기술, 예체능 등을 가르치는 사립 교육 기관.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__한국어__0",
+    "word": "한국어",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "한국에서 사용하는 말.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__현실__0",
+    "word": "현실",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "현재 실제로 있는 사실이나 상태.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__혹시__0",
+    "word": "혹시",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "그러할 리는 없지만 만약에.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {
+      "total_frequency": 21,
+      "source_count": 16,
+      "round_count": 12,
+      "frequency_band": 3,
+      "frequency_rank": 1214
+    }
+  },
+  {
+    "id": "meta__홍보__0",
+    "word": "홍보",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "널리 알림. 또는 그 소식.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__확보__0",
+    "word": "확보",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "확실히 가지고 있음.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__회원__0",
+    "word": "회원",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "written_discourse",
+    "display_group": "글말과 표현",
+    "surface": "meta_learning",
+    "def_ko": "어떤 모임을 이루는 사람.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__후배__0",
+    "word": "후배",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "test_instruction",
+    "display_group": "시험과 지시어",
+    "surface": "meta_learning",
+    "def_ko": "같은 분야에서 자기보다 늦게 일을 시작한 사람.",
+    "related_vocab": [
+      "선배"
+    ],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  },
+  {
+    "id": "meta__휴가__0",
+    "word": "휴가",
+    "def_en": "",
+    "routing": "meta_learning",
+    "original_cluster": "spoken_discourse",
+    "display_group": "입말과 대화",
+    "surface": "meta_learning",
+    "def_ko": "직장이나 군대 등의 단체에 속한 사람이 일정한 기간 동안 일터를 벗어나서 쉬는 일. 또는 그런 기간.",
+    "related_vocab": [],
+    "refs": {
+      "cross_links": []
+    },
+    "is_center_profile": false,
+    "root_id": null,
+    "chunk_id": "chunk_001",
+    "stats": {}
+  }
+]

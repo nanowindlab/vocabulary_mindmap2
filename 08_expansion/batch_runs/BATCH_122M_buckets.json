@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "상업_일반명사-1",
+      "rationale_short": "물건을 사고파는 경제 활동은 '쇼핑'과 직접적으로 관련된다.",
+      "root": "쇼핑",
+      "category_label_ko": "경제 활동"
+    },
+    {
+      "meaning_id": "상인_일반명사-1",
+      "rationale_short": "물건을 사고파는 일을 하는 사람은 '쇼핑' 활동의 주체이다.",
+      "root": "쇼핑",
+      "category_label_ko": "물건 파는 사람"
+    },
+    {
+      "meaning_id": "상황실_일반명사-1",
+      "rationale_short": "위급 상황을 살피고 지휘하는 공간은 공공 안전 및 서비스와 관련이 깊다.",
+      "root": "공공 서비스",
+      "category_label_ko": "긴급 지휘 공간"
+    },
+    {
+      "meaning_id": "상회_일반명사-1",
+      "rationale_short": "상인들이 함께 만든 가게는 물건을 사고파는 '쇼핑' 장소이다.",
+      "root": "쇼핑",
+      "category_label_ko": "상인들의 가게"
+    },
+    {
+      "meaning_id": "새것_일반명사-1",
+      "rationale_short": "물건의 상태를 나타내는 묘사적 표현이다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "물건의 상태"
+    },
+    {
+      "meaning_id": "색다르다_형용사-1",
+      "rationale_short": "보통과 다른 특별한 느낌을 묘사하는 형용사이다.",
+      "root": "감각과 묘사",
+      "category_label_ko": "특별한 느낌"
+    },
+    {
+      "meaning_id": "색연필_일반명사-1",
+      "rationale_short": "그림을 그리는 도구로, 주로 학습이나 취미 활동에 사용된다.",
+      "root": "학교와 공부",
+      "category_label_ko": "그림 그리는 도구"
+    },
+    {
+      "meaning_id": "생년월일_일반명사-1",
+      "rationale_short": "태어난 시점을 나타내는 시간 정보이다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "태어난 날짜"
+    },
+    {
+      "meaning_id": "생육_일반명사-1",
+      "rationale_short": "생물이 살아 자라고 번식하는 자연 현상이다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물의 성장"
+    },
+    {
+      "meaning_id": "생일날_일반명사-1",
+      "rationale_short": "특정한 기념일을 나타내는 시간 개념이다.",
+      "root": "시간과 흐름",
+      "category_label_ko": "탄생 기념일"
+    },
+    {
+      "meaning_id": "생장_일반명사-1",
+      "rationale_short": "몸이나 조직이 자라 커지는 자연 현상이다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "몸의 성장"
+    },
+    {
+      "meaning_id": "생필품_일반명사-1",
+      "rationale_short": "일상생활에 꼭 필요한 물건으로 '주거와 일상'과 밀접하다.",
+      "root": "주거와 일상",
+      "category_label_ko": "일상생활 필수품"
+    },
+    {
+      "meaning_id": "생활상_일반명사-1",
+      "rationale_short": "살아가는 모습이나 형편을 나타내는 것으로 '주거와 일상'의 전반적인 모습을 의미한다.",
+      "root": "주거와 일상",
+      "category_label_ko": "삶의 모습"
+    },
+    {
+      "meaning_id": "샤워장_일반명사-1",
+      "rationale_short": "샤워를 하는 장소로, 개인 위생과 관련된 '주거와 일상' 활동 공간이다.",
+      "root": "주거와 일상",
+      "category_label_ko": "샤워 시설"
+    },
+    {
+      "meaning_id": "서너_관형사-1",
+      "rationale_short": "세 개나 네 개 정도의 대략적인 수량을 나타내는 관형사이다.",
+      "root": "수량과 단위",
+      "category_label_ko": "대략적인 수량"
+    },
+    {
+      "meaning_id": "서식지_일반명사-1",
+      "rationale_short": "동식물이 살아가는 자연적인 공간이다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 거주 공간"
+    },
+    {
+      "meaning_id": "서식처_일반명사-1",
+      "rationale_short": "생물이 깃들어 사는 자연적인 장소이다.",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 거주 공간"
+    },
+    {
+      "meaning_id": "서지_일반명사-1",
+      "rationale_short": "책의 출판 정보나 자료 기록은 학술 및 학습 활동과 관련이 깊다.",
+      "root": "학교와 공부",
+      "category_label_ko": "출판 정보 기록"
+    },
+    {
+      "meaning_id": "서커스_일반명사-1",
+      "rationale_short": "곡예나 묘기를 보이는 공연은 '여가와 취미' 활동의 일종이다.",
+      "root": "여가와 취미",
+      "category_label_ko": "곡예 공연"
+    },
+    {
+      "meaning_id": "선박_일반명사-1",
+      "rationale_short": "바다나 강을 다니는 배는 '교통' 수단에 해당한다.",
+      "root": "교통",
+      "category_label_ko": "물 위 이동 수단"
+    },
+    {
+      "meaning_id": "선언_일반명사-1",
+      "rationale_short": "생각이나 입장을 공개적으로 알리는 행위는 '문화와 사회'적 소통 방식이다.",
+      "root": "문화와 사회",
+      "category_label_ko": "공개적 입장 표명"
+    },
+    {
+      "meaning_id": "선원_일반명사-1",
+      "rationale_short": "배에서 일하는 사람은 특정 '직장과 업무'를 수행하는 직업인이다.",
+      "root": "직장과 업무",
+      "category_label_ko": "배에서 일하는 직업"
+    },
+    {
+      "meaning_id": "선진국_일반명사-1",
+      "rationale_short": "경제와 생활 수준이 높은 나라는 '문화와 사회'의 발전 정도를 나타낸다.",
+      "root": "문화와 사회",
+      "category_label_ko": "발전된 국가"
+    },
+    {
+      "meaning_id": "설마_일반부사-1",
+      "rationale_short": "그럴 리가 없다고 생각하는 '내면과 감정'을 표현하는 부사이다.",
+      "root": "내면과 감정",
+      "category_label_ko": "의심 표현"
+    },
+    {
+      "meaning_id": "섬유질_일반명사-1",
+      "rationale_short": "식물에 들어 있는 소화 성분으로 '식생활'과 관련된 영양소이다.",
+      "root": "식생활",
+      "category_label_ko": "식물성 영양소"
+    },
+    {
+      "meaning_id": "섭외_일반명사-1",
+      "rationale_short": "필요한 사람이나 장소를 부탁하여 구하는 행위는 '직장과 업무'에서 흔히 발생한다.",
+      "root": "직장과 업무",
+      "category_label_ko": "인력/장소 섭외"
+    },
+    {
+      "meaning_id": "성대_일반명사-1",
+      "rationale_short": "목소리를 내는 목 안의 기관으로 '보건과 의료' 분야의 신체 부위에 해당한다.",
+      "root": "보건과 의료",
+      "category_label_ko": "발성 기관"
+    },
+    {
+      "meaning_id": "성직자_일반명사-1",
+      "rationale_short": "종교에서 맡은 직분으로 일하는 사람은 '문화와 사회'의 종교 영역에 속한다.",
+      "root": "문화와 사회",
+      "category_label_ko": "종교 직분자"
+    },
+    {
+      "meaning_id": "성함_일반명사-1",
+      "rationale_short": "윗사람의 이름을 높여 이르는 말로 '사람과 관계'에서의 호칭과 예절에 해당한다.",
+      "root": "사람과 관계",
+      "category_label_ko": "높임말 이름"
+    },
+    {
+      "meaning_id": "셋째_수사-1",
+      "rationale_short": "순서에서 세 번째에 해당하는 차례를 나타내는 수사이다.",
+      "root": "수량과 단위",
+      "category_label_ko": "순서 나타내는 수"
+    },
+    {
+      "meaning_id": "소각장_일반명사-1",
+      "rationale_short": "쓰레기나 폐기물을 태워 처리하는 시설은 '공공 서비스'의 환경 관리에 해당한다.",
+      "root": "공공 서비스",
+      "category_label_ko": "폐기물 처리 시설"
+    },
+    {
+      "meaning_id": "소고기_일반명사-1",
+      "rationale_short": "소에서 얻은 고기로 '식생활'의 음식 재료에 해당한다.",
+      "root": "식생활",
+      "category_label_ko": "소의 고기"
+    },
+    {
+      "meaning_id": "소득자_일반명사-1",
+      "rationale_short": "돈을 버는 사람은 '직장과 업무'를 통해 소득을 얻는 사람이다.",
+      "root": "직장과 업무",
+      "category_label_ko": "수입을 얻는 사람"
+    },
+    {
+      "meaning_id": "소량_일반명사-1",
+      "rationale_short": "많지 않은 조금의 양을 나타내는 수량 개념이다.",
+      "root": "수량과 단위",
+      "category_label_ko": "적은 양"
+    },
+    {
+      "meaning_id": "소셜_일반명사-1",
+      "rationale_short": "사람들 사이의 관계를 중심으로 한 온라인 서비스나 활동은 '문화와 사회'의 한 현상이다.",
+      "root": "문화와 사회",
+      "category_label_ko": "온라인 관계 활동"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "새로이_일반부사-1",
+      "rationale_short": "행위의 방식이나 상태를 나타내는 부사어로, 일반적인 상황 지시에 해당한다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "부사어는 분류가 모호할 수 있어 임시 제안 root로 보낸다."
+    },
+    {
+      "meaning_id": "선보이다_동사-1",
+      "rationale_short": "새로운 것을 처음으로 보여주는 일반적인 행위를 나타내는 동사이다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "동사어는 분류가 모호할 수 있어 임시 제안 root로 보낸다."
+    },
+    {
+      "meaning_id": "선점_일반명사-1",
+      "rationale_short": "남보다 먼저 차지하는 행위나 상태를 나타내는 추상적인 개념이다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로 분류가 모호할 수 있어 임시 제안 root로 보낸다."
+    },
+    {
+      "meaning_id": "섣불리_일반부사-1",
+      "rationale_short": "깊이 생각하지 않고 성급하게 행동하는 방식을 나타내는 부사어이다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "부사어는 분류가 모호할 수 있어 임시 제안 root로 보낸다."
+    },
+    {
+      "meaning_id": "성패_일반명사-1",
+      "rationale_short": "성공과 실패라는 추상적인 결과를 나타내는 개념이다.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 개념으로 분류가 모호할 수 있어 임시 제안 root로 보낸다."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념을 나타내는 명사 (예: 선점, 성패)는 '상황 지시/기타' 또는 더 적합한 추상적 root가 필요할 수 있다.",
+      "일반적인 부사어 (예: 새로이, 섣불리)는 '상황 지시/기타'로 분류되는 경향이 있으며, 더 세분화된 부사어 root가 필요할 수 있다."
+    ],
+    "ia_suggestions": [
+      "현재 '상황 지시/기타' root가 추상적인 명사, 일반적인 동사, 부사어를 포괄하는 경향이 있다. '개념과 추상', '행위와 과정', '방식과 정도'와 같은 세분화된 root를 고려하여 분류의 정확성을 높일 수 있다.",
+      "직업/역할어의 경우 '사람과 관계'와 '직장과 업무' 사이의 경계가 모호할 수 있으므로, '직장과 업무'를 우선하되, 관계적 측면이 강한 경우 '사람과 관계'를 고려하는 명확한 가이드라인이 필요하다."
+    ]
+  }
+}

@@ -1,0 +1,727 @@
+이전 응답은 로컬 검증에서 실패했다. 이전 응답을 버리고 아래 오류를 모두 수정해서 JSON만 다시 반환하라.
+
+검증 오류:
+[
+  "하다_동사-1: invalid root `None`",
+  "고르다_동사-1: invalid root `None`",
+  "있다_형용사-1: invalid root `None`",
+  "있다_형용사-2: invalid root `None`",
+  "가다_동사-1: invalid root `None`",
+  "되다_동사-1: invalid root `None`",
+  "되다_동사-2: invalid root `None`",
+  "되다_동사-3: invalid root `None`",
+  "되다_동사-4: invalid root `None`",
+  "듣다_동사-3: invalid root `None`",
+  "내용_일반명사-1: invalid root `None`",
+  "알맞다_형용사-1: invalid root `None`",
+  "좋다_형용사-1: invalid root `None`",
+  "없다_형용사-1: invalid root `None`",
+  "위하다_동사-1: invalid root `None`",
+  "잘_일반부사-1: invalid root `None`",
+  "일_일반명사-2: invalid root `None`",
+  "대하다_동사-1: invalid root `None`",
+  "오다_동사-1: invalid root `None`",
+  "만들다_동사-1: invalid root `None`",
+  "받다_동사-1: invalid root `None`",
+  "필요_일반명사-1: invalid root `None`",
+  "들어가다_동사-1: invalid root `None`",
+  "맞다_동사-1: invalid root `None`",
+  "맞다_동사-2: invalid root `None`",
+  "맞다_동사-3: invalid root `None`",
+  "같이_일반부사-1: invalid root `None`",
+  "주다_동사-1: invalid root `None`",
+  "사용_일반명사-1: invalid root `None`",
+  "그렇다_형용사-1: invalid root `None`",
+  "곳_일반명사-1: invalid root `None`",
+  "방법_일반명사-1: invalid root `None`",
+  "알다_동사-1: invalid root `None`",
+  "찾다_동사-1: invalid root `None`",
+  "찾다_동사-2: invalid root `None`",
+  "문제_일반명사-1: invalid root `None`",
+  "이용_일반명사-1: invalid root `None`",
+  "치다_동사-1: invalid root `None`",
+  "가지다_동사-1: invalid root `None`",
+  "어렵다_형용사-1: invalid root `None`"
+]
+
+수정 규칙:
+- `decisions`는 입력 100건과 정확히 1:1이어야 한다.
+- 각 `meaning_id`는 정확히 한 번만 등장한다.
+- exclusion은 SDCP 필터 기준에만 사용한다.
+- 아래 표현은 exclusion 사유로 금지한다:
+  - 너무 일반적인 명사/동사
+  - 특정 재료라서 부적합
+  - 사람이라서 부적합
+  - 신체 부위라서 exclusion
+- 의심되면 candidate로 이동한다.
+- root는 다음 목록에서만 선택한다:
+["사람과 관계", "식생활", "주거와 일상", "쇼핑", "교통", "학교와 공부", "직장과 업무", "여가와 취미", "여행", "보건과 의료", "날씨와 자연", "공공 서비스", "문화와 사회", "상황 지시/기타", "내면과 감정", "성격과 태도", "감각과 묘사", "의견과 가치", "수량과 단위", "시간과 흐름", "논리와 연결", "지시와 질문"]
+
+이전 응답:
+{
+  "decisions": [
+    {
+      "meaning_id": "이다_긍정지정사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (지정사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 동사"
+    },
+    {
+      "meaning_id": "고르다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "선택 행위는 평가, 선호 등 내면적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "내면적 판단과 관련"
+    },
+    {
+      "meaning_id": "남자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사람의 성별",
+      "rationale_short": "사람의 기본적인 성별"
+    },
+    {
+      "meaning_id": "여자_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "사람의 성별",
+      "rationale_short": "사람의 기본적인 성별"
+    },
+    {
+      "meaning_id": "있다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "존재 여부나 위치를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "있다_형용사-2",
+      "bucket": "candidate",
+      "candidate_reason": "소유 여부를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "다음_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "순서와 시점",
+      "rationale_short": "시간적 순서나 시점"
+    },
+    {
+      "meaning_id": "가다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "이동의 가장 기본적인 동사로, 특정 장소나 목적에 한정되지 않아 분류 모호성이 있음.",
+      "rationale_short": "매우 일반적인 이동 동사"
+    },
+    {
+      "meaning_id": "보다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 인지",
+      "rationale_short": "시각을 통한 인지"
+    },
+    {
+      "meaning_id": "이_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "지시 기능을 하는 관형사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "지시 관형사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "사람_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "인간 존재",
+      "rationale_short": "인간 존재 자체"
+    },
+    {
+      "meaning_id": "되다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "상태 변화를 나타내는 매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 상태 변화 동사"
+    },
+    {
+      "meaning_id": "되다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "일의 성사나 가능성을 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "일의 성사/가능성 동사"
+    },
+    {
+      "meaning_id": "되다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "허용이나 평가와 관련된 상태를 나타내어 분류 모호성이 있음.",
+      "rationale_short": "평가와 관련된 상태"
+    },
+    {
+      "meaning_id": "되다_동사-4",
+      "bucket": "candidate",
+      "candidate_reason": "역할이나 지위 변화를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "역할/지위 변화 동사"
+    },
+    {
+      "meaning_id": "듣다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청각적 인지",
+      "rationale_short": "청각을 통한 인지"
+    },
+    {
+      "meaning_id": "듣다_동사-2",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "청취 행위",
+      "rationale_short": "청각을 이용한 집중 행위"
+    },
+    {
+      "meaning_id": "듣다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "충고나 수업을 받아들이는 행위는 내면적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "내면적 판단과 관련"
+    },
+    {
+      "meaning_id": "각_관형사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "지시 기능을 하는 관형사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "지시 관형사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "내용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "매우 추상적이고 광범위한 개념으로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "추상적이고 광범위한 개념"
+    },
+    {
+      "meaning_id": "알맞다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "적합성을 평가하는 형용사로, 평가적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "평가적 판단과 관련"
+    },
+    {
+      "meaning_id": "좋다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "주관적인 감정이나 가치 판단을 나타내는 형용사로, 분류 모호성이 있음.",
+      "rationale_short": "주관적 감정/가치 판단"
+    },
+    {
+      "meaning_id": "같다_형용사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "비교와 유사성",
+      "rationale_short": "사물/개념의 동일성"
+    },
+    {
+      "meaning_id": "때_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 경과",
+      "rationale_short": "시간의 시점/기간"
+    },
+    {
+      "meaning_id": "때_일반명사-2",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "위생과 청결",
+      "rationale_short": "물리적인 오염물"
+    },
+    {
+      "meaning_id": "없다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "존재하지 않는 상태를 나타내는 매우 일반적인 형용사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 형용사"
+    },
+    {
+      "meaning_id": "위하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "특정 대상이나 목적을 위한 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 행위"
+    },
+    {
+      "meaning_id": "많다_형용사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량의 많고 적음"
+    },
+    {
+      "meaning_id": "읽다_동사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 활동",
+      "rationale_short": "글을 이해하는 학습 활동"
+    },
+    {
+      "meaning_id": "물음_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "질문의 내용",
+      "rationale_short": "질문 행위의 결과물"
+    },
+    {
+      "meaning_id": "답_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "질문에 대한 응답",
+      "rationale_short": "질문에 대한 응답"
+    },
+    {
+      "meaning_id": "잘_일반부사-1",
+      "bucket": "candidate",
+      "candidate_reason": "행위의 정도나 방식을 나타내는 매우 일반적인 부사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 부사"
+    },
+    {
+      "meaning_id": "일_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 활동",
+      "rationale_short": "직업적 활동/업무"
+    },
+    {
+      "meaning_id": "일_일반명사-2",
+      "bucket": "candidate",
+      "candidate_reason": "사건이나 문제를 나타내는 매우 일반적인 명사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 명사"
+    },
+    {
+      "meaning_id": "대하다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "상대방이나 상황에 대한 태도를 나타내는 동사로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 태도"
+    },
+    {
+      "meaning_id": "쓰다_동사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "글쓰기 활동",
+      "rationale_short": "글을 기록하는 활동"
+    },
+    {
+      "meaning_id": "쓰다_동사-2",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "착용 행위",
+      "rationale_short": "신체에 착용하는 행위"
+    },
+    {
+      "meaning_id": "글_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "문자 기록물",
+      "rationale_short": "글자로 표현된 결과물"
+    },
+    {
+      "meaning_id": "생각_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "사고와 인지",
+      "rationale_short": "내면의 사고 활동"
+    },
+    {
+      "meaning_id": "말_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언어적 표현",
+      "rationale_short": "의사소통 수단"
+    },
+    {
+      "meaning_id": "말_일반명사-2",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언어 체계",
+      "rationale_short": "특정 집단의 언어 체계"
+    },
+    {
+      "meaning_id": "오다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "이동의 가장 기본적인 동사로, 특정 장소나 목적에 한정되지 않아 분류 모호성이 있음.",
+      "rationale_short": "매우 일반적인 이동 동사"
+    },
+    {
+      "meaning_id": "만들다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "창조 또는 생산 행위를 나타내는 매우 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 창조 동사"
+    },
+    {
+      "meaning_id": "네_감탄사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "감탄사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "감탄사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "가장_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도의 최상",
+      "rationale_short": "정도/순서의 최상급"
+    },
+    {
+      "meaning_id": "더_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도의 비교",
+      "rationale_short": "정도/수량의 비교급"
+    },
+    {
+      "meaning_id": "사다_동사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "구매 행위",
+      "rationale_short": "물건을 돈 주고 얻는 행위"
+    },
+    {
+      "meaning_id": "한_관형사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수량의 단일성",
+      "rationale_short": "수량의 단일성"
+    },
+    {
+      "meaning_id": "받다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "무언가를 수령하는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 수령 동사"
+    },
+    {
+      "meaning_id": "시간_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간의 개념",
+      "rationale_short": "시간의 추상적 개념"
+    },
+    {
+      "meaning_id": "필요_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "필요성을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 필요성 개념"
+    },
+    {
+      "meaning_id": "안_일반부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "부정의 의미를 나타내는 부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "부정 부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "친구_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "친밀한 관계",
+      "rationale_short": "친밀한 인간관계"
+    },
+    {
+      "meaning_id": "많이_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량/정도의 많음"
+    },
+    {
+      "meaning_id": "들어가다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "특정 공간으로 진입하는 행위로, 다양한 장소에 적용될 수 있어 분류 모호성이 있음.",
+      "rationale_short": "다양한 장소의 진입 행위"
+    },
+    {
+      "meaning_id": "맞다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "사실 여부를 판단하는 평가적 의미가 강하여 분류 모호성이 있음.",
+      "rationale_short": "평가적 의미 강함"
+    },
+    {
+      "meaning_id": "맞다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "적합성을 평가하는 의미가 강하여 분류 모호성이 있음.",
+      "rationale_short": "평가적 의미 강함"
+    },
+    {
+      "meaning_id": "맞다_동사-3",
+      "bucket": "candidate",
+      "candidate_reason": "물리적 충격을 받는 행위로, 부상과 관련될 수 있으나 일반적인 상황에서도 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 물리적 충격"
+    },
+    {
+      "meaning_id": "아니다_부정지정사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (지정사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "집_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "주거 공간",
+      "rationale_short": "사람이 거주하는 공간"
+    },
+    {
+      "meaning_id": "같이_일반부사-1",
+      "bucket": "candidate",
+      "candidate_reason": "동반 또는 유사성을 나타내는 부사로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 동반/유사성"
+    },
+    {
+      "meaning_id": "아이_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "연령별 사람",
+      "rationale_short": "연령에 따른 사람 구분"
+    },
+    {
+      "meaning_id": "책_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 도구",
+      "rationale_short": "학습/정보 전달 매체"
+    },
+    {
+      "meaning_id": "못_일반부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "불가능을 나타내는 부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "불가능 부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "와_접속조사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문법 기능어 (조사)로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "문법 기능어, 시각화 어려움"
+    },
+    {
+      "meaning_id": "주다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "소유물을 타인에게 전달하는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 전달 동사"
+    },
+    {
+      "meaning_id": "사용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 대상을 활용하는 행위를 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 활용 개념"
+    },
+    {
+      "meaning_id": "그래서_접속부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문장 연결 기능을 하는 접속부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "접속부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "크다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "크기 묘사",
+      "rationale_short": "사물의 물리적 크기"
+    },
+    {
+      "meaning_id": "그렇다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "앞선 내용을 지칭하며 상태를 나타내는 형용사로, 맥락에 따라 의미가 달라져 분류 모호성이 있음.",
+      "rationale_short": "맥락 의존적 상태 형용사"
+    },
+    {
+      "meaning_id": "한국_고유명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "고유명사로, 일반 어휘 마인드맵 분류 대상이 아님.",
+      "rationale_short": "고유명사"
+    },
+    {
+      "meaning_id": "다른_관형사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "비교와 차이",
+      "rationale_short": "사물/개념의 차이점"
+    },
+    {
+      "meaning_id": "그런데_접속부사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "문장 연결 기능을 하는 접속부사로, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "접속부사, 시각화 어려움"
+    },
+    {
+      "meaning_id": "곳_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "장소나 위치를 나타내는 매우 일반적인 명사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 장소 명사"
+    },
+    {
+      "meaning_id": "방법_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 일을 수행하는 방식이나 수단을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 방식/수단 개념"
+    },
+    {
+      "meaning_id": "회사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업 기관",
+      "rationale_short": "이윤 추구 직업 기관"
+    },
+    {
+      "meaning_id": "자신_일반명사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "대명사적 성격이 강하며, 시각화가 어렵고 학습 비적합 파편어에 해당.",
+      "rationale_short": "대명사적, 시각화 어려움"
+    },
+    {
+      "meaning_id": "보이다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "시각적 현상",
+      "rationale_short": "시각적으로 인지되는 현상"
+    },
+    {
+      "meaning_id": "전_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거 시점",
+      "rationale_short": "현재보다 앞선 시점"
+    },
+    {
+      "meaning_id": "좀_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "양의 정도",
+      "rationale_short": "수량/정도의 적음"
+    },
+    {
+      "meaning_id": "시작_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시작 시점",
+      "rationale_short": "일의 최초 시점"
+    },
+    {
+      "meaning_id": "알다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "지식이나 사실을 인지하고 기억하는 내면적 상태를 나타내어 분류 모호성이 있음.",
+      "rationale_short": "내면적 인지 상태"
+    },
+    {
+      "meaning_id": "중요_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "가치의 판단",
+      "rationale_short": "가치/필요성 평가"
+    },
+    {
+      "meaning_id": "찾다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "잃어버린 것이나 필요한 것을 탐색하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 탐색 행위"
+    },
+    {
+      "meaning_id": "찾다_동사-2",
+      "bucket": "candidate",
+      "candidate_reason": "사람이나 장소를 방문하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 방문 행위"
+    },
+    {
+      "meaning_id": "문제_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "해결해야 할 과제나 질문을 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 과제/질문 개념"
+    },
+    {
+      "meaning_id": "이용_일반명사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 대상을 활용하는 행위를 나타내는 추상적인 개념으로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "추상적 활용 개념"
+    },
+    {
+      "meaning_id": "영화_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "영상 매체",
+      "rationale_short": "여가 영상 매체"
+    },
+    {
+      "meaning_id": "좋아하다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "선호 감정",
+      "rationale_short": "긍정적 감정/선호"
+    },
+    {
+      "meaning_id": "만나다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "대면 행위",
+      "rationale_short": "사람 간의 대면 행위"
+    },
+    {
+      "meaning_id": "그림_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "시각 예술",
+      "rationale_short": "선과 색의 시각 예술"
+    },
+    {
+      "meaning_id": "치다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "물리적인 충격을 가하는 행위로, 다양한 맥락에서 사용되어 분류 모호성이 있음.",
+      "rationale_short": "다양한 맥락의 물리적 충격"
+    },
+    {
+      "meaning_id": "앞_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "공간적 위치",
+      "rationale_short": "공간적 위치/방향"
+    },
+    {
+      "meaning_id": "앞_일반명사-2",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "미래 시점",
+      "rationale_short": "현재 이후의 시점"
+    },
+    {
+      "meaning_id": "이번_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "현재 시점",
+      "rationale_short": "현재의 특정 차례/시점"
+    },
+    {
+      "meaning_id": "가지다_동사-1",
+      "bucket": "candidate",
+      "candidate_reason": "소유하거나 지니는 행위를 나타내는 일반적인 동사로, 특정 카테고리에 100% 확실하게 분류하기 어려움.",
+      "rationale_short": "매우 일반적인 소유 동사"
+    },
+    {
+      "meaning_id": "요즘_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "최근 시점",
+      "rationale_short": "현재와 가까운 최근 시점"
+    },
+    {
+      "meaning_id": "어렵다_형용사-1",
+      "bucket": "candidate",
+      "candidate_reason": "어떤 일의 난이도를 평가하는 형용사로, 평가적 판단과 관련되어 모호성이 있음.",
+      "rationale_short": "평가적 판단과 관련"
+    },
+    {
+      "meaning_id": "다양_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "종류의 다양성",
+      "rationale_short": "여러 종류의 다름"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "고빈도 동사/형용사의 다의어 처리 (하다, 되다, 있다, 듣다, 맞다, 찾다, 쓰다, 가다, 오다, 받다, 가지다): 의미가 추상적이거나 여러 맥락에 걸쳐 사용될 때 candidate로 분류하는 경향이 강함.",
+      "문법 기능어 (지정사, 관형사, 접속부사, 조사, 감탄사)는 시각화가 어렵고 학습 비적합 파편어로 판단하여 exclusion 처리함.",
+      "추상적인 명사 (내용, 필요, 방법, 문제, 곳, 사용, 일_사건)는 특정 root에 100% 확실하게 분류하기 어려워 candidate로 분류함."
+    ],
+    "ia_suggestions": [
+      "고빈도 동사/형용사의 다의어 중 핵심 의미는 core로 분류하고, 파생적이거나 맥락 의존적인 의미는 candidate로 유지하는 전략을 고려해야 함. 예를 들어 '있다'의 존재/소유 의미는 '상황 지시/기타' 또는 '내면과 감정'에 더 깊은 논의가 필요할 수 있음.",
+      "IA V4의 '상황 지시/기타' root의 역할과 범위를 명확히 정의하여, 현재 candidate로 분류된 추상적인 동사/명사 중 일부를 수용할 수 있는지 검토 필요. 특히 '하다', '되다', '일_사건', '곳', '방법', '사용' 등.",
+      "문법 기능어의 exclusion 기준을 재검토하여, 학습자에게 필수적인 일부 기능어(예: 지시 대명사, 기본적인 접속 부사)는 '지시와 질문' 또는 '논리와 연결' 등 특정 root의 하위 카테고리로 포함할 가능성을 논의해야 함. 현재 '이', '각', '네', '안', '못', '와', '그래서', '그런데', '자신' 등이 exclusion 되었는데, 이들이 학습에 미치는 영향과 시각화 가능성을 다시 평가할 필요가 있음."
+    ]
+  }
+}
+
+원본 입력:
+[{"meaning_id": "이다_긍정지정사-1", "lemma": "이다", "pos_ko": "긍정지정사", "meaning_kr": "주어가 무엇인지, 어떤 상태인지를 나타내다", "e_word": "to be", "phonetic_romanization": "ida", "frequency": 3713, "frequency_rank": 2, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "하다_동사-1", "lemma": "하다", "pos_ko": "동사", "meaning_kr": "어떤 행동이나 일을 실행하다", "e_word": "do", "phonetic_romanization": "hada", "frequency": 2149, "frequency_rank": 4, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "고르다_동사-1", "lemma": "고르다", "pos_ko": "동사", "meaning_kr": "여럿 가운데에서 마음에 드는 것을 골라 택하다", "e_word": "choose", "phonetic_romanization": "goreuda", "frequency": 1840, "frequency_rank": 5, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "남자_일반명사-1", "lemma": "남자", "pos_ko": "일반명사", "meaning_kr": "성별이 남성인 사람", "e_word": "man", "phonetic_romanization": "namja", "frequency": 1690, "frequency_rank": 6, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "여자_일반명사-1", "lemma": "여자", "pos_ko": "일반명사", "meaning_kr": "여성이라는 성을 가진 사람", "e_word": "woman", "phonetic_romanization": "yeoja", "frequency": 1625, "frequency_rank": 7, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "있다_형용사-1", "lemma": "있다", "pos_ko": "형용사", "meaning_kr": "어떤 곳에 머물러 존재하다", "e_word": "exist", "phonetic_romanization": "itda", "frequency": 1570, "frequency_rank": 8, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "있다_형용사-2", "lemma": "있다", "pos_ko": "형용사", "meaning_kr": "어떤 물건이나 능력을 가지고 있다", "e_word": "have", "phonetic_romanization": "itda", "frequency": 1570, "frequency_rank": 9, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "다음_일반명사-1", "lemma": "다음", "pos_ko": "일반명사", "meaning_kr": "지금 또는 앞에 온 것의 바로 뒤", "e_word": "next", "phonetic_romanization": "daeum", "frequency": 1317, "frequency_rank": 11, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "가다_동사-1", "lemma": "가다", "pos_ko": "동사", "meaning_kr": "어떤 곳을 향해 움직이다", "e_word": "go", "phonetic_romanization": "gada", "frequency": 1232, "frequency_rank": 12, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "보다_동사-1", "lemma": "보다", "pos_ko": "동사", "meaning_kr": "눈으로 물체나 모습을 살피다", "e_word": "see", "phonetic_romanization": "boda", "frequency": 1222, "frequency_rank": 13, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "이_관형사-1", "lemma": "이", "pos_ko": "관형사", "meaning_kr": "말하는 사람과 가까이 있는 것을 가리키는 말", "e_word": "this", "phonetic_romanization": "i", "frequency": 1210, "frequency_rank": 14, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사람_일반명사-1", "lemma": "사람", "pos_ko": "일반명사", "meaning_kr": "생각하고 말하며 사회를 이루는 존재", "e_word": "person", "phonetic_romanization": "saram", "frequency": 1098, "frequency_rank": 15, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "되다_동사-1", "lemma": "되다", "pos_ko": "동사", "meaning_kr": "사물이나 사람이 어떤 상태나 모양으로 바뀌다", "e_word": "become", "phonetic_romanization": "doeda", "frequency": 1085, "frequency_rank": 16, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "되다_동사-2", "lemma": "되다", "pos_ko": "동사", "meaning_kr": "일이 이루어지거나 가능하게 이루어지다", "e_word": "work out", "phonetic_romanization": "doeda", "frequency": 1085, "frequency_rank": 17, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "되다_동사-3", "lemma": "되다", "pos_ko": "동사", "meaning_kr": "허용하거나 괜찮다고 여길 수 있는 상태이다", "e_word": "be acceptable", "phonetic_romanization": "doeda", "frequency": 1085, "frequency_rank": 18, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 3, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "되다_동사-4", "lemma": "되다", "pos_ko": "동사", "meaning_kr": "어떤 자리나 역할을 맡게 되다", "e_word": "become", "phonetic_romanization": "doeda", "frequency": 1085, "frequency_rank": 19, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 4, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "듣다_동사-1", "lemma": "듣다", "pos_ko": "동사", "meaning_kr": "소리를 귀로 알아차리다", "e_word": "hear", "phonetic_romanization": "deuttta", "frequency": 875, "frequency_rank": 21, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "듣다_동사-2", "lemma": "듣다", "pos_ko": "동사", "meaning_kr": "노래나 이야기를 귀 기울여 받아들이다", "e_word": "listen", "phonetic_romanization": "deuttta", "frequency": 875, "frequency_rank": 22, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "듣다_동사-3", "lemma": "듣다", "pos_ko": "동사", "meaning_kr": "수업이나 충고 따위를 받아들이다", "e_word": "take", "phonetic_romanization": "deuttta", "frequency": 875, "frequency_rank": 23, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 3, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "각_관형사-1", "lemma": "각", "pos_ko": "관형사", "meaning_kr": "여럿을 하나하나 가리키는 말", "e_word": "each", "phonetic_romanization": "gak", "frequency": 823, "frequency_rank": 24, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "내용_일반명사-1", "lemma": "내용", "pos_ko": "일반명사", "meaning_kr": "말, 글, 그림, 그릇 등 속에 담긴 것", "e_word": "content", "phonetic_romanization": "naeyong", "frequency": 823, "frequency_rank": 25, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "알맞다_형용사-1", "lemma": "알맞다", "pos_ko": "형용사", "meaning_kr": "양이나 정도, 조건 등이 필요에 꼭 들어맞다", "e_word": "suitable", "phonetic_romanization": "almatda", "frequency": 820, "frequency_rank": 26, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "좋다_형용사-1", "lemma": "좋다", "pos_ko": "형용사", "meaning_kr": "마음에 들거나 바람직하다", "e_word": "good", "phonetic_romanization": "jota", "frequency": 784, "frequency_rank": 27, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "같다_형용사-1", "lemma": "같다", "pos_ko": "형용사", "meaning_kr": "서로 다르지 않고 같다", "e_word": "same", "phonetic_romanization": "gatda", "frequency": 775, "frequency_rank": 28, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "때_일반명사-1", "lemma": "때", "pos_ko": "일반명사", "meaning_kr": "어떤 일이 일어나거나 계속되는 동안", "e_word": "time", "phonetic_romanization": "ttae", "frequency": 724, "frequency_rank": 29, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "때_일반명사-2", "lemma": "때", "pos_ko": "일반명사", "meaning_kr": "몸이나 물건에 묻어 더러워진 찌꺼기", "e_word": "grime", "phonetic_romanization": "ttae", "frequency": 724, "frequency_rank": 30, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "없다_형용사-1", "lemma": "없다", "pos_ko": "형용사", "meaning_kr": "있어야 할 것이 존재하지 않다", "e_word": "not exist", "phonetic_romanization": "eopda", "frequency": 719, "frequency_rank": 31, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "위하다_동사-1", "lemma": "위하다", "pos_ko": "동사", "meaning_kr": "어떤 사람이나 목적에 도움이 되게 하다", "e_word": "care for", "phonetic_romanization": "wihada", "frequency": 681, "frequency_rank": 32, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "많다_형용사-1", "lemma": "많다", "pos_ko": "형용사", "meaning_kr": "수나 양이 보통보다 크다", "e_word": "many", "phonetic_romanization": "manta", "frequency": 627, "frequency_rank": 34, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "읽다_동사-1", "lemma": "읽다", "pos_ko": "동사", "meaning_kr": "글이나 기호를 보고 그 뜻을 이해하다", "e_word": "read", "phonetic_romanization": "ikda", "frequency": 620, "frequency_rank": 35, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "물음_일반명사-1", "lemma": "물음", "pos_ko": "일반명사", "meaning_kr": "물어 보는 말이나 내용", "e_word": "question", "phonetic_romanization": "mureum", "frequency": 610, "frequency_rank": 36, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "답_일반명사-1", "lemma": "답", "pos_ko": "일반명사", "meaning_kr": "질문에 대한 말이나 글", "e_word": "answer", "phonetic_romanization": "dap", "frequency": 604, "frequency_rank": 37, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "잘_일반부사-1", "lemma": "잘", "pos_ko": "일반부사", "meaning_kr": "능숙하거나 좋게", "e_word": "well", "phonetic_romanization": "jal", "frequency": 598, "frequency_rank": 38, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "일_일반명사-1", "lemma": "일", "pos_ko": "일반명사", "meaning_kr": "사람이 힘을 들여 하는 활동이나 직업", "e_word": "work", "phonetic_romanization": "il", "frequency": 569, "frequency_rank": 39, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "일_일반명사-2", "lemma": "일", "pos_ko": "일반명사", "meaning_kr": "어떤 사건이나 문제 되는 것", "e_word": "matter", "phonetic_romanization": "il", "frequency": 569, "frequency_rank": 40, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "대하다_동사-1", "lemma": "대하다", "pos_ko": "동사", "meaning_kr": "상대나 일을 맞이하다", "e_word": "face", "phonetic_romanization": "daehada", "frequency": 527, "frequency_rank": 41, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "쓰다_동사-1", "lemma": "쓰다", "pos_ko": "동사", "meaning_kr": "글자를 적거나 글을 만들다", "e_word": "write", "phonetic_romanization": "sseuda", "frequency": 512, "frequency_rank": 42, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "쓰다_동사-2", "lemma": "쓰다", "pos_ko": "동사", "meaning_kr": "모자, 안경 등을 머리나 얼굴에 올리다", "e_word": "wear", "phonetic_romanization": "sseuda", "frequency": 512, "frequency_rank": 43, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "글_일반명사-1", "lemma": "글", "pos_ko": "일반명사", "meaning_kr": "생각이나 느낌을 글자로 나타낸 문장", "e_word": "writing", "phonetic_romanization": "geul", "frequency": 506, "frequency_rank": 44, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "생각_일반명사-1", "lemma": "생각", "pos_ko": "일반명사", "meaning_kr": "머릿속에 떠오르는 느낌이나 판단", "e_word": "thought", "phonetic_romanization": "saenggak", "frequency": 503, "frequency_rank": 45, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "말_일반명사-1", "lemma": "말", "pos_ko": "일반명사", "meaning_kr": "사람이 생각이나 느낌을 나타내려고 입으로 내는 소리나 그 내용", "e_word": "speech", "phonetic_romanization": "mal", "frequency": 502, "frequency_rank": 46, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "말_일반명사-2", "lemma": "말", "pos_ko": "일반명사", "meaning_kr": "어떤 나라나 집단에서 쓰는 소리와 문법의 체계", "e_word": "language", "phonetic_romanization": "mal", "frequency": 502, "frequency_rank": 47, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "오다_동사-1", "lemma": "오다", "pos_ko": "동사", "meaning_kr": "말하는 사람이 있는 곳이나 목표한 곳으로 향해 움직이다", "e_word": "come", "phonetic_romanization": "oda", "frequency": 492, "frequency_rank": 48, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "만들다_동사-1", "lemma": "만들다", "pos_ko": "동사", "meaning_kr": "재료를 모아 새로운 물건이나 결과를 생기게 하다", "e_word": "make", "phonetic_romanization": "mandeulda", "frequency": 478, "frequency_rank": 49, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "네_감탄사-1", "lemma": "네", "pos_ko": "감탄사", "meaning_kr": "부르거나 물을 때 대답할 때 쓰는 말", "e_word": "yes", "phonetic_romanization": "ne", "frequency": 441, "frequency_rank": 50, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "가장_일반부사-1", "lemma": "가장", "pos_ko": "일반부사", "meaning_kr": "여러 가운데 제일로", "e_word": "most", "phonetic_romanization": "gajang", "frequency": 436, "frequency_rank": 51, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "더_일반부사-1", "lemma": "더", "pos_ko": "일반부사", "meaning_kr": "지금보다 정도가 크거나 많게", "e_word": "more", "phonetic_romanization": "deo", "frequency": 431, "frequency_rank": 52, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사다_동사-1", "lemma": "사다", "pos_ko": "동사", "meaning_kr": "돈을 주고 물건을 얻다", "e_word": "buy", "phonetic_romanization": "sada", "frequency": 403, "frequency_rank": 54, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "한_관형사-1", "lemma": "한", "pos_ko": "관형사", "meaning_kr": "수나 양이 하나뿐임을 나타내는 말", "e_word": "one", "phonetic_romanization": "han", "frequency": 397, "frequency_rank": 55, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "받다_동사-1", "lemma": "받다", "pos_ko": "동사", "meaning_kr": "남이 주는 것을 손에 넣다", "e_word": "receive", "phonetic_romanization": "batda", "frequency": 386, "frequency_rank": 58, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "시간_일반명사-1", "lemma": "시간", "pos_ko": "일반명사", "meaning_kr": "어떤 일이 계속되거나 지나가는 동안", "e_word": "time", "phonetic_romanization": "sigan", "frequency": 383, "frequency_rank": 59, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "필요_일반명사-1", "lemma": "필요", "pos_ko": "일반명사", "meaning_kr": "반드시 있어야 하거나 해야 하는 상태", "e_word": "need", "phonetic_romanization": "pillyo", "frequency": 371, "frequency_rank": 60, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "안_일반부사-1", "lemma": "안", "pos_ko": "일반부사", "meaning_kr": "어떤 일이 이루어지지 않게 부정할 때 쓰는 말", "e_word": "not", "phonetic_romanization": "an", "frequency": 368, "frequency_rank": 61, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "친구_일반명사-1", "lemma": "친구", "pos_ko": "일반명사", "meaning_kr": "서로 가깝게 지내며 믿고 사귀는 사람", "e_word": "friend", "phonetic_romanization": "chingu", "frequency": 367, "frequency_rank": 62, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "많이_일반부사-1", "lemma": "많이", "pos_ko": "일반부사", "meaning_kr": "수나 양, 정도가 큰 상태로", "e_word": "a lot", "phonetic_romanization": "mani", "frequency": 362, "frequency_rank": 63, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "들어가다_동사-1", "lemma": "들어가다", "pos_ko": "동사", "meaning_kr": "밖에서 안으로 움직여 가다", "e_word": "go in", "phonetic_romanization": "deureogada", "frequency": 347, "frequency_rank": 64, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "맞다_동사-1", "lemma": "맞다", "pos_ko": "동사", "meaning_kr": "생각이나 말이 사실과 어긋나지 않다", "e_word": "be correct", "phonetic_romanization": "mattta", "frequency": 342, "frequency_rank": 65, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "맞다_동사-2", "lemma": "맞다", "pos_ko": "동사", "meaning_kr": "어떤 조건이나 상황에 잘 어울리다", "e_word": "suit", "phonetic_romanization": "mattta", "frequency": 342, "frequency_rank": 66, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "맞다_동사-3", "lemma": "맞다", "pos_ko": "동사", "meaning_kr": "주먹, 총알, 주사 등 무엇에 부딪혀 피해를 입다", "e_word": "be hit", "phonetic_romanization": "mattta", "frequency": 342, "frequency_rank": 67, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 3, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "아니다_부정지정사-1", "lemma": "아니다", "pos_ko": "부정지정사", "meaning_kr": "어떤 것과 같지 않거나 그렇지 않다", "e_word": "not be", "phonetic_romanization": "anida", "frequency": 326, "frequency_rank": 68, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "집_일반명사-1", "lemma": "집", "pos_ko": "일반명사", "meaning_kr": "사람이 살기 위해 지은 건물", "e_word": "house", "phonetic_romanization": "jip", "frequency": 311, "frequency_rank": 70, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "같이_일반부사-1", "lemma": "같이", "pos_ko": "일반부사", "meaning_kr": "함께", "e_word": "together", "phonetic_romanization": "gachi", "frequency": 306, "frequency_rank": 72, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "아이_일반명사-1", "lemma": "아이", "pos_ko": "일반명사", "meaning_kr": "나이가 어린 사람", "e_word": "child", "phonetic_romanization": "ai", "frequency": 299, "frequency_rank": 73, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "책_일반명사-1", "lemma": "책", "pos_ko": "일반명사", "meaning_kr": "글이나 그림을 여러 장 엮어 만든 물건", "e_word": "book", "phonetic_romanization": "chaek", "frequency": 271, "frequency_rank": 74, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "못_일반부사-1", "lemma": "못", "pos_ko": "일반부사", "meaning_kr": "할 수 없음을 나타내는 말", "e_word": "cannot", "phonetic_romanization": "mot", "frequency": 270, "frequency_rank": 75, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "와_접속조사-1", "lemma": "와", "pos_ko": "접속조사", "meaning_kr": "앞말이 나타내는 것과 함께임을 나타내는 조사", "e_word": "and", "phonetic_romanization": "wa", "frequency": 263, "frequency_rank": 76, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "주다_동사-1", "lemma": "주다", "pos_ko": "동사", "meaning_kr": "자기 것이나 가진 것을 남에게 넘기다", "e_word": "give", "phonetic_romanization": "juda", "frequency": 263, "frequency_rank": 77, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "사용_일반명사-1", "lemma": "사용", "pos_ko": "일반명사", "meaning_kr": "어떤 것을 필요한 데에 씀", "e_word": "use", "phonetic_romanization": "sayong", "frequency": 262, "frequency_rank": 78, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "그래서_접속부사-1", "lemma": "그래서", "pos_ko": "접속부사", "meaning_kr": "앞의 내용이 뒤의 결과의 이유가 될 때", "e_word": "so", "phonetic_romanization": "geuraeseo", "frequency": 261, "frequency_rank": 79, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "크다_형용사-1", "lemma": "크다", "pos_ko": "형용사", "meaning_kr": "부피나 길이, 넓이, 정도가 보통보다 많다", "e_word": "big", "phonetic_romanization": "keuda", "frequency": 254, "frequency_rank": 81, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "그렇다_형용사-1", "lemma": "그렇다", "pos_ko": "형용사", "meaning_kr": "앞에서 말한 것과 같은 상태이다", "e_word": "so", "phonetic_romanization": "geureota", "frequency": 252, "frequency_rank": 82, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "한국_고유명사-1", "lemma": "한국", "pos_ko": "고유명사", "meaning_kr": "동아시아에 있는 나라 대한민국", "e_word": "Korea", "phonetic_romanization": "hanguk", "frequency": 238, "frequency_rank": 85, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "다른_관형사-1", "lemma": "다른", "pos_ko": "관형사", "meaning_kr": "지금 말하는 것과 같지 않은", "e_word": "other", "phonetic_romanization": "dareun", "frequency": 237, "frequency_rank": 86, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "그런데_접속부사-1", "lemma": "그런데", "pos_ko": "접속부사", "meaning_kr": "이야기를 바꾸거나 앞 내용과 다른 사실을 이을 때", "e_word": "by the way", "phonetic_romanization": "geureonde", "frequency": 235, "frequency_rank": 87, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "곳_일반명사-1", "lemma": "곳", "pos_ko": "일반명사", "meaning_kr": "사람이나 물건이 있는 자리", "e_word": "place", "phonetic_romanization": "got", "frequency": 234, "frequency_rank": 88, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "방법_일반명사-1", "lemma": "방법", "pos_ko": "일반명사", "meaning_kr": "어떤 일을 하기 위한 일정한 방식이나 수단", "e_word": "method", "phonetic_romanization": "bangbeop", "frequency": 234, "frequency_rank": 89, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "회사_일반명사-1", "lemma": "회사", "pos_ko": "일반명사", "meaning_kr": "이윤을 내기 위해 사람들을 모아 운영하는 조직", "e_word": "company", "phonetic_romanization": "hoesa", "frequency": 227, "frequency_rank": 90, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "자신_일반명사-1", "lemma": "자신", "pos_ko": "일반명사", "meaning_kr": "자기 스스로", "e_word": "oneself", "phonetic_romanization": "jasin", "frequency": 225, "frequency_rank": 91, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "보이다_동사-1", "lemma": "보이다", "pos_ko": "동사", "meaning_kr": "눈에 들어와 알아볼 수 있게 되다", "e_word": "be seen", "phonetic_romanization": "boida", "frequency": 215, "frequency_rank": 92, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "전_일반명사-1", "lemma": "전", "pos_ko": "일반명사", "meaning_kr": "지금보다 앞선 때나 일", "e_word": "the past", "phonetic_romanization": "jeon", "frequency": 215, "frequency_rank": 93, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "좀_일반부사-1", "lemma": "좀", "pos_ko": "일반부사", "meaning_kr": "양이나 정도가 많지 않게 약간", "e_word": "a little", "phonetic_romanization": "jom", "frequency": 215, "frequency_rank": 94, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "시작_일반명사-1", "lemma": "시작", "pos_ko": "일반명사", "meaning_kr": "어떤 일을 처음으로 함", "e_word": "start", "phonetic_romanization": "sijak", "frequency": 213, "frequency_rank": 95, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "알다_동사-1", "lemma": "알다", "pos_ko": "동사", "meaning_kr": "사실이나 내용을 이해하고 기억하고 있다", "e_word": "know", "phonetic_romanization": "alda", "frequency": 211, "frequency_rank": 96, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "중요_일반명사-1", "lemma": "중요", "pos_ko": "일반명사", "meaning_kr": "가치가 크고 꼭 필요함", "e_word": "importance", "phonetic_romanization": "jungyo", "frequency": 207, "frequency_rank": 97, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "찾다_동사-1", "lemma": "찾다", "pos_ko": "동사", "meaning_kr": "잃어버리거나 필요한 것을 이리저리 살펴 구하다", "e_word": "look for", "phonetic_romanization": "chatda", "frequency": 204, "frequency_rank": 98, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "찾다_동사-2", "lemma": "찾다", "pos_ko": "동사", "meaning_kr": "사람이나 장소를 방문하다", "e_word": "visit", "phonetic_romanization": "chatda", "frequency": 204, "frequency_rank": 99, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "문제_일반명사-1", "lemma": "문제", "pos_ko": "일반명사", "meaning_kr": "해결해야 할 일이나 질문", "e_word": "problem", "phonetic_romanization": "munje", "frequency": 203, "frequency_rank": 100, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "이용_일반명사-1", "lemma": "이용", "pos_ko": "일반명사", "meaning_kr": "어떤 것을 필요에 맞게 씀", "e_word": "use", "phonetic_romanization": "iyong", "frequency": 200, "frequency_rank": 101, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "영화_일반명사-1", "lemma": "영화", "pos_ko": "일반명사", "meaning_kr": "이야기를 화면과 소리로 보여 주는 작품", "e_word": "movie", "phonetic_romanization": "yeonghwa", "frequency": 199, "frequency_rank": 102, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "좋아하다_동사-1", "lemma": "좋아하다", "pos_ko": "동사", "meaning_kr": "마음에 들어 기쁘게 여기다", "e_word": "like", "phonetic_romanization": "joahada", "frequency": 197, "frequency_rank": 103, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "만나다_동사-1", "lemma": "만나다", "pos_ko": "동사", "meaning_kr": "서로 마주 보게 되다", "e_word": "meet", "phonetic_romanization": "mannada", "frequency": 196, "frequency_rank": 104, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "그림_일반명사-1", "lemma": "그림", "pos_ko": "일반명사", "meaning_kr": "선과 색으로 사람이나 사물의 모습을 나타낸 것", "e_word": "picture", "phonetic_romanization": "geurim", "frequency": 194, "frequency_rank": 105, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "치다_동사-1", "lemma": "치다", "pos_ko": "동사", "meaning_kr": "손이나 도구 등으로 세게 부딪치게 하다", "e_word": "hit", "phonetic_romanization": "chida", "frequency": 189, "frequency_rank": 106, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "앞_일반명사-1", "lemma": "앞", "pos_ko": "일반명사", "meaning_kr": "사람이나 물건이 바라보는 쪽의 부분이나 자리", "e_word": "front", "phonetic_romanization": "ap", "frequency": 188, "frequency_rank": 107, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "앞_일반명사-2", "lemma": "앞", "pos_ko": "일반명사", "meaning_kr": "지금보다 뒤에 올 때, 시간적으로 이후의 때", "e_word": "future", "phonetic_romanization": "ap", "frequency": 188, "frequency_rank": 108, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 2, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "이번_일반명사-1", "lemma": "이번", "pos_ko": "일반명사", "meaning_kr": "지금 말하는 바로 이 차례", "e_word": "this time", "phonetic_romanization": "ibeon", "frequency": 178, "frequency_rank": 110, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "가지다_동사-1", "lemma": "가지다", "pos_ko": "동사", "meaning_kr": "어떤 것을 손에 지니다", "e_word": "have", "phonetic_romanization": "gajida", "frequency": 176, "frequency_rank": 111, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "요즘_일반명사-1", "lemma": "요즘", "pos_ko": "일반명사", "meaning_kr": "최근의 이 무렵", "e_word": "these days", "phonetic_romanization": "yojeum", "frequency": 176, "frequency_rank": 112, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "어렵다_형용사-1", "lemma": "어렵다", "pos_ko": "형용사", "meaning_kr": "하기가 힘들거나 복잡하다", "e_word": "difficult", "phonetic_romanization": "eoryeopda", "frequency": 175, "frequency_rank": 113, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}, {"meaning_id": "다양_일반명사-1", "lemma": "다양", "pos_ko": "일반명사", "meaning_kr": "여러 가지로 서로 다름", "e_word": "variety", "phonetic_romanization": "dayang", "frequency": 174, "frequency_rank": 114, "meaning_en": null, "meaning_jp": null, "meaning_cn": null, "e_definition": null, "usage_note": null, "sense_number": 1, "source": "manual", "created_at": "2025-12-03", "current_bucket": "system_candidate", "current_root": null, "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"}]

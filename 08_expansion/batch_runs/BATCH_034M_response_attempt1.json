@@ -1,0 +1,288 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "이끌다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "앞장서서 데려가다",
+      "rationale_short": "사람이나 단체를 앞장서서 데리고 가는 일반적인 행위"
+    },
+    {
+      "meaning_id": "이웃_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가까이 사는 사람",
+      "rationale_short": "가까이 사는 사람을 지칭하는 명확한 관계어"
+    },
+    {
+      "meaning_id": "자본_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 운영 자금",
+      "rationale_short": "장사나 사업을 위한 돈이나 재산으로, 직업/업무와 직결됨"
+    },
+    {
+      "meaning_id": "잘못_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "옳지 않은 행위",
+      "rationale_short": "옳고 그름에 대한 평가와 관련된 개념"
+    },
+    {
+      "meaning_id": "장점_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "뛰어난 좋은 점",
+      "rationale_short": "다른 것보다 나은 점을 평가하는 개념"
+    },
+    {
+      "meaning_id": "지난주_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "바로 앞 주",
+      "rationale_short": "시간의 한 단위를 명확히 지칭함"
+    },
+    {
+      "meaning_id": "지적_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "잘못된 점 언급",
+      "rationale_short": "잘못된 점이나 중요한 점을 평가하고 말하는 행위"
+    },
+    {
+      "meaning_id": "찾아가다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "목적지로 이동하다",
+      "rationale_short": "특정 장소나 사람을 향해 이동하는 일반적인 행위"
+    },
+    {
+      "meaning_id": "천_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "열 배의 백",
+      "rationale_short": "수를 나타내는 명확한 수사"
+    },
+    {
+      "meaning_id": "태풍_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "강한 폭풍",
+      "rationale_short": "자연 현상인 폭풍을 지칭함"
+    },
+    {
+      "meaning_id": "통합_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "하나로 합치기",
+      "rationale_short": "흩어진 것을 하나로 합치는 논리적/개념적 행위"
+    },
+    {
+      "meaning_id": "특수_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "특별한 경우",
+      "rationale_short": "일반적이지 않고 특별한 상태나 경우를 묘사함"
+    },
+    {
+      "meaning_id": "평소_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "보통의 시간",
+      "rationale_short": "특별한 일이 없는 보통의 시간을 지칭함"
+    },
+    {
+      "meaning_id": "합리_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "이치에 맞음",
+      "rationale_short": "이치에 맞는다는 논리적 판단과 관련된 개념"
+    },
+    {
+      "meaning_id": "해당_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "직접적인 관계",
+      "rationale_short": "어떤 것과 직접 관계가 있다는 논리적 연결성"
+    },
+    {
+      "meaning_id": "화제_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "이야기 중심 주제",
+      "rationale_short": "이야기의 중심이 되는 주제로, 사회적 소통과 관련됨"
+    },
+    {
+      "meaning_id": "희망_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "잘되기를 바라는 마음",
+      "rationale_short": "앞으로 잘되기를 바라는 마음으로, 내면의 감정 상태"
+    },
+    {
+      "meaning_id": "가운데_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "중심 부분",
+      "rationale_short": "가장 중심이 되는 부분을 지칭하는 일반적인 위치 개념"
+    },
+    {
+      "meaning_id": "강화_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "더 튼튼하게 함",
+      "rationale_short": "더 세게 하거나 튼튼하게 하는 일반적인 행위나 상태 변화"
+    },
+    {
+      "meaning_id": "거울_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "모습 비추는 물건",
+      "rationale_short": "일상생활에서 사용하는 물건"
+    },
+    {
+      "meaning_id": "거치다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "중간에 지나가다",
+      "rationale_short": "지나가거나 중간에 머무르는 일반적인 행위"
+    },
+    {
+      "meaning_id": "경계_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "둘 사이 가르는 선",
+      "rationale_short": "둘 사이를 가르는 선이나 영역을 지칭하는 일반적인 개념"
+    },
+    {
+      "meaning_id": "고통_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "몸과 마음의 괴로움",
+      "rationale_short": "몸이나 마음이 괴로운 느낌으로, 신체/의료 증상 관련 규칙에 따라 '보건과 의료'로 분류"
+    },
+    {
+      "meaning_id": "과장_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "사실을 지나치게 꾸밈",
+      "rationale_short": "사실을 지나치게 크게 꾸미는 것으로, 진실성에 대한 평가와 관련됨"
+    },
+    {
+      "meaning_id": "극복_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "어려움 이겨내기",
+      "rationale_short": "어려움이나 장애를 이겨내는 일반적인 행위"
+    },
+    {
+      "meaning_id": "금융_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "돈 거래 활동",
+      "rationale_short": "돈을 빌려주고 빌리는 경제 활동으로, 직업/업무와 직결됨"
+    },
+    {
+      "meaning_id": "낮_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "해가 있는 시간",
+      "rationale_short": "시간의 한 단위를 명확히 지칭함"
+    },
+    {
+      "meaning_id": "높아지다_동사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "더 높게 변하다",
+      "rationale_short": "전보다 더 높게 되는 상태 변화를 묘사함"
+    },
+    {
+      "meaning_id": "다루다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건/일 처리하다",
+      "rationale_short": "물건이나 일을 관리하거나 처리하는 일반적인 행위"
+    },
+    {
+      "meaning_id": "단어_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "말의 최소 단위",
+      "rationale_short": "언어 학습의 기본 단위로, 학교/공부와 밀접함"
+    },
+    {
+      "meaning_id": "달다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "달콤한 맛",
+      "rationale_short": "맛에 대한 감각적 묘사"
+    },
+    {
+      "meaning_id": "던지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "힘껏 멀리 보내다",
+      "rationale_short": "손에서 힘을 주어 멀리 보내는 일반적인 신체 행위"
+    },
+    {
+      "meaning_id": "도전_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "어려움에 맞서기",
+      "rationale_short": "어려운 일에 맞서 나아가는 태도나 행위"
+    },
+    {
+      "meaning_id": "동의_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "생각에 인정함",
+      "rationale_short": "남의 생각이나 말에 좋다고 인정하는 것으로, 의견에 대한 평가와 관련됨"
+    },
+    {
+      "meaning_id": "동의_일반명사-2",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "의미가 서로 같음",
+      "rationale_short": "뜻이나 의미가 서로 같다는 논리적/개념적 관계"
+    },
+    {
+      "meaning_id": "맑다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "깨끗하고 투명하다",
+      "rationale_short": "흐리거나 섞인 것이 없이 깨끗한 상태를 묘사함"
+    },
+    {
+      "meaning_id": "매장_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "물건 파는 가게",
+      "rationale_short": "물건을 진열하여 파는 가게나 코너로, 쇼핑 활동과 직결됨"
+    },
+    {
+      "meaning_id": "매장_일반명사-2",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "땅속에 묻는 일",
+      "rationale_short": "시체나 물건을 땅속에 묻는 일로, 사회적/문화적 관습과 관련됨"
+    },
+    {
+      "meaning_id": "먹이_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물 먹는 음식",
+      "rationale_short": "동물이나 곤충이 먹는 것으로, 자연 생태계와 관련됨"
+    },
+    {
+      "meaning_id": "면접_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "지원자 평가 절차",
+      "rationale_short": "지원자를 직접 만나 평가하는 절차로, 직업/업무와 밀접함"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [],
+    "ia_suggestions": []
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "meaning_id": "이다_긍정지정사-1",
+    "lemma": "이다",
+    "pos_ko": "긍정지정사",
+    "meaning_kr": "주어가 무엇인지, 어떤 상태인지를 나타내다",
+    "frequency": 3713,
+    "frequency_rank": 2,
+    "current_bucket": "system_candidate",
+    "current_root": null,
+    "current_reason": "분류 모호성 발견 (모르면 보류 원칙)"
+  }
+]

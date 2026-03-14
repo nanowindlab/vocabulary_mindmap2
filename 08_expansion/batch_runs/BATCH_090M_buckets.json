@@ -1,0 +1,257 @@
+{
+  "core": [
+    {
+      "meaning_id": "악수_일반명사-1",
+      "rationale_short": "명확한 사람 간의 상호작용 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "인사 및 교류"
+    },
+    {
+      "meaning_id": "안내견_일반명사-1",
+      "rationale_short": "시각장애인 보조라는 명확한 역할이 있어 보건과 의료 영역에 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "장애인 보조"
+    },
+    {
+      "meaning_id": "안심_일반명사-1",
+      "rationale_short": "명확한 내면의 감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "마음의 평온"
+    },
+    {
+      "meaning_id": "암세포_일반명사-1",
+      "rationale_short": "질병의 원인이 되는 특정 세포로, 보건과 의료 영역에 명확히 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 관련 세포"
+    },
+    {
+      "meaning_id": "앨범_일반명사-1",
+      "rationale_short": "사진이나 음반을 모으는 용도로, 여가 활동과 밀접하게 관련됨.",
+      "root": "여가와 취미",
+      "category_label_ko": "기록물 보관"
+    },
+    {
+      "meaning_id": "약값_일반명사-1",
+      "rationale_short": "약과 관련된 비용으로, 보건과 의료 영역에 명확히 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "의료비용"
+    },
+    {
+      "meaning_id": "약자_일반명사-1",
+      "rationale_short": "사회적 지위나 힘에 따른 사람의 분류.",
+      "root": "사람과 관계",
+      "category_label_ko": "사회적 약자"
+    },
+    {
+      "meaning_id": "약자_일반명사-2",
+      "rationale_short": "언어 표현의 한 형태로, 특정 상황이나 지시와 관련된 일반적인 개념.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "언어 표현 방식"
+    },
+    {
+      "meaning_id": "양육_일반명사-1",
+      "rationale_short": "가족 관계 내에서 아이를 키우는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "자녀 돌봄"
+    },
+    {
+      "meaning_id": "어깨_일반명사-1",
+      "rationale_short": "명확한 신체 부위로, 보건과 의료 영역에 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위"
+    },
+    {
+      "meaning_id": "어둠_일반명사-1",
+      "rationale_short": "빛의 유무에 따른 환경 상태를 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "빛의 부재"
+    },
+    {
+      "meaning_id": "어르신_일반명사-1",
+      "rationale_short": "나이와 존칭에 따른 사람의 분류 및 호칭.",
+      "root": "사람과 관계",
+      "category_label_ko": "연장자 호칭"
+    },
+    {
+      "meaning_id": "얼룩_일반명사-1",
+      "rationale_short": "시각적으로 보이는 더러운 자국을 묘사하는 개념.",
+      "root": "감각과 묘사",
+      "category_label_ko": "오염 자국"
+    },
+    {
+      "meaning_id": "얼리다_동사-1",
+      "rationale_short": "물체를 차게 하여 굳히는 일상적인 행위.",
+      "root": "주거와 일상",
+      "category_label_ko": "물체 냉각"
+    },
+    {
+      "meaning_id": "여름철_일반명사-1",
+      "rationale_short": "명확한 시간의 흐름(계절)을 나타내는 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "계절 시기"
+    },
+    {
+      "meaning_id": "여인_일반명사-1",
+      "rationale_short": "사람의 성별과 연령에 따른 분류.",
+      "root": "사람과 관계",
+      "category_label_ko": "성인 여성"
+    },
+    {
+      "meaning_id": "여주인_일반명사-1",
+      "rationale_short": "특정 장소나 사업체를 관리하는 여성의 역할.",
+      "root": "직장과 업무",
+      "category_label_ko": "여성 관리자"
+    },
+    {
+      "meaning_id": "여파_일반명사-1",
+      "rationale_short": "어떤 사건의 결과로 나타나는 영향을 의미하며, 논리적 인과 관계에 해당.",
+      "root": "논리와 연결",
+      "category_label_ko": "사건의 영향"
+    },
+    {
+      "meaning_id": "역대_일반명사-1",
+      "rationale_short": "지나온 시간의 연속적인 흐름을 나타내는 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거의 연속"
+    },
+    {
+      "meaning_id": "연구진_일반명사-1",
+      "rationale_short": "연구라는 특정 업무를 수행하는 사람들의 집단.",
+      "root": "직장과 업무",
+      "category_label_ko": "연구 수행 인력"
+    },
+    {
+      "meaning_id": "연극제_일반명사-1",
+      "rationale_short": "연극이라는 문화 예술 활동과 관련된 행사.",
+      "root": "문화와 사회",
+      "category_label_ko": "연극 예술 행사"
+    },
+    {
+      "meaning_id": "연꽃_일반명사-1",
+      "rationale_short": "자연에 존재하는 특정 식물(꽃).",
+      "root": "날씨와 자연",
+      "category_label_ko": "수생 식물"
+    },
+    {
+      "meaning_id": "연민_일반명사-1",
+      "rationale_short": "명확한 내면의 감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "동정심"
+    },
+    {
+      "meaning_id": "염려_일반명사-1",
+      "rationale_short": "명확한 내면의 감정 상태.",
+      "root": "내면과 감정",
+      "category_label_ko": "미래 걱정"
+    },
+    {
+      "meaning_id": "영양소_일반명사-1",
+      "rationale_short": "음식의 기본 성분으로, 식생활과 밀접하게 관련됨.",
+      "root": "식생활",
+      "category_label_ko": "음식 성분"
+    },
+    {
+      "meaning_id": "오랑우탄_일반명사-1",
+      "rationale_short": "자연에 존재하는 특정 동물.",
+      "root": "날씨와 자연",
+      "category_label_ko": "야생 유인원"
+    },
+    {
+      "meaning_id": "오른손_일반명사-1",
+      "rationale_short": "명확한 신체 부위로, 보건과 의료 영역에 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위"
+    },
+    {
+      "meaning_id": "옥_일반명사-1",
+      "rationale_short": "일상생활에서 사용되거나 소장되는 보석의 한 종류.",
+      "root": "주거와 일상",
+      "category_label_ko": "보석 광물"
+    },
+    {
+      "meaning_id": "온통_일반부사-1",
+      "rationale_short": "전체를 나타내는 수량적 개념의 부사.",
+      "root": "수량과 단위",
+      "category_label_ko": "전체 수량"
+    },
+    {
+      "meaning_id": "완전히_일반부사-1",
+      "rationale_short": "어떤 상태나 행위의 완전한 정도를 나타내는 부사.",
+      "root": "수량과 단위",
+      "category_label_ko": "완전한 정도"
+    },
+    {
+      "meaning_id": "왕년_일반명사-1",
+      "rationale_short": "명확한 시간의 흐름(과거)을 나타내는 개념.",
+      "root": "시간과 흐름",
+      "category_label_ko": "과거의 시간"
+    },
+    {
+      "meaning_id": "왼손_일반명사-1",
+      "rationale_short": "명확한 신체 부위로, 보건과 의료 영역에 속함.",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위"
+    },
+    {
+      "meaning_id": "우주인_일반명사-1",
+      "rationale_short": "우주 탐사라는 특정 업무를 수행하는 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "우주 탐사 직업"
+    },
+    {
+      "meaning_id": "운동선수_일반명사-1",
+      "rationale_short": "운동 경기를 직업으로 하는 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "스포츠 직업"
+    },
+    {
+      "meaning_id": "운영자_일반명사-1",
+      "rationale_short": "기관이나 시스템을 관리하는 역할을 맡은 사람.",
+      "root": "직장과 업무",
+      "category_label_ko": "기관 관리자"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "앞서다_동사-1",
+      "rationale_short": "물리적 위치, 시간, 능력 등 여러 맥락에서 사용되어 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "다양한 맥락(물리적, 시간적, 능력적)에서 사용되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "억제_일반명사-1",
+      "rationale_short": "감정, 행동 등 다양한 대상을 억제하는 행위로, 내면/성격/행위 등 여러 영역과 경계가 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "감정, 행동 등 다양한 대상을 억제하는 행위로, 내면/성격/행위 등 여러 영역과 경계가 모호함."
+    },
+    {
+      "meaning_id": "엮다_동사-1",
+      "rationale_short": "물리적 행위와 비유적 의미가 혼재되어 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적인 엮는 행위와 비유적인 의미(이야기를 엮다 등)가 혼재되어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "열기_일반명사-1",
+      "rationale_short": "물리적 기운과 추상적 분위기라는 두 가지 의미가 있어 모호함.",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적인 뜨거운 기운과 추상적인 분위기라는 두 가지 의미가 있어 분류 모호성이 있음."
+    },
+    {
+      "meaning_id": "열풍_일반명사-1",
+      "rationale_short": "물리적 바람과 사회적 유행이라는 두 가지 의미가 있어 모호함.",
+      "root": "날씨와 자연",
+      "candidate_reason": "물리적인 뜨거운 바람과 사회적 유행이라는 두 가지 의미가 있어 분류 모호성이 있음."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "물리적/추상적 의미가 혼재된 단어 (예: 열기, 열풍, 엮다)는 분류 모호성이 높아 candidate로 분류되는 경향이 있음.",
+      "신체 부위는 '보건과 의료'로 명확히 분류되지만, '세포'와 같은 더 미시적인 생물학적 용어는 '암세포'처럼 질병과 연관될 때만 '보건과 의료'로 분류됨."
+    ],
+    "ia_suggestions": [
+      "언어 관련 개념(예: 약자_일반명사-2)을 위한 '언어와 소통' 또는 '언어와 표현'과 같은 새로운 루트를 고려하여 '상황 지시/기타' 루트의 범위를 좁힐 수 있습니다.",
+      "직업/역할어의 경우, '직장과 업무'와 '여가와 취미' 간의 경계가 모호할 수 있으므로, '전문성/직업성' 여부를 판단 기준으로 명확히 할 필요가 있습니다."
+    ]
+  }
+}

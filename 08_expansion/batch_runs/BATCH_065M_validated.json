@@ -1,0 +1,376 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "빚_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "재정적 개념으로, 특정 활동(직장, 주거)에 국한되지 않고 여러 상황에 적용될 수 있어 분류 모호성이 있음. 일반적인 개념으로 임시 분류.",
+      "exclusion_reason": null,
+      "rationale_short": "재정적 개념, 여러 상황에 적용 가능하여 모호함."
+    },
+    {
+      "meaning_id": "빨간색_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색깔을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "빨래_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "집안일",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상적인 집안일 활동."
+    },
+    {
+      "meaning_id": "사기_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "범죄와 법률",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 범죄 행위를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "사상_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "사람의 생각 체계를 나타내는 추상적인 개념으로, 내면적 사고와 관련이 깊으나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 사고 체계, 내면적 개념."
+    },
+    {
+      "meaning_id": "사업자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "직업과 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사업을 운영하는 직업/역할을 나타내는 어휘."
+    },
+    {
+      "meaning_id": "사이즈_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "크기와 치수",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건의 크기를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "산림_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 환경",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 환경의 한 종류를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "상상력_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "머릿속으로 떠올리는 능력을 나타내는 추상적인 개념으로, 내면적 사고와 관련이 깊으나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 능력, 내면적 개념."
+    },
+    {
+      "meaning_id": "색상_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색의 종류를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "생략_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "중간 부분을 빼고 줄이는 행위나 개념으로, 정보의 구성 방식과 관련이 깊으나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "정보 구성 개념, 논리적 행위."
+    },
+    {
+      "meaning_id": "석유_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "자연 자원",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "땅속에서 나는 자연 자원을 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "선글라스_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "패션 소품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "구매하여 사용하는 패션 소품."
+    },
+    {
+      "meaning_id": "선풍기_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "가전제품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집에서 사용하는 가전제품."
+    },
+    {
+      "meaning_id": "설득_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "남의 마음을 움직이는 행위로, 대인 관계 및 소통과 관련이 깊으나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "대인 관계 소통 행위."
+    },
+    {
+      "meaning_id": "성능_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "기계나 도구의 능력을 나타내는 추상적인 속성으로, 사물의 특성을 묘사하는 개념이나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "사물의 추상적 속성, 묘사 개념."
+    },
+    {
+      "meaning_id": "세로_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "방향과 치수",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "방향 및 치수를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "세일_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "할인 행사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 할인하여 파는 상업적 행사."
+    },
+    {
+      "meaning_id": "소음_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시끄러운 소리를 나타내는 감각 표현."
+    },
+    {
+      "meaning_id": "소형_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "크기 분류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "크기를 분류하는 명확한 어휘."
+    },
+    {
+      "meaning_id": "속성_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물이나 사람의 본래 성질을 나타내는 추상적인 개념으로, 특성을 묘사하는 개념이나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "사물의 추상적 성질, 묘사 개념."
+    },
+    {
+      "meaning_id": "손가락_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "숨기다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "남이 보거나 알지 못하게 감추는 일반적인 행위로, 특정 상황에 국한되지 않아 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적인 행위, 여러 상황에 적용 가능."
+    },
+    {
+      "meaning_id": "실질_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "내용이나 본바탕을 나타내는 추상적인 개념으로, 겉모습과 대비되는 본질을 의미하여 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 본질 개념, 논리적 대비."
+    },
+    {
+      "meaning_id": "아이스크림_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음식 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "차가운 디저트 음식 종류."
+    },
+    {
+      "meaning_id": "아홉_수사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "숫자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "수를 나타내는 명확한 어휘."
+    },
+    {
+      "meaning_id": "안내문_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "정보 전달",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정보를 알리는 공공 문서."
+    },
+    {
+      "meaning_id": "안전벨트_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "안전 장치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단 내 안전 장치."
+    },
+    {
+      "meaning_id": "암컷_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "동물의 성별을 나타내는 생물학적 분류로, '신체 부위'나 '의료 증상'에 해당하지 않아 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "동물 생물학적 분류."
+    },
+    {
+      "meaning_id": "앞뒤_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "사물의 앞과 뒤, 또는 일의 전후 관계를 모두 의미하여 공간적, 시간적, 논리적 의미가 혼재되어 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "다의적 의미 (공간/시간/논리)."
+    },
+    {
+      "meaning_id": "앞자리_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "좌석 위치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단 내 좌석 위치."
+    },
+    {
+      "meaning_id": "앞쪽_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "방향 지시",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "방향을 지시하는 명확한 어휘."
+    },
+    {
+      "meaning_id": "얘기_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "대화와 소통",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람 간의 대화 행위."
+    },
+    {
+      "meaning_id": "어미_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "아이를 낳은 여자 동물을 나타내는 생물학적 역할로, '신체 부위'나 '의료 증상'에 해당하지 않아 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "동물 생물학적 역할."
+    },
+    {
+      "meaning_id": "언론_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "미디어와 정보",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "정보를 알리는 사회적 활동/기관."
+    },
+    {
+      "meaning_id": "여기저기_일반명사-1",
+      "bucket": "core",
+      "root": "지시와 질문",
+      "category_label_ko": "장소 지시",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 장소를 지시하는 명확한 어휘."
+    },
+    {
+      "meaning_id": "여보_감탄사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "호칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "배우자를 부르는 호칭."
+    },
+    {
+      "meaning_id": "여행객_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "여행자",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여행을 하는 사람의 역할."
+    },
+    {
+      "meaning_id": "역량_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 일을 해낼 수 있는 능력을 나타내는 추상적인 개념으로, 개인의 특성이나 능력과 관련이 깊으나 분류 모호성이 있음.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 능력, 개인의 특성."
+    },
+    {
+      "meaning_id": "연극인_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 직업",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "연극을 직업으로 하는 사람, 문화 예술 분야의 역할."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 (예: 빚, 사상, 상상력, 생략, 성능, 속성, 실질, 역량)는 특정 도메인에 명확히 속하기 어려워 'candidate'로 분류되는 경향이 있음. 이들은 주로 '내면과 감정', '논리와 연결', '감각과 묘사', '상황 지시/기타', '성격과 태도' 등의 임시 root로 배정됨.",
+      "다의적인 의미를 가진 어휘 (예: 앞뒤 - 공간/시간/논리)는 분류 모호성이 높아 'candidate'로 분류됨.",
+      "생물학적 분류어 (예: 암컷, 어미)는 '신체 부위'나 '의료 증상'에 직접 해당하지 않아 '날씨와 자연' root의 'candidate'로 분류됨."
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어를 위한 '개념과 원리' 또는 '추상적 사고'와 같은 별도의 root를 신설하여 '논리와 연결', '상황 지시/기타', '내면과 감정' 등에 분산된 추상어휘들을 보다 체계적으로 관리할 필요가 있음.",
+      "'감각과 묘사' root의 하위에 '속성/특성' 또는 '성질'과 같은 세부 카테고리를 추가하여 '성능', '속성'과 같은 어휘를 명확히 분류할 수 있도록 제안함.",
+      "'문화와 사회' root 내에 '법률과 제도' 또는 '범죄와 법률'과 같은 하위 카테고리를 명시적으로 정의하여 '사기'와 같은 어휘를 더욱 구체적으로 분류할 수 있도록 제안함."
+    ]
+  }
+}

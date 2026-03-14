@@ -1,0 +1,6467 @@
+{
+  "리본_일반명사-1": {
+    "id": "리본_일반명사-1",
+    "def_ko": "머리, 모자, 선물 등을 장식할 때 쓰는 끈이나 띠",
+    "related_vocab": [
+      "장식품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마그네슘_일반명사-1": {
+    "id": "마그네슘_일반명사-1",
+    "def_ko": "가볍고 은회색인 금속 원소",
+    "related_vocab": [
+      "알루미늄",
+      "탄소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mageunesyum"
+  },
+  "마늘_일반명사-1": {
+    "id": "마늘_일반명사-1",
+    "def_ko": "통통한 작은 덩이 여러 쪽이 둥근 모양을 이루고 있고, 독특한 냄새가 있어 양념과 반찬에 널리 쓰이는 채소",
+    "related_vocab": [
+      "깨",
+      "향신료",
+      "국물",
+      "양배추"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "다지다_동사-1",
+          "target_term": "다지다",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "요리와 주방 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "마당_일반명사-1": {
+    "id": "마당_일반명사-1",
+    "def_ko": "집 안에서 하늘이 보이는 빈 너른 곳",
+    "related_vocab": [
+      "우물",
+      "땅",
+      "뜰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "madang"
+  },
+  "마디_일반명사-1": {
+    "id": "마디_일반명사-1",
+    "def_ko": "갈대나 나무 등의 줄기에서 가지나 잎이 나는, 가운데가 오목하거나 볼록한 부분",
+    "related_vocab": [
+      "대나무"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마라톤_일반명사-1": {
+    "id": "마라톤_일반명사-1",
+    "def_ko": "약 42킬로미터를 달리는 장거리 달리기 경기",
+    "related_vocab": [
+      "육상",
+      "조깅",
+      "달리기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maraton"
+  },
+  "마루_일반명사-1": {
+    "id": "마루_일반명사-1",
+    "def_ko": "방이나 거실에서 나무로 깐 바닥 부분",
+    "related_vocab": [
+      "목재",
+      "집안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maru"
+  },
+  "마르다_동사-2": {
+    "id": "마르다_동사-2",
+    "def_ko": "몸에 살이 빠져 여위게 되다",
+    "related_vocab": [
+      "비만",
+      "살찌다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mareuda"
+  },
+  "마름_일반명사-1": {
+    "id": "마름_일반명사-1",
+    "def_ko": "몸이 마른 상태",
+    "related_vocab": [
+      "살찌다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mareum"
+  },
+  "마사지_일반명사-1": {
+    "id": "마사지_일반명사-1",
+    "def_ko": "손으로 몸을 두드리거나 주물러서 근육의 긴장을 풀어 주는 일",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마수걸이_일반명사-1": {
+    "id": "마수걸이_일반명사-1",
+    "def_ko": "어떤 일을 시작한 뒤 처음으로 올린 실적이나 판매",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "masugeori"
+  },
+  "마술_일반명사-1": {
+    "id": "마술_일반명사-1",
+    "def_ko": "눈속임으로 이상한 일이 일어나는 것처럼 보이게 하는 기술",
+    "related_vocab": [
+      "묘기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "masul"
+  },
+  "마술사_일반명사-1": {
+    "id": "마술사_일반명사-1",
+    "def_ko": "마술을 공연하는 사람",
+    "related_vocab": [
+      "묘기",
+      "무용가",
+      "무용수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "masulsa"
+  },
+  "마시다_동사-1": {
+    "id": "마시다_동사-1",
+    "def_ko": "액체를 입을 통해 목으로 넘기다",
+    "related_vocab": [
+      "녹차",
+      "독주",
+      "생수",
+      "술",
+      "아메리카노"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "masida"
+  },
+  "마약_일반명사-1": {
+    "id": "마약_일반명사-1",
+    "def_ko": "먹거나 주사를 맞으면 마취나 환각을 일으켜 자주 쓰면 중독이 되는 약물",
+    "related_vocab": [
+      "약물",
+      "물약"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마우스_일반명사-1": {
+    "id": "마우스_일반명사-1",
+    "def_ko": "책상 위에 올려 두고 손으로 잡아 끌거나 눌러서 컴퓨터를 작동시키는 장치",
+    "related_vocab": [
+      "입력",
+      "자판",
+      "컴퓨터"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마을_일반명사-1": {
+    "id": "마을_일반명사-1",
+    "def_ko": "사람들이 모여 사는 작은 지역",
+    "related_vocab": [
+      "도시",
+      "골목",
+      "골목길",
+      "교외",
+      "농가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maeul"
+  },
+  "마이크_일반명사-1": {
+    "id": "마이크_일반명사-1",
+    "def_ko": "소리를 전기로 바꾸어 크게 들리게 하는 기구",
+    "related_vocab": [
+      "수화기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maikeu"
+  },
+  "마일리지_일반명사-1": {
+    "id": "마일리지_일반명사-1",
+    "def_ko": "이용한 거리나 실적에 따라 쌓이는 포인트",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mailriji"
+  },
+  "마주_일반부사-1": {
+    "id": "마주_일반부사-1",
+    "def_ko": "서로 얼굴을 향하여",
+    "related_vocab": [
+      "반대쪽",
+      "반대편",
+      "정면",
+      "대각선"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맞은편_일반명사-1",
+          "target_term": "맞은편",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "maju"
+  },
+  "마주하다_동사-1": {
+    "id": "마주하다_동사-1",
+    "def_ko": "서로 얼굴을 맞대고 있다",
+    "related_vocab": [
+      "만나다",
+      "면담",
+      "접견",
+      "데이트",
+      "부둥켜안다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "majuhada"
+  },
+  "마중_일반명사-1": {
+    "id": "마중_일반명사-1",
+    "def_ko": "역이나 공항 등에 나가서 자기를 찾아오는 사람을 맞이함",
+    "related_vocab": [
+      "환영",
+      "데려가다",
+      "데려오다",
+      "맞아들이다",
+      "방문"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "마직물_일반명사-1": {
+    "id": "마직물_일반명사-1",
+    "def_ko": "마 줄기에서 얻은 섬유로 짠 옷감",
+    "related_vocab": [
+      "상품",
+      "셔츠",
+      "의류",
+      "의복",
+      "코트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "majigmul"
+  },
+  "마찰_일반명사-1": {
+    "id": "마찰_일반명사-1",
+    "def_ko": "서로 맞닿은 물체가 미끄러지려 할 때 생기는 힘",
+    "related_vocab": [
+      "부딪치다",
+      "붙이다",
+      "맞대다",
+      "전기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "machal"
+  },
+  "마케팅_일반명사-1": {
+    "id": "마케팅_일반명사-1",
+    "def_ko": "물건이나 서비스를 잘 팔기 위한 모든 활동",
+    "related_vocab": [
+      "구매",
+      "출시",
+      "발매",
+      "소비자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maketing"
+  },
+  "마켓_일반명사-1": {
+    "id": "마켓_일반명사-1",
+    "def_ko": "물건을 사고파는 상점이나 시장",
+    "related_vocab": [
+      "마트",
+      "백화점",
+      "상점",
+      "시장",
+      "야시장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maket"
+  },
+  "마크_일반명사-1": {
+    "id": "마크_일반명사-1",
+    "def_ko": "어떤 것의 특징을 나타내는 표시나 기호",
+    "related_vocab": [
+      "디자인",
+      "발자국"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "makeu"
+  },
+  "마트_일반명사-1": {
+    "id": "마트_일반명사-1",
+    "def_ko": "여러 가지 물건을 파는 큰 상점",
+    "related_vocab": [
+      "마켓",
+      "매장",
+      "상점",
+      "식품점",
+      "정육점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mateu"
+  },
+  "막걸리_일반명사-1": {
+    "id": "막걸리_일반명사-1",
+    "def_ko": "맛이 약간 텁텁하며 쌀로 만든 한국 고유의 하얀색 술",
+    "related_vocab": [
+      "맥주",
+      "소주",
+      "주류"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "막내_일반명사-1": {
+    "id": "막내_일반명사-1",
+    "def_ko": "형제자매 가운데 나이가 가장 작은 사람",
+    "related_vocab": [
+      "남동생",
+      "동생",
+      "여동생",
+      "작은딸",
+      "장남"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maknae"
+  },
+  "막대_일반명사-1": {
+    "id": "막대_일반명사-1",
+    "def_ko": "가늘고 기다란 막대기 모양의 물건",
+    "related_vocab": [
+      "막대기",
+      "매",
+      "물건",
+      "물체",
+      "섬유"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "makdae"
+  },
+  "막대기_일반명사-1": {
+    "id": "막대기_일반명사-1",
+    "def_ko": "나무나 쇠, 유리 등의 길고 가느다란 토막",
+    "related_vocab": [
+      "막대",
+      "매",
+      "유리",
+      "꽂다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "막차_일반명사-1": {
+    "id": "막차_일반명사-1",
+    "def_ko": "그날 마지막으로 운행되는 차",
+    "related_vocab": [
+      "대중교통",
+      "지하철",
+      "차",
+      "첫차"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "막히다_동사-1": {
+    "id": "막히다_동사-1",
+    "def_ko": "길이나 구멍이 막혀 통하지 않게 되다",
+    "related_vocab": [
+      "꺾다",
+      "붙다",
+      "출구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "가리다_동사-1",
+          "target_term": "가리다",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "makhida"
+  },
+  "만나다_동사-1": {
+    "id": "만나다_동사-1",
+    "def_ko": "서로 마주 보게 되다",
+    "related_vocab": [
+      "마주하다",
+      "만남",
+      "맺다",
+      "면담",
+      "사귀다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mannada"
+  },
+  "만남_일반명사-1": {
+    "id": "만남_일반명사-1",
+    "def_ko": "사람과 사람이 서로 만나는 일",
+    "related_vocab": [
+      "동창회",
+      "만나다",
+      "맺다",
+      "주고받다",
+      "대인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mannam"
+  },
+  "만두_일반명사-1": {
+    "id": "만두_일반명사-1",
+    "def_ko": "밀가루를 반죽하여 얇게 민 후 그 위에 다진 고기나 야채 등 여러 가지 음식을 넣고 빚은 음식",
+    "related_vocab": [
+      "송편",
+      "되씹다",
+      "분식",
+      "짬뽕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "만성병_일반명사-1": {
+    "id": "만성병_일반명사-1",
+    "def_ko": "오랫동안 낫지 않고 계속되는 병",
+    "related_vocab": [
+      "우울증",
+      "낫다",
+      "간암",
+      "당뇨병",
+      "살아남다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "manseongbyeong"
+  },
+  "만연_일반명사-1": {
+    "id": "만연_일반명사-1",
+    "def_ko": "좋지 않은 현상이나 병이 널리 퍼져 있음",
+    "related_vocab": [
+      "홍보",
+      "국제화",
+      "실례",
+      "위기",
+      "폐단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "manyeon"
+  },
+  "만원_일반명사-1": {
+    "id": "만원_일반명사-1",
+    "def_ko": "어떤 공간 안에 사람이 들어갈 수 있는 만큼 가득 들어참",
+    "related_vocab": [
+      "중심지",
+      "지역",
+      "공간",
+      "빼내다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "만화_일반명사-1": {
+    "id": "만화_일반명사-1",
+    "def_ko": "그림과 글로 이야기를 재미있게 나타낸 책이나 작품",
+    "related_vocab": [
+      "그림책",
+      "동화",
+      "영화",
+      "각색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "만화책_일반명사-1",
+          "target_term": "만화책",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "취미 활동과 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "manhwa"
+  },
+  "만화가_일반명사-1": {
+    "id": "만화가_일반명사-1",
+    "def_ko": "만화를 그리는 일을 직업으로 하는 사람",
+    "related_vocab": [
+      "동양화가",
+      "디자이너",
+      "미술가",
+      "미용사",
+      "번역가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "manhwaga"
+  },
+  "만화방_일반명사-1": {
+    "id": "만화방_일반명사-1",
+    "def_ko": "만화를 빌려 보거나 읽을 수 있게 해 주는 가게",
+    "related_vocab": [
+      "서점",
+      "전문점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "대여_일반명사-1",
+          "target_term": "대여",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "구매와 결제",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "manhwabang"
+  },
+  "만화책_일반명사-1": {
+    "id": "만화책_일반명사-1",
+    "def_ko": "그림과 말풍선 등으로 내용을 표현한 책",
+    "related_vocab": [
+      "애호가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "만화_일반명사-1",
+          "target_term": "만화",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "예술과 관람",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "문학_일반명사-1",
+          "target_term": "문학",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "예술과 관람",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "manhwachaek"
+  },
+  "말리다_동사-1": {
+    "id": "말리다_동사-1",
+    "def_ko": "젖은 것을 바람이나 열로 물기가 없어지게 하다",
+    "related_vocab": [
+      "까다",
+      "깎다",
+      "녹이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mallida"
+  },
+  "말리다_동사-2": {
+    "id": "말리다_동사-2",
+    "def_ko": "남이 어떤 일을 하지 못하게 그만두라고 하다",
+    "related_vocab": [
+      "타이르다",
+      "혼내다",
+      "간섭"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "금하다_동사-1",
+          "target_term": "금하다",
+          "target_system": "마음과 표현",
+          "target_root": "의견과 가치",
+          "target_category": "주관적 가치 평가",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "mallida"
+  },
+  "맛집_일반명사-1": {
+    "id": "맛집_일반명사-1",
+    "def_ko": "음식이 맛있다고 소문난 집이나 가게",
+    "related_vocab": [
+      "국숫집",
+      "메뉴"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "배고프다_형용사-1",
+          "target_term": "배고프다",
+          "target_system": "마음과 표현",
+          "target_root": "내면과 감정",
+          "target_category": "심리 상태와 의지",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "제철_일반명사-2",
+          "target_term": "제철",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "식재료와 양념",
+          "hook_id": "H08"
+        }
+      ]
+    },
+    "phonetic_romanization": "matjip"
+  },
+  "망가지다_동사-1": {
+    "id": "망가지다_동사-1",
+    "def_ko": "제대로 작동하지 못할 정도로 부서지거나 헐어지다",
+    "related_vocab": [
+      "기계",
+      "기능",
+      "깨어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "manggajida"
+  },
+  "망고_일반명사-1": {
+    "id": "망고_일반명사-1",
+    "def_ko": "노랗거나 붉은색으로 익고 달콤한 열대 과일",
+    "related_vocab": [
+      "바나나",
+      "감",
+      "레몬",
+      "오렌지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mango"
+  },
+  "망원경_일반명사-1": {
+    "id": "망원경_일반명사-1",
+    "def_ko": "멀리 있는 물체를 크게 보이게 하는 기구",
+    "related_vocab": [
+      "굴절",
+      "렌즈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mangwon-gyeong"
+  },
+  "망하다_동사-1": {
+    "id": "망하다_동사-1",
+    "def_ko": "개인이나 집단이 제 구실을 하지 못하여 흩어지거나 없어지다",
+    "related_vocab": [
+      "격파",
+      "난",
+      "사기",
+      "위기",
+      "재난"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "맞다_동사-3": {
+    "id": "맞다_동사-3",
+    "def_ko": "주먹, 총알, 주사 등 무엇에 부딪혀 피해를 입다",
+    "related_vocab": [
+      "주사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "주먹_일반명사-1",
+          "target_term": "주먹",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "신체 부위",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "물리다_동사-1",
+          "target_term": "물리다",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "질병과 증상",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "멍_일반명사-1",
+          "target_term": "멍",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "질병과 증상",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "mattta"
+  },
+  "맞대다_동사-1": {
+    "id": "맞대다_동사-1",
+    "def_ko": "두 물건의 면이나 끝을 서로 닿게 대다",
+    "related_vocab": [
+      "부딪치다",
+      "부딪히다",
+      "붙이다",
+      "엮다",
+      "마찰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "matdaeda"
+  },
+  "맞벌이_일반명사-1": {
+    "id": "맞벌이_일반명사-1",
+    "def_ko": "부부가 둘 다 직업을 가지고 돈을 벎. 또는 그런 일",
+    "related_vocab": [
+      "벌다",
+      "급여"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "돈벌이_일반명사-1",
+          "target_term": "돈벌이",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "업무와 회의",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "맞아들이다_동사-1": {
+    "id": "맞아들이다_동사-1",
+    "def_ko": "오는 사람을 반갑게 받아들이다",
+    "related_vocab": [
+      "데려오다",
+      "들어주다",
+      "마중",
+      "초청"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "majadeurida"
+  },
+  "맡기다_동사-1": {
+    "id": "맡기다_동사-1",
+    "def_ko": "일이나 물건을 다른 사람이 책임지도록 넘기다",
+    "related_vocab": [
+      "건네다",
+      "건네주다",
+      "나누다",
+      "대신",
+      "들어주다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "matgida"
+  },
+  "맡다_동사-1": {
+    "id": "맡다_동사-1",
+    "def_ko": "일이나 역할을 책임지고 하게 되다",
+    "related_vocab": [
+      "관리",
+      "담당",
+      "도맡다",
+      "섭외"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "되다_동사-4",
+          "target_term": "되다",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "인사 활동과 처우",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "mattta"
+  },
+  "매_일반명사-1": {
+    "id": "매_일반명사-1",
+    "def_ko": "사람이나 짐승을 때리는 막대기. 또는 그것으로 때리는 일",
+    "related_vocab": [
+      "막대",
+      "막대기",
+      "누르다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "매다_동사-2": {
+    "id": "매다_동사-2",
+    "def_ko": "넥타이, 가방 등을 몸에 걸거나 두르다",
+    "related_vocab": [
+      "넥타이",
+      "단추",
+      "띠다",
+      "메다",
+      "입다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maeda"
+  },
+  "매도_일반명사-1": {
+    "id": "매도_일반명사-1",
+    "def_ko": "재산이나 권리를 남에게 파는 일",
+    "related_vocab": [
+      "공급",
+      "매매",
+      "매입",
+      "경제",
+      "매수자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maedo"
+  },
+  "매듭_일반명사-1": {
+    "id": "매듭_일반명사-1",
+    "def_ko": "줄이나 끈을 엮어 묶은 부분",
+    "related_vocab": [
+      "가죽",
+      "고무"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maedeup"
+  },
+  "매매_일반명사-1": {
+    "id": "매매_일반명사-1",
+    "def_ko": "물건이나 권리를 사고파는 일",
+    "related_vocab": [
+      "교역",
+      "매도",
+      "매입",
+      "경제",
+      "공급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maemae"
+  },
+  "매설_일반명사-1": {
+    "id": "매설_일반명사-1",
+    "def_ko": "지하에 선로나 관, 지뢰 등을 묻어 두는 일",
+    "related_vocab": [
+      "가로등",
+      "댐",
+      "발전소",
+      "처리장",
+      "전봇대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maeseol"
+  },
+  "매수자_일반명사-1": {
+    "id": "매수자_일반명사-1",
+    "def_ko": "물건이나 권리를 사는 사람",
+    "related_vocab": [
+      "매도",
+      "매입",
+      "수요",
+      "투자자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maesuja"
+  },
+  "매운탕_일반명사-1": {
+    "id": "매운탕_일반명사-1",
+    "def_ko": "생선과 채소를 넣고 고추장을 풀어 얼큰하게 끓인 찌개",
+    "related_vocab": [
+      "갈비탕",
+      "김치찌개",
+      "닭갈비",
+      "미역국",
+      "조림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "매입_일반명사-1": {
+    "id": "매입_일반명사-1",
+    "def_ko": "물건이나 자원을 사들여 들이는 일",
+    "related_vocab": [
+      "매도",
+      "매매",
+      "투자",
+      "매수자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maeip"
+  },
+  "매장_일반명사-1": {
+    "id": "매장_일반명사-1",
+    "def_ko": "물건을 진열하여 파는 가게나 코너",
+    "related_vocab": [
+      "가게",
+      "마트",
+      "상점",
+      "입점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "진열_일반명사-1",
+          "target_term": "진열",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "상품 종류",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "maejang"
+  },
+  "매장_일반명사-2": {
+    "id": "매장_일반명사-2",
+    "def_ko": "시체나 물건을 땅속에 묻는 일",
+    "related_vocab": [
+      "무덤",
+      "초상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "발굴_일반명사-1",
+          "target_term": "발굴",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "국가와 역사",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "maejang"
+  },
+  "매장량_일반명사-1": {
+    "id": "매장량_일반명사-1",
+    "def_ko": "땅속에 묻혀 있는 광물이나 자원의 양",
+    "related_vocab": [
+      "굴",
+      "동굴",
+      "땅",
+      "땅속",
+      "광물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maejangnyang"
+  },
+  "매점_일반명사-1": {
+    "id": "매점_일반명사-1",
+    "def_ko": "어떤 기관이나 시설 안에서 물건을 파는 작은 상점",
+    "related_vocab": [
+      "가게",
+      "문방구",
+      "백화점",
+      "상점",
+      "자판기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "매진_일반명사-1": {
+    "id": "매진_일반명사-1",
+    "def_ko": "물건이 모두 팔려 더 이상 남지 않음",
+    "related_vocab": [
+      "팔리다",
+      "예매",
+      "유통",
+      "품절"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maejin"
+  },
+  "매출_일반명사-1": {
+    "id": "매출_일반명사-1",
+    "def_ko": "물건이나 서비스를 팔아 얻은 전체 금액",
+    "related_vocab": [
+      "경제",
+      "공급원",
+      "수익",
+      "수입원",
+      "적자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maechul"
+  },
+  "매출액_일반명사-1": {
+    "id": "매출액_일반명사-1",
+    "def_ko": "팔아서 번 돈의 총금액",
+    "related_vocab": [
+      "수익금",
+      "이윤"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maechuraek"
+  },
+  "매표소_일반명사-1": {
+    "id": "매표소_일반명사-1",
+    "def_ko": "기차, 공연 등의 표를 파는 곳",
+    "related_vocab": [
+      "공공시설",
+      "문화원",
+      "박물관",
+      "입장권",
+      "입장료"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maepyoso"
+  },
+  "매화_일반명사-1": {
+    "id": "매화_일반명사-1",
+    "def_ko": "이른 봄에 하얗거나 분홍 꽃이 피는 나무 또는 그 꽃",
+    "related_vocab": [
+      "개나리",
+      "나무",
+      "봉선화",
+      "연꽃",
+      "피다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maehwa"
+  },
+  "맥주_일반명사-1": {
+    "id": "맥주_일반명사-1",
+    "def_ko": "주로 발효시킨 보리에 물과 쓴맛과 탄산을 더하여 만든 거품이 나는 술",
+    "related_vocab": [
+      "술",
+      "막걸리",
+      "소주",
+      "와인",
+      "음료수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "맨발_일반명사-1": {
+    "id": "맨발_일반명사-1",
+    "def_ko": "양말이나 신발 등을 신지 않은 발",
+    "related_vocab": [
+      "몸통",
+      "발",
+      "발가락",
+      "발목",
+      "발바닥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "맹장_일반명사-1": {
+    "id": "맹장_일반명사-1",
+    "def_ko": "큰창자와 작은창자가 만나는 부분에 붙어 있는 주머니 모양의 기관",
+    "related_vocab": [
+      "간",
+      "내장",
+      "심장",
+      "충수",
+      "뱃속"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maengjang"
+  },
+  "맺다_동사-1": {
+    "id": "맺다_동사-1",
+    "def_ko": "사람 사이에 관계나 약속을 이루어지게 하다",
+    "related_vocab": [
+      "대인",
+      "만나다",
+      "만남",
+      "시집보내다",
+      "약혼"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maettta"
+  },
+  "맺다_동사-2": {
+    "id": "맺다_동사-2",
+    "def_ko": "나무나 풀에 열매나 이슬방울 등이 생기게 되다",
+    "related_vocab": [
+      "눈",
+      "비",
+      "끼다",
+      "서리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "maettta"
+  },
+  "머리_일반명사-1": {
+    "id": "머리_일반명사-1",
+    "def_ko": "사람이나 동물의 목 위에 있는 부분",
+    "related_vocab": [
+      "귀",
+      "귓등",
+      "진땀",
+      "땀",
+      "목"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meori"
+  },
+  "머리채_일반명사-1": {
+    "id": "머리채_일반명사-1",
+    "def_ko": "한 움큼 쥘 수 있을 만큼의 머리털",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meorichae"
+  },
+  "머리카락_일반명사-1": {
+    "id": "머리카락_일반명사-1",
+    "def_ko": "머리에 난 한 올 한 올의 털",
+    "related_vocab": [
+      "길다",
+      "속눈썹",
+      "수염",
+      "털",
+      "피부"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meorikarak"
+  },
+  "머리칼_일반명사-1": {
+    "id": "머리칼_일반명사-1",
+    "def_ko": "머리털 하나하나",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "머리털_일반명사-1": {
+    "id": "머리털_일반명사-1",
+    "def_ko": "머리에 난 털 전체",
+    "related_vocab": [
+      "길다",
+      "털"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meoriteol"
+  },
+  "머슴_일반명사-1": {
+    "id": "머슴_일반명사-1",
+    "def_ko": "옛날에 남의 집에서 농사일을 도와주며 살던 남자 일꾼",
+    "related_vocab": [
+      "농민",
+      "농부",
+      "신하",
+      "종",
+      "하인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meoseum"
+  },
+  "머슴살이_일반명사-1": {
+    "id": "머슴살이_일반명사-1",
+    "def_ko": "남의 집 머슴으로 살며 일하던 생활",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meoseumsari"
+  },
+  "먹고살다_동사-1": {
+    "id": "먹고살다_동사-1",
+    "def_ko": "생계를 유지하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "먹구름_일반명사-1": {
+    "id": "먹구름_일반명사-1",
+    "def_ko": "비가 올 듯 하늘에 짙게 낀 검은 구름",
+    "related_vocab": [
+      "번개",
+      "천둥",
+      "끼다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meokkureum"
+  },
+  "먹을거리_일반명사-1": {
+    "id": "먹을거리_일반명사-1",
+    "def_ko": "먹을 수 있는 여러 가지 음식",
+    "related_vocab": [
+      "까먹다",
+      "송편",
+      "씹다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "식품점_일반명사-1",
+          "target_term": "식품점",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "상점 종류",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "연회_일반명사-1",
+          "target_term": "연회",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "식당 이용과 주문",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "meogeulgeori"
+  },
+  "먹이_일반명사-1": {
+    "id": "먹이_일반명사-1",
+    "def_ko": "동물이나 곤충이 먹는 것",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meogi"
+  },
+  "먹잇감_일반명사-1": {
+    "id": "먹잇감_일반명사-1",
+    "def_ko": "다른 동물에게 잡아먹히는 대상",
+    "related_vocab": [
+      "사냥",
+      "수렵",
+      "일개미",
+      "쥐",
+      "천적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meogitkkam"
+  },
+  "먹히다_동사-1": {
+    "id": "먹히다_동사-1",
+    "def_ko": "다른 존재에게 잡아먹히다",
+    "related_vocab": [
+      "천적",
+      "사냥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meokhida"
+  },
+  "먼지_일반명사-1": {
+    "id": "먼지_일반명사-1",
+    "def_ko": "날아다니는 아주 작은 흙이나 티",
+    "related_vocab": [
+      "분자",
+      "티끌",
+      "묻히다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meonji"
+  },
+  "멀미_일반명사-1": {
+    "id": "멀미_일반명사-1",
+    "def_ko": "차나 배의 흔들림 때문에 메스꺼움을 느끼는 증상",
+    "related_vocab": [
+      "어지럽다",
+      "어질어질",
+      "임신",
+      "토하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meolmi"
+  },
+  "멀어지다_동사-1": {
+    "id": "멀어지다_동사-1",
+    "def_ko": "친하던 사이가 다정하지 않게 되다",
+    "related_vocab": [
+      "단절",
+      "뿌리치다",
+      "꾸중",
+      "배반",
+      "정답다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "멍_일반명사-1": {
+    "id": "멍_일반명사-1",
+    "def_ko": "몸이 부딪혀 피부 아래가 파랗게 변한 자국",
+    "related_vocab": [
+      "동상",
+      "기미",
+      "물리다",
+      "얻어맞다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맞다_동사-3",
+          "target_term": "맞다",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "진료와 치료 행위",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "meong"
+  },
+  "멍멍_일반부사-1": {
+    "id": "멍멍_일반부사-1",
+    "def_ko": "개가 짖는 소리",
+    "related_vocab": [
+      "강아지",
+      "짖다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "멎다_동사-1": {
+    "id": "멎다_동사-1",
+    "def_ko": "비나 눈 등이 그치다",
+    "related_vocab": [
+      "소나기",
+      "끼다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "메뉴_일반명사-1": {
+    "id": "메뉴_일반명사-1",
+    "def_ko": "음식점에서 고를 수 있는 음식 목록",
+    "related_vocab": [
+      "맛집",
+      "밥값",
+      "식당",
+      "카페",
+      "메뉴판"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "menyu"
+  },
+  "메뉴판_일반명사-1": {
+    "id": "메뉴판_일반명사-1",
+    "def_ko": "메뉴를 적어 놓은 판",
+    "related_vocab": [
+      "메뉴",
+      "차림표"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "목록_일반명사-1",
+          "target_term": "목록",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "논리적 관계",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "menyupan"
+  },
+  "메다_동사-1": {
+    "id": "메다_동사-1",
+    "def_ko": "물건을 어깨에 걸치거나 올리다",
+    "related_vocab": [
+      "끼다",
+      "띠다",
+      "매다",
+      "쓰다",
+      "업다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meda"
+  },
+  "메달_일반명사-1": {
+    "id": "메달_일반명사-1",
+    "def_ko": "경기나 대회에서 성적을 기념해 주는 작은 금속판",
+    "related_vocab": [
+      "우승",
+      "출전",
+      "금메달",
+      "입상자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "medal"
+  },
+  "메모_일반명사-1": {
+    "id": "메모_일반명사-1",
+    "def_ko": "기억을 위해 간단히 적는 글",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "memo"
+  },
+  "메모지_일반명사-1": {
+    "id": "메모지_일반명사-1",
+    "def_ko": "메모를 하기 위한 종이. 또는 메모가 적힌 종이",
+    "related_vocab": [
+      "베다",
+      "수첩",
+      "스티커",
+      "신문지",
+      "용지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "메밀_일반명사-1": {
+    "id": "메밀_일반명사-1",
+    "def_ko": "흰 꽃이 피고 열매로 가루를 내어 음식을 만드는 식물",
+    "related_vocab": [
+      "밀",
+      "채소",
+      "보리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "memil"
+  },
+  "메시지_일반명사-1": {
+    "id": "메시지_일반명사-1",
+    "def_ko": "전하려는 글이나 말",
+    "related_vocab": [
+      "공지",
+      "연락처",
+      "편지",
+      "메신저",
+      "메일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mesiji"
+  },
+  "메신저_일반명사-1": {
+    "id": "메신저_일반명사-1",
+    "def_ko": "온라인으로 대화를 주고받는 프로그램",
+    "related_vocab": [
+      "온라인",
+      "메시지",
+      "메일",
+      "이메일",
+      "웹"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mesinjeo"
+  },
+  "메일_일반명사-1": {
+    "id": "메일_일반명사-1",
+    "def_ko": "전자적으로 주고받는 편지",
+    "related_vocab": [
+      "온라인",
+      "메시지",
+      "메신저",
+      "이메일"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meil"
+  },
+  "메주_일반명사-1": {
+    "id": "메주_일반명사-1",
+    "def_ko": "된장을 만들기 위해 콩을 쪄서 뭉쳐 발효시킨 덩어리",
+    "related_vocab": [
+      "발효",
+      "숙성",
+      "콩",
+      "콩나물",
+      "비지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meju"
+  },
+  "며느리_일반명사-1": {
+    "id": "며느리_일반명사-1",
+    "def_ko": "아들의 아내",
+    "related_vocab": [
+      "배우자",
+      "부부",
+      "사위",
+      "시아버지",
+      "시어머니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "면_일반명사-1": {
+    "id": "면_일반명사-1",
+    "def_ko": "얇게 뽑아 만든 음식",
+    "related_vocab": [
+      "콩국수",
+      "국수",
+      "라면",
+      "자장면",
+      "짬뽕"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeon"
+  },
+  "면담_일반명사-1": {
+    "id": "면담_일반명사-1",
+    "def_ko": "고민이나 문젯거리를 가지고 서로 만나서 이야기함",
+    "related_vocab": [
+      "마주하다",
+      "만나다",
+      "의논",
+      "의사소통",
+      "조정자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "면도_일반명사-1": {
+    "id": "면도_일반명사-1",
+    "def_ko": "얼굴이나 몸에 난 수염이나 잔털을 깎음",
+    "related_vocab": [
+      "가꾸다",
+      "세수",
+      "이발",
+      "치약",
+      "담배"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "면세점_일반명사-1": {
+    "id": "면세점_일반명사-1",
+    "def_ko": "세금을 내지 않고 물건을 살 수 있는 가게",
+    "related_vocab": [
+      "쇼핑몰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "수입품_일반명사-1",
+          "target_term": "수입품",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "상품 종류",
+          "hook_id": "H18"
+        }
+      ]
+    },
+    "phonetic_romanization": "myeonsejeom"
+  },
+  "면역_일반명사-1": {
+    "id": "면역_일반명사-1",
+    "def_ko": "몸이 병원체에 저항하는 능력",
+    "related_vocab": [
+      "바이러스",
+      "세균",
+      "알레르기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonyeok"
+  },
+  "면역력_일반명사-1": {
+    "id": "면역력_일반명사-1",
+    "def_ko": "몸이 병을 이겨내는 힘",
+    "related_vocab": [
+      "건강",
+      "세균",
+      "튼튼하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonyeongnyeok"
+  },
+  "면접_일반명사-1": {
+    "id": "면접_일반명사-1",
+    "def_ko": "지원자를 직접 만나 평가하는 절차",
+    "related_vocab": [
+      "이직",
+      "모집",
+      "선임",
+      "응모",
+      "인사과"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonjeop"
+  },
+  "면접관_일반명사-1": {
+    "id": "면접관_일반명사-1",
+    "def_ko": "면접을 진행하며 평가하는 사람",
+    "related_vocab": [
+      "감독관",
+      "경영주",
+      "신입",
+      "심사관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonjeopgwan"
+  },
+  "면접시험_일반명사-1": {
+    "id": "면접시험_일반명사-1",
+    "def_ko": "면접 형식으로 치르는 시험",
+    "related_vocab": [
+      "입사",
+      "채용",
+      "이력서",
+      "지원서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonjeopsiheom"
+  },
+  "면제_일반명사-1": {
+    "id": "면제_일반명사-1",
+    "def_ko": "해야 할 의무를 하지 않아도 되게 함",
+    "related_vocab": [
+      "납세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonje"
+  },
+  "면하다_동사-1": {
+    "id": "면하다_동사-1",
+    "def_ko": "어떤 일이나 책임을 피하다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonhada"
+  },
+  "면허_일반명사-1": {
+    "id": "면허_일반명사-1",
+    "def_ko": "특정 활동을 할 수 있도록 허가한 증서",
+    "related_vocab": [
+      "계약",
+      "특허"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonheo"
+  },
+  "면허증_일반명사-1": {
+    "id": "면허증_일반명사-1",
+    "def_ko": "면허를 받았음을 증명하는 증서",
+    "related_vocab": [
+      "등록증",
+      "신분증"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonheojeung"
+  },
+  "멸치_일반명사-1": {
+    "id": "멸치_일반명사-1",
+    "def_ko": "작고 마른 몸을 가진 바닷물고기",
+    "related_vocab": [
+      "고등어",
+      "새우",
+      "젓갈",
+      "조기",
+      "해물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeolchi"
+  },
+  "명령_일반명사-1": {
+    "id": "명령_일반명사-1",
+    "def_ko": "윗사람이 아랫사람에게 하라고 지시함",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongnyeong"
+  },
+  "명예_일반명사-1": {
+    "id": "명예_일반명사-1",
+    "def_ko": "사람이 사회적으로 인정받아 얻는 좋은 평판",
+    "related_vocab": [
+      "신상",
+      "공인",
+      "숙녀",
+      "유명인",
+      "출세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongye"
+  },
+  "명작_일반명사-1": {
+    "id": "명작_일반명사-1",
+    "def_ko": "아주 뛰어난 작품",
+    "related_vocab": [
+      "감상",
+      "새기다",
+      "조형",
+      "전작",
+      "대작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongjak"
+  },
+  "명절_일반명사-1": {
+    "id": "명절_일반명사-1",
+    "def_ko": "해마다 반복되는 큰 절기",
+    "related_vocab": [
+      "국경일",
+      "기념일",
+      "띠",
+      "무덤",
+      "설"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongjeol"
+  },
+  "명창_일반명사-1": {
+    "id": "명창_일반명사-1",
+    "def_ko": "노래나 판소리를 아주 잘하는 사람",
+    "related_vocab": [
+      "가수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongchang"
+  },
+  "명품_일반명사-1": {
+    "id": "명품_일반명사-1",
+    "def_ko": "품질이 뛰어난 물건",
+    "related_vocab": [
+      "보석",
+      "복제품",
+      "브랜드",
+      "수입품",
+      "정품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongpum"
+  },
+  "명함_일반명사-1": {
+    "id": "명함_일반명사-1",
+    "def_ko": "자기 정보를 적은 작은 카드",
+    "related_vocab": [
+      "서명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeongham"
+  },
+  "명화_일반명사-1": {
+    "id": "명화_일반명사-1",
+    "def_ko": "아주 뛰어난 그림",
+    "related_vocab": [
+      "미술",
+      "새기다",
+      "추상화",
+      "피사체",
+      "대작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myeonghwa"
+  },
+  "모금_일반명사-1": {
+    "id": "모금_일반명사-1",
+    "def_ko": "도움이 필요한 사람이나 일을 위해 돈을 모음",
+    "related_vocab": [
+      "공금",
+      "기부",
+      "기부금",
+      "보조금",
+      "보험금"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mogeum"
+  },
+  "모금액_일반명사-1": {
+    "id": "모금액_일반명사-1",
+    "def_ko": "모여서 마련된 돈의 전체 금액",
+    "related_vocab": [
+      "지원금"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mogeumaek"
+  },
+  "모기_일반명사-1": {
+    "id": "모기_일반명사-1",
+    "def_ko": "사람이나 동물의 피를 빨아 먹는 작은 곤충",
+    "related_vocab": [
+      "진드기",
+      "해충",
+      "하루살이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mogi"
+  },
+  "모니터_일반명사-1": {
+    "id": "모니터_일반명사-1",
+    "def_ko": "컴퓨터나 텔레비전, 카메라 등의 화면",
+    "related_vocab": [
+      "가족사진",
+      "사진기",
+      "앱",
+      "텔레비전",
+      "화면"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "모델_일반명사-1": {
+    "id": "모델_일반명사-1",
+    "def_ko": "상품이나 옷을 보여 주는 일을 하는 사람",
+    "related_vocab": [
+      "디자이너",
+      "아나운서",
+      "연기자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "model"
+  },
+  "모델_일반명사-2": {
+    "id": "모델_일반명사-2",
+    "def_ko": "설명이나 연구를 위해 만든 본보기나 구조",
+    "related_vocab": [
+      "도표"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "model"
+  },
+  "모둠_일반명사-1": {
+    "id": "모둠_일반명사-1",
+    "def_ko": "여러 사람이 하나의 묶음으로 이루어진 무리",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "개체_일반명사-1",
+          "target_term": "개체",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "단위 명사",
+          "hook_id": "H06"
+        }
+      ]
+    },
+    "phonetic_romanization": "modum"
+  },
+  "모래_일반명사-1": {
+    "id": "모래_일반명사-1",
+    "def_ko": "잘게 부서진 돌알이 모여 있는 것",
+    "related_vocab": [
+      "모래밭",
+      "모랫",
+      "바다",
+      "돌",
+      "돌멩이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "morae"
+  },
+  "모래밭_일반명사-1": {
+    "id": "모래밭_일반명사-1",
+    "def_ko": "모래가 넓게 깔린 땅",
+    "related_vocab": [
+      "모래",
+      "모랫",
+      "바다",
+      "빙판",
+      "들판"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "moraebat"
+  },
+  "모랫_일반명사-1": {
+    "id": "모랫_일반명사-1",
+    "def_ko": "모래가 많은 곳을 이르는 말",
+    "related_vocab": [
+      "모래",
+      "모래밭",
+      "바닷가",
+      "사막"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "moraet"
+  },
+  "모바일_일반명사-1": {
+    "id": "모바일_일반명사-1",
+    "def_ko": "휴대하며 사용할 수 있는 전자 기기나 기술",
+    "related_vocab": [
+      "노트북",
+      "버튼",
+      "스마트폰",
+      "앱",
+      "실리콘"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mobail"
+  },
+  "모서리_일반명사-1": {
+    "id": "모서리_일반명사-1",
+    "def_ko": "물체의 두 면이 맞닿아 생긴 가장자리 부분",
+    "related_vocab": [
+      "구석",
+      "가장자리",
+      "경계선",
+      "네모",
+      "세로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "moseori"
+  },
+  "모시다_동사-1": {
+    "id": "모시다_동사-1",
+    "def_ko": "윗사람을 공경하며 돌보다",
+    "related_vocab": [
+      "돌보다",
+      "드리다",
+      "보살피다",
+      "양육",
+      "뵈다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mosida"
+  },
+  "모양_일반명사-1": {
+    "id": "모양_일반명사-1",
+    "def_ko": "사물의 겉모습이나 생긴 형태",
+    "related_vocab": [
+      "가로",
+      "구",
+      "구멍",
+      "구부리다",
+      "구체적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "moyang"
+  },
+  "모여들다_동사-1": {
+    "id": "모여들다_동사-1",
+    "def_ko": "여러 사람이 한곳으로 모이다",
+    "related_vocab": [
+      "단결",
+      "단합",
+      "모이다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "그룹_일반명사-1",
+          "target_term": "그룹",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "모임_일반명사-1",
+          "target_term": "모임",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "moyedeulda"
+  },
+  "모의_일반명사-1": {
+    "id": "모의_일반명사-1",
+    "def_ko": "어떤 일을 실행하기 전에 미리 꾸미고 의논함",
+    "related_vocab": [
+      "계획서",
+      "운영",
+      "설계"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mo-ui"
+  },
+  "모이다_동사-1": {
+    "id": "모이다_동사-1",
+    "def_ko": "여러 사람이 한곳으로 오다",
+    "related_vocab": [
+      "가입",
+      "단합",
+      "모여들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "그룹_일반명사-1",
+          "target_term": "그룹",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "모임_일반명사-1",
+          "target_term": "모임",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "moida"
+  },
+  "모임_일반명사-1": {
+    "id": "모임_일반명사-1",
+    "def_ko": "여러 사람이 모여 이루는 자리",
+    "related_vocab": [
+      "그룹",
+      "단체",
+      "동아리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "모여들다_동사-1",
+          "target_term": "모여들다",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "관계의 행위",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "모이다_동사-1",
+          "target_term": "모이다",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "관계의 행위",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "moim"
+  },
+  "모자_일반명사-1": {
+    "id": "모자_일반명사-1",
+    "def_ko": "어머니와 아들",
+    "related_vocab": [
+      "아들",
+      "어머니",
+      "효자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "모자_일반명사-2": {
+    "id": "모자_일반명사-2",
+    "def_ko": "예의를 차리거나 추위나 더위 등을 막기 위해 머리에 쓰는 물건",
+    "related_vocab": [
+      "벗다",
+      "빗",
+      "선글라스",
+      "소지품",
+      "스카프"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "모집_일반명사-1": {
+    "id": "모집_일반명사-1",
+    "def_ko": "사람이나 물건을 일정한 목적에 맞게 모음",
+    "related_vocab": [
+      "고용",
+      "채용",
+      "면접",
+      "응모",
+      "지원서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mojip"
+  },
+  "모형_일반명사-1": {
+    "id": "모형_일반명사-1",
+    "def_ko": "실물과 비슷하게 만든 작은 형태",
+    "related_vocab": [
+      "구체적",
+      "네모",
+      "디자인",
+      "틀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mohyeong"
+  },
+  "목_일반명사-1": {
+    "id": "목_일반명사-1",
+    "def_ko": "사람이나 동물의 머리와 몸통을 잇는 잘록한 부분",
+    "related_vocab": [
+      "고개",
+      "길다",
+      "깨물다",
+      "머리",
+      "목구멍"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "목걸이_일반명사-1": {
+    "id": "목걸이_일반명사-1",
+    "def_ko": "목에 거는 장신구",
+    "related_vocab": [
+      "귀걸이",
+      "손목시계",
+      "스카프",
+      "액세서리",
+      "장신구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mokgeori"
+  },
+  "목구멍_일반명사-1": {
+    "id": "목구멍_일반명사-1",
+    "def_ko": "목 안쪽에서 몸속으로 나 있는 깊숙한 구멍",
+    "related_vocab": [
+      "목",
+      "몸속",
+      "숨",
+      "숨구멍",
+      "혀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "목도리_일반명사-1": {
+    "id": "목도리_일반명사-1",
+    "def_ko": "추위를 막기 위하여 목에 두르는 것",
+    "related_vocab": [
+      "가방",
+      "끈",
+      "생필품",
+      "생활용품",
+      "우산"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "목욕_일반명사-1": {
+    "id": "목욕_일반명사-1",
+    "def_ko": "몸을 씻는 일",
+    "related_vocab": [
+      "귀가",
+      "생활",
+      "생활상",
+      "샤워",
+      "세수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mokyok"
+  },
+  "목욕탕_일반명사-1": {
+    "id": "목욕탕_일반명사-1",
+    "def_ko": "여럿이 목욕할 수 있게 만든 시설",
+    "related_vocab": [
+      "이용권",
+      "입장권"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mokyoktang"
+  },
+  "목재_일반명사-1": {
+    "id": "목재_일반명사-1",
+    "def_ko": "건축이나 제작에 쓰는 나무 재료",
+    "related_vocab": [
+      "기둥",
+      "송판",
+      "건축",
+      "통나무",
+      "마루"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mokjae"
+  },
+  "목적지_일반명사-1": {
+    "id": "목적지_일반명사-1",
+    "def_ko": "가려고 하는 곳",
+    "related_vocab": [
+      "곧장",
+      "근처",
+      "방면",
+      "약도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "목표_일반명사-1",
+          "target_term": "목표",
+          "target_system": "마음과 표현",
+          "target_root": "의견과 가치",
+          "target_category": "주관적 가치 평가",
+          "hook_id": "H15"
+        }
+      ]
+    },
+    "phonetic_romanization": "mokjeokji"
+  },
+  "목조_일반명사-1": {
+    "id": "목조_일반명사-1",
+    "def_ko": "나무로 지은 구조물",
+    "related_vocab": [
+      "통나무",
+      "송판"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mokjo"
+  },
+  "몰다_동사-1": {
+    "id": "몰다_동사-1",
+    "def_ko": "어떤 것을 바라는 방향이나 장소로 움직여 가게 하다",
+    "related_vocab": [
+      "돌리다",
+      "헤치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "몰려들다_동사-1": {
+    "id": "몰려들다_동사-1",
+    "def_ko": "여럿이 한곳으로 몰리다",
+    "related_vocab": [
+      "늘어서다",
+      "몰리다",
+      "각지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "molryeodeulda"
+  },
+  "몰려오다_동사-1": {
+    "id": "몰려오다_동사-1",
+    "def_ko": "많은 것이 한꺼번에 다가오다",
+    "related_vocab": [
+      "대도시",
+      "터지다",
+      "튀어나오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "molryeooda"
+  },
+  "몰리다_동사-1": {
+    "id": "몰리다_동사-1",
+    "def_ko": "여럿에게 둘러싸이거나 쫓기다",
+    "related_vocab": [
+      "늘어서다",
+      "몰려들다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mollida"
+  },
+  "몸_일반명사-1": {
+    "id": "몸_일반명사-1",
+    "def_ko": "사람이나 동물의 전체적인 육체",
+    "related_vocab": [
+      "귓등",
+      "근육",
+      "대변",
+      "등",
+      "땀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mom"
+  },
+  "몸뚱이_일반명사-1": {
+    "id": "몸뚱이_일반명사-1",
+    "def_ko": "사람이나 동물의 몸 전체",
+    "related_vocab": [
+      "송장",
+      "인체",
+      "찌다",
+      "온몸"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "momttungi"
+  },
+  "몸살_일반명사-1": {
+    "id": "몸살_일반명사-1",
+    "def_ko": "온몸이 쑤시고 아픈 증상",
+    "related_vocab": [
+      "복통",
+      "통증",
+      "감기",
+      "과로",
+      "쑤다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "momsal"
+  },
+  "몸속_일반명사-1": {
+    "id": "몸속_일반명사-1",
+    "def_ko": "몸 안쪽",
+    "related_vocab": [
+      "목구멍",
+      "속",
+      "손뼉",
+      "유전자",
+      "탯줄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "momsok"
+  },
+  "몸통_일반명사-1": {
+    "id": "몸통_일반명사-1",
+    "def_ko": "사람이나 동물의 몸에서 머리, 팔, 다리 등을 뺀 중심 부분",
+    "related_vocab": [
+      "등",
+      "맨발",
+      "정강이",
+      "척추",
+      "어깨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "못_일반명사-1": {
+    "id": "못_일반명사-1",
+    "def_ko": "가늘고 끝이 뾰족해 두 사물을 이어 붙여 고정하거나 벽에 박아 어떤 물건을 거는 데 쓰는 쇠로 만든 물건",
+    "related_vocab": [
+      "액자",
+      "테이프",
+      "바늘",
+      "나사",
+      "칼"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "못난이_일반명사-1": {
+    "id": "못난이_일반명사-1",
+    "def_ko": "생김새가 보기에 좋지 않은 사람",
+    "related_vocab": [
+      "계집애",
+      "남자",
+      "뚱뚱이",
+      "소년",
+      "아줌마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "motnani"
+  },
+  "묘기_일반명사-1": {
+    "id": "묘기_일반명사-1",
+    "def_ko": "보통 사람이 하기 어려운 특별한 재주",
+    "related_vocab": [
+      "구경거리",
+      "마술",
+      "마술사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myogi"
+  },
+  "무_일반명사-1": {
+    "id": "무_일반명사-1",
+    "def_ko": "흔히 김치나 나물로 먹는 뿌리채소",
+    "related_vocab": [
+      "무말랭이",
+      "무순",
+      "국물",
+      "파",
+      "고구마"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mu"
+  },
+  "무궁화_일반명사-1": {
+    "id": "무궁화_일반명사-1",
+    "def_ko": "여름에 피는 큰 꽃나무로 한국을 상징함",
+    "related_vocab": [
+      "봉선화",
+      "연꽃",
+      "개화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mugunghwa"
+  },
+  "무기_일반명사-1": {
+    "id": "무기_일반명사-1",
+    "def_ko": "싸움이나 방어에 쓰는 도구",
+    "related_vocab": [
+      "총",
+      "궁",
+      "창",
+      "포"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mugi"
+  },
+  "무기질_일반명사-1": {
+    "id": "무기질_일반명사-1",
+    "def_ko": "생물이 필요로 하는 무기 화합물",
+    "related_vocab": [
+      "비타민",
+      "영양제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "요구량_일반명사-1",
+          "target_term": "요구량",
+          "target_system": "구조와 기초",
+          "target_root": "수량과 단위",
+          "target_category": "수량 비교와 범위",
+          "hook_id": "H14"
+        }
+      ]
+    },
+    "phonetic_romanization": "mugijil"
+  },
+  "무너지다_동사-1": {
+    "id": "무너지다_동사-1",
+    "def_ko": "형체가 허물어져 내려앉다",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muneojida"
+  },
+  "무대_일반명사-1": {
+    "id": "무대_일반명사-1",
+    "def_ko": "공연이나 발표를 하는 장소",
+    "related_vocab": [
+      "관람객",
+      "관중",
+      "극",
+      "쇼",
+      "오디션"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mudae"
+  },
+  "무더위_일반명사-1": {
+    "id": "무더위_일반명사-1",
+    "def_ko": "기온이 매우 높은 더위",
+    "related_vocab": [
+      "습하다",
+      "장마철",
+      "햇볕",
+      "무덥다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "더위_일반명사-1",
+          "target_term": "더위",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "계절과 기온",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "mudeowi"
+  },
+  "무덤_일반명사-1": {
+    "id": "무덤_일반명사-1",
+    "def_ko": "죽은 사람을 묻은 곳",
+    "related_vocab": [
+      "초상",
+      "매장",
+      "명절",
+      "추석"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mudeom"
+  },
+  "무덥다_형용사-1": {
+    "id": "무덥다_형용사-1",
+    "def_ko": "기온이 높아 매우 덥다",
+    "related_vocab": [
+      "습하다",
+      "무더위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "덥다_형용사-1",
+          "target_term": "덥다",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "계절과 기온",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "mudeopda"
+  },
+  "무료_일반명사-1": {
+    "id": "무료_일반명사-1",
+    "def_ko": "값을 받지 않음",
+    "related_vocab": [
+      "공짜",
+      "대여",
+      "할인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "서비스_일반명사-1",
+          "target_term": "서비스",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "교환과 서비스",
+          "hook_id": "H12"
+        }
+      ]
+    },
+    "phonetic_romanization": "mur-yo"
+  },
+  "무릎_일반명사-1": {
+    "id": "무릎_일반명사-1",
+    "def_ko": "다리와 다리가 굽어지는 부분",
+    "related_vocab": [
+      "손목",
+      "정강이",
+      "종아리",
+      "엉덩이",
+      "허벅지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mureup"
+  },
+  "무리_일반명사-1": {
+    "id": "무리_일반명사-1",
+    "def_ko": "여럿이 모인 집단",
+    "related_vocab": [
+      "파",
+      "공범",
+      "공범자",
+      "상대편",
+      "행인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muri"
+  },
+  "무말랭이_일반명사-1": {
+    "id": "무말랭이_일반명사-1",
+    "def_ko": "무를 길게 잘라 말린 음식",
+    "related_vocab": [
+      "김",
+      "농산물",
+      "무",
+      "시래기",
+      "양념"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mumallaengi"
+  },
+  "무명_일반명사-1": {
+    "id": "무명_일반명사-1",
+    "def_ko": "이름이 알려지지 않음",
+    "related_vocab": [
+      "익명",
+      "배우",
+      "사인",
+      "붐"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mumyeong"
+  },
+  "무선_일반명사-1": {
+    "id": "무선_일반명사-1",
+    "def_ko": "선을 사용하지 않는 통신 방식",
+    "related_vocab": [
+      "방송",
+      "유무선",
+      "유선",
+      "수신",
+      "온라인"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "museon"
+  },
+  "무성_일반명사-1": {
+    "id": "무성_일반명사-1",
+    "def_ko": "잎이나 줄기가 무성하게 자람",
+    "related_vocab": [
+      "대나무",
+      "덩굴",
+      "열대림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "museong"
+  },
+  "무쇠_일반명사-1": {
+    "id": "무쇠_일반명사-1",
+    "def_ko": "쇠붙이 가운데 단단한 쇠",
+    "related_vocab": [
+      "유리",
+      "깨어지다",
+      "부러지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "musoe"
+  },
+  "무순_일반명사-1": {
+    "id": "무순_일반명사-1",
+    "def_ko": "무 씨를 틔워 키운 싹",
+    "related_vocab": [
+      "농산물",
+      "무",
+      "콩나물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "musun"
+  },
+  "무역_일반명사-1": {
+    "id": "무역_일반명사-1",
+    "def_ko": "나라 간 물건을 사고파는 일",
+    "related_vocab": [
+      "교역",
+      "체결",
+      "경기",
+      "상공업"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "각국_일반명사-1",
+          "target_term": "각국",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "국가와 역사",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "muyeok"
+  },
+  "무용_일반명사-1": {
+    "id": "무용_일반명사-1",
+    "def_ko": "몸의 움직임으로 표현하는 공연 예술",
+    "related_vocab": [
+      "문학",
+      "아트",
+      "장르",
+      "발레",
+      "연기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muyong"
+  },
+  "무용가_일반명사-1": {
+    "id": "무용가_일반명사-1",
+    "def_ko": "무용을 전문적으로 하는 사람",
+    "related_vocab": [
+      "마술사",
+      "무용단",
+      "무용수",
+      "발레단",
+      "발레리나"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muyongga"
+  },
+  "무용단_일반명사-1": {
+    "id": "무용단_일반명사-1",
+    "def_ko": "무용 공연을 하는 단체",
+    "related_vocab": [
+      "발레",
+      "무용가",
+      "발레단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muyongdan"
+  },
+  "무용수_일반명사-1": {
+    "id": "무용수_일반명사-1",
+    "def_ko": "무용을 공연하는 사람",
+    "related_vocab": [
+      "가수",
+      "마술사",
+      "무용가",
+      "발레리나"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muyongsu"
+  },
+  "무장_일반명사-1": {
+    "id": "무장_일반명사-1",
+    "def_ko": "무기를 갖춤",
+    "related_vocab": [
+      "가두다",
+      "검거",
+      "범죄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mujang"
+  },
+  "무지개_일반명사-1": {
+    "id": "무지개_일반명사-1",
+    "def_ko": "비 온 뒤 햇빛을 받아 하늘에 둥글게 나타나는 여러 빛깔의 띠",
+    "related_vocab": [
+      "햇살",
+      "개다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mujigae"
+  },
+  "무채_일반명사-1": {
+    "id": "무채_일반명사-1",
+    "def_ko": "무를 가늘게 썰어 양념해 만든 음식",
+    "related_vocab": [
+      "나물",
+      "배춧"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muchae"
+  },
+  "무채색_일반명사-1": {
+    "id": "무채색_일반명사-1",
+    "def_ko": "검정·흰색·회색처럼 빛깔이 뚜렷하지 않은 색",
+    "related_vocab": [
+      "검은색",
+      "검정",
+      "회색",
+      "흰색",
+      "흑"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muchaesaek"
+  },
+  "무형_일반명사-1": {
+    "id": "무형_일반명사-1",
+    "def_ko": "눈에 보이거나 만질 수 있는 형태가 없음",
+    "related_vocab": [
+      "상",
+      "현상",
+      "형식",
+      "양상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muhyeong"
+  },
+  "묵다_동사-1": {
+    "id": "묵다_동사-1",
+    "def_ko": "집이나 숙소에 머물러 지내다",
+    "related_vocab": [
+      "거주",
+      "거주자",
+      "귀가",
+      "새우다",
+      "지내다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mukda"
+  },
+  "문_일반명사-1": {
+    "id": "문_일반명사-1",
+    "def_ko": "사람이 드나들거나 여닫을 수 있게 만든 출입 부분",
+    "related_vocab": [
+      "계단",
+      "대문",
+      "뒷문",
+      "문틈",
+      "변소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mun"
+  },
+  "문구점_일반명사-1": {
+    "id": "문구점_일반명사-1",
+    "def_ko": "연필, 공책 같은 학용품을 파는 가게",
+    "related_vocab": [
+      "문방구",
+      "서점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mungujeom"
+  },
+  "문명_일반명사-1": {
+    "id": "문명_일반명사-1",
+    "def_ko": "사회의 물질·정신 문화가 발달한 상태",
+    "related_vocab": [
+      "철학자",
+      "교류",
+      "국제화",
+      "철학",
+      "세상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munmyeong"
+  },
+  "문물_일반명사-1": {
+    "id": "문물_일반명사-1",
+    "def_ko": "한 시대의 제도와 생활도구 따위를 아울러 이르는 말",
+    "related_vocab": [
+      "문화재",
+      "조선사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munmul"
+  },
+  "문방구_일반명사-1": {
+    "id": "문방구_일반명사-1",
+    "def_ko": "연필, 공책, 장난감 등을 파는 작은 가게",
+    "related_vocab": [
+      "매점",
+      "문구점",
+      "슈퍼",
+      "편의점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munbanggu"
+  },
+  "문서_일반명사-1": {
+    "id": "문서_일반명사-1",
+    "def_ko": "공적인 내용이나 기록을 글로 적은 종이",
+    "related_vocab": [
+      "경영서",
+      "교정지",
+      "도면",
+      "복사기"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "서류_일반명사-1",
+          "target_term": "서류",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "업무와 회의",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "munseo"
+  },
+  "문어_일반명사-1": {
+    "id": "문어_일반명사-1",
+    "def_ko": "팔처럼 생긴 긴 다리가 여덟 개 달린 바다 동물",
+    "related_vocab": [
+      "게",
+      "돌고래",
+      "물고기",
+      "빨판",
+      "해파리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muneo"
+  },
+  "문틈_일반명사-1": {
+    "id": "문틈_일반명사-1",
+    "def_ko": "문과 문틀 사이에 난 좁은 사이",
+    "related_vocab": [
+      "골목",
+      "골목길",
+      "문",
+      "벽",
+      "유리창"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munteum"
+  },
+  "문학_일반명사-1": {
+    "id": "문학_일반명사-1",
+    "def_ko": "언어로 감정과 생각을 표현한 예술",
+    "related_vocab": [
+      "무용",
+      "미술",
+      "소설",
+      "시의"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "만화책_일반명사-1",
+          "target_term": "만화책",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "취미 활동과 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "munhak"
+  },
+  "문학사_일반명사-1": {
+    "id": "문학사_일반명사-1",
+    "def_ko": "시대에 따라 문학이 변해 온 역사를 연구하는 학문",
+    "related_vocab": [
+      "역사책",
+      "인문학",
+      "문화사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhaksa"
+  },
+  "문화사_일반명사-1": {
+    "id": "문화사_일반명사-1",
+    "def_ko": "문화가 시대에 따라 변해 온 역사를 다루는 학문",
+    "related_vocab": [
+      "역사서",
+      "역사책",
+      "문학사",
+      "인문학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhwasa"
+  },
+  "문화생활_일반명사-1": {
+    "id": "문화생활_일반명사-1",
+    "def_ko": "영화·공연·독서 등 문화를 향유하며 보내는 생활",
+    "related_vocab": [
+      "관람",
+      "시청",
+      "영화",
+      "아트센터"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhwasaenghwal"
+  },
+  "문화원_일반명사-1": {
+    "id": "문화원_일반명사-1",
+    "def_ko": "문화 활동을 알리고 돕는 기관",
+    "related_vocab": [
+      "기증",
+      "매표소",
+      "방송국",
+      "방송사",
+      "박물관"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhwawon"
+  },
+  "문화유산_일반명사-1": {
+    "id": "문화유산_일반명사-1",
+    "def_ko": "예전부터 전해 내려오는 귀중한 문화재와 전통",
+    "related_vocab": [
+      "갓",
+      "민속촌",
+      "예술품",
+      "인간문화재",
+      "산조"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhwayusan"
+  },
+  "문화재_일반명사-1": {
+    "id": "문화재_일반명사-1",
+    "def_ko": "역사적·예술적 가치가 높은 건물이나 물건",
+    "related_vocab": [
+      "고고학",
+      "동서양",
+      "문물",
+      "복원",
+      "석탑"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "munhwajae"
+  },
+  "묻히다_동사-1": {
+    "id": "묻히다_동사-1",
+    "def_ko": "흙이나 물건 속에 가려져 보이지 않게 되다",
+    "related_vocab": [
+      "파내다",
+      "파묻다",
+      "파헤치다",
+      "먼지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "가리다_동사-1",
+          "target_term": "가리다",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "mutida"
+  },
+  "물_일반명사-1": {
+    "id": "물_일반명사-1",
+    "def_ko": "색과 냄새가 거의 없고 마시거나 씻는 데 쓰는 액체",
+    "related_vocab": [
+      "민물",
+      "밭",
+      "습지",
+      "연못",
+      "우림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mul"
+  },
+  "물가_일반명사-1": {
+    "id": "물가_일반명사-1",
+    "def_ko": "물건의 값이 오르내리는 수준",
+    "related_vocab": [
+      "경기",
+      "불황",
+      "시중",
+      "호황",
+      "집값"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulga"
+  },
+  "물감_일반명사-1": {
+    "id": "물감_일반명사-1",
+    "def_ko": "그림을 그릴 때 쓰는 색 있는 물질",
+    "related_vocab": [
+      "인화",
+      "색연필"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "염료_일반명사-1",
+          "target_term": "염료",
+          "target_system": "상황과 장소",
+          "target_root": "주거와 일상",
+          "target_category": "가전제품과 생활 도구",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "인주_일반명사-1",
+          "target_term": "인주",
+          "target_system": "상황과 장소",
+          "target_root": "주거와 일상",
+          "target_category": "가전제품과 생활 도구",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "잉크_일반명사-1",
+          "target_term": "잉크",
+          "target_system": "상황과 장소",
+          "target_root": "상황 지시/기타",
+          "target_category": "물리적 사물/물체",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "mulgam"
+  },
+  "물건_일반명사-1": {
+    "id": "물건_일반명사-1",
+    "def_ko": "모양을 갖추어 손으로 만질 수 있는 모든 것",
+    "related_vocab": [
+      "괴물",
+      "들다",
+      "막대",
+      "물체",
+      "분실물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulgeon"
+  },
+  "물결_일반명사-1": {
+    "id": "물결_일반명사-1",
+    "def_ko": "바람이나 움직임으로 물 위에 일어나는 물의 흐름",
+    "related_vocab": [
+      "파도",
+      "강물",
+      "물살",
+      "물속",
+      "보름달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulkkyeol"
+  },
+  "물고기_일반명사-1": {
+    "id": "물고기_일반명사-1",
+    "def_ko": "물속에서 지느러미로 헤엄치며 사는 동물",
+    "related_vocab": [
+      "돌고래",
+      "문어",
+      "비늘",
+      "어종",
+      "해파리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulgogi"
+  },
+  "물그릇_일반명사-1": {
+    "id": "물그릇_일반명사-1",
+    "def_ko": "물을 담아 두는 그릇",
+    "related_vocab": [
+      "어항",
+      "유리잔",
+      "바가지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulgeureut"
+  },
+  "물길_일반명사-1": {
+    "id": "물길_일반명사-1",
+    "def_ko": "물이 흘러가는 길이나 방향",
+    "related_vocab": [
+      "강물",
+      "도랑",
+      "수로",
+      "하류",
+      "해류"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulgil"
+  },
+  "물놀이_일반명사-1": {
+    "id": "물놀이_일반명사-1",
+    "def_ko": "강이나 바다, 수영장에서 물속에서 하는 놀이",
+    "related_vocab": [
+      "놀다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "헤엄_일반명사-1",
+          "target_term": "헤엄",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "스포츠와 운동",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "헤엄치다_동사-1",
+          "target_term": "헤엄치다",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "스포츠와 운동",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "mulnori"
+  },
+  "물려주다_동사-1": {
+    "id": "물려주다_동사-1",
+    "def_ko": "재산이나 권리를 다음 사람에게 넘기다",
+    "related_vocab": [
+      "건네다",
+      "드리다",
+      "떠넘기다",
+      "분배"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mullyeojuda"
+  },
+  "물리_일반명사-1": {
+    "id": "물리_일반명사-1",
+    "def_ko": "힘·운동·에너지 등을 다루는 자연과학 분야",
+    "related_vocab": [
+      "수학",
+      "역학",
+      "화학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulli"
+  },
+  "물리다_동사-1": {
+    "id": "물리다_동사-1",
+    "def_ko": "이빨에 물려 상처를 입다",
+    "related_vocab": [
+      "덧나다",
+      "독",
+      "멍",
+      "얻어맞다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "맞다_동사-3",
+          "target_term": "맞다",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "진료와 치료 행위",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "mullida"
+  },
+  "물리학자_일반명사-1": {
+    "id": "물리학자_일반명사-1",
+    "def_ko": "물리학을 연구하는 사람",
+    "related_vocab": [
+      "과학자",
+      "생물학자",
+      "심리학자",
+      "역사학자",
+      "연구가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mullihakja"
+  },
+  "물방울_일반명사-1": {
+    "id": "물방울_일반명사-1",
+    "def_ko": "둥글게 맺히거나 떨어지는 작은 물덩이",
+    "related_vocab": [
+      "빗물",
+      "수증기",
+      "습기",
+      "안개",
+      "낙수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulbangul"
+  },
+  "물병_일반명사-1": {
+    "id": "물병_일반명사-1",
+    "def_ko": "물을 담아 두는 병",
+    "related_vocab": [
+      "꽃병",
+      "병",
+      "수도꼭지",
+      "어항",
+      "유리병"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulbyeong"
+  },
+  "물살_일반명사-1": {
+    "id": "물살_일반명사-1",
+    "def_ko": "흘러가는 물의 빠르기와 세기",
+    "related_vocab": [
+      "조류",
+      "해류",
+      "물결"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulssal"
+  },
+  "물속_일반명사-1": {
+    "id": "물속_일반명사-1",
+    "def_ko": "물의 안쪽",
+    "related_vocab": [
+      "진주",
+      "땅속",
+      "물결",
+      "산호초",
+      "심해"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulsok"
+  },
+  "물약_일반명사-1": {
+    "id": "물약_일반명사-1",
+    "def_ko": "액체로 된 약",
+    "related_vocab": [
+      "수액",
+      "마약"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "물질_일반명사-1": {
+    "id": "물질_일반명사-1",
+    "def_ko": "부피와 무게를 가지고 있는 것",
+    "related_vocab": [
+      "고무",
+      "기름",
+      "반도체",
+      "불순물",
+      "석회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "muljil"
+  },
+  "물체_일반명사-1": {
+    "id": "물체_일반명사-1",
+    "def_ko": "눈에 보이고 만질 수 있는 물건",
+    "related_vocab": [
+      "궤도",
+      "막대",
+      "물건",
+      "보물",
+      "준비물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulche"
+  },
+  "물품_일반명사-1": {
+    "id": "물품_일반명사-1",
+    "def_ko": "사용하거나 팔기 위한 물건",
+    "related_vocab": [
+      "경품",
+      "기념품",
+      "복제품",
+      "상품",
+      "상품명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mulpum"
+  },
+  "뮤지컬_일반명사-1": {
+    "id": "뮤지컬_일반명사-1",
+    "def_ko": "노래와 춤이 많이 들어가는 연극",
+    "related_vocab": [
+      "노래",
+      "댄스",
+      "연극",
+      "현대극",
+      "오페라"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "myujikeol"
+  },
+  "미디어_일반명사-1": {
+    "id": "미디어_일반명사-1",
+    "def_ko": "정보를 전달하는 수단인 방송, 신문, 인터넷 등",
+    "related_vocab": [
+      "기사",
+      "꽃말",
+      "네트워크",
+      "뉴스",
+      "대중가요"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "midieo"
+  },
+  "미생물_일반명사-1": {
+    "id": "미생물_일반명사-1",
+    "def_ko": "눈으로 보기 어려울 만큼 작은 생물",
+    "related_vocab": [
+      "동식물",
+      "번식",
+      "벌레",
+      "생물",
+      "플랑크톤"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "misaengmul"
+  },
+  "미성년자_일반명사-1": {
+    "id": "미성년자_일반명사-1",
+    "def_ko": "법적으로 아직 어른이 되지 않은 사람",
+    "related_vocab": [
+      "사춘기",
+      "성년자",
+      "소녀",
+      "소년",
+      "아동"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "miseongnyeonja"
+  },
+  "미술_일반명사-1": {
+    "id": "미술_일반명사-1",
+    "def_ko": "그림, 조각 등 눈으로 보는 예술",
+    "related_vocab": [
+      "감상",
+      "명화",
+      "문학",
+      "미술관",
+      "미술품"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "misul"
+  },
+  "미술가_일반명사-1": {
+    "id": "미술가_일반명사-1",
+    "def_ko": "미술 작품을 만드는 사람",
+    "related_vocab": [
+      "동양화가",
+      "만화가",
+      "미용사",
+      "제작자",
+      "피아니스트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "misulga"
+  },
+  "미술관_일반명사-1": {
+    "id": "미술관_일반명사-1",
+    "def_ko": "미술 작품을 전시하는 곳",
+    "related_vocab": [
+      "갤러리",
+      "고미술품",
+      "미술품",
+      "조각가",
+      "미술"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "misulgwan"
+  },
+  "미술품_일반명사-1": {
+    "id": "미술품_일반명사-1",
+    "def_ko": "미술 활동으로 만들어진 물건",
+    "related_vocab": [
+      "미술관",
+      "고미술품",
+      "미술"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "misulpum"
+  },
+  "미역국_일반명사-1": {
+    "id": "미역국_일반명사-1",
+    "def_ko": "미역을 넣어 끓인 국",
+    "related_vocab": [
+      "떡국",
+      "매운탕",
+      "삼계탕",
+      "스프",
+      "보리밥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "miyeokguk"
+  },
+  "미용_일반명사-1": {
+    "id": "미용_일반명사-1",
+    "def_ko": "겉모습을 아름답게 가꾸는 일",
+    "related_vocab": [
+      "로션",
+      "가꾸다",
+      "생활양식",
+      "이발",
+      "커트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "miyong"
+  },
+  "미용사_일반명사-1": {
+    "id": "미용사_일반명사-1",
+    "def_ko": "머리 손질이나 화장을 전문으로 하는 사람",
+    "related_vocab": [
+      "기술자",
+      "만화가",
+      "미술가",
+      "요리사",
+      "프로"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "miyongsa"
+  },
+  "미용실_일반명사-1": {
+    "id": "미용실_일반명사-1",
+    "def_ko": "머리 모양을 다듬거나 미용을 해 주는 가게",
+    "related_vocab": [
+      "미장원",
+      "빗기다",
+      "빗다",
+      "용돈",
+      "커트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "miyongsil"
+  },
+  "미장원_일반명사-1": {
+    "id": "미장원_일반명사-1",
+    "def_ko": "머리를 자르거나 염색, 파마, 화장 등을 해 주는 곳",
+    "related_vocab": [
+      "미용실",
+      "화장",
+      "파마",
+      "염색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "미팅_일반명사-1": {
+    "id": "미팅_일반명사-1",
+    "def_ko": "사교를 목적으로 여러 명의 남녀가 함께 하는 모임",
+    "related_vocab": [
+      "동창회",
+      "데이트",
+      "소개팅"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "참가자_일반명사-1",
+          "target_term": "참가자",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "미혼_일반명사-1": {
+    "id": "미혼_일반명사-1",
+    "def_ko": "아직 결혼하지 않은 상태",
+    "related_vocab": [
+      "독신",
+      "비혼",
+      "아가씨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mihon"
+  },
+  "민물_일반명사-1": {
+    "id": "민물_일반명사-1",
+    "def_ko": "소금기가 없는 강이나 호수의 물",
+    "related_vocab": [
+      "강",
+      "개울",
+      "강물",
+      "담수",
+      "물"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minmul"
+  },
+  "민속놀이_일반명사-1": {
+    "id": "민속놀이_일반명사-1",
+    "def_ko": "일반인들의 생활 속에서 생겨난 풍속에 따라 행해지고 전해 내려오는 놀이",
+    "related_vocab": [
+      "민속촌",
+      "민화",
+      "전통",
+      "전통문화",
+      "탈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "민속촌_일반명사-1": {
+    "id": "민속촌_일반명사-1",
+    "def_ko": "옛날 민속 문화를 재현해 놓은 마을",
+    "related_vocab": [
+      "민화",
+      "문화유산",
+      "민속놀이",
+      "전통",
+      "전통문화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minsokchon"
+  },
+  "민원_일반명사-1": {
+    "id": "민원_일반명사-1",
+    "def_ko": "국민이 행정 기관에 내는 각종 요청이나 신고",
+    "related_vocab": [
+      "구청",
+      "수속",
+      "신분증",
+      "고발",
+      "공직자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minwon"
+  },
+  "민원서류_일반명사-1": {
+    "id": "민원서류_일반명사-1",
+    "def_ko": "민원을 처리하기 위해 제출하는 각종 서류",
+    "related_vocab": [
+      "도장",
+      "설문지",
+      "수속",
+      "출원",
+      "발급"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minwonseoryu"
+  },
+  "민족_일반명사-1": {
+    "id": "민족_일반명사-1",
+    "def_ko": "역사와 문화, 언어를 함께하는 사람들의 집단",
+    "related_vocab": [
+      "나라",
+      "국어",
+      "건국",
+      "군대",
+      "동양"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minjok"
+  },
+  "민주주의_일반명사-1": {
+    "id": "민주주의_일반명사-1",
+    "def_ko": "국민이 정치에 참여하고 권력을 나누어 가지는 정치 체제",
+    "related_vocab": [
+      "야당",
+      "선거",
+      "개혁",
+      "견제",
+      "유세"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minjujuui"
+  },
+  "민화_일반명사-1": {
+    "id": "민화_일반명사-1",
+    "def_ko": "옛날 서민들이 그린 생활 그림",
+    "related_vocab": [
+      "민속촌",
+      "민속놀이",
+      "예술품",
+      "전통",
+      "전통문화"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "minhwa"
+  },
+  "밀_일반명사-1": {
+    "id": "밀_일반명사-1",
+    "def_ko": "알곡을 갈아 밀가루를 만드는 곡식",
+    "related_vocab": [
+      "밀가루",
+      "반죽",
+      "벼",
+      "메밀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mil"
+  },
+  "밀가루_일반명사-1": {
+    "id": "밀가루_일반명사-1",
+    "def_ko": "밀을 곱게 갈아 만든 가루",
+    "related_vocab": [
+      "밀",
+      "반죽",
+      "설탕",
+      "전분",
+      "고춧가루"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "milgaru"
+  },
+  "밀림_일반명사-1": {
+    "id": "밀림_일반명사-1",
+    "def_ko": "나무와 풀이 빽빽하게 자란 숲",
+    "related_vocab": [
+      "우림",
+      "녹지대",
+      "서식지",
+      "서식처",
+      "열대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "millim"
+  },
+  "밀물_일반명사-1": {
+    "id": "밀물_일반명사-1",
+    "def_ko": "바닷물이 해안으로 차오르는 현상",
+    "related_vocab": [
+      "범람"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "썰물_일반명사-1",
+          "target_term": "썰물",
+          "target_system": "상황과 장소",
+          "target_root": "날씨와 자연",
+          "target_category": "지형과 풍경",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "milmul"
+  },
+  "밑반찬_일반명사-1": {
+    "id": "밑반찬_일반명사-1",
+    "def_ko": "밥상에 자주 오르는 기본 반찬",
+    "related_vocab": [
+      "나물",
+      "주식",
+      "찌개",
+      "상차림"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mitbanchan"
+  },
+  "밑줄_일반명사-1": {
+    "id": "밑줄_일반명사-1",
+    "def_ko": "글자 아래에 그어 놓은 줄",
+    "related_vocab": [
+      "경계선",
+      "가로",
+      "세로",
+      "하위"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mitjul"
+  },
+  "바가지_일반명사-1": {
+    "id": "바가지_일반명사-1",
+    "def_ko": "액체, 곡물, 가루 등을 푸거나 담는 데 쓰는 둥근 모양의 그릇",
+    "related_vocab": [
+      "손잡이",
+      "수도꼭지",
+      "물그릇",
+      "바구니"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "바구니_일반명사-1": {
+    "id": "바구니_일반명사-1",
+    "def_ko": "대, 플라스틱 등을 엮어 속이 깊숙하게 만든 그릇",
+    "related_vocab": [
+      "구슬",
+      "도자기",
+      "손잡이",
+      "바가지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "꽃꽂이_일반명사-1",
+          "target_term": "꽃꽂이",
+          "target_system": "상황과 장소",
+          "target_root": "여가와 취미",
+          "target_category": "취미 활동과 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "바나나_일반명사-1": {
+    "id": "바나나_일반명사-1",
+    "def_ko": "길고 휘어진 노란 열매를 맺는 열대 과일",
+    "related_vocab": [
+      "레몬",
+      "망고",
+      "복숭아"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banana"
+  },
+  "바느질_일반명사-1": {
+    "id": "바느질_일반명사-1",
+    "def_ko": "바늘과 실로 옷이나 천을 잇거나 꾸미는 일",
+    "related_vocab": [
+      "다림질",
+      "빨래",
+      "세탁",
+      "수선",
+      "수선비"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baneujil"
+  },
+  "바늘_일반명사-1": {
+    "id": "바늘_일반명사-1",
+    "def_ko": "끝이 뾰족한 가는 쇠조각으로 실을 꿰어 꿰매는 도구",
+    "related_vocab": [
+      "끼우다",
+      "가위",
+      "못",
+      "실",
+      "핀"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baneul"
+  },
+  "바다_일반명사-1": {
+    "id": "바다_일반명사-1",
+    "def_ko": "육지 밖으로 넓게 퍼져 있는 짠물",
+    "related_vocab": [
+      "모래",
+      "모래밭",
+      "자원",
+      "조난",
+      "진주"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bada"
+  },
+  "바다낚시_일반명사-1": {
+    "id": "바다낚시_일반명사-1",
+    "def_ko": "바다에서 물고기를 잡는 일",
+    "related_vocab": [
+      "낚다",
+      "얼음낚시",
+      "피서"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "badanaksi"
+  },
+  "바닷가_일반명사-1": {
+    "id": "바닷가_일반명사-1",
+    "def_ko": "바다와 땅이 맞닿은 해안 근처",
+    "related_vocab": [
+      "모랫",
+      "수평선",
+      "연안",
+      "해변",
+      "해안"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "badatga"
+  },
+  "바닷길_일반명사-1": {
+    "id": "바닷길_일반명사-1",
+    "def_ko": "배가 다니는 바다 위의 길",
+    "related_vocab": [
+      "항로",
+      "노선"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "선박_일반명사-1",
+          "target_term": "선박",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "대중교통과 운송 수단",
+          "hook_id": "H01"
+        },
+        {
+          "target_id": "선착장_일반명사-1",
+          "target_term": "선착장",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "대중교통과 운송 수단",
+          "hook_id": "H15"
+        }
+      ]
+    },
+    "phonetic_romanization": "badatgil"
+  },
+  "바닷물_일반명사-1": {
+    "id": "바닷물_일반명사-1",
+    "def_ko": "바다에 있는 짠물",
+    "related_vocab": [
+      "심해",
+      "연안",
+      "산호초",
+      "오염"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "badatmul"
+  },
+  "바둑_일반명사-1": {
+    "id": "바둑_일반명사-1",
+    "def_ko": "흑돌과 백돌을 번갈아 두며 집을 겨루는 보드게임",
+    "related_vocab": [
+      "윷놀이"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baduk"
+  },
+  "바람_일반명사-1": {
+    "id": "바람_일반명사-1",
+    "def_ko": "공기가 한곳에서 다른 곳으로 움직이는 것",
+    "related_vocab": [
+      "관측",
+      "기상",
+      "꽃샘",
+      "쬐다",
+      "불어오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baram"
+  },
+  "바위_일반명사-1": {
+    "id": "바위_일반명사-1",
+    "def_ko": "단단하고 큰 돌덩이",
+    "related_vocab": [
+      "그림자",
+      "돌멩이",
+      "동굴",
+      "천연기념물",
+      "절벽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bawi"
+  },
+  "바이러스_일반명사-1": {
+    "id": "바이러스_일반명사-1",
+    "def_ko": "세포 안에서만 증식하며 병을 일으키는 아주 작은 존재",
+    "related_vocab": [
+      "균",
+      "독감",
+      "면역",
+      "암세포"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baireoseu"
+  },
+  "바이오_일반명사-1": {
+    "id": "바이오_일반명사-1",
+    "def_ko": "생명과학이나 생명공학과 관련된 분야",
+    "related_vocab": [
+      "천문학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baio"
+  },
+  "바이올린_일반명사-1": {
+    "id": "바이올린_일반명사-1",
+    "def_ko": "어깨에 괴고 활로 켜는 현악기",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baiollin"
+  },
+  "바자회_일반명사-1": {
+    "id": "바자회_일반명사-1",
+    "def_ko": "물건을 팔아 모은 돈을 기부하는 판매 행사",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bajahoe"
+  },
+  "바지_일반명사-1": {
+    "id": "바지_일반명사-1",
+    "def_ko": "두 다리를 각각 넣어 입는 옷",
+    "related_vocab": [
+      "띠",
+      "반바지",
+      "반팔",
+      "블라우스",
+      "운동복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baji"
+  },
+  "바치다_동사-1": {
+    "id": "바치다_동사-1",
+    "def_ko": "윗사람에게 물건을 드리다",
+    "related_vocab": [
+      "건네다",
+      "드리다",
+      "증정"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "바코드_일반명사-1": {
+    "id": "바코드_일반명사-1",
+    "def_ko": "굵기가 다른 여러 줄로 숫자 정보를 나타낸 코드",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bakodeu"
+  },
+  "박다_동사-1": {
+    "id": "박다_동사-1",
+    "def_ko": "못이나 뾰족한 것을 힘주어 안으로 들이꽂다",
+    "related_vocab": [
+      "집수리",
+      "페인트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bakda"
+  },
+  "박람회_일반명사-1": {
+    "id": "박람회_일반명사-1",
+    "def_ko": "여러 물품이나 산업 성과를 모아 전시하는 큰 행사",
+    "related_vocab": [
+      "사진전",
+      "특별전"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangnamhoe"
+  },
+  "박람회장_일반명사-1": {
+    "id": "박람회장_일반명사-1",
+    "def_ko": "박람회가 열리는 넓은 장소",
+    "related_vocab": [
+      "결혼식장",
+      "행사장",
+      "회의장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangnamhoejang"
+  },
+  "박물관_일반명사-1": {
+    "id": "박물관_일반명사-1",
+    "def_ko": "역사·문화와 관련된 물건을 모아 전시하는 곳",
+    "related_vocab": [
+      "과학관",
+      "기증",
+      "매표소",
+      "문화원",
+      "탑"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangmulgwan"
+  },
+  "박수_일반명사-1": {
+    "id": "박수_일반명사-1",
+    "def_ko": "손뼉을 치는 일 또는 그 소리",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baksu"
+  },
+  "박스_일반명사-1": {
+    "id": "박스_일반명사-1",
+    "def_ko": "물건을 넣어 둘 수 있도록 나무나 종이 등으로 만든 네모난 통",
+    "related_vocab": [
+      "벌통",
+      "보자기",
+      "사진첩",
+      "상자",
+      "스티커"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "박탈_일반명사-1": {
+    "id": "박탈_일반명사-1",
+    "def_ko": "가지고 있던 권리나 물건을 강제로 빼앗음",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baktal"
+  },
+  "박히다_동사-1": {
+    "id": "박히다_동사-1",
+    "def_ko": "단단한 곳에 깊이 들어가 꽂히다",
+    "related_vocab": [
+      "이물질"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bakhida"
+  },
+  "밖_일반명사-1": {
+    "id": "밖_일반명사-1",
+    "def_ko": "어떤 공간이나 범위의 겉부분",
+    "related_vocab": [
+      "구석",
+      "이면"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bak"
+  },
+  "반값_일반명사-1": {
+    "id": "반값_일반명사-1",
+    "def_ko": "정상 가격의 절반인 값",
+    "related_vocab": [
+      "값싸다",
+      "세일",
+      "저렴하다",
+      "헐값"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangap"
+  },
+  "반납_일반명사-1": {
+    "id": "반납_일반명사-1",
+    "def_ko": "빌린 것을 도로 돌려줌",
+    "related_vocab": [
+      "공공시설",
+      "이용객",
+      "이용자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bannap"
+  },
+  "반달_일반명사-1": {
+    "id": "반달_일반명사-1",
+    "def_ko": "둥근 달의 절반 모양으로 보이는 달",
+    "related_vocab": [
+      "별",
+      "별빛",
+      "별자리",
+      "샛별",
+      "토성"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bandal"
+  },
+  "반달곰_일반명사-1": {
+    "id": "반달곰_일반명사-1",
+    "def_ko": "가슴에 반달 모양의 흰 털이 있는 곰",
+    "related_vocab": [
+      "겨울잠",
+      "사냥",
+      "북극곰"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bandalgom"
+  },
+  "반대쪽_일반명사-1": {
+    "id": "반대쪽_일반명사-1",
+    "def_ko": "마주 보는 다른 한쪽",
+    "related_vocab": [
+      "대각선",
+      "앞면",
+      "마주",
+      "반대편",
+      "양옆"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bandaejjok"
+  },
+  "반대편_일반명사-1": {
+    "id": "반대편_일반명사-1",
+    "def_ko": "건너편이나 마주 보고 있는 쪽",
+    "related_vocab": [
+      "대각선",
+      "앞면",
+      "마주",
+      "구석",
+      "반대쪽"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bandaepyeon"
+  },
+  "반도체_일반명사-1": {
+    "id": "반도체_일반명사-1",
+    "def_ko": "전기가 잘 통하는 것도 아니고 안 통하는 것도 아닌 물질",
+    "related_vocab": [
+      "구리",
+      "금",
+      "물질",
+      "불순물",
+      "쇠"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bandoche"
+  },
+  "반려_일반명사-1": {
+    "id": "반려_일반명사-1",
+    "def_ko": "평생을 함께하는 짝이나 동무",
+    "related_vocab": [
+      "우정",
+      "친구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동반자_일반명사-1",
+          "target_term": "동반자",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "사회적 관계와 이웃",
+          "hook_id": "H05"
+        },
+        {
+          "target_id": "반려자_일반명사-1",
+          "target_term": "반려자",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "가족과 혈연",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "balryeo"
+  },
+  "반려동물_일반명사-1": {
+    "id": "반려동물_일반명사-1",
+    "def_ko": "사람과 함께 지내며 정서적으로 가까운 동물",
+    "related_vocab": [
+      "기르다",
+      "데려가다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balryeodongmul"
+  },
+  "반려자_일반명사-1": {
+    "id": "반려자_일반명사-1",
+    "def_ko": "삶을 함께하는 배우자나 동반자",
+    "related_vocab": [
+      "결혼"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "반려_일반명사-1",
+          "target_term": "반려",
+          "target_system": "상황과 장소",
+          "target_root": "사람과 관계",
+          "target_category": "친구와 지인",
+          "hook_id": "H05"
+        }
+      ]
+    },
+    "phonetic_romanization": "balryeoja"
+  },
+  "반말_일반명사-1": {
+    "id": "반말_일반명사-1",
+    "def_ko": "서로 매우 친하거나 존대 관계가 분명치 않을 때",
+    "related_vocab": [
+      "소통",
+      "정답다",
+      "친밀",
+      "친하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "반바지_일반명사-1": {
+    "id": "반바지_일반명사-1",
+    "def_ko": "무릎 근처까지 오는 짧은 바지",
+    "related_vocab": [
+      "긴팔",
+      "바지",
+      "반팔",
+      "복장",
+      "청바지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banbaji"
+  },
+  "반사_일반명사-1": {
+    "id": "반사_일반명사-1",
+    "def_ko": "빛이나 소리, 힘 등이 되돌아 나아가는 현상",
+    "related_vocab": [
+      "네온사인",
+      "꺼지다",
+      "음향",
+      "폭발"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bansa"
+  },
+  "반장_일반명사-1": {
+    "id": "반장_일반명사-1",
+    "def_ko": "학교에서 학급을 대표하는 사람",
+    "related_vocab": [
+      "교장",
+      "담임",
+      "선생님",
+      "학생회"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "반죽_일반명사-1": {
+    "id": "반죽_일반명사-1",
+    "def_ko": "가루에 물이나 다른 재료를 섞어 이긴 것",
+    "related_vocab": [
+      "계란",
+      "달걀",
+      "밀",
+      "밀가루"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "빚다_동사-1",
+          "target_term": "빚다",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "요리와 주방 도구",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "banjuk"
+  },
+  "반지_일반명사-1": {
+    "id": "반지_일반명사-1",
+    "def_ko": "손가락에 끼는 둥근 장신구",
+    "related_vocab": [
+      "다이아몬드",
+      "보석",
+      "팔찌"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banji"
+  },
+  "반찬_일반명사-1": {
+    "id": "반찬_일반명사-1",
+    "def_ko": "밥과 함께 먹는 여러 가지 음식",
+    "related_vocab": [
+      "김밥",
+      "김치",
+      "나물",
+      "도시락",
+      "식사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banchan"
+  },
+  "반창고_일반명사-1": {
+    "id": "반창고_일반명사-1",
+    "def_ko": "연고, 붕대등을 피부에 붙이기 위해 한쪽 면에 끈끈한 물질을 발라 만든 헝겊이나 테이프",
+    "related_vocab": [
+      "약",
+      "연고",
+      "붕대"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "테이프_일반명사-1",
+          "target_term": "테이프",
+          "target_system": "상황과 장소",
+          "target_root": "주거와 일상",
+          "target_category": "가전제품과 생활 도구",
+          "hook_id": "H02"
+        },
+        {
+          "target_id": "소독_일반명사-1",
+          "target_term": "소독",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "진료와 치료 행위",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "반출_일반명사-1": {
+    "id": "반출_일반명사-1",
+    "def_ko": "안에 있던 물건을 밖으로 가지고 나감",
+    "related_vocab": [
+      "내리다",
+      "들여오다",
+      "수송",
+      "운반"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banchul"
+  },
+  "반팔_일반명사-1": {
+    "id": "반팔_일반명사-1",
+    "def_ko": "팔꿈치가 드러날 정도로 소매의 길이가 짧은 옷",
+    "related_vocab": [
+      "겉옷",
+      "긴팔",
+      "바지",
+      "반바지",
+      "복장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "반품_일반명사-1": {
+    "id": "반품_일반명사-1",
+    "def_ko": "이미 산 물건을 다시 되돌려 보냄. 또는 그 물건",
+    "related_vocab": [
+      "서비스"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "세일_일반명사-1",
+          "target_term": "세일",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "구매와 결제",
+          "hook_id": "H12"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "받아쓰다_동사-1": {
+    "id": "받아쓰다_동사-1",
+    "def_ko": "다른 사람이 하는 말이나 읽는 글을 그대로 적다",
+    "related_vocab": [
+      "공부",
+      "외우다",
+      "읽기",
+      "작문"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "흉내_일반명사-1",
+          "target_term": "흉내",
+          "target_system": "마음과 표현",
+          "target_root": "성격과 태도",
+          "target_category": "사회적 태도",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "받침_일반명사-1": {
+    "id": "받침_일반명사-1",
+    "def_ko": "다른 물건의 밑에 대는 물건",
+    "related_vocab": [
+      "벽시계",
+      "수화기",
+      "발판",
+      "줄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발_일반명사-1": {
+    "id": "발_일반명사-1",
+    "def_ko": "다리의 끝부분으로 서거나 걷는 데 쓰는 부분",
+    "related_vocab": [
+      "맨발",
+      "손",
+      "손끝",
+      "정강이",
+      "종아리"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bal"
+  },
+  "발가락_일반명사-1": {
+    "id": "발가락_일반명사-1",
+    "def_ko": "발의 앞쪽 끝에 다섯 갈래로 갈라져 있는 부분",
+    "related_vocab": [
+      "맨발",
+      "손",
+      "손끝",
+      "손톱",
+      "발바닥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발걸음_일반명사-1": {
+    "id": "발걸음_일반명사-1",
+    "def_ko": "걷는 동작이나 그 움직임",
+    "related_vocab": [
+      "걸어가다",
+      "걸음",
+      "보행자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balggeoreum"
+  },
+  "발굴_일반명사-1": {
+    "id": "발굴_일반명사-1",
+    "def_ko": "땅속에 묻힌 것이나 숨겨진 것을 파내어 찾음",
+    "related_vocab": [
+      "석빙고",
+      "유물",
+      "유적",
+      "유적지"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "매장_일반명사-2",
+          "target_term": "매장",
+          "target_system": "상황과 장소",
+          "target_root": "문화와 사회",
+          "target_category": "전통과 명절",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "balgul"
+  },
+  "발급_일반명사-1": {
+    "id": "발급_일반명사-1",
+    "def_ko": "증명서나 카드 등을 만들어 줌",
+    "related_vocab": [
+      "공직자",
+      "대사관",
+      "민원서류",
+      "배급",
+      "부과"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balgeup"
+  },
+  "발길_일반명사-1": {
+    "id": "발길_일반명사-1",
+    "def_ko": "사람이 찾아가거나 오가는 행위",
+    "related_vocab": [
+      "오다",
+      "찾아오다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balggil"
+  },
+  "발꿈치_일반명사-1": {
+    "id": "발꿈치_일반명사-1",
+    "def_ko": "발의 뒤쪽 끝",
+    "related_vocab": [
+      "발바닥",
+      "발끝",
+      "발등"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발끝_일반명사-1": {
+    "id": "발끝_일반명사-1",
+    "def_ko": "발의 앞쪽 끝",
+    "related_vocab": [
+      "손끝",
+      "발톱",
+      "발꿈치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발등_일반명사-1": {
+    "id": "발등_일반명사-1",
+    "def_ko": "발의 윗부분",
+    "related_vocab": [
+      "손등",
+      "손바닥",
+      "발꿈치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발레_일반명사-1": {
+    "id": "발레_일반명사-1",
+    "def_ko": "음악에 맞추어 정해진 동작으로 추는 예술 무용",
+    "related_vocab": [
+      "클래식",
+      "군무",
+      "무용",
+      "춤",
+      "무용단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balle"
+  },
+  "발레단_일반명사-1": {
+    "id": "발레단_일반명사-1",
+    "def_ko": "발레 공연을 하는 단체",
+    "related_vocab": [
+      "무용가",
+      "무용단"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balledan"
+  },
+  "발레리나_일반명사-1": {
+    "id": "발레리나_일반명사-1",
+    "def_ko": "발레를 추는 여성 무용수",
+    "related_vocab": [
+      "군무",
+      "무용가",
+      "무용수"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ballerina"
+  },
+  "발맞추다_동사-1": {
+    "id": "발맞추다_동사-1",
+    "def_ko": "걸음이나 속도를 서로 같게 하다",
+    "related_vocab": [
+      "단합",
+      "손잡다",
+      "협력",
+      "협조",
+      "화합"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balmatchuda"
+  },
+  "발매_일반명사-1": {
+    "id": "발매_일반명사-1",
+    "def_ko": "새 제품이나 음반 등을 시장에 내놓아 팔기 시작함",
+    "related_vocab": [
+      "마케팅",
+      "출시",
+      "유료"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balmae"
+  },
+  "발명_일반명사-1": {
+    "id": "발명_일반명사-1",
+    "def_ko": "없던 기계나 방법을 새로 생각해 만들어 냄",
+    "related_vocab": [
+      "발행",
+      "설계"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balmyeong"
+  },
+  "발명가_일반명사-1": {
+    "id": "발명가_일반명사-1",
+    "def_ko": "새로운 물건이나 기술을 발명하는 사람",
+    "related_vocab": [
+      "개발자",
+      "과학자",
+      "기업가",
+      "연구원"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balmyeongga"
+  },
+  "발목_일반명사-1": {
+    "id": "발목_일반명사-1",
+    "def_ko": "발과 다리가 이어지는 부분",
+    "related_vocab": [
+      "다리",
+      "맨발",
+      "손목",
+      "종아리",
+      "어깨"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balmok"
+  },
+  "발바닥_일반명사-1": {
+    "id": "발바닥_일반명사-1",
+    "def_ko": "발의 아래쪽 면",
+    "related_vocab": [
+      "맨발",
+      "손등",
+      "손바닥",
+      "발가락",
+      "발꿈치"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balbadak"
+  },
+  "발병_일반명사-1": {
+    "id": "발병_일반명사-1",
+    "def_ko": "병이 생겨 나타남",
+    "related_vocab": [
+      "병들다",
+      "재발",
+      "전염",
+      "증상"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balbyeong"
+  },
+  "발사_일반명사-1": {
+    "id": "발사_일반명사-1",
+    "def_ko": "총알이나 로켓 등을 힘을 주어 쏘아 올림",
+    "related_vocab": [
+      "로켓",
+      "누르다",
+      "쏘다",
+      "튀다",
+      "궤도"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balsa"
+  },
+  "발생기_일반명사-1": {
+    "id": "발생기_일반명사-1",
+    "def_ko": "전기, 소리 등을 만들어 내는 기계",
+    "related_vocab": [
+      "가동",
+      "창출",
+      "제조사",
+      "단자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balsaenggi"
+  },
+  "발송_일반명사-1": {
+    "id": "발송_일반명사-1",
+    "def_ko": "편지나 물건을 보내는 일",
+    "related_vocab": [
+      "편지",
+      "부치다",
+      "엽서",
+      "우편",
+      "전송"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balsong"
+  },
+  "발자국_일반명사-1": {
+    "id": "발자국_일반명사-1",
+    "def_ko": "발로 밟은 자리에 남은 발의 자국",
+    "related_vocab": [
+      "구멍",
+      "마크",
+      "뚫다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발전기_일반명사-1": {
+    "id": "발전기_일반명사-1",
+    "def_ko": "기계적 에너지를 전기로 바꾸는 장치",
+    "related_vocab": [
+      "가동",
+      "조작",
+      "제조사",
+      "정비",
+      "단자"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baljeongi"
+  },
+  "발전소_일반명사-1": {
+    "id": "발전소_일반명사-1",
+    "def_ko": "전기를 만들어 내는 시설",
+    "related_vocab": [
+      "전력",
+      "전원",
+      "매설",
+      "탑",
+      "소각장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baljeonso"
+  },
+  "발코니_일반명사-1": {
+    "id": "발코니_일반명사-1",
+    "def_ko": "건물 밖으로 내민 작은 공간이나 베란다",
+    "related_vocab": [
+      "고층",
+      "베란다",
+      "집"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balkoni"
+  },
+  "발톱_일반명사-1": {
+    "id": "발톱_일반명사-1",
+    "def_ko": "발가락의 끝을 덮어 보호하고 있는 단단한 부분",
+    "related_vocab": [
+      "뼈",
+      "손톱",
+      "발끝"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "발판_일반명사-1": {
+    "id": "발판_일반명사-1",
+    "def_ko": "발을 딛고 서거나 오르내릴 수 있게 한 판",
+    "related_vocab": [
+      "사다리",
+      "받침",
+      "지퍼",
+      "페달"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balpan"
+  },
+  "발표회_일반명사-1": {
+    "id": "발표회_일반명사-1",
+    "def_ko": "연주, 연구 결과 등을 보여 주는 행사",
+    "related_vocab": [
+      "행사장",
+      "대회",
+      "사진전",
+      "설명회",
+      "시상식"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balpyohoe"
+  },
+  "발품_일반명사-1": {
+    "id": "발품_일반명사-1",
+    "def_ko": "여러 곳을 직접 찾아다니는 수고",
+    "related_vocab": [
+      "구두",
+      "거닐다",
+      "밟다",
+      "다이어트"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balpum"
+  },
+  "발행_일반명사-1": {
+    "id": "발행_일반명사-1",
+    "def_ko": "책이나 신문, 화폐 등을 만들어 내보냄",
+    "related_vocab": [
+      "복사",
+      "생산",
+      "작성",
+      "발명"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "출판사_일반명사-1",
+          "target_term": "출판사",
+          "target_system": "상황과 장소",
+          "target_root": "직장과 업무",
+          "target_category": "회사 공간과 환경",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": "balhaeng"
+  },
+  "발효_일반명사-1": {
+    "id": "발효_일반명사-1",
+    "def_ko": "미생물이 작용하여 물질의 성질이 변하는 현상",
+    "related_vocab": [
+      "검은콩",
+      "메주",
+      "식품",
+      "비지",
+      "젓갈"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "balhyo"
+  },
+  "밟다_동사-1": {
+    "id": "밟다_동사-1",
+    "def_ko": "발로 위에서 누르거나 디디다",
+    "related_vocab": [
+      "구두",
+      "거닐다",
+      "굽",
+      "발품",
+      "찌다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bapda"
+  },
+  "밟히다_동사-1": {
+    "id": "밟히다_동사-1",
+    "def_ko": "발 아래 놓여 눌리다",
+    "related_vocab": [
+      "가라앉다",
+      "놓이다",
+      "아래",
+      "지하"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "밤거리_일반명사-1": {
+    "id": "밤거리_일반명사-1",
+    "def_ko": "밤에 사람들이 다니는 길거리의 모습",
+    "related_vocab": [
+      "골목길",
+      "도심"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bamgeori"
+  },
+  "밤색_일반명사-1": {
+    "id": "밤색_일반명사-1",
+    "def_ko": "잘 익은 밤 껍질과 같은 색",
+    "related_vocab": [
+      "갈색",
+      "노랑",
+      "빛깔",
+      "빨강",
+      "황갈색"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "밥_일반명사-1": {
+    "id": "밥_일반명사-1",
+    "def_ko": "곡식을 물에 익혀 만든 주된 식사 음식",
+    "related_vocab": [
+      "김밥",
+      "김치",
+      "김치찌개",
+      "도시락",
+      "식사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bap"
+  },
+  "밥값_일반명사-1": {
+    "id": "밥값_일반명사-1",
+    "def_ko": "밥을 사 먹는 데 드는 돈",
+    "related_vocab": [
+      "메뉴",
+      "외식",
+      "음식점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bapkkap"
+  },
+  "밥그릇_일반명사-1": {
+    "id": "밥그릇_일반명사-1",
+    "def_ko": "밥을 담는 그릇",
+    "related_vocab": [
+      "그릇",
+      "뜨다",
+      "밥솥",
+      "식기",
+      "잔"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "밥상_일반명사-1": {
+    "id": "밥상_일반명사-1",
+    "def_ko": "밥과 반찬을 차려 올리는 상",
+    "related_vocab": [
+      "가구",
+      "식탁",
+      "탁자",
+      "테이블"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "차림_일반명사-1",
+          "target_term": "차림",
+          "target_system": "상황과 장소",
+          "target_root": "주거와 일상",
+          "target_category": "개인 관리와 하루 일과",
+          "hook_id": "H03"
+        }
+      ]
+    },
+    "phonetic_romanization": "bapsang"
+  },
+  "밥솥_일반명사-1": {
+    "id": "밥솥_일반명사-1",
+    "def_ko": "밥을 짓는 데 쓰는 솥이나 전기밥통",
+    "related_vocab": [
+      "가마솥",
+      "밥그릇",
+      "솥",
+      "솥뚜껑",
+      "방아"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bapsot"
+  },
+  "방_일반명사-1": {
+    "id": "방_일반명사-1",
+    "def_ko": "집 안에서 벽으로 나뉜 공간",
+    "related_vocab": [
+      "욕실",
+      "은신처",
+      "텐트",
+      "화장실"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "가구_일반명사-1",
+          "target_term": "가구",
+          "target_system": "상황과 장소",
+          "target_root": "주거와 일상",
+          "target_category": "가구와 침구",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "bang"
+  },
+  "방과_일반명사-1": {
+    "id": "방과_일반명사-1",
+    "def_ko": "수업이 끝남 또는 수업이 끝난 뒤",
+    "related_vocab": [
+      "등교",
+      "방학",
+      "숙제"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banggwa"
+  },
+  "방면_일반명사-1": {
+    "id": "방면_일반명사-1",
+    "def_ko": "어떤 장소나 지역이 있는 방향",
+    "related_vocab": [
+      "동서남북",
+      "지도",
+      "향하다",
+      "목적지",
+      "내비게이션"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "방문_일반명사-1": {
+    "id": "방문_일반명사-1",
+    "def_ko": "어떤 사람이나 곳을 찾아감",
+    "related_vocab": [
+      "마중",
+      "대접",
+      "부탁",
+      "소개",
+      "초청"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangmun"
+  },
+  "방백_일반명사-1": {
+    "id": "방백_일반명사-1",
+    "def_ko": "연극에서 관객에게만 들리게 혼잣말로 하는 대사",
+    "related_vocab": [
+      "각본",
+      "대본"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangbaek"
+  },
+  "방송_일반명사-1": {
+    "id": "방송_일반명사-1",
+    "def_ko": "라디오나 텔레비전으로 소리나 영상을 내보냄",
+    "related_vocab": [
+      "무선",
+      "인터넷",
+      "공지",
+      "전송"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "방송국_일반명사-1",
+          "target_term": "방송국",
+          "target_system": "상황과 장소",
+          "target_root": "공공 서비스",
+          "target_category": "공공 시설과 질서",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "bangsong"
+  },
+  "방송가_일반명사-1": {
+    "id": "방송가_일반명사-1",
+    "def_ko": "방송과 관련된 업계나 분야",
+    "related_vocab": [
+      "기업",
+      "비즈니스",
+      "산업",
+      "업계",
+      "제작사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangsonga"
+  },
+  "방송국_일반명사-1": {
+    "id": "방송국_일반명사-1",
+    "def_ko": "방송 프로그램을 만들고 내보내는 기관",
+    "related_vocab": [
+      "문화원",
+      "보건소",
+      "소방서",
+      "방송사"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "방송_일반명사-1",
+          "target_term": "방송",
+          "target_system": "상황과 장소",
+          "target_root": "공공 서비스",
+          "target_category": "우편과 통신",
+          "hook_id": "H01"
+        }
+      ]
+    },
+    "phonetic_romanization": "bangsongguk"
+  },
+  "방송사_일반명사-1": {
+    "id": "방송사_일반명사-1",
+    "def_ko": "방송을 하는 회사나 기관",
+    "related_vocab": [
+      "문화원",
+      "보건소",
+      "소방서",
+      "방송국"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangsongsa"
+  },
+  "방아_일반명사-1": {
+    "id": "방아_일반명사-1",
+    "def_ko": "곡식을 찧는 데 쓰는 기구",
+    "related_vocab": [
+      "밥솥",
+      "솥"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "보리_일반명사-1",
+          "target_term": "보리",
+          "target_system": "상황과 장소",
+          "target_root": "식생활",
+          "target_category": "식재료와 양념",
+          "hook_id": "H02"
+        }
+      ]
+    },
+    "phonetic_romanization": "banga"
+  },
+  "방앗간_일반명사-1": {
+    "id": "방앗간_일반명사-1",
+    "def_ko": "곡식을 찧거나 가는 기계를 둔 집이나 가게",
+    "related_vocab": [
+      "시장",
+      "식품점",
+      "재래시장"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangatgan"
+  },
+  "방언_일반명사-1": {
+    "id": "방언_일반명사-1",
+    "def_ko": "지역에 따라 다르게 쓰는 말이나 발음",
+    "related_vocab": [
+      "비속어",
+      "사투리",
+      "외래어",
+      "우리말",
+      "신조어"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangeon"
+  },
+  "방울_일반명사-1": {
+    "id": "방울_일반명사-1",
+    "def_ko": "작고 둥근 모양의 물체나 액체 덩이",
+    "related_vocab": [
+      "구",
+      "점"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangul"
+  },
+  "방제_일반명사-1": {
+    "id": "방제_일반명사-1",
+    "def_ko": "병이나 해충, 재해를 막는 일",
+    "related_vocab": [
+      "보건",
+      "소독",
+      "치료",
+      "예방",
+      "위생"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangje"
+  },
+  "방청_일반명사-1": {
+    "id": "방청_일반명사-1",
+    "def_ko": "재판이나 회의, 공연 등을 지켜봄",
+    "related_vocab": [
+      "배역",
+      "뉴스",
+      "게시",
+      "회의"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangcheong"
+  },
+  "방탄_일반명사-1": {
+    "id": "방탄_일반명사-1",
+    "def_ko": "총알을 막을 수 있음",
+    "related_vocab": [
+      "궁",
+      "기능",
+      "총",
+      "방탄복"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangtan"
+  },
+  "방탄복_일반명사-1": {
+    "id": "방탄복_일반명사-1",
+    "def_ko": "총알을 막기 위해 입는 옷",
+    "related_vocab": [
+      "총",
+      "방탄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bangtanbok"
+  },
+  "방학_일반명사-1": {
+    "id": "방학_일반명사-1",
+    "def_ko": "학교에서 일정 기간 수업을 쉬는 것",
+    "related_vocab": [
+      "결석",
+      "방과",
+      "학기",
+      "학업",
+      "휴학"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "banghak"
+  },
+  "방황_일반명사-1": {
+    "id": "방황_일반명사-1",
+    "def_ko": "목적 없이 이리저리 돌아다님",
+    "related_vocab": [
+      "돌다",
+      "뛰어다니다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "헤매다_동사-1",
+          "target_term": "헤매다",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H10"
+        }
+      ]
+    },
+    "phonetic_romanization": "banghwang"
+  },
+  "밭_일반명사-1": {
+    "id": "밭_일반명사-1",
+    "def_ko": "곡식이나 채소를 심어 가꾸는 땅",
+    "related_vocab": [
+      "물",
+      "근교",
+      "녹지대",
+      "도랑",
+      "둠벙"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bat"
+  },
+  "배_일반명사-1": {
+    "id": "배_일반명사-1",
+    "def_ko": "사람이나 동물이 음식을 넣는 몸 안의 부분",
+    "related_vocab": [
+      "대변",
+      "등",
+      "분비",
+      "속",
+      "아랫배"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bae"
+  },
+  "배경_일반명사-1": {
+    "id": "배경_일반명사-1",
+    "def_ko": "어떤 일이나 장면이 이루어지는 환경이나 뒷면",
+    "related_vocab": [
+      "공간",
+      "여건",
+      "현장",
+      "흔적"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "뒷면_일반명사-1",
+          "target_term": "뒷면",
+          "target_system": "구조와 기초",
+          "target_root": "지시와 질문",
+          "target_category": "장소/사물 지시",
+          "hook_id": "H18"
+        }
+      ]
+    },
+    "phonetic_romanization": "baegyeong"
+  },
+  "배구_일반명사-1": {
+    "id": "배구_일반명사-1",
+    "def_ko": "그물을 사이에 두고 공을 주고받는 구기 종목",
+    "related_vocab": [
+      "공",
+      "배드민턴",
+      "탁구",
+      "테니스"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baegu"
+  },
+  "배급_일반명사-1": {
+    "id": "배급_일반명사-1",
+    "def_ko": "필요한 물자를 일정하게 나누어 줌",
+    "related_vocab": [
+      "등기",
+      "등록",
+      "발급",
+      "부과",
+      "수속"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baegeup"
+  },
+  "배꼽_일반명사-1": {
+    "id": "배꼽_일반명사-1",
+    "def_ko": "배의 한가운데 있는, 탯줄이 떨어진 자리",
+    "related_vocab": [
+      "아랫배",
+      "탯줄"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": ""
+  },
+  "배낭_일반명사-1": {
+    "id": "배낭_일반명사-1",
+    "def_ko": "등에 메는 가방",
+    "related_vocab": [
+      "가방",
+      "봉지",
+      "상자",
+      "핸드백",
+      "백"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baenang"
+  },
+  "배낭여행_일반명사-1": {
+    "id": "배낭여행_일반명사-1",
+    "def_ko": "배낭만 가지고 다니면서 적은 돈으로 자유롭게 하는 여행",
+    "related_vocab": [
+      "여정",
+      "관광",
+      "여행",
+      "해외여행"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "투어_일반명사-1",
+          "target_term": "투어",
+          "target_system": "상황과 장소",
+          "target_root": "여행",
+          "target_category": "투어와 가이드",
+          "hook_id": "H04"
+        }
+      ]
+    },
+    "phonetic_romanization": ""
+  },
+  "배달_일반명사-1": {
+    "id": "배달_일반명사-1",
+    "def_ko": "물건을 주문한 곳으로 가져다 줌",
+    "related_vocab": [
+      "배송",
+      "택배",
+      "서비스"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "보내다_동사-1",
+          "target_term": "보내다",
+          "target_system": "구조와 기초",
+          "target_root": "논리와 연결",
+          "target_category": "범용 행위와 상태",
+          "hook_id": "H03"
+        },
+        {
+          "target_id": "주문_일반명사-1",
+          "target_term": "주문",
+          "target_system": "상황과 장소",
+          "target_root": "쇼핑",
+          "target_category": "구매와 결제",
+          "hook_id": "H20"
+        }
+      ]
+    },
+    "phonetic_romanization": "baedal"
+  },
+  "배드민턴_일반명사-1": {
+    "id": "배드민턴_일반명사-1",
+    "def_ko": "라켓으로 셔틀콕을 주고받는 운동",
+    "related_vocab": [
+      "배구",
+      "탁구",
+      "테니스"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baedeuminteon"
+  },
+  "배반_일반명사-1": {
+    "id": "배반_일반명사-1",
+    "def_ko": "믿고 따르던 사람을 등지고 거스름",
+    "related_vocab": [
+      "단절",
+      "떠넘기다",
+      "멀어지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baeban"
+  },
+  "배송_일반명사-1": {
+    "id": "배송_일반명사-1",
+    "def_ko": "물건을 사는 사람에게 배달하여 보내 줌",
+    "related_vocab": [
+      "배달",
+      "택배"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baesong"
+  },
+  "배신_일반명사-1": {
+    "id": "배신_일반명사-1",
+    "def_ko": "믿음을 져버리고 돌아섬",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baesin"
+  },
+  "배역_일반명사-1": {
+    "id": "배역_일반명사-1",
+    "def_ko": "연극이나 영화에서 맡은 역할",
+    "related_vocab": [
+      "각광",
+      "방청",
+      "배우",
+      "원작"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baeyeok"
+  },
+  "배우_일반명사-1": {
+    "id": "배우_일반명사-1",
+    "def_ko": "연극, 영화 등에서 역할을 맡아 연기하는 사람",
+    "related_vocab": [
+      "각광",
+      "대중문화",
+      "무명",
+      "배역",
+      "예술가"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baeu"
+  },
+  "배우다_동사-1": {
+    "id": "배우다_동사-1",
+    "def_ko": "지식이나 기술을 익히다",
+    "related_vocab": [
+      "견학",
+      "공부",
+      "교육",
+      "깨우치다",
+      "깨치다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "baewuda"
+  },
+  "배우자_일반명사-1": {
+    "id": "배우자_일반명사-1",
+    "def_ko": "결혼하여 함께 사는 남편이나 아내",
+    "related_vocab": [
+      "결혼",
+      "남편",
+      "내외",
+      "며느리",
+      "식구"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "bae-uja"
+  }
+}

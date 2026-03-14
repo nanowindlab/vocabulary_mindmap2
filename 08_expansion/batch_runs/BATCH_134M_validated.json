@@ -1,0 +1,554 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "포획_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "자연 속 동물을 잡는 행위이나, '잡음'이라는 행위 자체의 일반성 때문에 분류 모호성이 있어 임시 제안 root로 보낸다.",
+      "exclusion_reason": null,
+      "rationale_short": "자연 속 동물을 잡는 행위로, '날씨와 자연'에 임시 제안."
+    },
+    {
+      "meaning_id": "푸다_동사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "음식 담기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식을 그릇에 담는 행위로, '식생활'에 명확히 해당."
+    },
+    {
+      "meaning_id": "푸르다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색깔을 묘사하는 형용사로, '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "풀이_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "설명과 이해",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "글이나 문제의 뜻을 설명하는 행위로, '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "풀이_일반명사-2",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 해소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "쌓인 마음을 달래는 행위로, '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "품_일반명사-1",
+      "bucket": "candidate",
+      "root": "보건과 의료",
+      "category_label_ko": null,
+      "candidate_reason": "신체 부위이나, '보건과 의료'가 신체 부위 자체보다는 건강/질병에 초점을 맞추므로 모호하여 임시 제안 root로 보낸다.",
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위로, '보건과 의료'에 임시 제안."
+    },
+    {
+      "meaning_id": "품_일반명사-2",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "업무 노력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일을 하는 데 드는 시간과 노력으로, '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "품목_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건의 종류를 나타내며, '쇼핑'과 관련성이 높다."
+    },
+    {
+      "meaning_id": "품종_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물 종류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식물이나 동물의 종류를 나타내며, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "풍경화_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "미술 작품",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "그림의 한 종류로, '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "풍덩_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리/모양 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물에 떨어지는 모양을 묘사하는 부사로, '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "풍습_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "사회 관습",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "오래 지켜온 생활 습관과 예절로, '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "프랜차이즈_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "사업 방식",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사업 방식으로, '직장과 업무'에 명확히 해당."
+    },
+    {
+      "meaning_id": "플랑크톤_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "수중 생물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "아주 작은 수중 생물로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "피나다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "상처 증상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "다쳐서 피가 나오는 증상으로, '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "피크_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 현상의 가장 높은 수준이나 정도를 나타내는 일반적인 개념으로, 특정 root에 명확히 속하기보다 여러 상황에 적용될 수 있어 모호하다.",
+      "exclusion_reason": null,
+      "rationale_short": "가장 높은 수준/정도를 나타내는 일반 개념으로, '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "필연_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "필수적 결과",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "반드시 그렇게 될 수밖에 없는 일이라는 논리적 개념으로, '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "하긴_접속부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "의견 연결",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "앞선 말을 인정하며 다른 의견을 덧붙이는 접속 부사로, '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "하수_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 폐수",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집이나 공장에서 버린 더러운 물로, '주거와 일상'과 밀접하게 관련된다."
+    },
+    {
+      "meaning_id": "학문_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "지식 체계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "깊이 연구하고 쌓은 지식 체계로, '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "학부모_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 관계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학생의 부모나 보호자로, '사람과 관계'에 명확히 해당."
+    },
+    {
+      "meaning_id": "학원비_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 비용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학원에 내는 수업료로, '학교와 공부'에 명확히 해당."
+    },
+    {
+      "meaning_id": "한곳_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "하나뿐인 같은 자리나 장소를 지칭하는 일반적인 표현으로, 특정 장소나 상황에 국한되지 않아 모호하다.",
+      "exclusion_reason": null,
+      "rationale_short": "하나의 장소를 지칭하는 일반 개념으로, '상황 지시/기타'에 임시 제안."
+    },
+    {
+      "meaning_id": "한데_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "야외 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지붕이나 덮개가 없는 바깥 공간으로, '주거와 일상'과 관련성이 높다."
+    },
+    {
+      "meaning_id": "한숨_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "감정 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "답답하거나 힘들 때 내쉬는 숨으로, 감정 표현에 해당하여 '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "한의학_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "전통 의술",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "전통 방법으로 병을 다루는 의학으로, '보건과 의료'에 명확히 해당."
+    },
+    {
+      "meaning_id": "한창_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "절정 시기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 가장 활발한 때를 나타내므로, '시간과 흐름'에 명확히 해당."
+    },
+    {
+      "meaning_id": "한층_일반부사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "정도 비교",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "전보다 더 높거나 많은 정도를 나타내므로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "한하다_동사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "범위나 수량을 정하여 제한하는 행위로, '수량과 단위'와 '논리와 연결' 모두 가능하여 모호하다. 조건 설정의 의미로 '논리와 연결'에 임시 제안한다.",
+      "exclusion_reason": null,
+      "rationale_short": "범위/수량 제한 행위로, '논리와 연결'에 임시 제안."
+    },
+    {
+      "meaning_id": "합치다_동사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "결합/통합",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여럿을 하나로 모으는 행위로, 개념적 결합의 의미에서 '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "항공_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "비행기 운송",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "비행기를 이용한 운송으로, '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "항목_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "정보 분류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "표나 문서에서 나뉘어 적은 부분으로, 정보 분류 및 구조와 관련되어 '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "해내다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "과업 달성",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어려운 일을 끝까지 이루는 행위로, 일반적인 과업 달성 상황에 해당."
+    },
+    {
+      "meaning_id": "해답_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "문제 해결",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문제의 맞는 답으로, '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "해방_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "자유 획득",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "억압이나 지배에서 벗어나는 것으로, 사회적/문화적 맥락에서 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "해외여행_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "국외 여행",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "외국으로 떠나는 여행으로, '여행'에 명확히 해당."
+    },
+    {
+      "meaning_id": "해학_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "유머 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "익살스럽게 웃음을 자아내는 표현으로, '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "행성_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "우주 천체",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "별 주위를 도는 천체로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "허물다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "파괴 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "쌓여 있거나 세워진 것을 부숴 없애는 일반적인 행위."
+    },
+    {
+      "meaning_id": "허탈_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "무기력 상태",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기운이 빠져 멍한 상태로, '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "헤매다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "방황/탐색",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "길이나 방법을 찾지 못해 이리저리 돌아다니는 일반적인 행위."
+    },
+    {
+      "meaning_id": "헤엄치다_동사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "수영 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물속에서 팔다리를 움직여 나아가는 행위로, '여가와 취미'에 명확히 해당."
+    },
+    {
+      "meaning_id": "현관_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 입구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집이나 건물에 들어갈 때 처음 지나가는 공간으로, '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "현관문_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "출입문",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "집이나 건물의 맨 앞 출입문으로, '주거와 일상'에 명확히 해당."
+    },
+    {
+      "meaning_id": "현수막_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "홍보 게시물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "글이나 그림을 써서 높이 매다는 천으로, 공공 정보 전달에 사용되어 '공공 서비스'에 해당."
+    },
+    {
+      "meaning_id": "현장감_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "생생한 느낌",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "마치 그 자리에 있는 듯한 느낌으로, '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "현저히_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "뚜렷한 정도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "눈에 띌 만큼 뚜렷하게라는 묘사 부사로, '감각과 묘사'에 명확히 해당."
+    },
+    {
+      "meaning_id": "현존_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "실제 존재",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지금 실제로 존재함을 나타내는 일반적인 개념."
+    },
+    {
+      "meaning_id": "현행_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "현재 적용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지금 실제로 쓰이고 있는 것을 나타내는 일반적인 개념."
+    },
+    {
+      "meaning_id": "협약_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공식 약속",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 쪽이 약속을 문서로 맺는 것으로, 사회적 합의의 의미에서 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "협의_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공동 의논",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여럿이 모여 의논하는 것으로, 사회적 상호작용의 의미에서 '문화와 사회'에 명확히 해당."
+    },
+    {
+      "meaning_id": "혼선_일반명사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "의사소통 오류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "내용이 뒤섞여 제대로 전달되지 못하는 것으로, 의사소통의 논리적 오류에 해당하여 '논리와 연결'에 명확히 해당."
+    },
+    {
+      "meaning_id": "혼합_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "섞는 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여러 가지를 섞는 일반적인 행위."
+    },
+    {
+      "meaning_id": "홍보물_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "광고 자료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "홍보를 위해 만든 인쇄물이나 영상물로, '직장과 업무'의 마케팅 활동과 관련성이 높다."
+    },
+    {
+      "meaning_id": "화내다_동사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "분노 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "성난 감정을 드러내는 행위로, '내면과 감정'에 명확히 해당."
+    },
+    {
+      "meaning_id": "화물차_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "운송 차량",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "짐을 나르는 데 쓰는 트럭으로, '교통'에 명확히 해당."
+    },
+    {
+      "meaning_id": "화석_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "지질 유물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "옛날 생물의 흔적이 굳어진 것으로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "화훼_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "원예 식물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "꽃과 화분용 식물로, '날씨와 자연'에 명확히 해당."
+    },
+    {
+      "meaning_id": "확률_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "가능성 정도",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이 일어날 가능성의 정도를 수로 나타낸 것으로, '수량과 단위'에 명확히 해당."
+    },
+    {
+      "meaning_id": "확립_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "제도 정립",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기준이나 제도를 튼튼히 세우는 것으로, '문화와 사회'에 명확히 해당."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념어 중 여러 root에 걸쳐 해석될 수 있는 경우 (예: '피크', '한하다', '한곳')",
+      "신체 부위 관련 어휘의 '보건과 의료' root 적합성 판단 (예: '품_일반명사-1')"
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어의 경우, 해당 개념이 가장 직접적으로 사용되는 맥락의 root를 우선 고려하거나, '상황 지시/기타'를 활용하는 기준을 명확히 한다.",
+      "신체 부위 관련 어휘에 대해 '보건과 의료' root의 범위를 '신체 구조'까지 확장할지, 아니면 '상황 지시/기타' 또는 새로운 root를 고려할지 IA 논의가 필요하다."
+    ]
+  }
+}

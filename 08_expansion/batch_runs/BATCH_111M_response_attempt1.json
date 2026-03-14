@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "가르다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "행위 자체는 명확하나, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "가문_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 혈통",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가족 및 혈통과 직접적으로 관련된 개념"
+    },
+    {
+      "meaning_id": "가설_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "추정, 설명 등 논리적 사고 과정과 관련이 깊으나, 명확한 단일 root로 분류하기에 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "논리적 사고 과정 관련, 단일 root 모호"
+    },
+    {
+      "meaning_id": "가속_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "속도 변화를 나타내는 개념으로, 특정 장면보다는 일반적인 상태 변화에 가까워 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "속도 변화 개념, 일반적 상태 변화에 가까워 모호"
+    },
+    {
+      "meaning_id": "가스_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "category_label_ko": null,
+      "candidate_reason": "물질 자체는 명확하나, 사용처나 맥락에 따라 여러 root에 걸쳐 분류될 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "물질이나 사용처/맥락에 따라 분류 모호"
+    },
+    {
+      "meaning_id": "가슴살_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "육류 부위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주로 음식 재료로 사용되는 부위"
+    },
+    {
+      "meaning_id": "가습기_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 가전",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "가정에서 일상적으로 사용하는 기계"
+    },
+    {
+      "meaning_id": "가열_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 행위 자체는 명확하나, 적용 대상과 맥락이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위의 적용 대상/맥락 광범위하여 모호"
+    },
+    {
+      "meaning_id": "가위_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "생활 도구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 흔히 사용하는 도구"
+    },
+    {
+      "meaning_id": "가재_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "수생 동물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연에 서식하는 동물"
+    },
+    {
+      "meaning_id": "각국_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "category_label_ko": null,
+      "candidate_reason": "여러 국가를 지칭하는 표현으로, '문화와 사회'와 관련이 깊으나, 특정 장면이나 제도보다는 추상적인 개념에 가까워 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "여러 국가 지칭, 추상적 개념에 가까워 모호"
+    },
+    {
+      "meaning_id": "각기_일반부사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "행위나 상태의 방식을 나타내는 부사로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위/상태 방식 부사, 분류 모호"
+    },
+    {
+      "meaning_id": "간단히_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "행위나 상태의 방식을 묘사하는 부사로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위/상태 방식 묘사 부사, 분류 모호"
+    },
+    {
+      "meaning_id": "간장_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "기본 양념",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식 재료 및 양념"
+    },
+    {
+      "meaning_id": "간지럽히다_동사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "신체적 감각을 유발하는 행위로, '감각과 묘사'와 관련이 깊으나, 사람 간의 상호작용으로도 볼 수 있어 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "신체 감각 유발 행위, 상호작용과 경계 모호"
+    },
+    {
+      "meaning_id": "갇히다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 상황이나 상태를 나타내는 동사로, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "상황/상태 동사, 적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "갈다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "교체 행위 자체는 명확하나, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "교체 행위, 적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "갈라지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "분리되거나 나뉘는 상태를 나타내는 동사로, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "분리/나뉨 상태 동사, 적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "갈비_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 골격",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위 중 뼈를 지칭"
+    },
+    {
+      "meaning_id": "갈색_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색깔을 나타내는 명사"
+    },
+    {
+      "meaning_id": "갈아타다_동사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "교통수단 이용",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "교통수단을 이용하는 행위"
+    },
+    {
+      "meaning_id": "감싸다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "물리적 행위 또는 추상적 보호 행위 등 다양한 맥락에서 사용될 수 있어 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "다양한 맥락 사용 가능, 분류 모호"
+    },
+    {
+      "meaning_id": "감지기_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "안전 장비",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주로 안전 및 감시 목적으로 사용되는 기계"
+    },
+    {
+      "meaning_id": "감쪽같이_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "행위의 결과나 상태를 묘사하는 부사로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위 결과/상태 묘사 부사, 분류 모호"
+    },
+    {
+      "meaning_id": "감촉_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "촉각 느낌",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "오감 중 촉각과 관련된 느낌"
+    },
+    {
+      "meaning_id": "강력_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "힘이나 효과의 정도를 나타내는 추상적인 개념으로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "힘/효과 정도 추상적 개념, 분류 모호"
+    },
+    {
+      "meaning_id": "강력히_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "행위의 강도를 묘사하는 부사로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위 강도 묘사 부사, 분류 모호"
+    },
+    {
+      "meaning_id": "강좌_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "교육 과정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학습 및 교육 활동과 관련된 개념"
+    },
+    {
+      "meaning_id": "강풍_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "바람 현상",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "날씨 현상 중 바람의 한 종류"
+    },
+    {
+      "meaning_id": "개그_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "유머 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람을 즐겁게 하는 여가 활동의 일종"
+    },
+    {
+      "meaning_id": "개인차_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "개인의 특성 차이를 나타내는 추상적인 개념으로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "개인 특성 차이 추상적 개념, 분류 모호"
+    },
+    {
+      "meaning_id": "개입_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 상황에 끼어드는 행위로, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "상황 개입 행위, 적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "객실_일반명사-1",
+      "bucket": "core",
+      "root": "여행",
+      "category_label_ko": "숙박 공간",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주로 여행 시 숙박하는 공간"
+    },
+    {
+      "meaning_id": "거닐다_동사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "산책 활동",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "여유롭게 걷는 여가 활동"
+    },
+    {
+      "meaning_id": "거론_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "특정 주제를 언급하거나 논의하는 행위로, '의견과 가치'와 관련이 깊으나, 추상적인 행위에 가까워 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "주제 언급/논의 행위, 추상적 행위에 가까워 모호"
+    },
+    {
+      "meaning_id": "거스르다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "특정 흐름이나 명령에 반대하는 행위로, 적용 대상이 광범위하여 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "흐름/명령 반대 행위, 적용 대상 광범위하여 모호"
+    },
+    {
+      "meaning_id": "건전_일반명사-1",
+      "bucket": "candidate",
+      "root": "성격과 태도",
+      "category_label_ko": null,
+      "candidate_reason": "마음이나 상태의 긍정적인 특성을 나타내는 추상적인 개념으로, '성격과 태도'와 관련이 깊으나, 상태 전반을 포함하여 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "마음/상태 긍정적 특성, 상태 전반 포함하여 모호"
+    },
+    {
+      "meaning_id": "검거_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "범죄자 체포",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "법 집행 기관의 행위"
+    },
+    {
+      "meaning_id": "검정_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "색깔 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "색깔을 나타내는 명사"
+    },
+    {
+      "meaning_id": "겉면_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "사물의 물리적 특성 중 표면을 나타내는 개념으로, 특정 root에 100% 확실하게 분류하기 모호함.",
+      "exclusion_reason": null,
+      "rationale_short": "사물 물리적 특성, 표면 개념으로 분류 모호"
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위/개념 (예: 가르다, 가설, 가속, 가열, 각기, 간단히, 갇히다, 갈다, 갈라지다, 감싸다, 감쪽같이, 강력, 강력히, 개인차, 개입, 거론, 거스르다, 건전, 겉면)는 특정 root에 100% 확실하게 분류하기 어려워 candidate로 분류되는 경향이 있음. '상황 지시/기타' 또는 '감각과 묘사', '논리와 연결' 등의 임시 root를 활용하여 보류함.",
+      "신체 부위가 음식 재료로도 사용될 수 있는 경우 (예: 가슴살)는 의미에 따라 주된 용도를 파악하여 분류함. '가슴살'은 음식 재료로서 '식생활'로, '갈비'는 뼈로서 '보건과 의료'로 분류됨."
+    ],
+    "ia_suggestions": [
+      "추상적인 동사/명사 및 부사의 분류 기준을 더 세분화하여 '상황 지시/기타', '감각과 묘사', '논리와 연결' 등의 임시 root 내에서도 하위 분류를 고려할 필요가 있음.",
+      "물질이나 도구처럼 다양한 맥락에서 사용될 수 있는 어휘(예: 가스, 가위)에 대해, 가장 일반적이거나 대표적인 사용처를 기준으로 core 분류를 시도하되, 모호성이 크면 candidate로 유지하는 전략을 명확히 할 필요가 있음."
+    ]
+  }
+}

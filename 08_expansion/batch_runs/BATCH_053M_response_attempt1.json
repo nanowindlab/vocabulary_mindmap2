@@ -1,0 +1,374 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "심판_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 판단 행위로, 여러 root와 경계가 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 판단 행위, 모호성"
+    },
+    {
+      "meaning_id": "심판_일반명사-2",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "경기 진행 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "경기의 규칙을 관리하는 명확한 직업/역할어입니다."
+    },
+    {
+      "meaning_id": "쏟다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일반적인 물리적 행위 동사로, 특정 root에 명확히 속하기보다 여러 상황에 걸쳐 사용될 수 있어 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적 물리 행위 동사, 모호성"
+    },
+    {
+      "meaning_id": "씨앗_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 번식 요소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식물의 생명 주기와 관련된 자연물입니다."
+    },
+    {
+      "meaning_id": "아저씨_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "중년 남성 호칭",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람을 지칭하는 호칭으로, 사람 간의 관계에 해당합니다."
+    },
+    {
+      "meaning_id": "앞두다_동사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "시간적 선후 관계를 나타내는 동사로, 추상적인 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 시간 개념, 모호성"
+    },
+    {
+      "meaning_id": "애쓰다_동사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "노력이라는 내면적 상태와 행위를 동시에 나타내므로, 경계가 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "내면적 상태와 행위, 모호성"
+    },
+    {
+      "meaning_id": "양말_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "일상 의류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 착용하는 의류 품목입니다."
+    },
+    {
+      "meaning_id": "언제나_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간 빈도 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 빈도와 지속성을 나타내는 부사입니다."
+    },
+    {
+      "meaning_id": "연령_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "사람 나이",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 나이를 나타내는 시간 개념입니다."
+    },
+    {
+      "meaning_id": "연예인_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "공연 직업인",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 직업/역할을 나타내는 명확한 어휘입니다."
+    },
+    {
+      "meaning_id": "연장_일반명사-1",
+      "bucket": "candidate",
+      "root": "시간과 흐름",
+      "category_label_ko": null,
+      "candidate_reason": "기간이나 길이를 늘리는 추상적인 행위/개념으로, 여러 root와 경계가 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 기간/길이 개념, 모호성"
+    },
+    {
+      "meaning_id": "영역_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "추상적인 범위나 분야를 나타내는 개념으로, 특정 root에 명확히 속하기보다 일반적인 상황 지시에 가까워 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 범위 개념, 모호성"
+    },
+    {
+      "meaning_id": "예술가_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "예술 직업인",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람의 직업/역할을 나타내는 명확한 어휘입니다."
+    },
+    {
+      "meaning_id": "오류_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "판단이나 셈의 잘못을 나타내는 추상적인 개념으로, 여러 root와 경계가 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 잘못 개념, 모호성"
+    },
+    {
+      "meaning_id": "왜냐하면_일반부사-1",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "이유 연결 부사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문장 간의 논리적 인과 관계를 연결하는 기능어입니다."
+    },
+    {
+      "meaning_id": "요약_일반명사-1",
+      "bucket": "candidate",
+      "root": "논리와 연결",
+      "category_label_ko": null,
+      "candidate_reason": "정보의 핵심을 추리는 행위로, 학습/업무 등 다양한 맥락에서 사용될 수 있으며 추상적인 개념이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 정보 처리 행위, 모호성"
+    },
+    {
+      "meaning_id": "위로_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "슬픈 마음을 달래는 내면적/감정적 행위로, 사람과의 관계와도 겹치므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "내면적/감정적 행위, 모호성"
+    },
+    {
+      "meaning_id": "유인_일반명사-1",
+      "bucket": "candidate",
+      "root": "사람과 관계",
+      "category_label_ko": null,
+      "candidate_reason": "타인의 마음을 끌어 행동하게 하는 행위로, 사람 간의 관계에서 발생하지만 그 본질이 다소 추상적이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "타인 행동 유도 행위, 모호성"
+    },
+    {
+      "meaning_id": "유통_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "상품 흐름",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상품이 소비자에게 도달하는 과정으로, 쇼핑 및 경제 활동과 밀접하게 관련됩니다."
+    },
+    {
+      "meaning_id": "의의_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "일의 가치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일이나 사물이 가지는 가치나 중요성을 나타내는 추상 명사입니다."
+    },
+    {
+      "meaning_id": "익다_동사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 성숙",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "과일이나 곡식의 자연적인 성숙 과정을 나타내는 동사입니다."
+    },
+    {
+      "meaning_id": "익다_동사-3",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것에 익숙해지는 내면적 상태 변화를 나타내므로, 경계가 모호하여 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "내면적 상태 변화, 모호성"
+    },
+    {
+      "meaning_id": "익히다_동사-2",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학습 숙련",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "지식이나 기술을 배우고 숙련하는 학습 활동입니다."
+    },
+    {
+      "meaning_id": "인터뷰_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "질의응답 대담",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 목적을 가지고 질문과 대답을 주고받는 업무/사회적 활동입니다."
+    },
+    {
+      "meaning_id": "잡히다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "일반적인 물리적 행위의 피동형 동사로, 특정 root에 명확히 속하기보다 일반적인 상황 지시에 가까워 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "일반적 피동 행위, 모호성"
+    },
+    {
+      "meaning_id": "장르_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "예술 분류",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "예술 작품의 종류나 분류를 나타내는 문화 관련 어휘입니다."
+    },
+    {
+      "meaning_id": "저렴하다_형용사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "가격 평가",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "상품의 가격을 평가하는 형용사로, 쇼핑 활동과 밀접하게 관련됩니다."
+    },
+    {
+      "meaning_id": "적정_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 정도가 알맞고 바른지에 대한 평가적 개념으로, 추상적이므로 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "평가적 개념, 모호성"
+    },
+    {
+      "meaning_id": "전염_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 확산",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "질병이 다른 사람에게 옮는 의료 관련 현상입니다."
+    },
+    {
+      "meaning_id": "전지_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "전기 저장 기구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 사용되는 전기를 저장하는 기구입니다."
+    },
+    {
+      "meaning_id": "절반_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "부분 수량",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "전체를 나누는 수량 및 단위 개념입니다."
+    },
+    {
+      "meaning_id": "절약_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "자원 아껴쓰기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "돈이나 물건을 아껴 쓰는 일상생활의 행위입니다."
+    },
+    {
+      "meaning_id": "점차_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "점진적 변화",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 흐름에 따른 점진적인 변화 양상을 나타내는 부사입니다."
+    },
+    {
+      "meaning_id": "접다_동사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 구부리기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 물건을 다루는 물리적 행위입니다."
+    },
+    {
+      "meaning_id": "제거_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "어떤 것을 없애 버리는 추상적인 행위로, 특정 root에 명확히 속하기보다 일반적인 상황 지시에 가까워 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 제거 행위, 모호성"
+    },
+    {
+      "meaning_id": "조리_일반명사-2",
+      "bucket": "core",
+      "root": "논리와 연결",
+      "category_label_ko": "사고 체계",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생각이나 말의 논리적 일관성과 체계를 나타내는 개념입니다."
+    },
+    {
+      "meaning_id": "조성_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "환경이나 분위기를 만들어내는 추상적인 행위로, 특정 root에 명확히 속하기보다 일반적인 상황 지시에 가까워 candidate로 분류합니다.",
+      "exclusion_reason": null,
+      "rationale_short": "추상적 환경 형성 행위, 모호성"
+    },
+    {
+      "meaning_id": "차갑다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "온도 감각",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "온도를 통해 느껴지는 감각을 묘사하는 형용사입니다."
+    },
+    {
+      "meaning_id": "참치_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "생선 식재료",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "식생활과 관련된 해산물 식재료입니다."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 행위나 개념을 나타내는 동사/명사는 여러 root와 경계가 모호하여 candidate로 분류되는 경향이 있습니다. (예: 심판_일반명사-1, 쏟다, 앞두다, 애쓰다, 연장, 영역, 오류, 요약, 위로, 유인, 잡히다, 적정, 제거, 조성)",
+      "일반적인 물리적 행위 동사는 특정 root에 명확히 속하기보다 '상황 지시/기타' 또는 '주거와 일상'과 겹쳐 모호성이 발생합니다."
+    ],
+    "ia_suggestions": [
+      "추상적인 행위/개념어에 대한 '상황 지시/기타' 또는 '논리와 연결', '의견과 가치' root의 하위 분류를 좀 더 세분화하여 명확성을 높일 필요가 있습니다.",
+      "동사의 경우, 행위의 주체나 목적에 따라 분류 기준을 강화하는 방안을 고려해볼 수 있습니다."
+    ]
+  }
+}

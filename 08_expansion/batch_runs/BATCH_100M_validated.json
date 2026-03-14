@@ -1,0 +1,295 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "메주_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "전통 발효 음식 재료",
+      "rationale_short": "된장 제조에 사용되는 음식 재료로, 식생활에 명확히 해당함."
+    },
+    {
+      "meaning_id": "멸종_일반명사-1",
+      "bucket": "candidate",
+      "root": "날씨와 자연",
+      "candidate_reason": "자연 현상 또는 생물의 상태를 나타내지만, 추상적인 개념이라 분류 모호성이 있음.",
+      "rationale_short": "생물의 존재 상태를 나타내는 개념으로, 자연 현상과 관련이 깊으나 추상적임."
+    },
+    {
+      "meaning_id": "명예_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "사회적 평판이라는 추상적 개념으로, '내면과 감정' 또는 '성격과 태도'와도 연관될 수 있어 모호함.",
+      "rationale_short": "사회적 인정과 관련된 추상적 개념으로, 여러 root와 연관 가능성이 있음."
+    },
+    {
+      "meaning_id": "명확히_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "상태나 방식을 묘사하는 부사로, '의견과 가치' 등 다른 추상적 개념과도 연결될 수 있어 모호함.",
+      "rationale_short": "분명한 상태를 묘사하는 부사로, 다양한 맥락에서 사용되어 모호함."
+    },
+    {
+      "meaning_id": "모색_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "문제 해결을 위한 행위로, 특정 상황에 국한되지 않는 추상적 개념이라 모호함.",
+      "rationale_short": "해결책을 찾는 행위로, 일반적인 상황 지시 개념에 가깝지만 추상적임."
+    },
+    {
+      "meaning_id": "목욕탕_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "공동 위생 시설",
+      "rationale_short": "일상생활의 위생과 관련된 시설로, 주거와 일상에 명확히 해당함."
+    },
+    {
+      "meaning_id": "목적지_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "이동 도착 지점",
+      "rationale_short": "이동의 최종 지점으로, 교통 개념에 명확히 해당함."
+    },
+    {
+      "meaning_id": "몸속_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 내부 공간",
+      "rationale_short": "신체 부위 규칙에 따라 '보건과 의료'로 분류함."
+    },
+    {
+      "meaning_id": "몸집_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 체격",
+      "rationale_short": "신체 부위 규칙에 따라 '보건과 의료'로 분류함."
+    },
+    {
+      "meaning_id": "무_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "뿌리채소",
+      "rationale_short": "음식 재료 규칙에 따라 '식생활'로 분류함."
+    },
+    {
+      "meaning_id": "무너지다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 붕괴뿐 아니라 추상적 개념(시스템, 희망 등)의 붕괴에도 사용될 수 있어 모호함.",
+      "rationale_short": "물리적/추상적 붕괴를 모두 포함하는 동사로, 특정 root에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "무더위_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "매우 더운 날씨",
+      "rationale_short": "기온이 높은 날씨 현상으로, 날씨와 자연에 명확히 해당함."
+    },
+    {
+      "meaning_id": "무덥다_형용사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "더운 날씨 묘사",
+      "rationale_short": "날씨 상태를 묘사하는 형용사로, 날씨와 자연에 명확히 해당함."
+    },
+    {
+      "meaning_id": "무명_일반명사-1",
+      "bucket": "candidate",
+      "root": "문화와 사회",
+      "candidate_reason": "사회적 인지도와 관련된 추상적 개념으로, '성격과 태도'와도 연관될 수 있어 모호함.",
+      "rationale_short": "사회적 인지도와 관련된 추상적 개념으로, 여러 root와 연관 가능성이 있음."
+    },
+    {
+      "meaning_id": "무성_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "식물 성장 상태",
+      "rationale_short": "식물의 성장 상태를 나타내며, 날씨와 자연에 명확히 해당함."
+    },
+    {
+      "meaning_id": "무시_일반명사-1",
+      "bucket": "core",
+      "root": "성격과 태도",
+      "category_label_ko": "타인 경시 태도",
+      "rationale_short": "타인을 대하는 태도를 나타내므로, 성격과 태도에 명확히 해당함."
+    },
+    {
+      "meaning_id": "묻히다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적 매몰뿐 아니라 추상적 의미(잊히다, 가려지다)로도 사용될 수 있어 모호함.",
+      "rationale_short": "물리적/추상적 의미를 모두 포함하는 동사로, 특정 root에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "물가_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "경제 가격 수준",
+      "rationale_short": "경제 전반의 가격 수준을 나타내는 개념으로, 공공 서비스(경제 정책)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "물결_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물의 흐름",
+      "rationale_short": "자연 현상인 물의 움직임을 나타내므로, 날씨와 자연에 명확히 해당함."
+    },
+    {
+      "meaning_id": "물기_일반명사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "물리적 상태를 묘사하는 개념으로, '날씨와 자연' 또는 '주거와 일상'과도 연관될 수 있어 모호함.",
+      "rationale_short": "물리적 습기 상태를 묘사하는 개념으로, 여러 root와 연관 가능성이 있음."
+    },
+    {
+      "meaning_id": "물리다_동사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "물림 상해",
+      "rationale_short": "이빨에 물려 상처를 입는 행위로, 보건과 의료(상해)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "뭘_감탄사-1",
+      "bucket": "exclusion",
+      "exclusion_reason": "감탄사로, 시각화가 어렵고 학습 비적합 파편어에 해당함.",
+      "rationale_short": "감탄사이며 시각화가 어려운 파편어이므로 제외함."
+    },
+    {
+      "meaning_id": "미성년자_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "법적 미성년자",
+      "rationale_short": "법적 지위에 따른 사람의 분류로, 공공 서비스(법률)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "미용사_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "미용 직업인",
+      "rationale_short": "직업/역할어 규칙에 따라 '직장과 업무'로 분류함."
+    },
+    {
+      "meaning_id": "미흡_일반명사-1",
+      "bucket": "candidate",
+      "root": "의견과 가치",
+      "candidate_reason": "만족도나 충분함에 대한 평가적 개념으로, '감각과 묘사'와도 연관될 수 있어 모호함.",
+      "rationale_short": "충분하지 않다는 평가적 개념으로, 여러 root와 연관 가능성이 있음."
+    },
+    {
+      "meaning_id": "민주주의_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "정치 체제",
+      "rationale_short": "국가의 정치 체제를 나타내는 개념으로, 공공 서비스에 명확히 해당함."
+    },
+    {
+      "meaning_id": "밀리다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "업무, 지불 등 다양한 맥락에서 사용되는 지연/누적 상태를 나타내는 동사로, 특정 root에 한정하기 모호함.",
+      "rationale_short": "다양한 상황에서 지연되거나 누적되는 상태를 나타내어 모호함."
+    },
+    {
+      "meaning_id": "바이러스_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 원인 미생물",
+      "rationale_short": "질병을 일으키는 존재로, 보건과 의료에 명확히 해당함."
+    },
+    {
+      "meaning_id": "반기다_동사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "기쁘게 맞이하기",
+      "rationale_short": "타인을 기쁘게 맞이하는 행위로, 사람과 관계에 명확히 해당함."
+    },
+    {
+      "meaning_id": "발걸음_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "걷는 움직임",
+      "rationale_short": "걷는 동작과 움직임을 나타내므로, 교통(이동)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "발병_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병 발생",
+      "rationale_short": "병이 생겨 나타나는 현상으로, 보건과 의료에 명확히 해당함."
+    },
+    {
+      "meaning_id": "발전기_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "전기 생산 장치",
+      "rationale_short": "전기를 생산하는 장치로, 공공 서비스(전력 공급)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "밥값_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "식사 비용",
+      "rationale_short": "음식 재료/식기/조리도구/식당/조리행위 규칙에 따라 '식생활'로 분류함."
+    },
+    {
+      "meaning_id": "방송국_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "미디어 기관",
+      "rationale_short": "방송 프로그램을 만들고 내보내는 기관으로, 문화와 사회(미디어)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "방탄복_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "방어용 의류",
+      "rationale_short": "총알을 막는 특수 의류로, 공공 서비스(국방, 치안)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "밭_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "농경지",
+      "rationale_short": "곡식이나 채소를 심어 가꾸는 땅으로, 날씨와 자연(농업 환경)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "벌이다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "다양한 종류의 일이나 행위를 시작하는 것을 의미하여 특정 root에 한정하기 모호함.",
+      "rationale_short": "일이나 싸움 등 여러 행위를 시작하는 동사로, 특정 root에 한정하기 모호함."
+    },
+    {
+      "meaning_id": "벌점_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "감점 제도",
+      "rationale_short": "잘못에 대한 감점 기록으로, 공공 서비스(규칙, 제도)에 명확히 해당함."
+    },
+    {
+      "meaning_id": "법관_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "사법 직업인",
+      "rationale_short": "직업/역할어 규칙에 따라 '공공 서비스'(사법)로 분류함."
+    },
+    {
+      "meaning_id": "법규_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "법률 규칙",
+      "rationale_short": "지켜야 할 법과 규칙으로, 공공 서비스(법률)에 명확히 해당함."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적 개념어의 다중 Root 연관성 (예: 명예, 무명, 미흡)",
+      "행위/상태 동사의 광범위한 적용 범위 (예: 무너지다, 묻히다, 밀리다, 벌이다)",
+      "물리적 속성 묘사어의 모호성 (예: 물기)"
+    ],
+    "ia_suggestions": [
+      "추상적 개념어에 대한 '내면과 감정', '성격과 태도', '의견과 가치', '문화와 사회' 간의 분류 기준을 더 명확히 정의해야 합니다.",
+      "동사/부사의 경우, 해당 단어가 주로 사용되는 맥락(scene)을 기준으로 분류하는 가이드라인을 강화해야 합니다.",
+      "물리적 속성 묘사어의 경우, '감각과 묘사' root 내에 하위 카테고리를 세분화하여 분류 정확도를 높일 수 있습니다."
+    ]
+  }
+}

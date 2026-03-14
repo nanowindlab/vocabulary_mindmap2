@@ -1,0 +1,295 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "학생증_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학생 신분 증명",
+      "rationale_short": "학생임을 증명하는 신분증으로, 학교 생활과 직접 관련됨."
+    },
+    {
+      "meaning_id": "학업_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "학교 공부 활동",
+      "rationale_short": "학교에서 하는 공부를 의미하며, 학교 생활의 핵심 활동임."
+    },
+    {
+      "meaning_id": "학자_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "학문 연구 직업",
+      "rationale_short": "학문을 연구하는 직업적 역할을 가진 사람으로, 직업/역할어 규칙에 따라 '직장과 업무'로 분류."
+    },
+    {
+      "meaning_id": "한결_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "부사의 의미가 추상적이며, 정도를 나타내는 표현으로 여러 root에 걸쳐 사용될 수 있어 모호함. '감각과 묘사'는 상태나 정도를 묘사하는 포괄적인 root.",
+      "rationale_short": "정도 부사로, 추상적 의미로 인해 분류 모호."
+    },
+    {
+      "meaning_id": "한동안_일반명사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "일정 기간 동안",
+      "rationale_short": "특정 기간을 나타내는 명사로, 시간의 흐름과 직접 관련됨."
+    },
+    {
+      "meaning_id": "한지_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "전통 종이 재료",
+      "rationale_short": "전통 방식으로 만든 종이로, 한국의 문화적 요소와 관련됨."
+    },
+    {
+      "meaning_id": "항공사_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "항공 운송 회사",
+      "rationale_short": "비행기를 운항하는 회사로, 교통 수단 및 관련 기관에 해당함."
+    },
+    {
+      "meaning_id": "해롭다_형용사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "candidate_reason": "추상적인 형용사로, 몸이나 일에 나쁜 영향을 주는 상태를 묘사하며, 여러 맥락에서 사용될 수 있어 특정 root에 100% 확실하게 분류하기 어려움. '감각과 묘사'는 상태를 묘사하는 포괄적인 root.",
+      "rationale_short": "추상적 형용사로, 상태 묘사 및 영향에 대한 모호성."
+    },
+    {
+      "meaning_id": "해치다_동사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "동사의 의미가 광범위하여 신체적 해악, 관계적 해악 등 여러 맥락에 걸쳐 사용될 수 있어 특정 root에 100% 확실하게 분류하기 어려움. '상황 지시/기타'는 일반적인 행위를 포함.",
+      "rationale_short": "광범위한 동사로, 다양한 해악 행위에 대한 모호성."
+    },
+    {
+      "meaning_id": "행복감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "행복한 기분",
+      "rationale_short": "행복하다고 느끼는 기분으로, 내면의 감정 상태에 해당함."
+    },
+    {
+      "meaning_id": "행정_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "국가 기관 운영",
+      "rationale_short": "나라나 기관을 운영하고 일을 처리하는 활동으로, 공공 서비스 및 제도와 관련됨."
+    },
+    {
+      "meaning_id": "허락_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "요구 수락 행위",
+      "rationale_short": "남의 요구를 들어주는 일반적인 행위로, 특정 상황에서 발생함."
+    },
+    {
+      "meaning_id": "협회_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공동 목적 단체",
+      "rationale_short": "같은 목적을 가진 사람들이 만든 단체로, 사회 구성 및 문화 활동과 관련됨."
+    },
+    {
+      "meaning_id": "형제_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "가족 남자 관계",
+      "rationale_short": "같은 부모에게서 난 남자 형제로, 가족 관계에 해당함."
+    },
+    {
+      "meaning_id": "형편_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "처한 사정",
+      "rationale_short": "살림이나 처해 있는 사정으로, 일반적인 상황을 지시함."
+    },
+    {
+      "meaning_id": "호모_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "인류 분류 명칭",
+      "rationale_short": "사람이 속한 동물 분류 집단의 이름으로, 인류학적/사회문화적 맥락에서 다룰 수 있음."
+    },
+    {
+      "meaning_id": "홍수_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "물 넘침 재해",
+      "rationale_short": "비가 많이 내려 강물이 넘치는 자연 재해로, 날씨와 자연 현상에 해당함."
+    },
+    {
+      "meaning_id": "화성_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "태양계 행성",
+      "rationale_short": "태양계의 행성으로, 자연 현상 및 우주에 해당함."
+    },
+    {
+      "meaning_id": "확산_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "어떤 현상이나 물질이 퍼지는 추상적인 개념으로, 물리적 확산, 정보 확산 등 다양한 맥락에서 사용될 수 있어 특정 root에 100% 확실하게 분류하기 어려움. '상황 지시/기타'는 일반적인 현상을 포함.",
+      "rationale_short": "추상적 개념으로, 다양한 맥락에서의 확산 현상에 대한 모호성."
+    },
+    {
+      "meaning_id": "확신_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "굳게 믿는 마음",
+      "rationale_short": "틀림없다고 굳게 믿는 마음으로, 내면의 생각과 감정 상태에 해당함."
+    },
+    {
+      "meaning_id": "활력_일반명사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "candidate_reason": "살아 움직이게 하는 기운으로, 신체적 활력과 정신적 활력을 모두 포함하는 추상적인 개념임. '보건과 의료'와 '내면과 감정' 사이에서 모호함. '내면과 감정'은 정신적 상태를 포괄.",
+      "rationale_short": "신체적/정신적 기운을 포괄하는 추상적 개념으로 모호성."
+    },
+    {
+      "meaning_id": "황금연휴_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "긴 휴식 기간",
+      "rationale_short": "쉬는 날이 길게 이어진 연휴로, 여가 및 휴식 활동과 직접 관련됨."
+    },
+    {
+      "meaning_id": "황제펭귄_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "남극 동물",
+      "rationale_short": "남극에 사는 펭귄의 한 종류로, 동식물 및 자연 환경에 해당함."
+    },
+    {
+      "meaning_id": "회의실_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "회의 공간",
+      "rationale_short": "회의를 하도록 마련된 방으로, 주로 직장이나 업무 환경에서 사용됨."
+    },
+    {
+      "meaning_id": "효력_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "법이나 약 등이 실제로 미치는 힘이라는 추상적인 개념으로, 법적, 의학적, 일반적 맥락에서 모두 사용될 수 있어 특정 root에 100% 확실하게 분류하기 어려움. '상황 지시/기타'는 일반적인 현상이나 힘을 포함.",
+      "rationale_short": "법적/의학적/일반적 효력을 포괄하는 추상적 개념으로 모호성."
+    },
+    {
+      "meaning_id": "후배_일반명사-1",
+      "bucket": "core",
+      "root": "사람과 관계",
+      "category_label_ko": "학교 직장 관계",
+      "rationale_short": "같은 학교나 직장에서 뒤에 들어온 사람으로, 사람 간의 관계에 해당함."
+    },
+    {
+      "meaning_id": "흐리다_형용사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "맑지 않은 상태",
+      "rationale_short": "빛이나 색이 맑지 않고 탁한 상태를 묘사하는 형용사로, 감각적 묘사에 해당함."
+    },
+    {
+      "meaning_id": "가구점_일반명사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "가구 판매 상점",
+      "rationale_short": "가구를 팔기 위해 마련한 가게로, 쇼핑 활동과 직접 관련됨."
+    },
+    {
+      "meaning_id": "가도_일반명사-1",
+      "bucket": "core",
+      "root": "교통",
+      "category_label_ko": "옛날 길",
+      "rationale_short": "옛날에 다니던 길로, 교통 수단이 다니는 길에 해당함."
+    },
+    {
+      "meaning_id": "가라앉다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "아래로 내려감",
+      "rationale_short": "물 위에서 아래로 내려가는 물리적 행위/상태로, 일반적인 상황을 지시함."
+    },
+    {
+      "meaning_id": "가로등_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "길거리 조명 시설",
+      "rationale_short": "길가에 세워 밤에 비추는 불로, 공공 시설물에 해당함."
+    },
+    {
+      "meaning_id": "가운_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "긴 옷",
+      "rationale_short": "입고 몸을 가리는 긴 옷으로, 일상 생활의 의류에 해당함."
+    },
+    {
+      "meaning_id": "가축_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "기르는 동물",
+      "rationale_short": "사람이 기르는 동물로, 동식물 및 자연에 해당함. (오분류 방지 규칙 적용)"
+    },
+    {
+      "meaning_id": "간담회_일반명사-1",
+      "bucket": "core",
+      "root": "직장과 업무",
+      "category_label_ko": "의견 교환 모임",
+      "rationale_short": "의견을 서로 나누는 모임으로, 주로 직장이나 업무 관련 활동에 해당함."
+    },
+    {
+      "meaning_id": "간호사_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "환자 돌봄 직업",
+      "rationale_short": "아픈 사람을 전문적으로 돌보는 사람으로, 보건 및 의료 직업에 해당함."
+    },
+    {
+      "meaning_id": "간혹_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "가끔씩 빈도",
+      "rationale_short": "가끔씩이라는 빈도를 나타내는 부사로, 시간의 흐름과 관련됨."
+    },
+    {
+      "meaning_id": "값비싸다_형용사-1",
+      "bucket": "core",
+      "root": "쇼핑",
+      "category_label_ko": "높은 가격",
+      "rationale_short": "사는 데 드는 돈이 아주 큰 상태를 묘사하는 형용사로, 쇼핑 시 가격과 관련됨."
+    },
+    {
+      "meaning_id": "강도_일반명사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "세기 정도",
+      "rationale_short": "세기나 세력을 나타내는 정도로, 사물의 상태나 특성을 묘사하는 데 사용됨."
+    },
+    {
+      "meaning_id": "개관_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "시설 첫 개방",
+      "rationale_short": "관이나 시설을 처음으로 여는 행위로, 공공 시설의 운영과 관련됨."
+    },
+    {
+      "meaning_id": "개장_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "시설 이용 개방",
+      "rationale_short": "시장이나 시설을 열어 이용할 수 있게 하는 행위로, 공공 시설의 운영과 관련됨."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 형용사/부사/명사의 분류 모호성 (예: 한결, 해롭다, 해치다, 확산, 활력, 효력)",
+      "의미가 여러 root에 걸쳐 사용될 수 있는 동사/명사 (예: 해치다, 확산, 활력, 효력)"
+    ],
+    "ia_suggestions": [
+      "추상적인 개념어에 대한 분류 가이드라인 강화 필요 (특히 '상황 지시/기타', '감각과 묘사', '내면과 감정' 간의 경계)",
+      "동사/형용사 분류 시, 가장 대표적인 의미 또는 가장 빈번하게 사용되는 맥락을 기준으로 하는 원칙 수립 고려",
+      "특정 직업/역할어(예: 학자)가 '사람과 관계'와 '직장과 업무' 중 어디에 더 적합한지 명확한 기준 마련 (현재는 '직장과 업무' 우선)"
+    ]
+  }
+}

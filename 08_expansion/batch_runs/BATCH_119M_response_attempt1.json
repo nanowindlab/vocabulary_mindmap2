@@ -1,0 +1,377 @@
+{
+  "decisions": [
+    {
+      "meaning_id": "바삐_일반부사-1",
+      "bucket": "candidate",
+      "root": "감각과 묘사",
+      "category_label_ko": null,
+      "candidate_reason": "부사어는 종종 감각/묘사 또는 상황 지시와 관련이 깊어 모호할 수 있음. '여유 없이 급하게'는 행위의 양태를 묘사하는 측면이 강함.",
+      "exclusion_reason": null,
+      "rationale_short": "행위의 양태 묘사로 감각/묘사와 상황 지시 사이 모호성."
+    },
+    {
+      "meaning_id": "바삭바삭_일반부사-1",
+      "bucket": "core",
+      "root": "감각과 묘사",
+      "category_label_ko": "소리/촉감 묘사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "의성/의태어는 감각과 묘사에 명확히 해당."
+    },
+    {
+      "meaning_id": "바이올린_일반명사-1",
+      "bucket": "core",
+      "root": "여가와 취미",
+      "category_label_ko": "악기 및 연주",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "악기는 여가 활동의 도구로 분류."
+    },
+    {
+      "meaning_id": "박다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 다루기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 맥락에 한정되지 않는 일반적인 물리적 행위."
+    },
+    {
+      "meaning_id": "박차다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "신체 활용 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "특정 맥락에 한정되지 않는 일반적인 물리적 행위."
+    },
+    {
+      "meaning_id": "반감_일반명사-1",
+      "bucket": "core",
+      "root": "내면과 감정",
+      "category_label_ko": "부정적 감정",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 감정 표현."
+    },
+    {
+      "meaning_id": "반납_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건 주고받기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건을 돌려주는 일반적인 행위."
+    },
+    {
+      "meaning_id": "반칙_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "규범 및 위반",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 규칙 및 규범 위반에 대한 개념."
+    },
+    {
+      "meaning_id": "발길_일반명사-1",
+      "bucket": "candidate",
+      "root": "상황 지시/기타",
+      "category_label_ko": null,
+      "candidate_reason": "'발길'은 물리적 이동 행위 자체보다는 그 행위의 '흔적'이나 '빈도'를 나타내는 경우가 많아 추상적이며, 특정 root에 명확히 속하기보다 일반적인 행위 묘사에 가까움.",
+      "exclusion_reason": null,
+      "rationale_short": "이동 행위의 추상적 표현으로 분류 모호성."
+    },
+    {
+      "meaning_id": "발언_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "의견 표명",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "의견을 말하는 행위 자체에 초점."
+    },
+    {
+      "meaning_id": "밝혀지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "정보 드러남",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 사실이나 정보가 드러나는 일반적인 상황 변화."
+    },
+    {
+      "meaning_id": "방과_일반명사-1",
+      "bucket": "core",
+      "root": "학교와 공부",
+      "category_label_ko": "수업 및 학사",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "학교 생활의 특정 시간대를 지칭."
+    },
+    {
+      "meaning_id": "방송사_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "언론 및 미디어",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "미디어 기관을 지칭."
+    },
+    {
+      "meaning_id": "방아_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "곡식 가공 도구",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식 재료 가공 도구."
+    },
+    {
+      "meaning_id": "방앗간_일반명사-1",
+      "bucket": "core",
+      "root": "식생활",
+      "category_label_ko": "곡식 가공 장소",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "음식 재료 가공 관련 장소."
+    },
+    {
+      "meaning_id": "방어_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "위협 대응 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "위협으로부터 자신을 보호하는 일반적인 행위."
+    },
+    {
+      "meaning_id": "방제_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "질병/재해 예방",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "질병, 해충, 재해로부터 보호하는 행위."
+    },
+    {
+      "meaning_id": "방침_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "기본 방향/원칙",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 일의 기본 방향이나 원칙을 나타내는 추상적 개념."
+    },
+    {
+      "meaning_id": "배격_일반명사-1",
+      "bucket": "core",
+      "root": "의견과 가치",
+      "category_label_ko": "부정적 태도/거부",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "어떤 것을 옳지 않다고 판단하고 거부하는 행위."
+    },
+    {
+      "meaning_id": "배부_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "물건/자료 나누기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "물건이나 자료를 나누어 주는 일반적인 행위."
+    },
+    {
+      "meaning_id": "배분_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "기준에 따른 분배",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "기준에 따라 나누어 주는 일반적인 행위."
+    },
+    {
+      "meaning_id": "배설물_일반명사-1",
+      "bucket": "core",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 배출물",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "신체 부위/의료 증상 관련 개념."
+    },
+    {
+      "meaning_id": "배수_일반명사-1",
+      "bucket": "core",
+      "root": "수량과 단위",
+      "category_label_ko": "수학적 개념",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "명확한 수량 및 단위 관련 개념."
+    },
+    {
+      "meaning_id": "배역_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "공연/영화 역할",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "문화 예술 분야의 특정 역할."
+    },
+    {
+      "meaning_id": "배정_일반명사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "할당 및 배치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사람이나 물건을 정해진 곳에 나누어 맡기는 일반적인 행위."
+    },
+    {
+      "meaning_id": "백미_일반명사-1",
+      "bucket": "candidate",
+      "root": "식생활",
+      "category_label_ko": null,
+      "candidate_reason": "두 가지 의미('흰 쌀'과 '가장 뛰어난 부분') 중 하나는 식생활, 다른 하나는 평가/가치에 해당하여 모호함. 우선순위가 높은 '흰 쌀'을 기준으로 임시 root를 제안.",
+      "exclusion_reason": null,
+      "rationale_short": "두 가지 의미로 인해 분류 모호성 발생."
+    },
+    {
+      "meaning_id": "버려지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "폐기 및 방치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "쓸모없게 되어 내버려지는 일반적인 상황."
+    },
+    {
+      "meaning_id": "버튼_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "기계 조작 장치",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "일상생활에서 흔히 접하는 기계 부품."
+    },
+    {
+      "meaning_id": "버티다_동사-1",
+      "bucket": "candidate",
+      "root": "내면과 감정",
+      "category_label_ko": null,
+      "candidate_reason": "신체적/정신적 인내를 모두 포함하여 내면과 감정, 또는 상황 지시/기타와 경계가 모호함. 내면의 의지 측면을 우선 고려하여 임시 root를 제안.",
+      "exclusion_reason": null,
+      "rationale_short": "물리적 저항과 정신적 인내를 모두 포함하여 분류 모호성."
+    },
+    {
+      "meaning_id": "번번이_일반부사-1",
+      "bucket": "core",
+      "root": "시간과 흐름",
+      "category_label_ko": "빈도 표현",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "시간의 빈도를 나타내는 부사."
+    },
+    {
+      "meaning_id": "번식력_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "생물학적 능력",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "생물의 생식 능력에 대한 개념."
+    },
+    {
+      "meaning_id": "번지다_동사-1",
+      "bucket": "core",
+      "root": "상황 지시/기타",
+      "category_label_ko": "확산/퍼짐",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "액체나 색이 퍼져나가는 일반적인 물리적 현상."
+    },
+    {
+      "meaning_id": "벌칙_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "규칙 위반 처벌",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 규칙 위반에 대한 처벌 규정."
+    },
+    {
+      "meaning_id": "범행_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "범죄 행위",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "사회적 규범을 어기는 범죄 행위."
+    },
+    {
+      "meaning_id": "법률_일반명사-1",
+      "bucket": "core",
+      "root": "공공 서비스",
+      "category_label_ko": "국가 법규",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국가가 정한 강제력 있는 규범은 공공 서비스의 제도적 기반."
+    },
+    {
+      "meaning_id": "베스트셀러_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "출판물 인기",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "출판 문화 현상에 대한 개념."
+    },
+    {
+      "meaning_id": "베타_일반명사-1",
+      "bucket": "candidate",
+      "root": "직장과 업무",
+      "category_label_ko": null,
+      "candidate_reason": "주로 IT/개발 분야에서 사용되는 용어로, 일반적인 상황 지시나 문화/사회로 분류하기에는 전문성이 있음. 직장과 업무의 개발 프로세스와 관련이 깊어 임시 root를 제안.",
+      "exclusion_reason": null,
+      "rationale_short": "특정 분야(IT/개발)에 특화된 용어로 분류 모호성."
+    },
+    {
+      "meaning_id": "벽면_일반명사-1",
+      "bucket": "core",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 표면",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "주거 공간의 구성 요소."
+    },
+    {
+      "meaning_id": "변방_일반명사-1",
+      "bucket": "core",
+      "root": "문화와 사회",
+      "category_label_ko": "국가 경계 지역",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "국가의 지리적/정치적 경계 지역."
+    },
+    {
+      "meaning_id": "별자리_일반명사-1",
+      "bucket": "core",
+      "root": "날씨와 자연",
+      "category_label_ko": "천체 구역",
+      "candidate_reason": null,
+      "exclusion_reason": null,
+      "rationale_short": "자연 현상 및 천체 관련 개념."
+    }
+  ],
+  "insights": {
+    "hard_patterns": [
+      "부사어는 행위의 양태를 묘사하는 경우 '감각과 묘사'와 '상황 지시/기타' 사이에서 분류 모호성이 발생할 수 있음.",
+      "다의어(polysemy)는 각 의미가 다른 root에 속할 경우 분류 모호성이 커져 candidate로 분류될 가능성이 높음.",
+      "추상적인 행위나 개념어는 '상황 지시/기타', '의견과 가치', '문화와 사회' 등 여러 root와 경계가 겹쳐 모호할 수 있음.",
+      "특정 전문 분야(예: IT 개발) 용어는 현재 root 목록에서 명확한 분류가 어려울 수 있음."
+    ],
+    "ia_suggestions": [
+      "부사어 분류를 위한 추가 가이드라인 마련: 행위의 '방식/태도'를 직접적으로 묘사하면 '감각과 묘사'로, 일반적인 '상황/상태'를 지시하면 '상황 지시/기타'로 구분하는 기준을 명확히 할 필요가 있음.",
+      "다의어 처리 원칙 수립: 가장 빈번하거나 핵심적인 의미를 기준으로 core 분류를 시도하되, 의미 간의 간극이 크거나 중요도가 유사할 경우 candidate로 보내는 명확한 기준을 마련해야 함.",
+      "현재 root 목록에 '과학과 기술' 또는 '정보와 통신'과 같은 전문 분야 root 추가를 고려하여, '베타'와 같은 용어를 더 적절하게 분류할 수 있도록 IA를 확장하는 방안을 검토해야 함."
+    ]
+  }
+}

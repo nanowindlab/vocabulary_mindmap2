@@ -1,0 +1,377 @@
+{
+  "core": [
+    {
+      "meaning_id": "애정_일반명사-1",
+      "rationale_short": "가까운 대상에게 느끼는 깊은 사랑은 내면의 감정에 해당",
+      "root": "내면과 감정",
+      "category_label_ko": "깊은 사랑 감정"
+    },
+    {
+      "meaning_id": "애호가_일반명사-1",
+      "rationale_short": "어떤 대상을 좋아하여 즐기는 사람은 여가 및 취미 활동과 관련",
+      "root": "여가와 취미",
+      "category_label_ko": "취미 즐기는 사람"
+    },
+    {
+      "meaning_id": "액세서리_일반명사-1",
+      "rationale_short": "몸이나 옷을 꾸미는 장신구는 쇼핑 품목이자 패션 관련",
+      "root": "쇼핑",
+      "category_label_ko": "패션 장신구"
+    },
+    {
+      "meaning_id": "야당_일반명사-1",
+      "rationale_short": "정치에서 집권하지 않은 정당은 공공 서비스의 정치 제도와 관련",
+      "root": "공공 서비스",
+      "category_label_ko": "정치 정당"
+    },
+    {
+      "meaning_id": "야심_일반명사-1",
+      "rationale_short": "크게 이루고자 하는 강한 욕심과 목표는 내면의 감정 및 의지에 해당",
+      "root": "내면과 감정",
+      "category_label_ko": "강한 욕심 목표"
+    },
+    {
+      "meaning_id": "야채_일반명사-1",
+      "rationale_short": "반찬이나 요리에 쓰는 채소는 식생활의 음식 재료에 해당",
+      "root": "식생활",
+      "category_label_ko": "요리 채소"
+    },
+    {
+      "meaning_id": "양극단_일반명사-1",
+      "rationale_short": "생각이나 성질이 서로 완전히 반대인 두 끝은 논리적 대립 관계에 해당",
+      "root": "논리와 연결",
+      "category_label_ko": "대립되는 두 끝"
+    },
+    {
+      "meaning_id": "양육비_일반명사-1",
+      "rationale_short": "아이를 키우는 데 드는 돈은 주거와 일상의 가계 경제와 관련",
+      "root": "주거와 일상",
+      "category_label_ko": "자녀 양육 비용"
+    },
+    {
+      "meaning_id": "양질_일반명사-1",
+      "rationale_short": "질이 좋음은 사물에 대한 평가와 가치 판단에 해당",
+      "root": "의견과 가치",
+      "category_label_ko": "좋은 품질"
+    },
+    {
+      "meaning_id": "양철_일반명사-1",
+      "rationale_short": "얇게 판 모양으로 만든 철은 일상생활에서 사용되는 재료",
+      "root": "주거와 일상",
+      "category_label_ko": "얇은 철판"
+    },
+    {
+      "meaning_id": "양탄자_일반명사-1",
+      "rationale_short": "바닥에 까는 두껍고 부드러운 천은 주거 공간의 생활용품",
+      "root": "주거와 일상",
+      "category_label_ko": "바닥 깔개"
+    },
+    {
+      "meaning_id": "양파_일반명사-1",
+      "rationale_short": "알 부분을 먹는 채소는 식생활의 음식 재료에 해당",
+      "root": "식생활",
+      "category_label_ko": "매운맛 채소"
+    },
+    {
+      "meaning_id": "양호_일반명사-1",
+      "rationale_short": "상태나 조건이 좋은 편임은 사물이나 상황에 대한 평가에 해당",
+      "root": "의견과 가치",
+      "category_label_ko": "좋은 상태"
+    },
+    {
+      "meaning_id": "어긋나다_동사-1",
+      "rationale_short": "서로 맞아야 할 것이 맞지 않게 되는 것은 논리적 관계의 불일치에 해당",
+      "root": "논리와 연결",
+      "category_label_ko": "관계 불일치"
+    },
+    {
+      "meaning_id": "어기다_동사-1",
+      "rationale_short": "지켜야 할 약속이나 규칙을 따르지 않는 것은 사회적 규칙 위반 행위",
+      "root": "문화와 사회",
+      "category_label_ko": "규칙 위반"
+    },
+    {
+      "meaning_id": "어떻게_일반부사-1",
+      "rationale_short": "방법이나 상태를 묻는 말은 질문의 한 종류",
+      "root": "지시와 질문",
+      "category_label_ko": "방법 질문"
+    },
+    {
+      "meaning_id": "어류_일반명사-1",
+      "rationale_short": "물에서 지느러미로 움직이는 동물 무리는 자연 생물에 해당",
+      "root": "날씨와 자연",
+      "category_label_ko": "물속 동물"
+    },
+    {
+      "meaning_id": "어리석다_형용사-1",
+      "rationale_short": "생각이 깊지 못하고 판단이 모자란 것은 성격이나 지적 태도에 해당",
+      "root": "성격과 태도",
+      "category_label_ko": "지적 능력 부족"
+    },
+    {
+      "meaning_id": "어린애_일반명사-1",
+      "rationale_short": "나이가 어린 아이는 사람의 한 종류",
+      "root": "사람과 관계",
+      "category_label_ko": "어린 아이"
+    },
+    {
+      "meaning_id": "어린이집_일반명사-1",
+      "rationale_short": "아이들을 돌보는 시설은 공공 보육 서비스와 관련",
+      "root": "공공 서비스",
+      "category_label_ko": "보육 시설"
+    },
+    {
+      "meaning_id": "어림_일반명사-1",
+      "rationale_short": "양이나 수를 대강 짐작하는 것은 수량 추정 행위",
+      "root": "수량과 단위",
+      "category_label_ko": "수량 짐작"
+    },
+    {
+      "meaning_id": "어머_감탄사-1",
+      "rationale_short": "놀라거나 당황할 때 내는 소리는 감정 표현에 해당",
+      "root": "내면과 감정",
+      "category_label_ko": "놀람 표현"
+    },
+    {
+      "meaning_id": "어설프다_형용사-1",
+      "rationale_short": "능숙하지 못해 서투른 것은 능력이나 태도에 대한 평가",
+      "root": "성격과 태도",
+      "category_label_ko": "서툰 능력"
+    },
+    {
+      "meaning_id": "어이없다_형용사-1",
+      "rationale_short": "기막혀 말이 나오지 않는 것은 내면의 감정 상태",
+      "root": "내면과 감정",
+      "category_label_ko": "기막힌 감정"
+    },
+    {
+      "meaning_id": "어지럽다_형용사-1",
+      "rationale_short": "몸이나 머리가 빙빙 도는 느낌은 신체 증상으로 보건과 의료 관련",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 어지럼증"
+    },
+    {
+      "meaning_id": "어질어질_일반부사-1",
+      "rationale_short": "어지러운 느낌이 자꾸 나는 모양은 감각적 상태를 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "어지러운 모양"
+    },
+    {
+      "meaning_id": "어찌나_일반부사-1",
+      "rationale_short": "정도가 매우 심함을 나타내는 말은 수량이나 정도를 강조",
+      "root": "수량과 단위",
+      "category_label_ko": "정도 강조"
+    },
+    {
+      "meaning_id": "어학_일반명사-1",
+      "rationale_short": "말과 글의 구조와 사용을 연구하는 학문은 학교와 공부 분야에 해당",
+      "root": "학교와 공부",
+      "category_label_ko": "언어 연구 학문"
+    },
+    {
+      "meaning_id": "어항_일반명사-1",
+      "rationale_short": "물고기를 넣어 기르는 통은 주거 공간의 생활용품",
+      "root": "주거와 일상",
+      "category_label_ko": "물고기 기르는 통"
+    },
+    {
+      "meaning_id": "어휘력_일반명사-1",
+      "rationale_short": "말을 이해하거나 사용하는 능력은 학습 및 언어 능력에 해당",
+      "root": "학교와 공부",
+      "category_label_ko": "언어 사용 능력"
+    },
+    {
+      "meaning_id": "언어생활_일반명사-1",
+      "rationale_short": "일상에서 이루어지는 말의 사용 방식은 문화와 사회의 언어 현상",
+      "root": "문화와 사회",
+      "category_label_ko": "일상 언어 사용"
+    },
+    {
+      "meaning_id": "언쟁_일반명사-1",
+      "rationale_short": "말로 서로 다투는 일은 사람 간의 관계에서 발생하는 행위",
+      "root": "사람과 관계",
+      "category_label_ko": "말다툼"
+    },
+    {
+      "meaning_id": "언제쯤_일반명사-1",
+      "rationale_short": "대략 어느 때는 시간의 흐름을 묻거나 추정하는 표현",
+      "root": "시간과 흐름",
+      "category_label_ko": "대략적인 시간"
+    },
+    {
+      "meaning_id": "얹다_동사-1",
+      "rationale_short": "위에 올려 놓는 행위는 일상생활에서 흔히 발생",
+      "root": "주거와 일상",
+      "category_label_ko": "물건 올려놓기"
+    },
+    {
+      "meaning_id": "얻어맞다_동사-1",
+      "rationale_short": "맞아서 다치는 것은 신체적 부상으로 보건과 의료 관련",
+      "root": "보건과 의료",
+      "category_label_ko": "신체 부상"
+    },
+    {
+      "meaning_id": "얼다_동사-1",
+      "rationale_short": "액체가 차가워져 굳는 것은 자연 현상에 해당",
+      "root": "날씨와 자연",
+      "category_label_ko": "액체 굳기"
+    },
+    {
+      "meaning_id": "얼씨구_감탄사-1",
+      "rationale_short": "흥을 돋우거나 놀랄 때 내는 소리는 감정 표현에 해당",
+      "root": "내면과 감정",
+      "category_label_ko": "흥 놀람 표현"
+    },
+    {
+      "meaning_id": "얼음낚시_일반명사-1",
+      "rationale_short": "얼음 위에서 구멍을 내고 하는 낚시는 여가 활동의 한 종류",
+      "root": "여가와 취미",
+      "category_label_ko": "겨울 낚시"
+    },
+    {
+      "meaning_id": "얼핏_일반부사-1",
+      "rationale_short": "잠깐 보이거나 떠오르는 모양은 순간적인 감각적 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "순간적 모양"
+    },
+    {
+      "meaning_id": "얽매이다_동사-1",
+      "rationale_short": "속박되어 자유롭지 못한 것은 내면의 심리적 상태 또는 감정",
+      "root": "내면과 감정",
+      "category_label_ko": "자유롭지 못한 상태"
+    },
+    {
+      "meaning_id": "엄격히_일반부사-1",
+      "rationale_short": "규칙이나 기준을 엄하게 하는 것은 태도나 방식에 해당",
+      "root": "성격과 태도",
+      "category_label_ko": "엄한 방식"
+    },
+    {
+      "meaning_id": "엄벌_일반명사-1",
+      "rationale_short": "엄하고 무거운 벌은 공공 서비스의 법적 처벌과 관련",
+      "root": "공공 서비스",
+      "category_label_ko": "무거운 처벌"
+    },
+    {
+      "meaning_id": "엄청_일반부사-1",
+      "rationale_short": "정도가 매우 큼을 나타내는 말은 수량이나 정도를 강조",
+      "root": "수량과 단위",
+      "category_label_ko": "매우 큰 정도"
+    },
+    {
+      "meaning_id": "업자_일반명사-1",
+      "rationale_short": "특정한 일을 직업으로 하는 사람은 직장과 업무에 해당",
+      "root": "직장과 업무",
+      "category_label_ko": "특정 직업인"
+    },
+    {
+      "meaning_id": "엉금엉금_일반부사-1",
+      "rationale_short": "몸을 바짝 붙이고 아주 천천히 기어가는 모양은 움직임을 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "천천히 기는 모양"
+    },
+    {
+      "meaning_id": "엉덩이_일반명사-1",
+      "rationale_short": "몸통의 뒤쪽 아래에 있는 둥근 부분은 신체 부위로 보건과 의료 관련",
+      "root": "보건과 의료",
+      "category_label_ko": "몸통 뒤쪽 부위"
+    },
+    {
+      "meaning_id": "엉망_일반명사-1",
+      "rationale_short": "정리가 안 되어 뒤죽박죽이 된 상태는 시각적 상태를 묘사",
+      "root": "감각과 묘사",
+      "category_label_ko": "뒤죽박죽 상태"
+    },
+    {
+      "meaning_id": "엎드리다_동사-1",
+      "rationale_short": "몸을 배가 아래로 가게 바닥에 대고 눕는 행위는 일상생활의 자세",
+      "root": "주거와 일상",
+      "category_label_ko": "몸을 눕히는 자세"
+    },
+    {
+      "meaning_id": "엎질러지다_동사-1",
+      "rationale_short": "담겨 있던 액체가 쏟아져 나오는 것은 일상생활에서 발생할 수 있는 현상",
+      "root": "주거와 일상",
+      "category_label_ko": "액체 쏟아짐"
+    },
+    {
+      "meaning_id": "에그머니나_감탄사-1",
+      "rationale_short": "크게 놀라거나 당황할 때 내는 소리는 감정 표현에 해당",
+      "root": "내면과 감정",
+      "category_label_ko": "큰 놀람 표현"
+    },
+    {
+      "meaning_id": "에너지원_일반명사-1",
+      "rationale_short": "에너지를 얻는 근원이 되는 것은 자연 자원과 관련",
+      "root": "날씨와 자연",
+      "category_label_ko": "에너지 근원"
+    },
+    {
+      "meaning_id": "엔젤_일반명사-1",
+      "rationale_short": "천사처럼 착한 사람을 비유적으로 이르는 말은 사람의 특성 묘사",
+      "root": "사람과 관계",
+      "category_label_ko": "착한 사람 비유"
+    },
+    {
+      "meaning_id": "여객기_일반명사-1",
+      "rationale_short": "사람을 태우고 다니는 비행기는 교통수단에 해당",
+      "root": "교통",
+      "category_label_ko": "승객 운송 비행기"
+    },
+    {
+      "meaning_id": "여과_일반명사-1",
+      "rationale_short": "체나 거름종이로 고체와 액체를 가르는 일은 일상생활의 행위",
+      "root": "주거와 일상",
+      "category_label_ko": "액체 분리"
+    },
+    {
+      "meaning_id": "여과기_일반명사-1",
+      "rationale_short": "물을 거르도록 만든 기계나 장치는 주거 공간의 생활 도구",
+      "root": "주거와 일상",
+      "category_label_ko": "물 거르는 장치"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "애용_일반명사-1",
+      "rationale_short": "행위의 일반적 특성으로 모호하여 candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "좋아하여 자주 쓰는 행위는 여러 맥락(쇼핑, 여가, 일상 등)에서 발생할 수 있어 특정 root에 100% 확실하게 분류하기 모호함. 일반적인 행위의 특성으로 임시 분류."
+    },
+    {
+      "meaning_id": "액운_일반명사-1",
+      "rationale_short": "추상적 개념으로 모호하여 candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "안 좋은 운이라는 추상적인 개념으로, 특정 상황을 지시하는 일반적인 개념으로 분류하기 모호함."
+    },
+    {
+      "meaning_id": "앱_일반명사-1",
+      "rationale_short": "사용 범위가 넓어 모호하여 candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "스마트폰이나 컴퓨터에서 실행되는 응용 프로그램은 사용 범위가 매우 넓어(일상, 업무, 여가 등) 특정 root에 100% 확실하게 분류하기 모호함. 일반적인 디지털 도구로 임시 분류."
+    },
+    {
+      "meaning_id": "야단_일반명사-1",
+      "rationale_short": "소동 상황 묘사로 모호하여 candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "크게 떠들썩하거나 혼내는 소동은 특정 상황을 묘사하는 개념으로, 감정이나 관계 등 여러 측면과 겹쳐 모호함."
+    },
+    {
+      "meaning_id": "어김없이_일반부사-1",
+      "rationale_short": "일반적 부사로 모호하여 candidate",
+      "root": "상황 지시/기타",
+      "candidate_reason": "예외 없이 꼭이라는 의미는 특정 상황이나 행위의 방식을 강조하는 부사로, 여러 맥락에서 사용되어 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 개념이나 일반적인 행위/상태를 나타내는 명사 및 부사의 분류 모호성 (예: 애용, 액운, 야단, 어김없이, 앱). 이들은 여러 root에 걸쳐 사용될 수 있어 '상황 지시/기타'로 임시 분류하는 경향이 있음.",
+      "감정, 태도, 감각, 평가 등 내면적/주관적 영역의 어휘들이 '내면과 감정', '성격과 태도', '감각과 묘사', '의견과 가치' root 간의 경계가 모호하여 판단에 주의가 필요함."
+    ],
+    "ia_suggestions": [
+      "추상적인 명사 및 부사에 대한 '상황 지시/기타' root의 하위 분류를 구체화하여, '일반적 행위/상태', '추상적 개념', '강조/정도 부사' 등으로 세분화하는 것을 고려해볼 수 있습니다.",
+      "감정/태도/감각/평가 관련 어휘의 분류 가이드라인을 강화하여, 각 root의 핵심 정의와 예시를 더욱 명확히 제시하여 분류 일관성을 높여야 합니다."
+    ]
+  }
+}

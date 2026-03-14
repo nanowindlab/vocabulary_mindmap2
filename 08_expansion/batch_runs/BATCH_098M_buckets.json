@@ -1,0 +1,259 @@
+{
+  "core": [
+    {
+      "meaning_id": "끄덕이다_동사-1",
+      "rationale_short": "명확한 신체 동작 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "신체 동작 표현"
+    },
+    {
+      "meaning_id": "끼_일반명사-1",
+      "rationale_short": "사람의 내재된 특성, 재능을 나타냄.",
+      "root": "성격과 태도",
+      "category_label_ko": "개인의 재능"
+    },
+    {
+      "meaning_id": "나이테_일반명사-1",
+      "rationale_short": "자연물인 나무의 명확한 특징.",
+      "root": "날씨와 자연",
+      "category_label_ko": "나무의 특징"
+    },
+    {
+      "meaning_id": "낙수_일반명사-1",
+      "rationale_short": "자연 현상인 물의 움직임.",
+      "root": "날씨와 자연",
+      "category_label_ko": "떨어지는 물"
+    },
+    {
+      "meaning_id": "날개_일반명사-1",
+      "rationale_short": "자연 속 동물의 명확한 신체 부위.",
+      "root": "날씨와 자연",
+      "category_label_ko": "동물의 신체"
+    },
+    {
+      "meaning_id": "내역_일반명사-1",
+      "rationale_short": "돈이나 물건의 거래에 대한 세부 기록을 명확히 지칭.",
+      "root": "쇼핑",
+      "category_label_ko": "거래 기록"
+    },
+    {
+      "meaning_id": "네트워크_일반명사-1",
+      "rationale_short": "사회적, 기술적 연결 구조를 명확히 지칭.",
+      "root": "문화와 사회",
+      "category_label_ko": "연결된 구조"
+    },
+    {
+      "meaning_id": "노선_일반명사-1",
+      "rationale_short": "대중교통의 정해진 이동 경로를 명확히 지칭.",
+      "root": "교통",
+      "category_label_ko": "운행 경로"
+    },
+    {
+      "meaning_id": "농담_일반명사-1",
+      "rationale_short": "사람 간의 관계에서 발생하는 유머러스한 언행.",
+      "root": "사람과 관계",
+      "category_label_ko": "유머 표현"
+    },
+    {
+      "meaning_id": "눈앞_일반명사-1",
+      "rationale_short": "시각적으로 가까운 공간을 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "가까운 시야"
+    },
+    {
+      "meaning_id": "늘어서다_동사-1",
+      "rationale_short": "여러 개체가 줄지어 있는 모습을 명확히 묘사.",
+      "root": "감각과 묘사",
+      "category_label_ko": "줄 선 모습"
+    },
+    {
+      "meaning_id": "단기_일반명사-1",
+      "rationale_short": "시간의 길이를 명확히 지칭.",
+      "root": "시간과 흐름",
+      "category_label_ko": "짧은 시간"
+    },
+    {
+      "meaning_id": "단축_일반명사-1",
+      "rationale_short": "시간이나 길이를 줄이는 행위를 명확히 지칭.",
+      "root": "시간과 흐름",
+      "category_label_ko": "시간/길이 줄임"
+    },
+    {
+      "meaning_id": "단풍_일반명사-1",
+      "rationale_short": "가을의 자연 현상을 명확히 지칭.",
+      "root": "날씨와 자연",
+      "category_label_ko": "가을 자연 현상"
+    },
+    {
+      "meaning_id": "달리기_일반명사-1",
+      "rationale_short": "신체 활동인 운동 경기를 명확히 지칭.",
+      "root": "여가와 취미",
+      "category_label_ko": "운동 경기"
+    },
+    {
+      "meaning_id": "담_일반명사-1",
+      "rationale_short": "주거 공간의 외부 구조물을 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 외벽"
+    },
+    {
+      "meaning_id": "담장_일반명사-1",
+      "rationale_short": "주거 공간의 경계를 이루는 구조물을 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "건물 경계벽"
+    },
+    {
+      "meaning_id": "당부_일반명사-1",
+      "rationale_short": "사람 간의 관계에서 발생하는 부탁 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "간곡한 부탁"
+    },
+    {
+      "meaning_id": "당첨_일반명사-1",
+      "rationale_short": "추첨을 통한 결과, 주로 여가 활동과 관련됨.",
+      "root": "여가와 취미",
+      "category_label_ko": "추첨 결과"
+    },
+    {
+      "meaning_id": "대개_일반부사-1",
+      "rationale_short": "양이나 정도를 나타내는 부사.",
+      "root": "수량과 단위",
+      "category_label_ko": "대부분의 정도"
+    },
+    {
+      "meaning_id": "대회장_일반명사-1",
+      "rationale_short": "대회가 열리는 특정 장소를 명확히 지칭.",
+      "root": "여가와 취미",
+      "category_label_ko": "경기 개최 장소"
+    },
+    {
+      "meaning_id": "더위_일반명사-1",
+      "rationale_short": "날씨 현상인 높은 기온 상태.",
+      "root": "날씨와 자연",
+      "category_label_ko": "높은 기온"
+    },
+    {
+      "meaning_id": "데려가다_동사-1",
+      "rationale_short": "사람을 동반하여 이동하는 행위.",
+      "root": "사람과 관계",
+      "category_label_ko": "동반 이동"
+    },
+    {
+      "meaning_id": "도로변_일반명사-1",
+      "rationale_short": "도로와 인접한 특정 장소를 명확히 지칭.",
+      "root": "교통",
+      "category_label_ko": "길 옆 공간"
+    },
+    {
+      "meaning_id": "도장_일반명사-1",
+      "rationale_short": "일상생활에서 사용되는 특정 도구.",
+      "root": "주거와 일상",
+      "category_label_ko": "이름 찍는 도구"
+    },
+    {
+      "meaning_id": "돌려보내다_동사-1",
+      "rationale_short": "사람이나 물건을 원래 위치로 되돌리는 행위.",
+      "root": "상황 지시/기타",
+      "category_label_ko": "원위치 시키기"
+    },
+    {
+      "meaning_id": "동_일반명사-1",
+      "rationale_short": "특정 방향을 명확히 지칭.",
+      "root": "지시와 질문",
+      "category_label_ko": "방향 지시"
+    },
+    {
+      "meaning_id": "동_일반명사-3",
+      "rationale_short": "도시의 행정 구역 단위를 명확히 지칭.",
+      "root": "공공 서비스",
+      "category_label_ko": "행정 구역 단위"
+    },
+    {
+      "meaning_id": "동_일반명사-4",
+      "rationale_short": "특정 금속 재료를 명확히 지칭.",
+      "root": "주거와 일상",
+      "category_label_ko": "금속 재료"
+    }
+  ],
+  "candidate": [
+    {
+      "meaning_id": "끼치다_동사-1",
+      "rationale_short": "일반적인 동사로, 특정 상황에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 동사로 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "나뉘다_동사-1",
+      "rationale_short": "일반적인 동사로, 특정 상황에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "추상적인 동사로 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "나빠지다_동사-1",
+      "rationale_short": "상태 변화와 평가가 결합된 동사로, 분류가 모호함.",
+      "root": "의견과 가치",
+      "candidate_reason": "상태 변화에 대한 평가적 의미가 포함되어 모호함."
+    },
+    {
+      "meaning_id": "날아오다_동사-1",
+      "rationale_short": "주체에 따라 자연 현상 또는 교통 수단으로 분류될 수 있어 모호함.",
+      "root": "날씨와 자연",
+      "candidate_reason": "비행 주체에 따라 분류가 달라질 수 있어 모호함 (새, 비행기 등)."
+    },
+    {
+      "meaning_id": "내재_일반명사-1",
+      "rationale_short": "추상적인 개념으로, 특정 상황이나 분야에 국한되지 않아 모호함.",
+      "root": "논리와 연결",
+      "candidate_reason": "매우 추상적인 개념으로 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "넘어서다_동사-1",
+      "rationale_short": "물리적 이동과 추상적 기준 초과를 모두 의미하여 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "물리적/추상적 경계를 모두 포함하여 분류가 모호함."
+    },
+    {
+      "meaning_id": "놓이다_동사-1",
+      "rationale_short": "일반적인 상태 동사로, 특정 상황에 국한되지 않아 모호함.",
+      "root": "상황 지시/기타",
+      "candidate_reason": "일반적인 상태 동사로 특정 root에 100% 확실하게 분류하기 모호함."
+    },
+    {
+      "meaning_id": "누리다_동사-1",
+      "rationale_short": "내면적 경험과 감정을 나타내는 동사로, 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면적 감정 및 경험과 관련된 동사로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "다짐_일반명사-1",
+      "rationale_short": "내면의 결심과 관계적 약속을 모두 의미하여 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면의 결심과 대외적 약속을 모두 포함하여 분류가 모호함."
+    },
+    {
+      "meaning_id": "담담하다_형용사-1",
+      "rationale_short": "내면의 감정 상태를 나타내어 모호함.",
+      "root": "내면과 감정",
+      "candidate_reason": "내면의 감정 상태를 묘사하는 형용사로, 분류가 모호함."
+    },
+    {
+      "meaning_id": "동_일반명사-2",
+      "rationale_short": "추상적인 개념으로, 특정 상황이나 분야에 국한되지 않아 모호함.",
+      "root": "논리와 연결",
+      "candidate_reason": "추상적인 개념으로 특정 root에 100% 확실하게 분류하기 모호함."
+    }
+  ],
+  "exclusion": [],
+  "insights": {
+    "hard_patterns": [
+      "추상적인 명사/동사는 특정 장면 root에 100% 확실하게 분류하기 어려워 '상황 지시/기타' 또는 '논리와 연결'로 candidate 처리되는 경향이 있음 (예: 끼치다, 나뉘다, 내재, 넘어서다, 놓이다, 동_일반명사-2).",
+      "내면의 상태, 감정, 평가를 나타내는 동사/형용사는 '내면과 감정', '성격과 태도', '의견과 가치' 등 여러 root와 경계가 겹쳐 '감각/평가/내면/신체와 경계가 겹치면 candidate를 우선한다' 규칙에 따라 candidate로 처리됨 (예: 나빠지다, 누리다, 다짐, 담담하다).",
+      "동음이의어(homonyms)는 각 의미별로 개별적인 분류가 필요하며, 각 의미의 맥락에 따라 다른 root로 분류될 수 있음 (예: 동_일반명사-1, -2, -3, -4)."
+    ],
+    "ia_suggestions": [
+      "'상황 지시/기타' root 아래에 '일반 동사/상태 동사'와 같은 하위 카테고리를 신설하여, 특정 장면 root에 속하기 어려운 추상적인 동사들을 보다 체계적으로 관리할 것을 제안합니다.",
+      "'내면과 감정', '성격과 태도', '의견과 가치' root 간의 경계를 명확히 정의하여, 내면적 상태나 평가를 나타내는 어휘들의 core 분류 기준을 강화할 필요가 있습니다. 현재는 모호할 경우 candidate로 보내는 규칙을 따르고 있습니다.",
+      "'날아오다'와 같이 주체(새 vs. 비행기)에 따라 분류 맥락이 크게 달라지는 동사에 대해, '이동/움직임'과 같은 보다 포괄적인 개념의 root 또는 '상황 지시/기타' 내 하위 카테고리 신설을 고려해 볼 수 있습니다."
+    ]
+  }
+}
