@@ -14,8 +14,17 @@
 ## 🧭 프로젝트 관제탑 및 운영 (Governance)
 프로젝트에 합류한 모든 에이전트(기획/데이터/리뷰/개발)는 작업 전 반드시 아래 운영 가이드와 대시보드를 확인해야 합니다.
 
+> 참고: 개발 에이전트의 실행 환경이 바뀌더라도 동일한 오케스트레이션 문서, 사용자 승인 게이트, append-only 로그 규칙을 그대로 적용합니다.
+> 참고: 각 에이전트는 자기 역할 안에서만 능동적이어야 하며, PM 역할은 Codex만 수행합니다.
+
 1. **[오케스트레이션 대시보드 (Dashboard)](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 현재 진행 중인 미션과 에이전트별 워크보드 링크.
-2. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
+2. **[오케스트레이션 허브 (Hub)](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 SSOT 읽기 순서와 active canonical 문서 요약.
+3. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
+4. **[워크보드 템플릿 및 로그 규칙](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 사용자 승인 게이트와 append-only 보고 방식의 기준 문서.
+
+> 기본 프로토콜: 사용자는 대시보드 한 문서만 보고 현재 상태를 모니터링하고 지시합니다. 에이전트는 대시보드에서 자기 workboard로 내려가 상세 지시를 읽습니다.
+> 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 운영 가이드와 허브 문서를 기준으로 합니다.
+> 운영 메모: 모든 에이전트는 진단에서 멈추지 않고 기본적으로 해결안을 제시해야 합니다. 독자 결정이 어려우면 최대 3개 이내의 선택지를 제안합니다.
 
 ---
 

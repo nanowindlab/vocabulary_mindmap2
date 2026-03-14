@@ -1,7 +1,7 @@
 # Source-Rich Implementation Tasklist V11 (ULTIMATE)
 
 > Version: `V11-ULTIMATE`
-> Date: `2026-03-12`
+> Date: `2026-03-14`
 > Owner: `Gemini Orchestrator (Manager)`
 > Status: `ACTIVE - Data Execution Phase`
 > Role: `Single Authoritative Tasklist / Todo`
@@ -19,23 +19,51 @@
 
 ### Track 1. Integrated Planning (Planning Agent)
 
+- [ ] **T1.30: [CURRENT-CRITICAL] 학습자 관점 relation model 재정의 및 재빌드 기준 closure**
+    - [ ] `related_vocab`와 `refs.cross_links`를 데이터 필드가 아니라 학습자 탐색 장치로 다시 정의할 것.
+    - [ ] 외국인 한국어 학습자 기준으로 두 관계가 각각 어떤 탐색 경험을 제공해야 하는지, 서비스 기획 시나리오와 learner journey 기준으로 명시할 것.
+    - [ ] 현재 자료의 **내용 sufficiency**와 **구조 sufficiency**를 분리해 평가하고, 무엇이 부족한지 적시할 것.
+    - [ ] 한국어 교육, 학습자용 단어 사전(한국어/영어), 연관 탐색 활용 실태를 웹 리서치로 보강하고 내부 정의와 비교할 것.
+    - [ ] 결과는 `SDCP`, `Relation Policy`, `Decision Log` 중 어느 문서가 owner인지까지 포함하여 정리할 것.
+- [ ] **T1.31: [CURRENT] 다음 재빌드 사이클 planning package 및 handoff gate 설계**
+    - [ ] planning → data → review → dev 순서의 handoff gate를 명시할 것.
+    - [ ] data 에이전트가 바로 집행 가능한 재분류/앵커링 기준과 review 에이전트의 acceptance 기준을 함께 정리할 것.
+    - [ ] 외부 딥리서치가 필요하면 기대 산출물, 범위, 제외 범위, 참고 서비스, 반환 포맷까지 포함한 상세 의뢰문을 작성할 것.
+    - [ ] 위 결과를 roadmap/tasklist 단위에서 의미 중심 work package로 다시 묶고, 파편적 TODO가 생기지 않도록 정리할 것.
+- [ ] **T1.33: [CURRENT] planning proposal에 대한 data/review cross-check loop**
+    - [ ] 데이터 에이전트는 기획 proposal이 의미하는 데이터 구조, runtime 영향, 재빌드 구현 요건을 건설적으로 비판할 것.
+    - [ ] 리뷰 에이전트는 3인의 전문가 시각으로 proposal을 검토하고, 기획이 놓친 중요한 누락 포인트를 찾을 것.
+    - [ ] 두 에이전트 모두 진단에서 끝나지 말고, planning 문서에 추가되어야 할 해결안/포함 항목을 제시할 것.
+- [ ] **T1.34: [CURRENT] cross-check 반영 후 implementation architecture planning**
+    - [ ] planning은 data/review cross-check 결과와 Codex 조언을 받아 implementation 구조를 재설계할 것.
+    - [ ] `무엇을 어떻게 구현할지`, `어떤 구조로 반영할지`, `어떤 순서로 적용할지`를 문서 owner 기준으로 정리할 것.
+    - [ ] canonical 문서 직접 반영 전 proposal delta와 apply order를 닫을 것.
+    - [ ] `rich internal canonical`, `thin runtime projection`, `rebuild trigger matrix`, `pilot-first 전략`을 implementation architecture acceptance에 포함할 것.
+- [ ] **T1.32: [RELEASE-READY] 학습자 안내 경험 패키지 정리**
+    - [ ] 기존 `T1.14`, `T1.15`, `T1.16`을 하나의 release work package로 묶어 관리한다.
+    - [ ] 선행 조건: `T2.16`, `T2.17` 완료 후 착수.
+    - [ ] 범위: 온보딩 시나리오, 도움말 UI, 핵심 UI 텍스트 및 브랜딩 일관성.
 - [ ] **T1.17: README.md 상시 현행화 및 프로젝트 개요 관리 [RULE]**
-    - [ ] **상시 업데이트**: README에 연결된 핵심 문서(가이드, 로드맵 등) 작업 시, README의 링크와 요약 정보도 반드시 동시 업데이트할 것.
-- [ ] **T1.14: 신규 사용자를 위한 가이드 및 튜토리얼 설계 [RELEASE-READY]**
-    - [ ] **온보딩 시나리오**: 앱 최초 진입 시 '3대 축'의 의미와 '마인드맵 단계별 확장' 방법을 안내하는 툴팁/오버레이 설계.
-- [ ] **T1.15: UI 텍스트 및 브랜딩 전수 검수 (SDCP V5 기준) [RELEASE-READY]**
-    - [ ] **선행 조건**: T2.16(전수 재분류) 및 T2.17(앵커링) 완료 후 착수.
-    - [ ] **Label Audit**: 'Band 1' ➔ '최상위 필수' 등 모든 텍스트가 최신 브랜딩 정책(V8)과 SDCP V5 철학을 따르는지 점검.
-- [ ] **T1.16: 인앱 인터랙티브 튜토리얼 및 도움말 UI 시스템 설계 [NEXT]**
+    - [ ] README에 연결된 핵심 문서(가이드, 로드맵 등) 작업 시, README의 링크와 요약 정보도 반드시 동시 업데이트할 것.
 
 ---
 
 ### Track 2. Data Engineering (Data Agent)
 
+- [ ] **T2.18: [CURRENT] relation graph canonical pilot preparation**
+    - [ ] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`의 empty skeleton과 field contract를 준비할 것.
+    - [ ] pilot 대상 anchor batch 범위를 정의할 것.
+    - [ ] 실제 publish/rebuild 전 필요한 dry-run 준비 항목과 검증 checklist를 정리할 것.
+- [ ] **T2.19: [CURRENT] empty skeleton actual creation**
+    - [ ] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`를 실제 파일로 생성할 것.
+    - [ ] field contract와 top-level structure가 current policy / SOP / data README와 일치하는지 확인할 것.
+    - [ ] 이번 revision에서는 `publish-only`, `chunk rebuild`, `live overwrite`를 실행하지 말 것.
 - [ ] **T2.16: [SDCP V5] 8.5K 데이터셋 전수 재분류 실행 [CRITICAL]**
+    - [ ] 선행 조건: `T1.34` implementation architecture proposal 승인 후 착수.
     - [ ] **좌표성 시간 이관**: 계절, 시간 어휘를 `Basics` 축으로 대대적 이동.
     - [ ] **이중 검증 적용**: LLM 프롬프트에 '제거 테스트'와 'IS-A 테스트'를 주입하여 오분류 0% 달성.
 - [ ] **T2.17: [XWD Anchoring] 좌표성 시간 어휘 횡단 링크 강제 주입 [CRITICAL]**
+    - [ ] 선행 조건: `T1.34` implementation architecture proposal 승인 후 착수.
     - [ ] **연결 쿼터제**: `Basics`로 이동한 모든 Anchor 단어에 대해 최소 3개 이상의 `Situations` 횡단 링크 주입.
     - [ ] **무결성**: 주입 후 `related_vocab` 필드와 검색 인덱스 간의 참조 무결성 전수 확인.
 
@@ -52,6 +80,10 @@
 
 ### Track 4. Quality Audit (Review Agent)
 
+- [ ] **T4.7: [CURRENT] canonical apply conformity review after REV77**
+    - [ ] `RELATION_DATA_POLICY`, `APP_DATA_REDEPLOY_SOP`, `09_app/public/data/README`, `Tasklist`, `Roadmap` 반영값이 `REV77` 의도와 맞는지 검토할 것.
+    - [ ] 누락 반영, 과잉 반영, phase/gate 위반, runtime-safe 계약 위반 여부를 찾을 것.
+    - [ ] 진단에서 끝나지 말고 즉시 수정해야 할 항목과 보류 가능한 항목을 분리 제시할 것.
 - [ ] **T4.6: [Final QC] 재분류 데이터 전수 검수 및 릴리즈 승인 [GO-NO-GO]**
     - [ ] **실측 검증**: SDCP V5 규칙이 실제 8.5K 데이터에 100% 투영되었는지 샘플링 및 통계 검수.
     - [ ] **최종 판정**: 전수 재분류 데이터의 무결성 확인 후 배포용 `live/` 데이터 최종 승인.

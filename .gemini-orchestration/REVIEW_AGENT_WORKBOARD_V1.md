@@ -1,34 +1,83 @@
 # 리뷰 에이전트 작업보드 (V1)
 
 > Agent: `리뷰 에이전트` (Review Agent)
-> Version: `V1-RESTART-REVISION-73-AUDIT`
-> Date: `2026-03-12`
-> Status: `DONE` (PARTIAL_ACCEPT / CONDITIONAL_APPROVAL)
+> Required Skills: `report-verifier`, `data-validation`
+> Version: `V1-RESTART-REVISION-78`
+> Date: `2026-03-14`
+> Status: `REPORTED` (Canonical Apply Review Submitted)
+> Read First: `README.md` → `PROJECT_DOCUMENT_MAP.md` → `ORCHESTRATION_DASHBOARD.md` → target workboard
+> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/review/20260314_REV78_canonical_apply_review_report.md`
+> User Approval Gate: `요청 전` (현재는 배정만 완료, 작업 시작 전)
+> Control Rule: 에이전트는 append-only 로그에만 보고하고, header/status/current task는 Codex/사용자만 변경한다.
+> Role Definition: 비판적 검수, verdict, acceptance 기준, 수정 권고 담당. PM이 아니므로 다음 단계 확정, 승인, 상태 변경은 하지 않는다.
+> Strong Recommendation: High-Quality Work Standard 6개 기준을 강하게 따를 것.
 
-## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
-"리뷰 에이전트님, 기획 에이전트가 제출한 [V1-REV-72] 결과물에 대해 **[비판적 정밀 검수]**를 수행하십시오. 
-단순한 승인이 아닌, **기획안의 허점을 파헤치고 반려를 전제로 한 날카로운 비평**이 이번 미션의 핵심입니다.
+## Current Task
 
-1. **[Logic Hardness Check]**: 기획자가 제시한 SDCP V4-HD가 '봄/가을' 사례를 넘어 시스템 전체의 허점을 메울 수 있는 **일반화된 논리**를 갖추었는가?
-2. **[Reference Integrity]**: 기획자가 검토했다고 주장하는 핵심 문서 리스트와 실제 업데이트된 SSOT 내용이 논리적으로 상충함이 없는가?
-3. **[Ambiguity Discovery]**: 데이터 에이전트가 이 정책을 실행할 때 '판단 착오'를 일으킬 수 있는 모호한 단어나 정의가 단 하나라도 존재하는가?
+- `V1-REV-77` 반영값에 대한 canonical apply review 완료
+- 누락 반영, 과잉 반영, phase/gate 위반, runtime-safe 계약 위반 여부 검토 완료
+- 현재는 Main PM 검토 및 사용자 승인 대기
 
-귀하는 프로젝트의 최종 수문장으로서, **기획 에이전트의 20년 경력이 무색할 정도의 송곳 같은 감사 보고서**를 제출하십시오."
+## Expected Outputs
 
----
+- canonical apply conformity review memo
+- 즉시 수정해야 할 항목 목록
+- 보류 가능한 항목 목록
+- overall verdict
 
-## 🚀 Latest Report (V1-REV-73-FINAL)
-- **미션명**: SDCP V4-HD 및 분류 정책 재기획안 비판적 감사
-- **검수 결과**: **[PARTIAL_ACCEPT / CONDITIONAL_APPROVAL]**
-- **핵심 보완 권고 (LLM 하드닝 3대 수칙)**:
-    1.  **[좌표성 시간 정의]**: '봄, 아침' 등 수치적/달력적 슬롯(Basics)과 '방학, 축제' 등 사건적 시간(Situations)의 구분을 위한 **'내용성 시간'** 개념 도입.
-    2.  **[IS-A 테스트 주입]**: 복합어 본체 추출 시 LLM의 오판을 막기 위한 **'A를 지워도 본질이 유지되는가?'** 판별 로직 강제화.
-    3.  **[앵커링 XWD 명시]**: 계절 어휘 이관에 따른 인지적 단절을 막기 위해 [상황] 축 대표 단어와의 **Hard-link(P01) 형성 의무화**.
-- **Verdict**: 기획 에이전트는 위 3대 보완책을 반영하여 현재 canonical 정책 문서인 `08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md`를 갱신하십시오.
-- **상태 해석**: 본 검수는 최종 승인 아님. 기획 보드의 후속 보완 제출이 완료되어야 다음 데이터 실행 단계로 이관 가능.
+## Validation Rule
 
----
+- `V1-REV-77` proposal과 실제 반영된 canonical 문서를 함께 읽고 정합성을 검토한다
+- `phase 3 gate`, `runtime-safe projection`, `internal canonical / live projection` 경계를 기준으로 검토한다
+- 현재 단계에서는 review memo만 제출하고 canonical 상태는 직접 수정하지 않는다
 
-## 📋 [이전 미션 기록]
-*   **2026-03-12:** [V1-REV-69] 8.1K XWD 데이터 무결성 검증 완료 (**DONE**).
-*   **2026-03-11:** [V1-REV-63] 프로젝트 무결성 리스크 해결 및 검증 완료 (**DONE**).
+## Solution Expectation
+
+- 진단만 하지 말고 즉시 수정 권고안과 보류 가능 항목을 분리 제시
+- 독자 결정이 어려우면 최대 3개 이내의 review 방안을 제시
+- 각 방안에 추천안 / 장점 / 리스크를 포함
+
+## High-Quality Standard
+
+- 문제를 검수 과업 수준으로 재정의
+- 내용 / 구조 / 실행 리스크를 분리
+- 필요 시 외부 기준이나 실제 evidence 비교를 붙임
+- owner 문서와 후속 반영 위치를 제시
+- 현재 phase와 acceptance gate를 넘지 않음
+- 남은 리스크와 미결정을 숨기지 않음
+
+## Blocking / Decision Needed
+
+- 현재 blocker 없음
+- Main PM이 verdict 수용 여부와 다음 revision 개시 여부를 결정해야 함
+
+## Latest Snapshot
+
+- `V1-REV-77`은 완료 기준선으로 고정됨
+- 새 review cycle은 `V1-REV-78`
+- 현재 상태는 `REPORTED`
+- canonical 문서 반영값은 전반적으로 proposal 의도와 일치하며 runtime-safe 계약 위반 없음
+- 즉시 수정 권고는 `RELATION_GRAPH_CANONICAL_V1.json` empty skeleton 생성
+- 상세 근거는 `20260314_REV78_canonical_apply_review_report.md` 참고
+
+## Latest Review
+
+- baseline reference:
+  - `V1-REV-77` proposal과 `REV75/76` cross-check 결과는 이번 검토의 기준 입력
+
+## User Approval
+
+- requested: no
+- state: `요청 전`
+- evidence: 현재는 에이전트 배정만 완료, 작업 시작 승인 전
+
+## Append-Only Report Log
+
+- `.gemini-orchestration/workboard_archive/review/20260314_REV73_policy_review_snapshot.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV76_assignment_only.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV76_setup_ack.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV76_start_report.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV76_planning_review_report.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV78_canonical_apply_review_assignment.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV78_start_report.md`
+- `.gemini-orchestration/workboard_archive/review/20260314_REV78_canonical_apply_review_report.md`

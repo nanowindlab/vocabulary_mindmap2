@@ -87,6 +87,7 @@
 - `09_app/README.md`를 프로젝트 전용 앱 가이드로 교체
 - `08_expansion/README.md`를 추가하여 canonical 문서와 실행 산출물의 구역을 분리 안내
 - `MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md`로 전체 Markdown 링크 그래프와 구조 변경 후 무결성 검증 결과를 문서화
+- legacy `WORK_ORCHESTRATION_HUB_V1.md`를 `.gemini-orchestration/archive/WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md`로 분리하고, 현재 운영용 slim hub를 같은 파일명으로 재정의
 
 ### Phase 2. Top-Level Archive Triage [Current]
 

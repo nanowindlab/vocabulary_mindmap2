@@ -1,28 +1,71 @@
 # 개발 에이전트 작업보드 [ROUND 23 / REVISION 70]
 
 > Agent: `개발 에이전트` (Development Agent)
+> Required Skills: fixed required skill 없음, 필요 시 `design-principles`, 문서 갱신 필요 시 `doc-state-manager`
 > Version: `V1-RESTART-REVISION-70`
 > Date: `2026-03-11`
 > Status: `REPORTED` (Agent: Completed, Manager Review Pending)
+> Read First: `README.md` → `PROJECT_DOCUMENT_MAP.md` → `ORCHESTRATION_DASHBOARD.md` → `09_app/README.md`
+> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/development/20260314_REV70_release_hardening_snapshot.md`
+> User Approval Gate: `승인 대기` (최종 ACCEPT/DONE 또는 배포 진행 전 사용자 승인 필요)
+> Rule: 개발 에이전트의 실행 환경과 무관하게 workboard snapshot + append-only 로그 + 사용자 승인 게이트를 따른다.
+> Control Rule: 에이전트는 append-only 로그에만 보고하고, header/status/current task는 Codex/사용자만 변경한다.
+> Role Definition: 구현, 테스트, 성능/UX 수정안 담당. PM이 아니므로 정책 변경 확정, 릴리즈 승격, 승인, 상태 변경은 하지 않는다.
+> Strong Recommendation: High-Quality Work Standard 6개 기준을 강하게 따를 것.
 
-## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
-"개발 에이전트님, 데이터 에이전트의 **[연관 데이터 정책 V1]** 확정에 따른 최종 연동 지침입니다. 
-1. **[UI 시각적 분리]**: 상세 패널(`TermDetail`)에서 연관 어휘를 다음 두 그룹으로 반드시 분리하여 노출하십시오.
-    - **가까운 단어 (Related)**: 같은 주제 내 어휘 (`related_vocab` 소스 사용)
-    - **다른 주제로 점프 (Cross-Jump)**: 분류를 넘나드는 횡단 링크 (`refs.cross_links` 소스 사용)
-2. **[Path Sync]**: `loaderAdapter.js`가 바라보는 `live/` 경로의 무결성을 최종 확인하십시오.
-3. **[性能(성능) 하드닝]**: 8.1K 단어와 2.8만 개 연결망이 로드된 상태에서 마인드맵 인터랙션이 60fps를 유지하는지 확인하십시오."
+## Current Task
 
----
+- 현재 활성 개발 미션 없음
+- `REV-70` 구현 보고 상태 유지
 
-## 🚀 Latest Report (V1-REV-70)
-- **미션명**: 8.1K XWD 데이터 실전 연동 및 릴리즈 하드닝
-- **핵심 과제 완수 내역**:
-    1.  **정책 기반 UI 분리**: `related_vocab`과 `cross_links`의 논리적/시각적 분리 렌더링.
-    2.  **데이터 소스 통합**: `SEARCH_INDEX`와 `TREE` 데이터의 상호 보완적 매핑 연동.
-    3.  **빌드 안정성**: 최종 프로덕션 빌드 완료 및 릴리즈 준비.
+## Expected Outputs
 
----
+- 다음 dispatch 전까지 현재 runtime 경로와 UI 분리 로직 유지
+- 새 개발 미션 발생 시 append-only 상세 로그 추가
 
-## 📋 [이전 미션 기록]
-*   **2026-03-11:** [V1-REV-66] 다중 품사 필터 드롭다운 UI 개편 완료 (**DONE**).
+## Validation Rule
+
+- `09_app/public/data/live/` 기준 runtime 연동 유지
+- 최종 승인 또는 배포 진행 전 사용자 승인 필요
+- 세부 구현 검증은 append-only 로그에 먼저 기록
+
+## Solution Expectation
+
+- 진단만 하지 말고 구현 수정안, 테스트안, 리스크 완화안을 기본적으로 제시
+- 독자 결정이 어려우면 최대 3개 이내의 구현 방안을 제시
+- 각 방안에 추천안 / 장점 / 리스크를 포함
+
+## High-Quality Standard
+
+- 문제를 구현 과업 수준으로 재정의
+- 내용 / 구조 / 실행 영향을 분리
+- 필요 시 외부 비교나 실제 runtime evidence를 붙임
+- owner 문서와 후속 반영 위치를 제시
+- 현재 phase와 release gate를 넘지 않음
+- 남은 리스크와 미결정을 숨기지 않음
+
+## Blocking / Decision Needed
+
+- manager review 및 사용자 승인 전 최종 DONE 불가
+- 다음 활성 개발 미션 dispatch 대기
+
+## Latest Snapshot
+
+- `related_vocab` / `cross_links` UI 분리와 데이터 소스 통합 보고 완료
+- 상태는 `REPORTED`
+- 최종 배포 또는 승격 전 사용자 승인 필요
+- 상세 근거는 `20260314_REV70_release_hardening_snapshot.md` 참고
+
+## Latest Review
+
+- 현재 별도 최신 review verdict 없음
+
+## User Approval
+
+- requested: yes
+- state: `승인 대기`
+- evidence: 최종 ACCEPT/DONE 또는 배포 진행 전 사용자 승인 필요
+
+## Append-Only Report Log
+
+- `.gemini-orchestration/workboard_archive/development/20260314_REV70_release_hardening_snapshot.md`

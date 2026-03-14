@@ -13,6 +13,8 @@
 - **[`README.md`](../README.md)**: 프로젝트 통합 진입점. (핵심 문서 수정 시 반드시 동기화)
 - **[`MASTER_ROADMAP_V1.md`](./MASTER_ROADMAP_V1.md)**: 마일스톤 및 전체 일정.
 - **`.gemini-orchestration/`**: 에이전트 운영 가이드 및 대시보드 관리 폴더.
+- **`.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md`**: 현재 운영용 공용 허브.
+- **`.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md`**: 표준 workboard snapshot 템플릿.
 - *원칙*: 이 외의 1회성 스크립트나 결과물은 루트에 배치할 수 없습니다.
 
 ### 1.2. [/scripts/] 로직 및 도구 격리
@@ -40,6 +42,7 @@
   - `09_app/public/data/README.md`
   - `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`
   - `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`
+- workboard overwrite 유실 방지를 위한 append-only 로그 기준은 `.gemini-orchestration/workboard_archive/README.md`를 따른다.
 - 향후 폴더 재구성 시에도 위 경로들은 대체 경로가 충분히 고지되기 전까지 바로 이동하지 않는다.
 - top-level `archive/`는 현재 canonical document archive가 아니다. 오래된 handoff와 legacy session history를 보관하는 참고 구역으로만 유지한다.
 - 현재 Markdown 링크 그래프와 입구 문서 검증 결과는 `08_expansion/MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md`를 기준으로 확인한다.
@@ -86,6 +89,10 @@ top-level `archive/`는 별도 역할을 가진다.
 - `_v2` 시기 구세대 폴더 스냅샷
 
 이 영역은 현재 운영 handoff나 canonical 문서 보관소가 아니라, 과거 세션 흐름을 복기하기 위한 history-only 참고 구역이다.
+
+### 3.4. Legacy Orchestration Hub (`.gemini-orchestration/archive/`)
+- restart 시점의 legacy hub는 `.gemini-orchestration/archive/WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md`로 분리했다.
+- 현재 운영 허브는 `.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md`를 사용한다.
 
 ---
 *참조 무결성 원칙*: 본 문서의 내용이 변경될 경우 반드시 루트 `README.md`에 반영되어야 하며, 문서 간 링크(Markdown Link)는 항상 최신 `V` 번호를 가리키도록 상시 교정되어야 합니다.

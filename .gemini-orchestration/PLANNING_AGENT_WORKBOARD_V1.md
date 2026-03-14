@@ -1,48 +1,86 @@
 # 기획 에이전트 작업보드 (V1)
 
 > Agent: `기획 에이전트` (Planning Agent)
-> Version: `V1-RESTART-REVISION-72`
-> Date: `2026-03-12`
-> Status: `REPORTED` (Draft Submitted, Review Revision Required)
+> Required Skills: `doc-state-manager`, `korean-lexical-data-curation`
+> Version: `V1-RESTART-REVISION-77`
+> Date: `2026-03-14`
+> Status: `DONE` (Implementation Architecture Approved and Applied)
+> Read First: `README.md` → `PROJECT_DOCUMENT_MAP.md` → `ORCHESTRATION_DASHBOARD.md` → `08_expansion/README.md`
+> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_proposal.md`
+> User Approval Gate: `승인됨` (canonical 문서 반영 승인 완료)
+> Control Rule: 에이전트는 append-only 로그에만 보고하고, header/status/current task는 Codex/사용자만 변경한다.
+> Role Definition: 정책/시나리오/owner map/acceptance input 설계 담당. PM이 아니므로 우선순위, 승인, 상태 확정은 하지 않는다.
+> Strong Recommendation: High-Quality Work Standard 6개 기준을 강하게 따를 것.
 
-## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
-"기획 에이전트님, 현재의 cross-link 운영 결과를 바탕으로 **[분류 체계 및 관계 정책 전면 재검토]** 미션을 하달합니다. 
+## Current Task
 
-현재 발견된 핵심 문제는 두 가지입니다.
-1. **분류 체계 축 불일치**: '계절' 개념이 '상황'과 '구조'에 분산되어 있어 cross-link가 구조적 어긋남을 임시로 덮는 역할에 그치고 있습니다.
-2. **횡단 관계 정책 부재**: '아프다 -> 병원'과 같은 학습자 중심의 직관적 횡단(Cross-link)이 부족하고, 근접어 중심의 연결에 치우쳐 있습니다.
+- `V1-REV-74` proposal, `V1-REV-75` 구조 리뷰, `V1-REV-76` 비판 리뷰, Codex canonical delta draft를 모두 흡수
+- relation model을 실제로 **어떻게 구현할지** implementation architecture를 기획
+- rich internal canonical / thin runtime projection / rebuild trigger matrix / pilot-first 전략을 문서 owner 기준으로 정리
+- proposal-only implementation architecture 보고를 제출했고, canonical 반영 전 검토 단계에 있음
 
-따라서 아래의 **[반복적 고도화 프로세스]**를 거쳐 정책을 재수립하십시오.
-- **[A. 분류 체계 재검토]**: '상황'과 '구조' 사이의 경계 항목(계절, 시간, 자연 현상 등)을 전수 감사하여 분류권 일원화 또는 명확한 경계를 확립하십시오.
-- **[B. cross-link 정책 재기획]**: '장면 확장', '감정-상황 연결', '행동-도구 연결' 등 학습적으로 의미 있는 횡단 패턴을 정의하십시오.
-- **[C. 핵심 산출물]**: `cross-link 재정의 가이드`, `분류 재검토 우선 리스트`, `경계 항목 샘플 세트`를 도출하십시오.
+## Expected Outputs
 
-**⚠️ 필수 준수 프로세스 (Iterative Hardening):**
-본 작업은 **[기안 -> 검토 -> 개선 -> 반론 -> 검증 -> 추가 개선 -> 추가 검증]**의 7단계를 반드시 거쳐야 하며, 각 단계의 논리적 충돌 해결 과정을 보고서에 상세히 기록하십시오."
+- implementation architecture memo
+- owner 문서별 patch 방향
+- rich internal canonical 저장 위치 정의
+- thin runtime projection rule
+- rebuild trigger matrix
+- pilot-first 실행 전략
+- 다음 data/review/dev cycle handoff input
 
----
+## Validation Rule
 
-## 🚀 Latest Report (V1-REV-72)
-- **미션명**: 분류 체계 경계 재정비 및 횡단 관계 정책 고도화 설계
-- **진행 상태**: **REPORTED** (초안 제출 완료, REV-73 검수 결과 반영 필요)
-- **핵심 과제**:
-    1.  **IA V4 경계 감사**: '상황' vs '구조' 축 불일치 항목 식별 및 재분류 정책 수립.
-    2.  **XWD 횡단 정책**: 의미 있는 관계망(State->Place, Emotion->Place 등) 패턴화.
-    3.  **정책 가이드라인 구축**: 데이터 에이전트가 즉시 정제에 착수할 수 있는 수준의 명세화.
-- **리뷰 반영 필수 사항 (REV-73)**:
-    1.  **좌표성 시간 정의 보강**: 달력/수치 슬롯과 사건적 시간을 분리하는 `'내용성 시간'` 기준 명문화.
-    2.  **판별 로직 하드닝**: 분류 프롬프트에 `'제거 테스트'`와 `'IS-A 테스트'`를 명시적으로 주입.
-    3.  **앵커링 의무화**: `Basics`로 이동한 시간/계절 어휘에 대해 `Situations` 측 Hard-link(P01) 정책 명시.
-- **다음 산출물 기준**:
-    - **주 산출물(SSOT)**: `08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md`에 보완 내용을 직접 반영할 것
-    - **보조 산출물(선택)**: 검토 메모나 비교표가 필요하면 별도 메모를 둘 수 있으나, 정책 본문은 SSOT 파일에 최종 반영할 것
-    - 데이터 에이전트가 즉시 실행 가능한 재분류/앵커링 규칙 포함
-    - `08_expansion/PROJECT_DECISION_LOG_V1.md`에 정책 변경 핵심을 1줄 이상 기록할 것
-    - review verdict 문구와 상충하지 않도록 SSOT 문서 링크 동기화
-    - 새 버전명을 별도 파일명으로 증식하지 말고, 현재 canonical 프로토콜을 갱신하는 방식으로 제출할 것
+- `V1-REV-75`와 `V1-REV-76`의 지적사항을 문서 owner 기준으로 흡수해야 함
+- proposal은 여전히 canonical 직접 반영 전 단계이며, apply order를 명시해야 함
+- relation semantics와 runtime-safe projection을 동시에 닫아야 함
+- phase 3 gate를 넘지 않고 `policy closure -> data rebuild -> review -> limited dev` 순서를 유지해야 함
 
----
+## Solution Expectation
 
-## 📋 [이전 미션 기록]
-*   **2026-03-12:** [V1-REV-71] 인앱 인터랙티브 튜토리얼 설계 (**WITHDRAWN**).
-*   **2026-03-11:** [V1-REV-61] 구조 정리 리스크 감사 및 오너십 매핑 완료 (**DONE**).
+- 진단만 하지 말고 구현 구조안, owner 문서별 patch 방향, 적용 순서를 기본적으로 제시
+- 독자 결정이 어려우면 최대 3개 이내의 planning 방안을 제시
+- 각 방안에 추천안 / 장점 / 리스크를 포함
+
+## High-Quality Standard
+
+- 문제를 planning 과업 수준으로 재정의
+- 내용 sufficiency / 구조 sufficiency / 실행 gate를 분리
+- 필요 시 외부 비교 근거를 붙임
+- owner 문서와 적용 순서를 명시
+- 현재 phase와 handoff gate를 넘지 않음
+- 남은 리스크와 미결정을 숨기지 않음
+
+## Blocking / Decision Needed
+
+- 현재 blocker 없음
+- 다음 planning cycle이 열리기 전까지 본 revision은 완료 기준선으로 유지
+
+## Latest Snapshot
+
+- `V1-REV-74`, `V1-REV-75`, `V1-REV-76`이 모두 기준 입력으로 고정됨
+- 새 planning 사이클은 `V1-REV-77`
+- rich internal canonical / thin runtime projection / rebuild trigger matrix / pilot-first 전략 proposal 제출 완료
+- `RELATION_DATA_POLICY`, `APP_DATA_REDEPLOY_SOP`, `09_app/public/data/README`, `Tasklist`, `Roadmap`에 canonical 반영 완료
+- 현재 상태는 `DONE / APPLIED TO CANONICAL DOCS`
+- 상세 근거는 `20260314_REV77_implementation_architecture_proposal.md` 참고
+
+## Latest Review
+
+- baseline reference:
+  - `V1-REV-75`와 `V1-REV-76` 결과를 반드시 흡수할 것
+
+## User Approval
+
+- requested: yes
+- state: `승인됨`
+- evidence: 사용자 승인 후 canonical 문서 반영 완료
+
+## Append-Only Report Log
+
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV72_policy_rework_snapshot.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV74_assignment_only.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV74_relation_model_execution_closure_proposal.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV74_canonical_delta_draft_by_codex.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_assignment.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_proposal.md`

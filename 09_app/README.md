@@ -65,3 +65,11 @@ cd 09_app
 - `09_app/public/data/README.md`
 
 문서 구조를 정리하더라도 위 경로들은 바로 없애거나 이동하지 않는다.
+
+## 6. Orchestration Rule For Development Agent
+
+개발 에이전트는 이 프로젝트에서 아래 운영 규칙을 따른다.
+
+- `.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`를 현재 snapshot 기준으로 읽는다.
+- 세부 구현 보고는 `.gemini-orchestration/workboard_archive/development/` 아래 append-only 로그로 먼저 남긴다.
+- 최종 승인, 배포 진행, 다음 단계 승격은 사용자 승인 기록이 있어야 한다.

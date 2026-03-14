@@ -1,4 +1,0 @@
-interface:
-  display_name: "Multi-Agent Orchestration"
-  short_description: "Coordinate working and review agents with project-local hubs and workboards"
-  default_prompt: "Set up project-local orchestration files and coordinate the working and review agents through them."

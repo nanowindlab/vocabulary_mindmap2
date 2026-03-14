@@ -4,9 +4,17 @@
 > 에이전트와 관리자는 이 지도를 통해 원하는 문서로 즉시 이동할 수 있습니다.
 
 ## 🧭 1. 오케스트레이션 및 운영 (Root & `.gemini-orchestration/`)
+- 운영 메모: 사용자는 기본적으로 `ORCHESTRATION_DASHBOARD.md` 한 문서만 보고 모니터링하고 지시한다. 에이전트는 대시보드에서 각 workboard로 내려간다.
+- 운영 메모: 개발 에이전트의 실행 환경이 바뀌더라도 아래 오케스트레이션 문서와 workboard 규칙을 동일하게 따른다.
 - 📄 **[README.md](./README.md)**: 프로젝트의 최초 진입점.
 - 📄 **[ORCHESTRATION_DASHBOARD.md](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 에이전트 작업 현황 관제탑.
+- 📄 **[WORK_ORCHESTRATION_HUB_V1.md](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 운영용 공용 허브. SSOT 읽기 순서와 active canonical 문서 요약.
 - 📄 **[OPERATING_GUIDE_V1.md](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 에이전트 행동 강령 및 폴더 구조 규칙.
+- 📄 **[WORKBOARD_TEMPLATE_V1.md](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 표준 workboard snapshot 템플릿. 사용자 승인 게이트와 상세 보고 경로 포함.
+- 📄 **[workboard_archive/README.md](./.gemini-orchestration/workboard_archive/README.md)**: workboard overwrite 유실 방지를 위한 append-only 로그 보관 규칙.
+- 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 `WORK_ORCHESTRATION_HUB_V1.md`, `OPERATING_GUIDE_V1.md`를 기준으로 본다.
+- 운영 메모: 모든 에이전트는 solution-first 프로토콜을 따른다. 진단 후 해결안 제시가 기본이며, 독자 결정이 어렵다면 최대 3개 이내의 선택지를 제시한다.
+- 운영 메모: 각 에이전트는 자기 역할 안에서만 능동적이어야 하며, PM 역할은 Codex만 수행한다.
   - ↳ 📋 [PLANNING_AGENT_WORKBOARD_V1.md](./.gemini-orchestration/PLANNING_AGENT_WORKBOARD_V1.md)
   - ↳ 📋 [DATA_VALIDATION_AGENT_WORKBOARD_V1.md](./.gemini-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md)
   - ↳ 📋 [REVIEW_AGENT_WORKBOARD_V1.md](./.gemini-orchestration/REVIEW_AGENT_WORKBOARD_V1.md)
@@ -46,6 +54,7 @@
 ## 🗄️ 6. 히스토리와 아카이브
 - 📄 **[08_expansion/archive/README.md](./08_expansion/archive/README.md)**: canonical document history zone 안내.
 - 📄 **[archive/README.md](./archive/README.md)**: legacy session history zone 안내. 오래된 handoff는 history-only로 취급.
+- 📄 **[WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md](./.gemini-orchestration/archive/WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md)**: restart 시점 orchestration hub. 현재 운영 기준이 아닌 legacy 참고 문서.
 
 ## 🎯 7. 최종 제품 가이드
 - 현재 `10_product_guide/` 디렉토리는 저장소에 배치되어 있지 않음.

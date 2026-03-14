@@ -1,0 +1,80 @@
+{
+  "version": "V1",
+  "status": "pilot_skeleton",
+  "schema_mode": "rich_internal_canonical",
+  "generated_at": null,
+  "authority": {
+    "canonical_path": "09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json",
+    "runtime_projection_mode": "thin_runtime",
+    "runtime_targets": [
+      "09_app/public/data/live/APP_READY_SITUATIONS_TREE.json",
+      "09_app/public/data/live/APP_READY_EXPRESSIONS_TREE.json",
+      "09_app/public/data/live/APP_READY_BASICS_TREE.json",
+      "09_app/public/data/live/APP_READY_SEARCH_INDEX.json"
+    ]
+  },
+  "field_contract": {
+    "node_key": "id",
+    "edge_key": "edge_id",
+    "runtime_safe_relation_types": [
+      "word_to_word"
+    ],
+    "reserved_relation_types": [
+      "word_to_scene",
+      "word_to_grammar",
+      "word_to_idiom"
+    ],
+    "required_node_fields": [
+      "id",
+      "word",
+      "pos",
+      "system",
+      "root",
+      "category",
+      "chunk_id",
+      "anchor_family"
+    ],
+    "required_edge_fields": [
+      "edge_id",
+      "source_id",
+      "target_id",
+      "target_term",
+      "target_system",
+      "target_root",
+      "target_category",
+      "display_intent",
+      "relation_role",
+      "jump_purpose",
+      "reason",
+      "hook_id",
+      "scope",
+      "constraints",
+      "provenance"
+    ],
+    "optional_edge_fields": [
+      "secondary_roles",
+      "priority_bucket",
+      "review_state",
+      "notes"
+    ]
+  },
+  "pilot": {
+    "batch_id": "pilot_anchor_batch_v1",
+    "selection_rule": "coordinate_time_anchors_only",
+    "dry_run_only": true,
+    "include_term_ids": [],
+    "holdout_term_ids": [],
+    "excluded_relation_types": [
+      "word_to_scene",
+      "word_to_grammar",
+      "word_to_idiom"
+    ]
+  },
+  "nodes": {},
+  "edges": [],
+  "dry_run_reserve": {
+    "pre_publish_checks": [],
+    "projection_preview": [],
+    "gate_evidence": []
+  }
+}

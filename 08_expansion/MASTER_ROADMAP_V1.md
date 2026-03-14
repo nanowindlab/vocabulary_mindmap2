@@ -25,14 +25,19 @@
 - 스키마 명칭 표준화 (`total_frequency` ➔ `frequency` 등).
 
 ### Phase 3. Smart Triage & Enrichment [IN-PROGRESS]
-- **3 Depth 전수 재분류**: [System > Root > Category] 계층을 강제 적용하여 사이드바와 마인드맵의 렌더링 부하를 줄이고 데이터 구조를 체계화한다.
-- **데이터 내실화**: 6종 문체별 예문 매핑 및 연관 단어(Cross-link) 구축을 통해 단순 단어 나열이 아닌 유기적 학습 콘텐츠를 완성한다.
-- **물리적 분할**: 3대 축별 독립 JSON 파일로 분리하여 탭 전환 시 필요한 데이터만 로드하는 지연 로딩(Lazy Load)의 기반을 마련한다.
+- **정책 closure 및 relation model 재정의**: `related_vocab`와 `cross_links`를 학습자 탐색 장치로 다시 정의하고, 서비스 기획 시나리오 및 외국인 학습자 learner journey 기준으로 canonical 기준을 닫는다.
+- **학습자 사전 활용 실태 보강**: 한국어 교육, 학습자용 한국어/영어 사전, 연관 탐색 활용 실태를 웹 리서치로 보강하여 내부 relation model과 비교한다.
+- **planning cross-check loop**: planning proposal을 data/review가 교차 검토하고, 그 결과를 반영한 implementation architecture planning으로 재빌드 기준을 잠근다.
+- **implementation architecture planning**: relation semantics를 rich internal canonical과 thin runtime projection으로 분리하고, pilot-first 전략과 rebuild trigger를 phase gate 수준에서 확정한다.
+- **재분류 및 앵커링 실행**: 8.5K 데이터에 대해 3 Depth 재분류, 좌표성 시간 이관, anchor 기반 횡단 연결 주입을 실행한다.
+- **학습용 콘텐츠 내실화**: 예문, 연관망, 구조적 연결을 통해 단순 단어 나열이 아니라 탐색 가능한 학습 콘텐츠를 완성한다.
+- **runtime handoff 준비**: review acceptance와 다음 UI 단계 진입이 가능하도록 배포용 기준과 검수 포인트를 정렬한다.
 
 ### Phase 4. Unified UI/UX Implementation [NEXT]
 - **탭 라우팅**: 축별 파일 동적 전환 시스템을 구축하여 사용자가 탭을 바꿀 때마다 해당 테마의 마인드맵이 실시간으로 교체되도록 구현한다.
 - **엔진 고도화**: 대량의 노드(8.5K) 노출 시에도 쾌적한 조작감을 위해 충돌 방지 및 단계별 노출 로직이 적용된 고성능 마인드맵 엔진을 탑재한다.
 - **UI 리팩토링**: 한국어 단어와 영어 대응어를 병렬로 배치하여 시독성을 높이고, 플래시카드 중심의 브랜딩을 강화한다.
+- **학습자 안내 경험 패키지**: 재분류 결과를 기준으로 튜토리얼, 도움말, 핵심 UI 텍스트를 일관된 learner journey로 정리한다.
 
 ### Phase 5. Quality Audit & Performance Tuning
 - 8.5K 데이터 대상 렌더링 성능 최적화 (노드 150개 제한 등).

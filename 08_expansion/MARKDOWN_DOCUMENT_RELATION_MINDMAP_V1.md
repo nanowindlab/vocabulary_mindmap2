@@ -7,8 +7,8 @@
 
 ## 1. Validation Summary
 
-- 총 Markdown 문서 수: `96`
-- local markdown-to-markdown 링크 수: `68`
+- 총 Markdown 문서 수: `99`
+- local markdown-to-markdown 링크 수: `74`
 - 1차 검출 broken link: `5`
 - 조치 후 broken link: `0`
 
@@ -16,6 +16,7 @@
 
 - 현재 입구 문서(`README.md`, `PROJECT_DOCUMENT_MAP.md`, `08_expansion/PROJECT_INFRASTRUCTURE_GUIDE_V1.md`, `08_expansion/DOCUMENT_STRUCTURE_MIGRATION_PLAN_V1.md`, `08_expansion/README.md`, `09_app/README.md`) 기준 1단계, 2단계, 3단계 연결에서 누락 링크 없음
 - 개발 에이전트의 runtime/deploy 경로(`09_app/README.md`, `09_app/public/data/README.md`, `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`, `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`) 무결성 확인
+- 운영 프로토콜 문서(`WORKBOARD_TEMPLATE_V1.md`, `workboard_archive/README.md`) 추가 후에도 입구 문서 연결 무결성 유지
 - archive/history 문서의 stale link 5건은 현재 canonical 또는 현재 경로 기준으로 정리함
 
 ## 2. 3인 전문가 검토 요약
@@ -242,5 +243,5 @@ flowchart TD
 
 ## 8. Residual Risk
 
-- `WORK_ORCHESTRATION_HUB_V1.md`는 이제 stale SSOT 목록은 제거됐지만, 여전히 legacy 문서가 live orchestration 폴더 안에 존재한다.
-- 이 파일은 장기적으로 legacy zone으로 이동하거나 파일명에 `LEGACY`를 붙이는 편이 더 안전하다.
+- legacy orchestration hub는 `.gemini-orchestration/archive/WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md`로 분리되었고, live 폴더에는 slim current hub만 남았다.
+- 현재 남은 리스크는 archive/history 문서가 여전히 많아, 장기적으로는 `legacy handoff`와 `legacy snapshot`의 세분 구역을 더 나누면 좋다는 점이다.

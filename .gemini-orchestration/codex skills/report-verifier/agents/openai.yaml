@@ -1,4 +1,0 @@
-interface:
-  display_name: "Report Verifier"
-  short_description: "Verify agent reports against real artifacts."
-  default_prompt: "Use $report-verifier to check an agent report against files, data, code, and build evidence before accepting it."

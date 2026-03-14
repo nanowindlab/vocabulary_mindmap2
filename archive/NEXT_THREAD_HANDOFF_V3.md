@@ -36,7 +36,7 @@
 
 ### 입구 / 운영
 
-- `.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md`
+- `.gemini-orchestration/archive/WORK_ORCHESTRATION_HUB_RESTART_LEGACY_V1.md`
 - `.gemini-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md`
 - `.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`
 - `.gemini-orchestration/REVIEW_AGENT_WORKBOARD_V1.md`

@@ -21,7 +21,11 @@
 - `09_app/public/data/live/APP_READY_SITUATIONS_TREE.json`
 - `09_app/public/data/live/APP_READY_EXPRESSIONS_TREE.json`
 - `09_app/public/data/live/APP_READY_BASICS_TREE.json`
-- `08_expansion/rev47/REV47_RELATED_LINKS_V1.json`
+- `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`
+
+transition note:
+
+- `08_expansion/rev47/REV47_RELATED_LINKS_V1.json`는 transition period 동안 builder compatibility input으로 유지 가능
 
 ### 최종 출력
 
@@ -32,6 +36,23 @@
 - `09_app/public/data/live/CHUNK_MANIFEST_V1.json`
 - `09_app/public/data/live/APP_READY_CHUNK_RICH_chunk_*.json`
 - `09_app/public/data/live/APP_READY_CHUNK_EXAMPLES_chunk_*.json`
+
+## 2.1. rebuild trigger matrix
+
+아래 변경은 runtime redeploy mandatory다.
+
+- `related_vocab` selection rule 변경
+- `refs.cross_links` selection rule 변경
+- `target_id` 또는 target path metadata 변경
+- `display_intent` 변경
+- `chunk_id` partition 영향 변경
+
+아래 변경은 internal canonical만 갱신하고 redeploy를 생략할 수 있다.
+
+- `reason`
+- `provenance`
+- `secondary_roles`
+- `relation_role` 변경(단, runtime projection 결과 불변일 때)
 
 ## 3. 표준 실행 순서
 
@@ -85,6 +106,21 @@ python3 scripts/core/rebuild_rev23_detail_chunks.py
 - `APP_READY_CHUNK_RICH_chunk_*.json` 재생성됨
 - `APP_READY_CHUNK_EXAMPLES_chunk_*.json` 재생성됨
 - 상세 청크의 `related_vocab` / `refs.cross_links`가 live 트리와 일치함
+
+### gate evidence checklist
+
+data -> review gate 전 아래 증거를 모두 남긴다.
+
+- split 총합 = search total
+- search `chunk_id` 존재 = 전체 term 수
+- split `chunk_id` 존재 = 각 파일 전체 term 수
+- `related_vocab` target 누락 `0`
+- `related_vocab` 타분류 오염 `0`
+- `cross_links` 동일분류 오염 `0`
+- `cross_links` 타깃 누락 `0`
+- legacy `target_center_id` 잔존 `0`
+- `CHUNK_MANIFEST_V1.json` 생성 확인
+- detail chunk와 live tree relation 일치 확인
 
 ## 5. 보고 문서 갱신
 

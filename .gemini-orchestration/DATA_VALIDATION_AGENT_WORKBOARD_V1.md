@@ -1,83 +1,83 @@
 # 데이터 에이전트 작업보드 [ROUND 10 / REVISION 65]
 
 > Agent: `신임 데이터 에이전트` (Data Strategist Gemini)
-> Version: `V1-RESTART-REVISION-65`
-> Date: `2026-03-11`
-> Status: `DONE` (Data Agent Completed)
+> Required Skills: `data-validation`
+> Version: `V1-RESTART-REVISION-80`
+> Date: `2026-03-14`
+> Status: `DISPATCHED` (Assigned, Not Started)
 > Runtime redeploy SOP: `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`를 단어 업데이트/재배포 작업 전에 반드시 먼저 읽을 것
+> Read First: `README.md` → `PROJECT_DOCUMENT_MAP.md` → `ORCHESTRATION_DASHBOARD.md` → `09_app/README.md`
+> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/data/20260314_REV80_skeleton_creation_assignment.md`
+> User Approval Gate: `요청 전` (현재는 배정만 완료, 작업 시작 전)
+> Control Rule: 에이전트는 append-only 로그에만 보고하고, header/status/current task는 Codex/사용자만 변경한다.
+> Role Definition: 데이터 진단, 증거 수집, 재빌드안, 검증 설계 담당. PM이 아니므로 sequencing, 승인, 상태 확정은 하지 않는다.
+> Strong Recommendation: High-Quality Work Standard 6개 기준을 강하게 따를 것.
 
-## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
-"데이터 에이전트님, 프로젝트 환경 최적화를 위한 **[X-CLEAN Phase 2: 스크립트 격리 및 경로 보정]** 미션을 하달합니다. 
-1. **[물리적 격리]**: 루트 디렉토리에 산재된 모든 `*.py` 스크립트를 `scripts/core/`, `scripts/mining/`, `scripts/triage/` 등 성격에 맞게 분류하여 이동시키십시오.
-2. **[경로 무결성 회복]**: 스크립트 위치가 바뀌었으므로 내부의 상대 경로(`../` 등)가 모두 깨질 것입니다. `08_expansion/STRUCTURAL_CHANGELOG_V1.md`를 참고하여 소스 코드 내의 파일 참조 경로를 전수 보정하십시오.
-3. **[검증]**: 이동 후 스크립트(`build_master_pool_v1.py` 등)를 `--help`나 기본 모드로 실행하여 `FileNotFoundError`가 발생하지 않는지 확인 후 보고하십시오."
+## Current Task
 
----
+- `RELATION_GRAPH_CANONICAL_V1.json` empty skeleton 실제 생성
+- field contract와 top-level structure 검증
+- 이번 revision에서는 publish/rebuild/live overwrite를 하지 않음
+- 현재는 배정만 완료, 아직 착수하지 않음
 
-## 1. Current Task: [V1-REV-65] 루트 스크립트 격리 및 파일 경로 정규화 실행
+## Expected Outputs
 
-### Goal: 프로젝트 루트를 슬림화하고, 변경된 디렉토리 구조(scripts/ 도입)에 맞춰 모든 Python 로직이 정상 작동하도록 경로를 하드닝함.
+- `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`
+- skeleton 생성 확인 보고
+- dry-run validation memo
+- next execution recommendation
 
-1.  **[Isolation] 스크립트 도메인 분리**:
-    *   루트의 파이썬 스크립트들을 `scripts/` 하위 구조로 재배치.
-2.  **[Path Refactoring] 코드 레벨 상대 경로 교정**:
-    *   파이썬 코드 내의 파일 참조 경로들을 전수 보정.
-3.  **[Dry Run Check]**:
-    *   주요 스크립트 구동 테스트를 통한 에러 선제 방어.
+## Validation Rule
 
----
+- `09_app/public/data/internal/` canonical support zone 규칙을 지킬 것
+- live runtime contract는 바꾸지 않을 것
+- 이번 revision에서는 실제 publish/rebuild를 실행하지 않을 것
+- skeleton file은 current policy / SOP / data README와 상충하지 않아야 함
 
-## 2. Latest Report (Previous)
-- **2026-03-12 09:50:11 KST**: `V1-REV-47` 후속 정규화 완료.
-  - 정책 반영:
-    - 같은 `system/root/category`만 `related_vocab` 유지
-    - 다른 분류로 넘어가는 연결은 `refs.cross_links`로 이동
-  - live runtime count:
-    - `APP_READY_SITUATIONS_TREE.json`: `related_vocab 4289 / cross_links 559`
-    - `APP_READY_EXPRESSIONS_TREE.json`: `related_vocab 1724 / cross_links 100`
-    - `APP_READY_BASICS_TREE.json`: `related_vocab 1618 / cross_links 146`
-    - `APP_READY_SEARCH_INDEX.json`: `related_vocab 7631 / cross_links 805`
-  - 전수 검증:
-    - `related_vocab` 타깃 누락 `0`
-    - `related_vocab` 타분류 오염 `0`
-    - `cross_links` 동일분류 오염 `0`
-    - `cross_links` 타깃 누락 `0`
-    - `chunk_id` 존재 `8092 / 8092`
-  - detail chunk도 동일 기준으로 재생성 완료.
-- **2026-03-11**: [V1-REV-47] 8.1K 단어 풀 대상 XWD 마이닝 및 양방향 주입 진행 중 (백그라운드).
-- **2026-03-11**: [V1-REV-44] 연관 데이터 196건 주입 실재 확인 및 배포 완료 (최종 승인).
+## Solution Expectation
 
-- **2026-03-12 08:13:13 KST**: `V1-REV-47` 완료.
-  - linked_terms `7675`, link_edges `28308`
-  - split `related_vocab`: 상황 `4319`, 표현 `1732`, 기초 `1624`
-  - split `cross_links`: 상황 `69`, 표현 `33`, 기초 `53`
-  - 최종 산출물:
-    - `09_app/public/data/APP_READY_SITUATIONS_TREE.json`
-    - `09_app/public/data/APP_READY_EXPRESSIONS_TREE.json`
-    - `09_app/public/data/APP_READY_BASICS_TREE.json`
-    - `09_app/public/data/APP_READY_SEARCH_INDEX.json`
-    - `08_expansion/rev47/REV47_RELATED_LINKS_V1.json`
-    - `08_expansion/rev47/REV47_PUBLISH_SUMMARY_V1.json`
-  - 무결성 검증:
-    - `self_link_count 0`
-    - `asymmetry_sample_count 0`
-  - 개발 handoff: `08_expansion/rev47/REV47_DEV_HANDOFF_V1.md`
-- **2026-03-12 08:13:13 KST**: `V1-REV-65` 완료.
-  - scripts/ 격리 및 경로 보정 후 새 경로 기준 REV-47 완료 검증 통과.
-  - 추가 정리:
-    - `09_app/public/data/live/`: 앱 runtime canonical
-    - `09_app/public/data/internal/`: rebuild support files
-    - `09_app/public/data/legacy/`: 구세대 산출물
-    - `09_app/public/data/archive/`: obsolete backup/chunks
-  - 경로 보정 대상:
-    - `09_app/src/data/loaderAdapter.js`
-    - `scripts/core/*`
-    - `scripts/triage/*`
-    - `scripts/mining/*`
-  - 검증 통과 스크립트 예시:
-    - `scripts/core/build_master_pool_v1.py`
-    - `scripts/core/parse_xwd_framework.py`
-    - `scripts/triage/run_rev23_3depth_triage.py --publish-only`
-    - `scripts/mining/run_rev47_xwd_mining.py`
-- **리뷰 에이전트 안내**:
-  - current runtime canonical과 폴더 역할 혼동 방지를 위해 `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`를 먼저 읽을 것.
+- 진단만 하지 말고 skeleton 생성 결과와 다음 실행 준비안을 제시
+- 독자 결정이 어려우면 최대 3개 이내의 데이터 처리 방안을 제시
+- 각 방안에 추천안 / 장점 / 리스크를 포함
+
+## High-Quality Standard
+
+- 문제를 데이터 과업 수준으로 재정의
+- 내용 부족 / 구조 부족 / 실행 부족을 분리
+- runtime evidence와 외부 비교 근거를 가능하면 붙임
+- owner 문서와 적용 위치를 제시
+- 현재 phase와 rebuild gate를 넘지 않음
+- 남은 리스크와 미결정을 숨기지 않음
+
+## Blocking / Decision Needed
+
+- 현재는 착수 지시 없음
+- 사용자가 시작을 허용하기 전까지 실제 데이터 작업 착수하지 않음
+
+## Latest Snapshot
+
+- `V1-REV-79`는 완료 기준선으로 고정됨
+- 새 data cycle은 `V1-REV-80`
+- 현재 상태는 `DISPATCHED / NOT STARTED`
+- 상세 근거는 `20260314_REV80_skeleton_creation_assignment.md` 참고
+
+## Latest Review
+
+- baseline reference:
+  - `V1-REV-77` canonical 반영 결과, `V1-REV-78` review 결과, `V1-REV-79` proposal을 입력값으로 사용
+
+## User Approval
+
+- requested: no
+- state: `요청 전`
+- evidence: 현재는 에이전트 배정만 완료, 작업 시작 승인 전
+
+## Append-Only Report Log
+
+- `.gemini-orchestration/workboard_archive/data/20260314_REV65_rev47_runtime_snapshot.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV75_assignment_only.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV75_sync_receipt.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV75_rev74_structure_review.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV79_pilot_preparation_assignment.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV79_pilot_preparation_proposal.md`
+- `.gemini-orchestration/workboard_archive/data/20260314_REV80_skeleton_creation_assignment.md`
