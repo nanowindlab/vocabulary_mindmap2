@@ -13,13 +13,16 @@
   - ↳ 📋 [DEVELOPMENT_AGENT_WORKBOARD_V1.md](./.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md)
 
 ## 🏗️ 2. 기획 및 아키텍처 (`08_expansion/`)
+- 운영 원칙: 폴더 구조, 문서 위치, archive 정책을 바꾸면 이 섹션과 `08_expansion/PROJECT_INFRASTRUCTURE_GUIDE_V1.md`를 같은 변경 세트에서 함께 갱신한다. 문서 버전업보다 현재 canonical 문서에 즉시 반영하는 것을 우선한다.
+- 📄 **[08_expansion/README.md](./08_expansion/README.md)**: `08_expansion` 내부에서 canonical 문서와 실행 산출물 구역을 구분하는 진입 문서.
 - 📄 **[MASTER_ROADMAP_V1.md](./08_expansion/MASTER_ROADMAP_V1.md)**: 프로젝트 전체 마일스톤 및 일정.
-- 📄 **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md](./08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md)**: 상세 개발/기획 태스크리스트 (HD).
+- 📄 **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md](./08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)**: 상세 개발/기획 태스크리스트.
 - 📄 **[PROJECT_DECISION_LOG_V1.md](./08_expansion/PROJECT_DECISION_LOG_V1.md)**: 핵심 의사결정 및 용어 변경 히스토리.
 - 📄 **[IA_AND_UX_SCENARIO_SPEC_V8.md](./08_expansion/IA_AND_UX_SCENARIO_SPEC_V8.md)**: 마인드맵 단계별 렌더링 및 횡단 점프 명세.
-- 📄 **[IN_APP_TUTORIAL_SPEC_V1.md](./08_expansion/IN_APP_TUTORIAL_SPEC_V1.md)**: 인앱 인터랙티브 가이드 및 툴팁 설계 (Next).
 - 📄 **[PROJECT_INFRASTRUCTURE_GUIDE_V1.md](./08_expansion/PROJECT_INFRASTRUCTURE_GUIDE_V1.md)**: 에이전트 오너십 및 폴더 구조 가이드.
-- 📄 **[APP_DATA_REDEPLOY_SOP_V1.md](./08_expansion/APP_DATA_REDEPLOY_SOP_V1.md)**: 단어 업데이트 후 앱 runtime JSON 재배포 표준 절차.
+- 📄 **[DOCUMENT_STRUCTURE_MIGRATION_PLAN_V1.md](./08_expansion/DOCUMENT_STRUCTURE_MIGRATION_PLAN_V1.md)**: 단계형 문서 구조 정리 계획. 보호 경로, archive triage, 이동 안전 조건 정의.
+- 📄 **[MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md](./08_expansion/MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md)**: 전체 Markdown 문서 연결관계 마인드맵과 링크 무결성 검증 결과.
+- 참고: 인앱 튜토리얼 명세 문서는 현재 저장소에 별도 파일로 존재하지 않으며, 관련 TODO는 Tasklist V11의 `T1.16`에서 관리함.
 
 ## 🛠️ 3. 개발 및 인프라 로직 (`scripts/`)
 - 📂 **[scripts/core/](./scripts/core/)**: 마스터 풀 빌드 및 트리 생성 핵심 로직.
@@ -27,13 +30,23 @@
 - 📂 **[scripts/triage/](./scripts/triage/)**: AI 기반 어휘 분류 및 정제 스크립트.
 - 📂 **[scripts/legacy/](./scripts/legacy/)**: 이전 버전 호환용 및 보관용 스크립트.
 
-## 📖 4. 데이터 정책 (`08_expansion/`)
+## 🖥️ 4. 앱 런타임 및 배포 (`09_app/`)
+- 📄 **[09_app/README.md](./09_app/README.md)**: 개발 에이전트용 앱 진입 문서. build, runtime canonical, 배포 민감 자료 위치 안내.
+- 📄 **[09_app/public/data/README.md](./09_app/public/data/README.md)**: `live/internal/legacy/archive` 데이터 폴더 역할 안내.
+- 📄 **[APP_DATA_REDEPLOY_SOP_V1.md](./08_expansion/APP_DATA_REDEPLOY_SOP_V1.md)**: 데이터 변경 후 앱 runtime JSON 재배포 표준 절차.
+- 📄 **[REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md](./08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md)**: 리뷰/개발 에이전트가 runtime canonical을 혼동하지 않기 위한 기준 안내.
+
+## 📖 5. 데이터 정책 (`08_expansion/`)
+- 📄 **[STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md](./08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md)**: 현재 canonical 분류 프로토콜. 모든 재분류/앵커링 정책 변경의 최종 반영 위치.
 - 📄 **[RELATION_DATA_POLICY_V1.md](./08_expansion/RELATION_DATA_POLICY_V1.md)**: 연관 데이터(Related/Cross) 정의 및 분리 정책 (SSOT).
-- 📄 **[APP_DATA_REDEPLOY_SOP_V1.md](./08_expansion/APP_DATA_REDEPLOY_SOP_V1.md)**: 데이터 갱신 및 앱 배포 표준 절차 (SOP).
+- 참고: 앱 배포와 runtime 재생성 절차는 위 `앱 런타임 및 배포` 섹션의 `APP_DATA_REDEPLOY_SOP_V1.md`를 primary 기준으로 본다.
 - 📄 **[VOCAB_LEVEL_BAND_DEFINITION_V3.md](./08_expansion/VOCAB_LEVEL_BAND_DEFINITION_V3.md)**: TOPIK 통계 기반 Band 및 Level 산출 로직.
 - 📄 **[XWD_DISCOVERY_FRAMEWORK_V1.md](./08_expansion/XWD_DISCOVERY_FRAMEWORK_V1.md)**: 20종 맥락적 훅(Hooks) 기반 연관 단어 발굴 규칙.
-- 📄 **[RELATION_DATA_POLICY_V1.md](./08_expansion/RELATION_DATA_POLICY_V1.md)**: `related_vocab` / `refs.cross_links` 정의, 분리 기준, runtime 정책.
-- 📄 **[APP_DATA_REDEPLOY_SOP_V1.md](./08_expansion/APP_DATA_REDEPLOY_SOP_V1.md)**: 단어 업데이트 후 앱 runtime JSON 재배포 표준 절차.
 
-## 🎯 5. 최종 제품 가이드 (`10_product_guide/`)
-- 📄 **[CONCEPT_AND_USER_GUIDE_V2.md](./10_product_guide/CONCEPT_AND_USER_GUIDE_V2.md)**: 앱 배포 시 사용자에게 제공되는 통합 튜토리얼 및 철학서.
+## 🗄️ 6. 히스토리와 아카이브
+- 📄 **[08_expansion/archive/README.md](./08_expansion/archive/README.md)**: canonical document history zone 안내.
+- 📄 **[archive/README.md](./archive/README.md)**: legacy session history zone 안내. 오래된 handoff는 history-only로 취급.
+
+## 🎯 7. 최종 제품 가이드
+- 현재 `10_product_guide/` 디렉토리는 저장소에 배치되어 있지 않음.
+- 배포용 사용자 가이드와 튜토리얼 설계는 Tasklist V11의 `T1.14`, `T1.16` 기준으로 후속 작성 예정.

@@ -4,6 +4,8 @@
 > Date: `2026-03-10`
 > Owner: `Gemini Orchestrator (Manager)`
 > Mode: `RESTART - Fragmented Artifact Recovery & Rebuilding`
+>
+> Note: 이 문서는 restart 시점의 legacy orchestration hub이다. 현재 운영 SSOT는 `README.md`, `PROJECT_DOCUMENT_MAP.md`, `ORCHESTRATION_DASHBOARD.md`를 우선 기준으로 삼고, top-level `archive/NEXT_THREAD_HANDOFF_V*.md`는 history-only로 취급한다.
 
 ## 1. Project Reset Notice (CRITICAL)
 
@@ -32,20 +34,16 @@
 
 ## 3. Shared Source of Truth
 
-- `PRODUCT_DIRECTION_V1.md`
-- `01_architecture/00_indexes/SESSION_INDEX_V1.md`
-- `NEXT_THREAD_HANDOFF_V3.md` (`current next-thread handoff`)
-- `.gemini-orchestration/references/06_taxonomy review/` (IA 재설계 핵심 가이드라인)
-- `08_expansion/ROADMAP_STATUS_TASKLIST_V2.md` (`roadmap / status summary only`)
-- `08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V3.md` (`single authoritative tasklist / todo`)
-- `08_expansion/THREE_LEVEL_RESTRUCTURE_TASKLIST_V1.md`
-- `08_expansion/SCHEMA_LINKAGE_VALIDATION_PLAN_V1.md`
-- `08_expansion/THREE_LEVEL_CLASSIFICATION_TABLE_V1.md`
-- `08_expansion/THREE_LEVEL_CORE_PAYLOAD_V1.json`
-- `08_expansion/EXCEPTION_QUEUE_V1.json`
-- `08_expansion/EXPRESSION_CORE_CANDIDATES_V1.json`
-- `08_expansion/PROJECTION_APP_CONTRACT_EXPANSION_DRAFT_V1.md`
-- `08_expansion/WEB_MINDMAP_NAVIGATION_SPEC_V1.md`
+이 허브의 아래 구간은 restart 시점의 legacy 맥락을 설명하기 위한 참고 블록이다.
+현재 운영 SSOT는 아래 순서로만 읽는다.
+
+1. `README.md`
+2. `PROJECT_DOCUMENT_MAP.md`
+3. `.gemini-orchestration/ORCHESTRATION_DASHBOARD.md`
+4. `08_expansion/README.md`
+5. 필요 시 각 canonical 정책 문서 (`STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md`, `RELATION_DATA_POLICY_V1.md`, `APP_DATA_REDEPLOY_SOP_V1.md`)
+
+구버전 handoff, restart 메모, 과거 spec 목록은 top-level `archive/` 및 `08_expansion/archive/`에서 history-only로 참조한다.
 
 ## 4. Roles
 

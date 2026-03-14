@@ -46,5 +46,5 @@
 
 ## 5. 필수 확인 SSOT (The Core Hub)
 1.  **[PROJECT_DOCUMENT_MAP.md](../PROJECT_DOCUMENT_MAP.md)**: 모든 문서의 맵.
-2.  **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md)**: 모든 태스크의 역사와 현재.
+2.  **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)**: 현재 canonical tasklist. (`V10`은 historical target)
 3.  **[PROJECT_INFRASTRUCTURE_GUIDE_V1.md](../08_expansion/PROJECT_INFRASTRUCTURE_GUIDE_V1.md)**: 폴더 구조 및 에이전트 오너십 가이드.

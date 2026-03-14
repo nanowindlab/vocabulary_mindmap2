@@ -4,13 +4,14 @@
 > 
 > 🗺️ **프로젝트 안내**: [PROJECT_DOCUMENT_MAP.md (문서 지도)](../PROJECT_DOCUMENT_MAP.md) | [PROJECT_INFRASTRUCTURE_GUIDE_V1.md (인프라 가이드)](../08_expansion/PROJECT_INFRASTRUCTURE_GUIDE_V1.md)
 > 
-> 📋 **실행 지침서**: [SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md (태스크리스트)](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md)
+> 📋 **실행 지침서**: [SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md (태스크리스트)](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)
 > 
 > 🔗 **워크보드 이동**: [기획 보드](./PLANNING_AGENT_WORKBOARD_V1.md) | [데이터 보드](./DATA_VALIDATION_AGENT_WORKBOARD_V1.md) | [리뷰 보드](./REVIEW_AGENT_WORKBOARD_V1.md) | [개발 보드](./DEVELOPMENT_AGENT_WORKBOARD_V1.md)
 
 | 일시 | Agent | 지시 버전 | 지시완료 (Mgr) | 지시접수 (Agent) | 작업 완료 (Agent) | 진행 상태 (Status) | 비고 (Verdict) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-03-12 | 기획 | V1-REV-72 | ✅ (Manager) | - | - | **DISPATCHED** | [POLICY-REARCH] 분류 체계 경계 재정비 및 Cross-link 정책 전면 재기획 착수 |
+| 2026-03-12 | 리뷰 | V1-REV-73 | ✅ (Manager) | ✅ | ✅ | **DONE** | **PARTIAL_ACCEPT / CONDITIONAL_APPROVAL** (`STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md` 기준 보완 반영 필요) |
+| 2026-03-12 | 기획 | V1-REV-72 | ✅ (Manager) | ✅ | ✅ | **REPORTED** | [POLICY-REARCH] 초안 제출 완료, canonical SDCP 및 Decision Log 보완 반영 필요 |
 | 2026-03-12 | 개발 | V1-REV-70 | ✅ (Manager) | ✅ | ✅ (08:58) | **REPORTED** | [RELEASE-HARDENING] 8.1K 실전 연동, 연관망 통합 및 최종 프로덕션 빌드 완료 |
 | 2026-03-12 | 리뷰 | V1-REV-69 | ✅ (Manager) | ✅ | ✅ (GM Check) | **DONE** | **ULTIMATE_ACCEPT** (8.1K XWD 데이터 무결성 100% 검증 완료) |
 | 2026-03-12 | 데이터 | V1-REV-68 | ✅ (Manager) | - | - | **WITHDRAWN** | [XWD-FINALIZE] 미션 철회: V47 작업 과정에서 트리 재생성 및 주입 완료됨 확인 |

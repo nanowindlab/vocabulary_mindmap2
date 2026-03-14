@@ -16,8 +16,8 @@
 | :--- | :--- | :--- | :--- |
 | `MASTER_ROADMAP_V1.md` | `...TASKLIST_V5.md` | `...TASKLIST_V9.md` | **Version Fix** |
 | `MASTER_ROADMAP_V1.md` | `...SCENARIO_SPEC_V6.md` | `...SCENARIO_SPEC_V8.md` | **Version Fix** |
-| `TASKLIST_V9.md` | `Tasklist V5 HD` | `[Tasklist V9 HD](./08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V9.md)` | **Link Conversion** |
-| `TASKLIST_V9.md` | `IA V4` | `[IA V4 Spec](./08_expansion/IA_AND_UX_SCENARIO_SPEC_V8.md)` | **Link Conversion** |
+| `TASKLIST_V9.md` | `Tasklist V5 HD` | `Tasklist V9 HD (historical target, current canonical은 [Tasklist V11](../../SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md))` | **Link Conversion** |
+| `TASKLIST_V9.md` | `IA V4` | `[IA V4 Spec](../../IA_AND_UX_SCENARIO_SPEC_V8.md)` | **Link Conversion** |
 
 ---
 

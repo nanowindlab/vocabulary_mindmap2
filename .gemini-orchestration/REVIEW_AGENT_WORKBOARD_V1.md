@@ -3,7 +3,7 @@
 > Agent: `리뷰 에이전트` (Review Agent)
 > Version: `V1-RESTART-REVISION-73-AUDIT`
 > Date: `2026-03-12`
-> Status: `DONE` (ULTIMATE_ACCEPT)
+> Status: `DONE` (PARTIAL_ACCEPT / CONDITIONAL_APPROVAL)
 
 ## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
 "리뷰 에이전트님, 기획 에이전트가 제출한 [V1-REV-72] 결과물에 대해 **[비판적 정밀 검수]**를 수행하십시오. 
@@ -24,7 +24,8 @@
     1.  **[좌표성 시간 정의]**: '봄, 아침' 등 수치적/달력적 슬롯(Basics)과 '방학, 축제' 등 사건적 시간(Situations)의 구분을 위한 **'내용성 시간'** 개념 도입.
     2.  **[IS-A 테스트 주입]**: 복합어 본체 추출 시 LLM의 오판을 막기 위한 **'A를 지워도 본질이 유지되는가?'** 판별 로직 강제화.
     3.  **[앵커링 XWD 명시]**: 계절 어휘 이관에 따른 인지적 단절을 막기 위해 [상황] 축 대표 단어와의 **Hard-link(P01) 형성 의무화**.
-- **Verdict**: 기획 에이전트는 위 3대 보완책을 반영하여 **SDCP V4.1-HD**로 판올림하십시오.
+- **Verdict**: 기획 에이전트는 위 3대 보완책을 반영하여 현재 canonical 정책 문서인 `08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md`를 갱신하십시오.
+- **상태 해석**: 본 검수는 최종 승인 아님. 기획 보드의 후속 보완 제출이 완료되어야 다음 데이터 실행 단계로 이관 가능.
 
 ---
 

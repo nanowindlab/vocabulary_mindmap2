@@ -42,9 +42,9 @@
 에이전트가 현황 분석을 위해 반드시 확인해야 할 위치.
 
 - **프론트엔드 로직**: `09_app/src/App.jsx` (데이터 파싱 및 탭 분배)
-- **데이터 저장소**: `09_app/public/data/` (실제 앱 로드용 JSON)
+- **데이터 저장소**: `09_app/public/data/live/` (실제 앱 runtime canonical JSON)
 - **분류 기준 사전**: `08_expansion/IA_V4_3DEPTH_CATEGORY_DICTIONARY_V1.md`
-- **전체 작업 현황**: `08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V4.md`
+- **전체 작업 현황**: `08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md`
 
 ---
 

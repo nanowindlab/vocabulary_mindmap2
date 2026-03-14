@@ -1,16 +1,67 @@
-# React + Vite
+# 09_app Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Scope: 프론트엔드 개발, 앱 runtime 데이터 확인, 빌드/배포 전 확인용 진입 문서
 
-Currently, two official plugins are available:
+## 1. App Role
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`09_app/`는 이 프로젝트의 실제 React + Vite 프론트엔드 앱이다.
 
-## React Compiler
+- 앱 엔트리: `09_app/src/main.jsx`
+- 메인 화면 로직: `09_app/src/App.jsx`
+- runtime 데이터 로더: `09_app/src/data/loaderAdapter.js`
+- 정적 runtime 데이터: `09_app/public/data/live/`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 2. Developer First-Read
 
-## Expanding the ESLint configuration
+개발 에이전트가 작업 시작 전에 우선 확인할 문서:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. 루트 프로젝트 진입점: `README.md`
+2. 운영 상태: `.gemini-orchestration/ORCHESTRATION_DASHBOARD.md`
+3. 개발 지시문: `.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`
+4. 앱 runtime 데이터 구조: `09_app/public/data/README.md`
+5. 데이터 재배포 절차: `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`
+6. runtime canonical 판별 기준: `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`
+
+## 3. Runtime Canonical
+
+현재 앱이 실제 fetch하는 canonical 데이터는 아래 경로 기준이다.
+
+- `09_app/public/data/live/APP_READY_SITUATIONS_TREE.json`
+- `09_app/public/data/live/APP_READY_EXPRESSIONS_TREE.json`
+- `09_app/public/data/live/APP_READY_BASICS_TREE.json`
+- `09_app/public/data/live/APP_READY_SEARCH_INDEX.json`
+- `09_app/public/data/live/CHUNK_MANIFEST_V1.json`
+- `09_app/public/data/live/APP_READY_CHUNK_RICH_chunk_*.json`
+- `09_app/public/data/live/APP_READY_CHUNK_EXAMPLES_chunk_*.json`
+
+주의:
+
+- `legacy/`와 `archive/`는 비교/복구용이다.
+- 앱 배포 검증이나 UI 연동 확인 시 `live/`를 우선 기준으로 본다.
+
+## 4. Build Commands
+
+```bash
+npm install
+npm run dev
+npm run build
+npm run preview
+```
+
+작업 디렉토리:
+
+```bash
+cd 09_app
+```
+
+## 5. Deployment-Sensitive Materials
+
+아래 파일은 개발 에이전트가 찾기 쉬워야 하므로 현재 경로를 유지한다.
+
+- `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`
+- `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`
+- `.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`
+- `.gemini-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md`
+- `09_app/public/data/README.md`
+
+문서 구조를 정리하더라도 위 경로들은 바로 없애거나 이동하지 않는다.

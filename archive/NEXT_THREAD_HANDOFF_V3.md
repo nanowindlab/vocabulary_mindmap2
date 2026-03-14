@@ -23,7 +23,7 @@
 현재 handoff 규칙:
 
 - 기본 전달 문서는 항상 `working workboard` 하나다.
-- 현재 기본 handoff 대상은 [DEVELOPMENT_AGENT_WORKBOARD_V1.md](./.codex-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md)다.
+- 현재 기본 handoff 대상은 [DEVELOPMENT_AGENT_WORKBOARD_V1.md](../.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md)다. (`.codex-orchestration` legacy 경로는 현재 사용하지 않음)
 - 작업 완료 후 same workboard를 리뷰 에이전트에게 넘기고, 리뷰 에이전트는 same workboard의 `Latest Review`를 채운다.
 
 ## 1. 현재 프로젝트의 실제 초점
@@ -36,10 +36,10 @@
 
 ### 입구 / 운영
 
-- `.codex-orchestration/WORK_ORCHESTRATION_HUB_V1.md`
-- `.codex-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md`
-- `.codex-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`
-- `.codex-orchestration/REVIEW_AGENT_WORKBOARD_V1.md`
+- `.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md`
+- `.gemini-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md`
+- `.gemini-orchestration/DEVELOPMENT_AGENT_WORKBOARD_V1.md`
+- `.gemini-orchestration/REVIEW_AGENT_WORKBOARD_V1.md`
 
 ### 로드맵 / 태스크
 

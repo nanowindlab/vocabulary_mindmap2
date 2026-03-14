@@ -23,12 +23,26 @@
 
 ### 1.3. [/08_expansion/] 데이터 및 명세 관리
 데이터의 속성(Raw/Audit/Final)에 따라 논리적 저장소를 분리합니다.
+- 운영 원칙: `08_expansion/` 내부 문서 구조나 archive 정책을 수정하면 `PROJECT_DOCUMENT_MAP.md`와 이 문서를 반드시 같은 변경 세트에서 함께 갱신한다. 구조 관련 변경은 새 버전 문서를 추가하기보다 현재 canonical 문서에 즉시 반영한다.
+- 실무 진입 문서: `08_expansion/README.md`
+- 구조 검증 참고 문서: `08_expansion/MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md`
 - **`final_spec/`** (예정): 최종 승인된 IA, UX 시나리오, 프로토콜.
 - **`raw_data/`** (예정): 시스템 참조용 기초 데이터 (예: `05_source`).
-- **`archive/`**: 완료된 작업의 구버전(`V1~V(n-1)`) 명세서 및 1회성 검증 로그(Audit).
+- **`08_expansion/archive/`**: 완료된 작업의 구버전(`V1~V(n-1)`) 명세서 및 1회성 검증 로그(Audit)를 보관하는 canonical document history zone.
 
 ### 1.4. [/10_product_guide/] 배포용 제품 문서
 - 사용자와 개발자를 위한 최종 매뉴얼, 브랜딩 가이드, 튜토리얼 보관소.
+
+### 1.5. Current Practical Note
+- 현재 canonical 기획/정책 문서는 `08_expansion/` 루트에 직접 배치되어 있다.
+- 앱 배포와 runtime 검증에 필요한 민감 문서는 다음 현재 경로를 유지한다:
+  - `09_app/README.md`
+  - `09_app/public/data/README.md`
+  - `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`
+  - `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`
+- 향후 폴더 재구성 시에도 위 경로들은 대체 경로가 충분히 고지되기 전까지 바로 이동하지 않는다.
+- top-level `archive/`는 현재 canonical document archive가 아니다. 오래된 handoff와 legacy session history를 보관하는 참고 구역으로만 유지한다.
+- 현재 Markdown 링크 그래프와 입구 문서 검증 결과는 `08_expansion/MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md`를 기준으로 확인한다.
 
 ---
 
@@ -47,22 +61,31 @@
 
 ## 3. 구조 변경 및 파일 이동 이력 (Structural Changelog)
 
-기존 `08_expansion/` 루트에 혼재되어 있던 구버전 문서와 오딧 결과물들은 무결성 보증(링크 교정 완료) 후 아래와 같이 `archive/` 폴더로 영구 격리되었습니다. (실행일: 2026-03-11)
+기존 `08_expansion/` 루트에 혼재되어 있던 구버전 문서와 오딧 결과물들은 무결성 보증(링크 교정 완료) 후 아래와 같이 `08_expansion/archive/` 폴더로 영구 격리되었습니다. (실행일: 2026-03-11)
 
-### 3.1. 히스토리 명세서 (`archive/historical_docs/`)
+### 3.1. 히스토리 명세서 (`08_expansion/archive/historical_docs/`)
 최신 버전의 SSOT 문서를 제외한 모든 이전 기획안이 이동되었습니다.
 - `IA_AND_UX_SCENARIO_SPEC_V1~V7.md` (최신 V8 유지)
-- `SOURCE_RICH_IMPLEMENTATION_TASKLIST_V3~V4.md` (최신 V9 유지)
+- `SOURCE_RICH_IMPLEMENTATION_TASKLIST_V3~V4.md` (초기 구버전 아카이빙 완료, 현재 canonical은 V11)
 - `VOCAB_LEVEL_BAND_DEFINITION_V1~V2.md` (최신 V3 유지)
 - `STRICT_DATA_CLASSIFICATION_PROTOCOL_V1.md` (최신 V2 유지)
 
-### 3.2. 일시적 감사 로그 (`archive/audit_logs/`)
+### 3.2. 일시적 감사 로그 (`08_expansion/archive/audit_logs/`)
 특정 시점의 데이터 검증을 위해 생성된 후 효력이 다한 보고서들입니다.
 - `REVIEW_MEMO_*.md` (과거 리뷰어 메모 전수)
 - `PAYLOAD_136_*` (초기 136개 샘플 감사 로그)
 - `ABSTRACT_ROOT_BOUNDARY_PRIORITY_AUDIT_V1.md`
 - `FULL_INVENTORY_AUDIT_COMPLETION_V1.md`
 - `DATA_QC_PROTOCOL_V1.md` 및 `DATA_REFINEMENT_REPORT_V1.md`
+
+### 3.3. Legacy Session History (`archive/`)
+top-level `archive/`는 별도 역할을 가진다.
+
+- `NEXT_THREAD_HANDOFF_V*.md`
+- `restart_QA.md`
+- `_v2` 시기 구세대 폴더 스냅샷
+
+이 영역은 현재 운영 handoff나 canonical 문서 보관소가 아니라, 과거 세션 흐름을 복기하기 위한 history-only 참고 구역이다.
 
 ---
 *참조 무결성 원칙*: 본 문서의 내용이 변경될 경우 반드시 루트 `README.md`에 반영되어야 하며, 문서 간 링크(Markdown Link)는 항상 최신 `V` 번호를 가리키도록 상시 교정되어야 합니다.

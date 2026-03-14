@@ -42,7 +42,7 @@
 
 ## 4. 필수 확인 원본 문서 (The Big 3 SSOT)
 Handoff 요약본보다 우선시되는 프로젝트의 근간입니다. 반드시 원문을 확인하십시오.
-1.  **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V5.md](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V5.md)**: "무엇을 해야 하는가?"에 대한 유일한 기준. 모든 태스크의 상세 체크리스트와 참조 링크가 포함됨.
+1.  **[SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)**: 현재 canonical tasklist. (`V5`는 historical target)
 2.  **[OPERATING_GUIDE_V1.md](../.gemini-orchestration/OPERATING_GUIDE_V1.md)**: "어떻게 운영하는가?"에 대한 프로젝트 헌법. 에이전트 간 권한 침해 방지 지침 포함.
 3.  **[PROJECT_DECISION_LOG_V1.md](../08_expansion/PROJECT_DECISION_LOG_V1.md)**: "왜 바뀌었는가?"에 대한 히스토리. 용어 및 아키텍처 결정 사항의 SSOT.
 

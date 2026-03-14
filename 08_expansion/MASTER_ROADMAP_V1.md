@@ -6,7 +6,7 @@
 > Date: `2026-03-11`
 > Owner: `Gemini Orchestrator (Manager)`
 > Status: `ACTIVE - Phase 3 In-Progress`
-> Base: `IA V4` / [Tasklist V10 HD](./SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md)
+> Base: `IA V4` / [Tasklist V11](./SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)
 
 ## 1. 프로젝트 정의 및 비전
 본 프로젝트는 8,545건의 방대한 한국어 어휘 데이터를 **3대 핵심 체계(상황/마음/구조)**로 구조화하고, 이를 **3 Depth 마인드맵** 및 **플래시카드** 환경으로 시각화하여 학습자에게 직관적인 어휘 확장 경험을 제공하는 것을 목표로 한다.
@@ -54,6 +54,6 @@
 ---
 
 ## 4. 참조 문서 (SSOT)
-- **최종 태스크리스트**: [`08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md`](./SOURCE_RICH_IMPLEMENTATION_TASKLIST_V10.md)
+- **최종 태스크리스트**: [`08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md`](./SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)
 - **결정 로그**: `08_expansion/PROJECT_DECISION_LOG_V1.md`
 - **UX 명세서**: `08_expansion/IA_AND_UX_SCENARIO_SPEC_V8.md`

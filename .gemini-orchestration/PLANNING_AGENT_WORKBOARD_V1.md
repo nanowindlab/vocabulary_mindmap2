@@ -3,7 +3,7 @@
 > Agent: `기획 에이전트` (Planning Agent)
 > Version: `V1-RESTART-REVISION-72`
 > Date: `2026-03-12`
-> Status: `작업지시완료` (Manager: Dispatched)
+> Status: `REPORTED` (Draft Submitted, Review Revision Required)
 
 ## 💬 매니저 전달용 채팅 지시문 (Manager's Command)
 "기획 에이전트님, 현재의 cross-link 운영 결과를 바탕으로 **[분류 체계 및 관계 정책 전면 재검토]** 미션을 하달합니다. 
@@ -24,11 +24,22 @@
 
 ## 🚀 Latest Report (V1-REV-72)
 - **미션명**: 분류 체계 경계 재정비 및 횡단 관계 정책 고도화 설계
-- **진행 상태**: **DISPATCHED** (작업 착수 대기)
+- **진행 상태**: **REPORTED** (초안 제출 완료, REV-73 검수 결과 반영 필요)
 - **핵심 과제**:
     1.  **IA V4 경계 감사**: '상황' vs '구조' 축 불일치 항목 식별 및 재분류 정책 수립.
     2.  **XWD 횡단 정책**: 의미 있는 관계망(State->Place, Emotion->Place 등) 패턴화.
     3.  **정책 가이드라인 구축**: 데이터 에이전트가 즉시 정제에 착수할 수 있는 수준의 명세화.
+- **리뷰 반영 필수 사항 (REV-73)**:
+    1.  **좌표성 시간 정의 보강**: 달력/수치 슬롯과 사건적 시간을 분리하는 `'내용성 시간'` 기준 명문화.
+    2.  **판별 로직 하드닝**: 분류 프롬프트에 `'제거 테스트'`와 `'IS-A 테스트'`를 명시적으로 주입.
+    3.  **앵커링 의무화**: `Basics`로 이동한 시간/계절 어휘에 대해 `Situations` 측 Hard-link(P01) 정책 명시.
+- **다음 산출물 기준**:
+    - **주 산출물(SSOT)**: `08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md`에 보완 내용을 직접 반영할 것
+    - **보조 산출물(선택)**: 검토 메모나 비교표가 필요하면 별도 메모를 둘 수 있으나, 정책 본문은 SSOT 파일에 최종 반영할 것
+    - 데이터 에이전트가 즉시 실행 가능한 재분류/앵커링 규칙 포함
+    - `08_expansion/PROJECT_DECISION_LOG_V1.md`에 정책 변경 핵심을 1줄 이상 기록할 것
+    - review verdict 문구와 상충하지 않도록 SSOT 문서 링크 동기화
+    - 새 버전명을 별도 파일명으로 증식하지 말고, 현재 canonical 프로토콜을 갱신하는 방식으로 제출할 것
 
 ---
 
