@@ -1152,9 +1152,7 @@
     "id": "저녁_일반명사-1",
     "def_ko": "해가 지고 난 뒤부터 잠자리에 들 때까지의 시간",
     "related_vocab": [
-      "대낮",
-      "새벽",
-      "아침저녁"
+      "아침"
     ],
     "is_center_profile": false,
     "refs": {
@@ -1165,14 +1163,6 @@
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시간 단위",
-          "hook_id": "H04"
-        },
-        {
-          "target_id": "서쪽_일반명사-1",
-          "target_term": "서쪽",
-          "target_system": "상황과 장소",
-          "target_root": "교통",
-          "target_category": "길 찾기와 방향 탐색",
           "hook_id": "H04"
         }
       ]
@@ -2799,11 +2789,7 @@
     "id": "주말_일반명사-1",
     "def_ko": "한 주의 끝부분인 토요일과 일요일",
     "related_vocab": [
-      "금요일",
-      "수요일",
-      "평상시",
-      "평소",
-      "평일"
+      "금요일"
     ],
     "is_center_profile": false,
     "refs": {

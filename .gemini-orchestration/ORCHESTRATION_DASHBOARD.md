@@ -12,7 +12,17 @@
 
 | 일시 | Agent | 지시 버전 | 지시완료 (Mgr) | 사용자 승인 | 지시접수 (Agent) | 작업 완료 (Agent) | 진행 상태 (Status) | 비고 (Verdict) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 03-14, 22:55:45 | 데이터 | V1-REV-80 | ✅ (Manager) | `요청 전` | - | - | **DISPATCHED** | [SKELETON-CREATION] RELATION_GRAPH_CANONICAL_V1 empty skeleton 실제 생성. publish/rebuild/live overwrite 금지. 미착수 |
+| 03-15, 01:05:34 | 데이터 | V1-REV-87 | ✅ (Manager) | `승인됨` | ✅ (01:13) | ✅ (01:13) | **REPORTED** | [CHUNK-REBUILD-GATE] pilot chunk rebuild gate 완료. pilot 16 ids search/tree/chunk 정합성 확인, holdout 4 chunk exclusion 유지, 다음 단계는 coverage expansion build |
+| 03-15, 01:05:34 | 데이터 | V1-REV-86 | ✅ (Manager) | `승인됨` | ✅ (01:13 note) | ✅ (01:13 note) | **REPORTED** | [PILOT-RUNTIME-PROJECTION] pilot runtime projection 완료. publish-only 성공, holdout exclusion/anchor bucket 검증 완료, 후속 chunk rebuild gate로 연결 |
+| 03-15, 00:43:33 | 데이터 | V1-REV-85 | ✅ (Manager) | `승인됨` | ✅ (00:47) | ✅ (00:47) | **REPORTED** | [PROJECTION-GATE-PACKAGE] projection-ready package 보고 제출 확인. dry_run_reserve 16 edge 전부 커버, holdout 4 exclusion proof 확보, publish/rebuild/live overwrite 미실행 |
+| 03-15, 00:24:29 | 리뷰 | V1-REV-84 | ✅ (Manager) | `승인됨` | ✅ (00:36) | ✅ (00:36) | **REPORTED** | [CORE12-EDGE-ACCEPTANCE] package-level acceptance review 보고 제출. Verdict `ACCEPT`, 다음은 publish 직행이 아니라 projection gate package 권고 |
+| 03-15, 00:07:07 | 데이터 | V1-REV-83 | ✅ (Manager) | `승인됨` | ✅ (00:18) | ✅ (00:18) | **REPORTED** | [CORE12-EDGE-EXECUTION] internal-only edge package 보고 제출 확인. core 12 edge 16건, holdout 4 edge 0 유지, dedup/reciprocal/target_id 검증 보고 완료 |
+| 03-14, 23:52:42 | 기획 | V1-PRE-REV-83-PLAN | ✅ (Manager) | `승인됨` | ✅ (00:04) | ✅ (00:04) | **REPORTED** | [PRE-REV83-SURVEY] bounded survey memo 제출 완료. method/order/validation blind spot만 보고, 새 정의/회귀 없음 |
+| 03-14, 23:52:42 | 리뷰 | V1-PRE-REV-83-REVIEW | ✅ (Manager) | `승인됨` | ✅ (00:01) | ✅ (00:01) | **REPORTED** | [PRE-REV83-SURVEY] bounded survey report 제출 완료. acceptance/failure mode/validation blind spot 보고, 새 정의/재심 없음 |
+| 03-14, 23:52:42 | 개발 | V1-PRE-REV-83-DEV | ✅ (Manager) | `승인됨` | ✅ (00:00 note) | ✅ (00:00 note) | **REPORTED** | [PRE-REV83-SURVEY] 개발 관점 memo 수용. report path는 review archive에 기록됐지만 runtime/projection handoff risk 입력으로 반영 완료 |
+| 03-14, 23:24:31 | 데이터 | V1-REV-82 | ✅ (Manager) | `요청 전` | ✅ (23:19 report) | ✅ (23:19 report) | **REPORTED** | [HOLDOUT-DISAMBIGUATION] holdout ambiguity rule 보고 제출 확인. 내용상 `node seeded / edge held` 유지 권고. 전임 PM 프로토콜 불일치는 로그 기준으로 복구 |
+| 03-14, 23:01:01 | 데이터 | V1-REV-81 | ✅ (Manager) | `승인됨` | ✅ (23:12) | ✅ (23:12) | **DONE** | [PILOT-POPULATION] pilot batch population 승인 완료. 다음 단계는 holdout disambiguation rule 정리 |
+| 03-14, 22:55:45 | 데이터 | V1-REV-80 | ✅ (Manager) | `승인됨` | ✅ (23:04) | ✅ (23:04) | **DONE** | [SKELETON-CREATION] RELATION_GRAPH_CANONICAL_V1 empty skeleton 생성 완료. 승인 및 pilot population 단계 개시 |
 | 03-14, 22:45:06 | 데이터 | V1-REV-79 | ✅ (Manager) | `승인됨` | ✅ (22:58) | ✅ (22:58) | **DONE** | [PILOT-PREPARATION] skeleton/pilot/dry-run proposal 승인 완료. 다음 단계는 skeleton 생성 revision 결정 |
 | 03-14, 22:16:22 | 리뷰 | V1-REV-78 | ✅ (Manager) | `요청 전` | ✅ (22:16) | ✅ (22:34) | **REPORTED** | [CANONICAL-APPLY-REVIEW] canonical apply conformity review 완료. Verdict `ACCEPT`, Main PM 검토/사용자 승인 대기 |
 | 03-14, 21:44:07 | 기획 | V1-REV-77 | ✅ (Manager) | `승인됨` | ✅ (21:51) | ✅ (21:51) | **DONE** | [IMPLEMENTATION-PLANNING] implementation architecture proposal 승인 및 canonical 문서 반영 완료 |

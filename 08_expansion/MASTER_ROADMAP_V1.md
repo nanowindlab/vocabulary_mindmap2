@@ -29,6 +29,8 @@
 - **학습자 사전 활용 실태 보강**: 한국어 교육, 학습자용 한국어/영어 사전, 연관 탐색 활용 실태를 웹 리서치로 보강하여 내부 relation model과 비교한다.
 - **planning cross-check loop**: planning proposal을 data/review가 교차 검토하고, 그 결과를 반영한 implementation architecture planning으로 재빌드 기준을 잠근다.
 - **implementation architecture planning**: relation semantics를 rich internal canonical과 thin runtime projection으로 분리하고, pilot-first 전략과 rebuild trigger를 phase gate 수준에서 확정한다.
+- **pilot relation cycle validation 완료**: `core 12 + holdout 4` pilot에 대해 internal build, acceptance review, runtime projection, chunk rebuild gate를 통과시켜 thin runtime projection chain이 실제로 동작함을 검증했다.
+- **다음 중점 과제**: relation model 자체의 성립 여부가 아니라, 더 많은 단어에 같은 구조를 확장하는 `coverage expansion build` package 설계와 실행이 현재 최대 난제다.
 - **재분류 및 앵커링 실행**: 8.5K 데이터에 대해 3 Depth 재분류, 좌표성 시간 이관, anchor 기반 횡단 연결 주입을 실행한다.
 - **학습용 콘텐츠 내실화**: 예문, 연관망, 구조적 연결을 통해 단순 단어 나열이 아니라 탐색 가능한 학습 콘텐츠를 완성한다.
 - **runtime handoff 준비**: review acceptance와 다음 UI 단계 진입이 가능하도록 배포용 기준과 검수 포인트를 정렬한다.

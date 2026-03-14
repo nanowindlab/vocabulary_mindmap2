@@ -2,43 +2,40 @@
 
 > Agent: `기획 에이전트` (Planning Agent)
 > Required Skills: `doc-state-manager`, `korean-lexical-data-curation`
-> Version: `V1-RESTART-REVISION-77`
+> Version: `V1-PRE-REV-83-PLAN`
 > Date: `2026-03-14`
-> Status: `DONE` (Implementation Architecture Approved and Applied)
+> Status: `REPORTED` (Bounded Survey Memo Submitted)
 > Read First: `README.md` → `PROJECT_DOCUMENT_MAP.md` → `ORCHESTRATION_DASHBOARD.md` → `08_expansion/README.md`
-> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_proposal.md`
-> User Approval Gate: `승인됨` (canonical 문서 반영 승인 완료)
+> Latest Detailed Report Path: `.gemini-orchestration/workboard_archive/planning/20260315_PRE_REV83_execution_method_survey_report.md`
+> User Approval Gate: `승인됨` (bounded pre-REV-83 survey 진행 승인, scope redefinition 금지)
 > Control Rule: 에이전트는 append-only 로그에만 보고하고, header/status/current task는 Codex/사용자만 변경한다.
 > Role Definition: 정책/시나리오/owner map/acceptance input 설계 담당. PM이 아니므로 우선순위, 승인, 상태 확정은 하지 않는다.
 > Strong Recommendation: High-Quality Work Standard 6개 기준을 강하게 따를 것.
 
 ## Current Task
 
-- `V1-REV-74` proposal, `V1-REV-75` 구조 리뷰, `V1-REV-76` 비판 리뷰, Codex canonical delta draft를 모두 흡수
-- relation model을 실제로 **어떻게 구현할지** implementation architecture를 기획
-- rich internal canonical / thin runtime projection / rebuild trigger matrix / pilot-first 전략을 문서 owner 기준으로 정리
-- proposal-only implementation architecture 보고를 제출했고, canonical 반영 전 검토 단계에 있음
+- `REV-82` 결론을 고정 입력으로 두고 다음 `REV-83` data work package 직전의 bounded survey를 수행
+- 목표/마일스톤은 공유하되, 기획 역할에서 실행 방법상의 blind spot만 점검
+- owner 문서 경계, scope creep, gate/milestone alignment 관점에서만 우려사항/대안/추천안 제시
+- 새 정의, 새 개념, 과거 planning 논의 회귀는 금지
 
 ## Expected Outputs
 
-- implementation architecture memo
-- owner 문서별 patch 방향
-- rich internal canonical 저장 위치 정의
-- thin runtime projection rule
-- rebuild trigger matrix
-- pilot-first 실행 전략
-- 다음 data/review/dev cycle handoff input
+- bounded survey memo
+- 기획 관점 우려사항 최대 3개
+- 각 우려사항별 대안과 추천안
+- `REV-83` dispatch 전에 확인할 method / order / owner check
 
 ## Validation Rule
 
-- `V1-REV-75`와 `V1-REV-76`의 지적사항을 문서 owner 기준으로 흡수해야 함
-- proposal은 여전히 canonical 직접 반영 전 단계이며, apply order를 명시해야 함
-- relation semantics와 runtime-safe projection을 동시에 닫아야 함
-- phase 3 gate를 넘지 않고 `policy closure -> data rebuild -> review -> limited dev` 순서를 유지해야 함
+- `REV-82` 결론(`node seeded / edge held`)은 고정 입력으로 취급해야 함
+- 새 정의, 새 개념, 새 relation type 제안 금지
+- 과거 planning 논의를 다시 열어 범위를 넓히지 말 것
+- `REV-83`은 아직 열지 않았으므로 dispatch-ready survey memo 수준까지만 제출
 
 ## Solution Expectation
 
-- 진단만 하지 말고 구현 구조안, owner 문서별 patch 방향, 적용 순서를 기본적으로 제시
+- 진단만 하지 말고 우려사항별 대안과 추천안을 기본적으로 제시
 - 독자 결정이 어려우면 최대 3개 이내의 planning 방안을 제시
 - 각 방안에 추천안 / 장점 / 리스크를 포함
 
@@ -53,28 +50,28 @@
 
 ## Blocking / Decision Needed
 
-- 현재 blocker 없음
-- 다음 planning cycle이 열리기 전까지 본 revision은 완료 기준선으로 유지
+- survey는 `REV-83` 직전의 bounded input으로만 사용됨
+- 새 정의, 새 개념, 과거 논의 회귀 없이 method / order / validation blind spot만 제출 완료
 
 ## Latest Snapshot
 
-- `V1-REV-74`, `V1-REV-75`, `V1-REV-76`이 모두 기준 입력으로 고정됨
-- 새 planning 사이클은 `V1-REV-77`
-- rich internal canonical / thin runtime projection / rebuild trigger matrix / pilot-first 전략 proposal 제출 완료
-- `RELATION_DATA_POLICY`, `APP_DATA_REDEPLOY_SOP`, `09_app/public/data/README`, `Tasklist`, `Roadmap`에 canonical 반영 완료
-- 현재 상태는 `DONE / APPLIED TO CANONICAL DOCS`
-- 상세 근거는 `20260314_REV77_implementation_architecture_proposal.md` 참고
+- `REV-82` 결과는 Main PM 검토까지 완료된 기준 입력임
+- 이번 cycle은 `V1-PRE-REV-83-PLAN`
+- `REV-83`은 아직 unopened 상태이며, 본 survey는 dispatch 전 blind spot check 목적
+- 최대 3개 항목의 우려사항 / 대안 / 추천안 형식으로 bounded survey memo 제출 완료
+- 현재 상태는 `REPORTED / BOUNDED SURVEY SUBMITTED`
+- 상세 근거는 `20260315_PRE_REV83_execution_method_survey_report.md` 참고
 
 ## Latest Review
 
 - baseline reference:
-  - `V1-REV-75`와 `V1-REV-76` 결과를 반드시 흡수할 것
+  - `V1-REV-77` canonical architecture 결과와 `V1-REV-82` holdout rule 결과를 함께 유지할 것
 
 ## User Approval
 
 - requested: yes
 - state: `승인됨`
-- evidence: 사용자 승인 후 canonical 문서 반영 완료
+- evidence: 사용자가 bounded pre-REV-83 survey 진행 승인
 
 ## Append-Only Report Log
 
@@ -84,3 +81,5 @@
 - `.gemini-orchestration/workboard_archive/planning/20260314_REV74_canonical_delta_draft_by_codex.md`
 - `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_assignment.md`
 - `.gemini-orchestration/workboard_archive/planning/20260314_REV77_implementation_architecture_proposal.md`
+- `.gemini-orchestration/workboard_archive/planning/20260314_PRE_REV83_execution_method_survey_assignment.md`
+- `.gemini-orchestration/workboard_archive/planning/20260315_PRE_REV83_execution_method_survey_report.md`

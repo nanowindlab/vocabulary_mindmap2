@@ -3302,22 +3302,10 @@
   "밤_일반명사-1": {
     "id": "밤_일반명사-1",
     "def_ko": "해가 지고 어두워진 때부터 새벽까지의 시간",
-    "related_vocab": [
-      "낮",
-      "밤낮",
-      "하룻밤"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
-        {
-          "target_id": "새벽_일반명사-1",
-          "target_term": "새벽",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시점",
-          "hook_id": "H04"
-        },
         {
           "target_id": "저녁_일반명사-1",
           "target_term": "저녁",
@@ -4350,19 +4338,18 @@
     "id": "봄_일반명사-1",
     "def_ko": "겨울 다음에 오는 따뜻해지기 시작하는 계절",
     "related_vocab": [
-      "계절",
-      "늦봄"
+      "여름"
     ],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
         {
-          "target_id": "가을_일반명사-1",
-          "target_term": "가을",
+          "target_id": "겨울_일반명사-1",
+          "target_term": "겨울",
           "target_system": "상황과 장소",
           "target_root": "날씨와 자연",
           "target_category": "계절과 기온",
-          "hook_id": "H04"
+          "hook_id": "DRAFT-REL"
         }
       ]
     },

@@ -18,9 +18,13 @@
 > 참고: 각 에이전트는 자기 역할 안에서만 능동적이어야 하며, PM 역할은 Codex만 수행합니다.
 
 1. **[오케스트레이션 대시보드 (Dashboard)](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 현재 진행 중인 미션과 에이전트별 워크보드 링크.
-2. **[오케스트레이션 허브 (Hub)](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 SSOT 읽기 순서와 active canonical 문서 요약.
-3. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
-4. **[워크보드 템플릿 및 로그 규칙](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 사용자 승인 게이트와 append-only 보고 방식의 기준 문서.
+2. **[Main PM 역할 정의](./.gemini-orchestration/MAIN_PM_ROLE_DEFINITION_V1.md)**: Main PM의 권한, 책임, 필수 스킬, control field 소유권 정의.
+3. **[오케스트레이션 허브 (Hub)](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 SSOT 읽기 순서와 active canonical 문서 요약.
+4. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
+5. **[워크보드 템플릿 및 로그 규칙](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 사용자 승인 게이트와 append-only 보고 방식의 기준 문서.
+6. **[다음 Main PM handoff](./.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md)**: 현재 상태(`REV-87` chunk rebuild gate까지) 기준 handoff 문서.
+
+> 현재 상태 메모: `core 12 + holdout 4` pilot은 internal build, runtime projection, chunk rebuild gate까지 검증 완료되었습니다. 다음 큰 단계는 `coverage expansion build`입니다.
 
 > 기본 프로토콜: 사용자는 대시보드 한 문서만 보고 현재 상태를 모니터링하고 지시합니다. 에이전트는 대시보드에서 자기 workboard로 내려가 상세 지시를 읽습니다.
 > 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 운영 가이드와 허브 문서를 기준으로 합니다.
@@ -56,4 +60,4 @@
 *   **[Markdown 문서 연결 마인드맵](./08_expansion/MARKDOWN_DOCUMENT_RELATION_MINDMAP_V1.md)**: 전체 `*.md` 연결관계와 구조 변경 후 링크 무결성 검증 결과.
 
 ---
-*Last Updated: 2026-03-14 by Codex*
+*Last Updated: 2026-03-15 by Codex*

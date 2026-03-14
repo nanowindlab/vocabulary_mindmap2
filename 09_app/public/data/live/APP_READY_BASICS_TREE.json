@@ -7688,20 +7688,17 @@
     },
     "chunk_id": "chunk_017",
     "related_vocab": [
-      "달력",
-      "수요일",
-      "요일",
       "주말"
     ],
     "refs": {
       "cross_links": [
         {
-          "target_id": "토요일_일반명사-1",
-          "target_term": "토요일",
+          "target_id": "월요일_일반명사-1",
+          "target_term": "월요일",
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시점",
-          "hook_id": "H04"
+          "hook_id": "DRAFT-REL"
         }
       ]
     },
@@ -11172,11 +11169,7 @@
     },
     "chunk_id": "chunk_017",
     "related_vocab": [
-      "내년",
-      "내달",
-      "다음",
-      "다음날",
-      "모레"
+      "오늘"
     ],
     "refs": {
       "cross_links": []
@@ -24861,21 +24854,9 @@
       "level": "Unrated"
     },
     "chunk_id": "chunk_018",
-    "related_vocab": [
-      "낮",
-      "밤낮",
-      "하룻밤"
-    ],
+    "related_vocab": [],
     "refs": {
       "cross_links": [
-        {
-          "target_id": "새벽_일반명사-1",
-          "target_term": "새벽",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시점",
-          "hook_id": "H04"
-        },
         {
           "target_id": "저녁_일반명사-1",
           "target_term": "저녁",
@@ -27450,18 +27431,17 @@
     },
     "chunk_id": "chunk_018",
     "related_vocab": [
-      "계절",
-      "늦봄"
+      "여름"
     ],
     "refs": {
       "cross_links": [
         {
-          "target_id": "가을_일반명사-1",
-          "target_term": "가을",
+          "target_id": "겨울_일반명사-1",
+          "target_term": "겨울",
           "target_system": "상황과 장소",
           "target_root": "날씨와 자연",
           "target_category": "계절과 기온",
-          "hook_id": "H04"
+          "hook_id": "DRAFT-REL"
         }
       ]
     },
@@ -37746,29 +37726,10 @@
     },
     "chunk_id": "chunk_019",
     "related_vocab": [
-      "대낮",
-      "새벽",
-      "오전"
+      "저녁"
     ],
     "refs": {
-      "cross_links": [
-        {
-          "target_id": "낮_일반명사-1",
-          "target_term": "낮",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시간 단위",
-          "hook_id": "H04"
-        },
-        {
-          "target_id": "동쪽_일반명사-1",
-          "target_term": "동쪽",
-          "target_system": "상황과 장소",
-          "target_root": "교통",
-          "target_category": "길 찾기와 방향 탐색",
-          "hook_id": "H04"
-        }
-      ]
+      "cross_links": []
     },
     "is_center_profile": false
   },
@@ -39949,10 +39910,7 @@
     },
     "chunk_id": "chunk_019",
     "related_vocab": [
-      "그저께",
-      "그제",
-      "어저께",
-      "어제"
+      "오늘"
     ],
     "refs": {
       "cross_links": []
@@ -39986,11 +39944,7 @@
       "level": "Unrated"
     },
     "chunk_id": "chunk_019",
-    "related_vocab": [
-      "전날",
-      "어저께",
-      "어제"
-    ],
+    "related_vocab": [],
     "refs": {
       "cross_links": []
     },
@@ -41103,9 +41057,7 @@
     },
     "chunk_id": "chunk_019",
     "related_vocab": [
-      "늦봄",
-      "늦여름",
-      "팔월"
+      "봄"
     ],
     "refs": {
       "cross_links": []
@@ -42854,11 +42806,8 @@
     },
     "chunk_id": "chunk_019",
     "related_vocab": [
-      "오늘날",
-      "올해",
-      "이번",
-      "지금",
-      "현재"
+      "내일",
+      "어제"
     ],
     "refs": {
       "cross_links": []
@@ -42892,11 +42841,7 @@
       "level": "Unrated"
     },
     "chunk_id": "chunk_019",
-    "related_vocab": [
-      "당일",
-      "올해",
-      "지금"
-    ],
+    "related_vocab": [],
     "refs": {
       "cross_links": []
     },
@@ -45461,11 +45406,18 @@
       "level": "Beginner"
     },
     "chunk_id": "chunk_019",
-    "related_vocab": [
-      "토요일"
-    ],
+    "related_vocab": [],
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "금요일_일반명사-1",
+          "target_term": "금요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "is_center_profile": false
   },
@@ -50569,9 +50521,7 @@
     },
     "chunk_id": "chunk_020",
     "related_vocab": [
-      "대낮",
-      "새벽",
-      "아침저녁"
+      "아침"
     ],
     "refs": {
       "cross_links": [
@@ -50581,14 +50531,6 @@
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시간 단위",
-          "hook_id": "H04"
-        },
-        {
-          "target_id": "서쪽_일반명사-1",
-          "target_term": "서쪽",
-          "target_system": "상황과 장소",
-          "target_root": "교통",
-          "target_category": "길 찾기와 방향 탐색",
           "hook_id": "H04"
         }
       ]
@@ -54815,11 +54757,7 @@
     },
     "chunk_id": "chunk_020",
     "related_vocab": [
-      "금요일",
-      "수요일",
-      "평상시",
-      "평소",
-      "평일"
+      "금요일"
     ],
     "refs": {
       "cross_links": []

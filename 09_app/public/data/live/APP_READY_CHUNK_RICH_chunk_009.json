@@ -2850,11 +2850,7 @@
   "저녁_일반명사-2": {
     "id": "저녁_일반명사-2",
     "def_ko": "하루 중 저녁때 먹는 밥",
-    "related_vocab": [
-      "아침밥",
-      "점심",
-      "점심시간"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3851,11 +3847,7 @@
   "점심_일반명사-1": {
     "id": "점심_일반명사-1",
     "def_ko": "낮에 먹는 식사",
-    "related_vocab": [
-      "아침밥",
-      "저녁",
-      "점심시간"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

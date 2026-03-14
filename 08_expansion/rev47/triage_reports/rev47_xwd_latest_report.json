@@ -4,8 +4,8 @@
   "provider": "gemini",
   "fallback_provider": "openai",
   "model": "gemini-2.5-flash",
-  "linked_terms": 7675,
-  "link_edges": 28308,
+  "linked_terms": 12,
+  "link_edges": 16,
   "batch_reports": [
     {
       "batch_index": 1,
@@ -2844,9 +2844,12 @@
     }
   ],
   "publish_summary": {
-    "linked_terms": 7675,
-    "related_terms": 7631,
-    "cross_system_terms": 805,
-    "avg_links_per_linked_term": 3.69
+    "mode": "internal_canonical_overlay",
+    "graph_status": "core12_edge_package_draft",
+    "graph_edge_count": 16,
+    "overlay_terms": 16,
+    "related_terms": 9,
+    "cross_system_terms": 6,
+    "avg_links_per_overlay_term": 1.0
   }
 }

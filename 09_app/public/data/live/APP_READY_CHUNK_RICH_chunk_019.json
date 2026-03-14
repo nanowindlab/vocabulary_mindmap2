@@ -1991,30 +1991,11 @@
     "id": "아침_일반명사-1",
     "def_ko": "해가 뜨고 난 뒤부터 오전 동안의 시간",
     "related_vocab": [
-      "대낮",
-      "새벽",
-      "오전"
+      "저녁"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": [
-        {
-          "target_id": "낮_일반명사-1",
-          "target_term": "낮",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시간 단위",
-          "hook_id": "H04"
-        },
-        {
-          "target_id": "동쪽_일반명사-1",
-          "target_term": "동쪽",
-          "target_system": "상황과 장소",
-          "target_root": "교통",
-          "target_category": "길 찾기와 방향 탐색",
-          "hook_id": "H04"
-        }
-      ]
+      "cross_links": []
     },
     "phonetic_romanization": "achim"
   },
@@ -2860,10 +2841,7 @@
     "id": "어제_일반명사-1",
     "def_ko": "오늘의 하루 전날",
     "related_vocab": [
-      "그저께",
-      "그제",
-      "어저께",
-      "어제"
+      "오늘"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2874,11 +2852,7 @@
   "어제_일반부사-1": {
     "id": "어제_일반부사-1",
     "def_ko": "오늘의 바로 전날",
-    "related_vocab": [
-      "전날",
-      "어저께",
-      "어제"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3301,9 +3275,7 @@
     "id": "여름_일반명사-1",
     "def_ko": "사계절 가운데 가장 더운 계절",
     "related_vocab": [
-      "늦봄",
-      "늦여름",
-      "팔월"
+      "봄"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3971,11 +3943,8 @@
     "id": "오늘_일반명사-1",
     "def_ko": "지금 지나가고 있는 이날",
     "related_vocab": [
-      "오늘날",
-      "올해",
-      "이번",
-      "지금",
-      "현재"
+      "내일",
+      "어제"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3986,11 +3955,7 @@
   "오늘_일반부사-1": {
     "id": "오늘_일반부사-1",
     "def_ko": "바로 지금 지나가고 있는 날",
-    "related_vocab": [
-      "당일",
-      "올해",
-      "지금"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5014,12 +4979,19 @@
   "월요일_일반명사-1": {
     "id": "월요일_일반명사-1",
     "def_ko": "한 주의 둘째 날로 월요일이라 부르는 날",
-    "related_vocab": [
-      "토요일"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "금요일_일반명사-1",
+          "target_term": "금요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "woryoil"
   },

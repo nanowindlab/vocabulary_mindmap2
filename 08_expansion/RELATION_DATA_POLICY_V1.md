@@ -192,7 +192,7 @@ display intent precedence:
   - live 트리 기준 relation 값을 우선 사용
   - legacy relation 재유입 방지
 
-## 10. 2026-03-12 기준 검증 결과
+## 10. 2026-03-15 기준 검증 결과
 
 - `related_vocab` 타깃 누락 `0`
 - `related_vocab` 타분류 오염 `0`
@@ -200,13 +200,20 @@ display intent precedence:
 - `cross_links` 타깃 누락 `0`
 - `chunk_id` 존재 `8092 / 8092`
 - live chunk 내 legacy `target_center_id` 잔존 `0`
+- `core12 + holdout4` pilot relation이 runtime projection과 chunk rebuild gate까지 검증됨
+- holdout 4는 live search / split / chunk 모두 `related_vocab = 0`, `cross_links = 0`
 
 현재 live count:
 
-- `APP_READY_SITUATIONS_TREE.json`: `related 4289 / xlink 559`
-- `APP_READY_EXPRESSIONS_TREE.json`: `related 1724 / xlink 100`
-- `APP_READY_BASICS_TREE.json`: `related 1618 / xlink 146`
-- `APP_READY_SEARCH_INDEX.json`: `related 7631 / xlink 805`
+- `APP_READY_SITUATIONS_TREE.json`: `related 15168 / xlink 746`
+- `APP_READY_EXPRESSIONS_TREE.json`: `related 6298 / xlink 113`
+- `APP_READY_BASICS_TREE.json`: `related 5746 / xlink 191`
+- `APP_READY_SEARCH_INDEX.json`: `related 27212 / xlink 1050`
+
+pilot validation note:
+
+- 현재 검증 완료 범위는 `core 12 + holdout 4` pilot relation package다.
+- 이는 thin runtime projection과 detail chunk sync가 실제로 동작함을 입증한 것이며, 전체 coverage expansion build 완료를 뜻하지는 않는다.
 
 ## 11. 개발/리뷰 해석 지침
 

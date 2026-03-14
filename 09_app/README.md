@@ -39,6 +39,11 @@
 - `legacy/`와 `archive/`는 비교/복구용이다.
 - 앱 배포 검증이나 UI 연동 확인 시 `live/`를 우선 기준으로 본다.
 
+현재 운영 메모:
+
+- `REV-86` pilot runtime projection과 `REV-87` chunk rebuild gate를 통해 `core 12 + holdout 4` pilot relation이 `live/` runtime과 detail chunk까지 반영되었다.
+- 현재 live는 전체 coverage build 완료 상태가 아니라, pilot relation package가 검증된 상태다.
+
 ## 4. Build Commands
 
 ```bash

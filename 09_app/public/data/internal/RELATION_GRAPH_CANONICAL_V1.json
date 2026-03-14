@@ -1,8 +1,8 @@
 {
   "version": "V1",
-  "status": "pilot_skeleton",
+  "status": "core12_edge_package_draft",
   "schema_mode": "rich_internal_canonical",
-  "generated_at": null,
+  "generated_at": "2026-03-15T00:21:00+0900",
   "authority": {
     "canonical_path": "09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json",
     "runtime_projection_mode": "thin_runtime",
@@ -62,19 +62,759 @@
     "batch_id": "pilot_anchor_batch_v1",
     "selection_rule": "coordinate_time_anchors_only",
     "dry_run_only": true,
-    "include_term_ids": [],
-    "holdout_term_ids": [],
+    "include_term_ids": [
+      "오늘_일반명사-1",
+      "내일_일반명사-1",
+      "어제_일반명사-1",
+      "아침_일반명사-1",
+      "저녁_일반명사-1",
+      "밤_일반명사-1",
+      "월요일_일반명사-1",
+      "금요일_일반명사-1",
+      "주말_일반명사-1",
+      "봄_일반명사-1",
+      "여름_일반명사-1",
+      "겨울_일반명사-1"
+    ],
+    "holdout_term_ids": [
+      "오늘_일반부사-1",
+      "어제_일반부사-1",
+      "점심_일반명사-1",
+      "저녁_일반명사-2"
+    ],
     "excluded_relation_types": [
       "word_to_scene",
       "word_to_grammar",
       "word_to_idiom"
     ]
   },
-  "nodes": {},
-  "edges": [],
+  "nodes": {
+    "오늘_일반명사-1": {
+      "id": "오늘_일반명사-1",
+      "word": "오늘",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "relative_day",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "내일_일반명사-1": {
+      "id": "내일_일반명사-1",
+      "word": "내일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_day",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "어제_일반명사-1": {
+      "id": "어제_일반명사-1",
+      "word": "어제",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "relative_day",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "아침_일반명사-1": {
+      "id": "아침_일반명사-1",
+      "word": "아침",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "day_part",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 2
+      }
+    },
+    "저녁_일반명사-1": {
+      "id": "저녁_일반명사-1",
+      "word": "저녁",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_020",
+      "anchor_family": "day_part",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 2
+      }
+    },
+    "밤_일반명사-1": {
+      "id": "밤_일반명사-1",
+      "word": "밤",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_018",
+      "anchor_family": "day_part",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 2
+      }
+    },
+    "월요일_일반명사-1": {
+      "id": "월요일_일반명사-1",
+      "word": "월요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "week_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 1,
+        "cross_links_count": 0
+      }
+    },
+    "금요일_일반명사-1": {
+      "id": "금요일_일반명사-1",
+      "word": "금요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_017",
+      "anchor_family": "week_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 1
+      }
+    },
+    "주말_일반명사-1": {
+      "id": "주말_일반명사-1",
+      "word": "주말",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_020",
+      "anchor_family": "week_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "봄_일반명사-1": {
+      "id": "봄_일반명사-1",
+      "word": "봄",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_018",
+      "anchor_family": "season_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 2,
+        "cross_links_count": 1
+      }
+    },
+    "여름_일반명사-1": {
+      "id": "여름_일반명사-1",
+      "word": "여름",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "season_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 0
+      }
+    },
+    "겨울_일반명사-1": {
+      "id": "겨울_일반명사-1",
+      "word": "겨울",
+      "pos": "일반명사",
+      "system": "상황과 장소",
+      "root": "날씨와 자연",
+      "category": "계절과 기온",
+      "chunk_id": "chunk_001",
+      "anchor_family": "season_anchor",
+      "pilot_group": "core12",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "오늘_일반부사-1": {
+      "id": "오늘_일반부사-1",
+      "word": "오늘",
+      "pos": "일반부사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "ambiguity_temporal_adverb",
+      "pilot_group": "holdout4",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 0
+      }
+    },
+    "어제_일반부사-1": {
+      "id": "어제_일반부사-1",
+      "word": "어제",
+      "pos": "일반부사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "ambiguity_temporal_adverb",
+      "pilot_group": "holdout4",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 0
+      }
+    },
+    "점심_일반명사-1": {
+      "id": "점심_일반명사-1",
+      "word": "점심",
+      "pos": "일반명사",
+      "system": "상황과 장소",
+      "root": "식생활",
+      "category": "식사 메뉴와 종류",
+      "chunk_id": "chunk_009",
+      "anchor_family": "ambiguity_meal_time",
+      "pilot_group": "holdout4",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 0
+      }
+    },
+    "저녁_일반명사-2": {
+      "id": "저녁_일반명사-2",
+      "word": "저녁",
+      "pos": "일반명사",
+      "system": "상황과 장소",
+      "root": "식생활",
+      "category": "식사 메뉴와 종류",
+      "chunk_id": "chunk_009",
+      "anchor_family": "ambiguity_meal_time",
+      "pilot_group": "holdout4",
+      "current_runtime": {
+        "related_vocab_count": 3,
+        "cross_links_count": 0
+      }
+    }
+  },
+  "edges": [
+    {
+      "edge_id": "pilot_edge_001",
+      "source_id": "저녁_일반명사-1",
+      "target_id": "밤_일반명사-1",
+      "target_term": "밤",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "current runtime cross_link exists and provides a direct day-part transition candidate for the pilot batch",
+      "hook_id": "H04",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "existing_cross_link",
+        "revision": "V1-REV-81"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_002",
+      "source_id": "밤_일반명사-1",
+      "target_id": "저녁_일반명사-1",
+      "target_term": "저녁",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "current runtime cross_link exists and keeps the pilot graph bidirectional for a stable day-part draft",
+      "hook_id": "H04",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "existing_cross_link",
+        "revision": "V1-REV-81"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_003",
+      "source_id": "금요일_일반명사-1",
+      "target_id": "주말_일반명사-1",
+      "target_term": "주말",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "current runtime related_vocab already includes 주말 under 금요일, making it a low-risk pilot draft edge",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "existing_related_vocab_intersection",
+        "revision": "V1-REV-81"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_004",
+      "source_id": "주말_일반명사-1",
+      "target_id": "금요일_일반명사-1",
+      "target_term": "금요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "current runtime related_vocab already includes 금요일 under 주말, so the reciprocal pilot draft edge is supportable from live data",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "existing_related_vocab_intersection",
+        "revision": "V1-REV-81"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_005",
+      "source_id": "오늘_일반명사-1",
+      "target_id": "내일_일반명사-1",
+      "target_term": "내일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "relative-day core anchor package links today to the next day while staying on noun senses only",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_006",
+      "source_id": "내일_일반명사-1",
+      "target_id": "오늘_일반명사-1",
+      "target_term": "오늘",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "relative-day core anchor package keeps the today-tomorrow pair reciprocal on noun senses only",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_007",
+      "source_id": "오늘_일반명사-1",
+      "target_id": "어제_일반명사-1",
+      "target_term": "어제",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "relative-day core anchor package links today to the previous day without crossing into adverb holdout senses",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_008",
+      "source_id": "어제_일반명사-1",
+      "target_id": "오늘_일반명사-1",
+      "target_term": "오늘",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "relative-day core anchor package keeps the yesterday-today pair reciprocal and noun-safe",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_009",
+      "source_id": "아침_일반명사-1",
+      "target_id": "저녁_일반명사-1",
+      "target_term": "저녁",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "day-part core anchor package pairs morning with evening as a bounded opposite time-point on the noun sense track",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_010",
+      "source_id": "저녁_일반명사-1",
+      "target_id": "아침_일반명사-1",
+      "target_term": "아침",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "day-part core anchor package keeps the morning-evening contrast reciprocal while excluding dinner holdout sense",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_011",
+      "source_id": "월요일_일반명사-1",
+      "target_id": "금요일_일반명사-1",
+      "target_term": "금요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "week-anchor core package links Monday to Friday as a bounded weekday progression using noun-safe target ids",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_012",
+      "source_id": "금요일_일반명사-1",
+      "target_id": "월요일_일반명사-1",
+      "target_term": "월요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "week-anchor core package keeps the Monday-Friday pair reciprocal while staying inside the core12 noun inventory",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_013",
+      "source_id": "봄_일반명사-1",
+      "target_id": "여름_일반명사-1",
+      "target_term": "여름",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "season-anchor core package links spring to summer as an adjacent seasonal progression inside the noun-safe core12 batch",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_014",
+      "source_id": "여름_일반명사-1",
+      "target_id": "봄_일반명사-1",
+      "target_term": "봄",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "season-anchor core package keeps the spring-summer adjacency reciprocal and confined to noun-safe pilot targets",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_015",
+      "source_id": "겨울_일반명사-1",
+      "target_id": "봄_일반명사-1",
+      "target_term": "봄",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "season-anchor core package bridges winter to spring across the current system boundary while keeping the noun target explicit",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_016",
+      "source_id": "봄_일반명사-1",
+      "target_id": "겨울_일반명사-1",
+      "target_term": "겨울",
+      "target_system": "상황과 장소",
+      "target_root": "날씨와 자연",
+      "target_category": "계절과 기온",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "season-anchor core package keeps the winter-spring bridge reciprocal while preserving the existing cross-system noun sense boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "pilot_anchor_batch_v1",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "internal_core12_extension_draft",
+        "revision": "V1-REV-83"
+      }
+    }
+  ],
   "dry_run_reserve": {
-    "pre_publish_checks": [],
-    "projection_preview": [],
-    "gate_evidence": []
+    "pre_publish_checks": [
+      "confirm core12 count = 12",
+      "confirm holdout4 count = 4",
+      "confirm populated edges are runtime-safe word_to_word only",
+      "confirm holdout nodes have no draft edges in REV85",
+      "confirm projection preview is generated from internal canonical only",
+      "confirm before snapshot evidence is recorded before any publish gate opens",
+      "confirm holdout4 expected projection buckets remain related_vocab=0 and cross_links=0"
+    ],
+    "projection_preview": [
+      {
+        "edge_id": "pilot_edge_001",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_002",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_003",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_004",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_005",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_006",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_007",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_008",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_009",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_010",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_011",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_012",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_013",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_014",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_015",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_016",
+        "expected_runtime_bucket": "cross_links"
+      }
+    ],
+    "gate_evidence": [
+      "pilot node inventory seeded from APP_READY_SEARCH_INDEX.json",
+      "core12 edge package accepted before projection gate packaging",
+      "projection preview expanded to cover pilot_edge_001 through pilot_edge_016",
+      "holdout4 projection expectation remains related_vocab=0 and cross_links=0",
+      "before snapshot evidence for core12 and holdout4 captured from current live search index",
+      "publish-only / chunk rebuild / live overwrite remained unexecuted"
+    ]
   }
 }

@@ -16,6 +16,7 @@ import llm_data_triage as base
 
 DATA_DIR = ROOT / "09_app" / "public" / "data"
 LIVE_DIR = DATA_DIR / "live"
+INTERNAL_DIR = DATA_DIR / "internal"
 XWD_JSON = ROOT / "08_expansion" / "XWD_DISCOVERY_FRAMEWORK_V1.json"
 RUN_DIR = ROOT / "08_expansion" / "rev47"
 REPORT_DIR = RUN_DIR / "triage_reports"
@@ -24,6 +25,7 @@ CHECKPOINT_FILE = REPORT_DIR / "rev47_xwd_checkpoint.json"
 LATEST_REPORT_FILE = REPORT_DIR / "rev47_xwd_latest_report.json"
 LINKS_JSON = RUN_DIR / "REV47_RELATED_LINKS_V1.json"
 PUBLISH_SUMMARY = RUN_DIR / "REV47_PUBLISH_SUMMARY_V1.json"
+INTERNAL_RELATION_GRAPH = INTERNAL_DIR / "RELATION_GRAPH_CANONICAL_V1.json"
 
 SITUATIONS = LIVE_DIR / "APP_READY_SITUATIONS_TREE.json"
 EXPRESSIONS = LIVE_DIR / "APP_READY_EXPRESSIONS_TREE.json"
@@ -73,6 +75,110 @@ def load_core_pool() -> list[dict]:
     for path in [SITUATIONS, EXPRESSIONS, BASICS]:
         items.extend(load_json(path))
     return items
+
+
+def role_rank(role: str) -> int:
+    precedence = {
+        "sense_disambiguation": 0,
+        "grammar_anchor": 1,
+        "scene_jump": 2,
+        "collocation_expand": 3,
+        "compare": 4,
+        "substitute": 5,
+        "contrast_lite": 6,
+        "scope_expand": 7,
+    }
+    return precedence.get(role, 999)
+
+
+def normalize_display_intent(value: str | None) -> str | None:
+    if value in {"related_widget", "related_vocab"}:
+        return "related_vocab"
+    if value in {"jump_link", "cross_links"}:
+        return "cross_links"
+    return None
+
+
+def build_projection_from_internal_canonical() -> dict | None:
+    if not INTERNAL_RELATION_GRAPH.exists():
+        return None
+
+    payload = load_json(INTERNAL_RELATION_GRAPH)
+    edges = payload.get("edges")
+    if not isinstance(edges, list):
+        return None
+
+    all_items = load_core_pool()
+    id_to_item = {item["id"]: item for item in all_items}
+    pilot = payload.get("pilot", {})
+    overlay_ids = set(pilot.get("include_term_ids") or [])
+    overlay_ids.update(pilot.get("holdout_term_ids") or [])
+    if not overlay_ids:
+        overlay_ids.update(edge.get("source_id") for edge in edges if isinstance(edge, dict))
+    overlay_ids.discard(None)
+
+    chosen_edges = {}
+    for edge in edges:
+        if not isinstance(edge, dict):
+            continue
+        source_id = edge.get("source_id")
+        target_id = edge.get("target_id")
+        if source_id not in overlay_ids or target_id not in id_to_item:
+            continue
+        intent = normalize_display_intent(edge.get("display_intent"))
+        if intent is None:
+            continue
+        pair = (source_id, target_id)
+        candidate = (
+            role_rank(edge.get("relation_role")),
+            0 if intent == "cross_links" else 1,
+            edge.get("edge_id", ""),
+        )
+        existing = chosen_edges.get(pair)
+        if existing is None or candidate < existing[0]:
+            chosen_edges[pair] = (candidate, edge, intent)
+
+    related_vocab_map = {source_id: [] for source_id in overlay_ids}
+    cross_links_map = {source_id: [] for source_id in overlay_ids}
+    seen_terms = defaultdict(set)
+    seen_targets = defaultdict(set)
+
+    for (_, _), (_, edge, intent) in sorted(chosen_edges.items(), key=lambda row: row[1][0]):
+        source_id = edge["source_id"]
+        target = id_to_item[edge["target_id"]]
+        if intent == "related_vocab":
+            term = target["word"]
+            if term in seen_terms[source_id]:
+                continue
+            related_vocab_map[source_id].append(term)
+            seen_terms[source_id].add(term)
+        else:
+            target_id = target["id"]
+            if target_id in seen_targets[source_id]:
+                continue
+            cross_links_map[source_id].append(
+                {
+                    "target_id": target_id,
+                    "target_term": target["word"],
+                    "target_system": target["hierarchy"]["system"],
+                    "target_root": target["hierarchy"]["root"],
+                    "target_category": target["hierarchy"]["category"],
+                    "hook_id": edge.get("hook_id", "DRAFT-REL"),
+                }
+            )
+            seen_targets[source_id].add(target_id)
+
+    for source_id in overlay_ids:
+        related_vocab_map[source_id] = related_vocab_map[source_id][:5]
+        cross_links_map[source_id] = cross_links_map[source_id][:5]
+
+    return {
+        "overlay_ids": sorted(overlay_ids),
+        "related_vocab_map": related_vocab_map,
+        "cross_links_map": cross_links_map,
+        "graph_status": payload.get("status"),
+        "edge_count": len(edges),
+    }
 
 
 def load_xwd_hooks() -> list[dict]:
@@ -527,6 +633,67 @@ def publish_relations(bidirectional: dict[str, list[dict]], all_items: list[dict
 
 
 def publish_from_saved_links() -> dict:
+    internal_projection = build_projection_from_internal_canonical()
+    if internal_projection is not None:
+        overlay_ids = set(internal_projection["overlay_ids"])
+        related_vocab_map = internal_projection["related_vocab_map"]
+        cross_links_map = internal_projection["cross_links_map"]
+
+        split_paths = [SITUATIONS, EXPRESSIONS, BASICS]
+        split_items = []
+        for path in split_paths:
+            items = load_json(path)
+            for item in items:
+                if item["id"] in overlay_ids:
+                    item["related_vocab"] = related_vocab_map.get(item["id"], [])
+                    refs = item.get("refs", {}) if isinstance(item.get("refs"), dict) else {}
+                    refs["cross_links"] = cross_links_map.get(item["id"], [])
+                    item["refs"] = refs
+                split_items.extend([item])
+            write_json(path, items)
+
+        split_by_id = {item["id"]: item for item in split_items}
+        search_items = load_json(SEARCH)
+        for item in search_items:
+            if item["id"] in overlay_ids:
+                item["related_vocab"] = related_vocab_map.get(item["id"], [])
+                refs = item.get("refs", {}) if isinstance(item.get("refs"), dict) else {}
+                refs["cross_links"] = cross_links_map.get(item["id"], [])
+                item["refs"] = refs
+                if item["id"] in split_by_id:
+                    item["chunk_id"] = split_by_id[item["id"]].get("chunk_id")
+        write_json(SEARCH, search_items)
+
+        summary = {
+            "mode": "internal_canonical_overlay",
+            "graph_status": internal_projection["graph_status"],
+            "graph_edge_count": internal_projection["edge_count"],
+            "overlay_terms": len(overlay_ids),
+            "related_terms": sum(1 for source_id in overlay_ids if related_vocab_map.get(source_id)),
+            "cross_system_terms": sum(1 for source_id in overlay_ids if cross_links_map.get(source_id)),
+            "avg_links_per_overlay_term": round(
+                (
+                    sum(len(related_vocab_map.get(source_id, [])) + len(cross_links_map.get(source_id, [])) for source_id in overlay_ids)
+                    / max(1, len(overlay_ids))
+                ),
+                2,
+            ),
+        }
+        latest = load_json(LATEST_REPORT_FILE)
+        latest["publish_summary"] = summary
+        latest["linked_terms"] = sum(
+            1
+            for source_id in overlay_ids
+            if related_vocab_map.get(source_id) or cross_links_map.get(source_id)
+        )
+        latest["link_edges"] = sum(
+            len(related_vocab_map.get(source_id, [])) + len(cross_links_map.get(source_id, []))
+            for source_id in overlay_ids
+        )
+        write_json(LATEST_REPORT_FILE, latest)
+        write_json(PUBLISH_SUMMARY, summary)
+        return summary
+
     bidirectional = load_json(LINKS_JSON)
     summary = publish_relations(bidirectional, load_core_pool())
     latest = load_json(LATEST_REPORT_FILE)

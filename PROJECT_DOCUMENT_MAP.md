@@ -6,12 +6,15 @@
 ## 🧭 1. 오케스트레이션 및 운영 (Root & `.gemini-orchestration/`)
 - 운영 메모: 사용자는 기본적으로 `ORCHESTRATION_DASHBOARD.md` 한 문서만 보고 모니터링하고 지시한다. 에이전트는 대시보드에서 각 workboard로 내려간다.
 - 운영 메모: 개발 에이전트의 실행 환경이 바뀌더라도 아래 오케스트레이션 문서와 workboard 규칙을 동일하게 따른다.
+- 운영 메모: 현재 `core 12 + holdout 4` pilot은 runtime projection과 chunk rebuild gate까지 검증 완료되었고, 다음 큰 단계는 `coverage expansion build`다.
 - 📄 **[README.md](./README.md)**: 프로젝트의 최초 진입점.
 - 📄 **[ORCHESTRATION_DASHBOARD.md](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 에이전트 작업 현황 관제탑.
+- 📄 **[MAIN_PM_ROLE_DEFINITION_V1.md](./.gemini-orchestration/MAIN_PM_ROLE_DEFINITION_V1.md)**: Main PM의 역할, 권한, 책임, 필수 스킬 정의.
 - 📄 **[WORK_ORCHESTRATION_HUB_V1.md](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 운영용 공용 허브. SSOT 읽기 순서와 active canonical 문서 요약.
 - 📄 **[OPERATING_GUIDE_V1.md](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 에이전트 행동 강령 및 폴더 구조 규칙.
 - 📄 **[WORKBOARD_TEMPLATE_V1.md](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 표준 workboard snapshot 템플릿. 사용자 승인 게이트와 상세 보고 경로 포함.
 - 📄 **[workboard_archive/README.md](./.gemini-orchestration/workboard_archive/README.md)**: workboard overwrite 유실 방지를 위한 append-only 로그 보관 규칙.
+- 📄 **[NEXT_MAIN_PM_HANDOFF_V1.md](./.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md)**: 다음 Main PM이 현재 상태를 이어받기 위한 handoff.
 - 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 `WORK_ORCHESTRATION_HUB_V1.md`, `OPERATING_GUIDE_V1.md`를 기준으로 본다.
 - 운영 메모: 모든 에이전트는 solution-first 프로토콜을 따른다. 진단 후 해결안 제시가 기본이며, 독자 결정이 어렵다면 최대 3개 이내의 선택지를 제시한다.
 - 운영 메모: 각 에이전트는 자기 역할 안에서만 능동적이어야 하며, PM 역할은 Codex만 수행한다.
@@ -43,6 +46,7 @@
 - 📄 **[09_app/public/data/README.md](./09_app/public/data/README.md)**: `live/internal/legacy/archive` 데이터 폴더 역할 안내.
 - 📄 **[APP_DATA_REDEPLOY_SOP_V1.md](./08_expansion/APP_DATA_REDEPLOY_SOP_V1.md)**: 데이터 변경 후 앱 runtime JSON 재배포 표준 절차.
 - 📄 **[REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md](./08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md)**: 리뷰/개발 에이전트가 runtime canonical을 혼동하지 않기 위한 기준 안내.
+- 운영 메모: 현재 live runtime은 internal canonical overlay 기반 pilot projection과 chunk sync가 반영된 상태다.
 
 ## 📖 5. 데이터 정책 (`08_expansion/`)
 - 📄 **[STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md](./08_expansion/STRICT_DATA_CLASSIFICATION_PROTOCOL_V2.md)**: 현재 canonical 분류 프로토콜. 모든 재분류/앵커링 정책 변경의 최종 반영 위치.

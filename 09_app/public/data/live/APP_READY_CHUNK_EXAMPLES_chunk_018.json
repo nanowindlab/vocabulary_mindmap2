@@ -9316,11 +9316,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "낮",
-        "밤낮",
-        "하룻밤"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "bam"
     },
     "밤낮_일반명사-1": {
@@ -12363,8 +12359,7 @@
         }
       ],
       "related_vocab": [
-        "계절",
-        "늦봄"
+        "여름"
       ],
       "phonetic_romanization": "bom"
     },

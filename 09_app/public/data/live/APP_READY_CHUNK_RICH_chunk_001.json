@@ -3308,15 +3308,19 @@
   "겨울_일반명사-1": {
     "id": "겨울_일반명사-1",
     "def_ko": "가장 춥고 눈이 오는 계절",
-    "related_vocab": [
-      "가을",
-      "추",
-      "쌀랑하다",
-      "쌀쌀하다"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "봄_일반명사-1",
+          "target_term": "봄",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "gyeoul"
   },

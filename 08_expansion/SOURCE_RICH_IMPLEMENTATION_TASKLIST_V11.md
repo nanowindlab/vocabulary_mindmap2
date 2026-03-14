@@ -50,14 +50,30 @@
 
 ### Track 2. Data Engineering (Data Agent)
 
-- [ ] **T2.18: [CURRENT] relation graph canonical pilot preparation**
-    - [ ] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`의 empty skeleton과 field contract를 준비할 것.
-    - [ ] pilot 대상 anchor batch 범위를 정의할 것.
-    - [ ] 실제 publish/rebuild 전 필요한 dry-run 준비 항목과 검증 checklist를 정리할 것.
-- [ ] **T2.19: [CURRENT] empty skeleton actual creation**
-    - [ ] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`를 실제 파일로 생성할 것.
-    - [ ] field contract와 top-level structure가 current policy / SOP / data README와 일치하는지 확인할 것.
-    - [ ] 이번 revision에서는 `publish-only`, `chunk rebuild`, `live overwrite`를 실행하지 말 것.
+- 운영 메모: `T2.18~T2.22`는 pilot relation cycle로 해석한다. skeleton 준비 → pilot population/holdout disambiguation → pilot runtime projection → chunk rebuild gate까지 같은 pilot work package의 내부 단계다.
+- [x] **T2.18: relation graph canonical pilot preparation**
+    - [x] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`의 empty skeleton과 field contract를 준비할 것.
+    - [x] pilot 대상 anchor batch 범위를 정의할 것.
+    - [x] 실제 publish/rebuild 전 필요한 dry-run 준비 항목과 검증 checklist를 정리할 것.
+- [x] **T2.19: empty skeleton actual creation**
+    - [x] `09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json`를 실제 파일로 생성할 것.
+    - [x] field contract와 top-level structure가 current policy / SOP / data README와 일치하는지 확인할 것.
+    - [x] pilot build 단계에서는 `publish-only`, `chunk rebuild`, `live overwrite`를 실행하지 말 것.
+- [x] **T2.20: pilot batch population and holdout disambiguation**
+    - [x] core 12 anchors + ambiguity holdout 4를 pilot batch로 채울 것.
+    - [x] node inventory와 최소 edge 초안을 internal canonical skeleton에 반영할 것.
+    - [x] `오늘/어제`, `점심/저녁`의 sense boundary와 holdout 처리 rule을 정리할 것.
+    - [x] pilot build 단계에서는 `publish-only`, `chunk rebuild`, `live overwrite`를 실행하지 말 것.
+- [x] **T2.21: pilot runtime projection**
+    - [x] core 12 + holdout 4 pilot relation을 실제 runtime으로 투영할 것.
+    - [x] target anchor 12개 projected bucket과 holdout exclusion을 live runtime에서 검증할 것.
+- [x] **T2.22: chunk rebuild gate**
+    - [x] detail chunk를 재생성하여 pilot ids의 search/tree/chunk 정합성을 닫을 것.
+    - [x] holdout 4 exclusion이 chunk rich files에서도 유지되는지 검증할 것.
+- [ ] **T2.23: [CURRENT] coverage expansion build package**
+    - [ ] 다음 relation 확장 배치를 pilot 수준 품질로 어떻게 확장할지 package를 설계할 것.
+    - [ ] ambiguity holdout, family-level reason consistency, runtime-safe projection 가능성을 함께 유지할 범위를 정의할 것.
+    - [ ] expansion build와 이후 projection/rebuild gate를 어떤 배치 단위로 끊을지 정할 것.
 - [ ] **T2.16: [SDCP V5] 8.5K 데이터셋 전수 재분류 실행 [CRITICAL]**
     - [ ] 선행 조건: `T1.34` implementation architecture proposal 승인 후 착수.
     - [ ] **좌표성 시간 이관**: 계절, 시간 어휘를 `Basics` 축으로 대대적 이동.

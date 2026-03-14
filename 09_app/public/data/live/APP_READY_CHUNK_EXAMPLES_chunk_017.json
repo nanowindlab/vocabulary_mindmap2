@@ -7914,9 +7914,6 @@
         }
       ],
       "related_vocab": [
-        "달력",
-        "수요일",
-        "요일",
         "주말"
       ],
       "phonetic_romanization": "geumyoil"
@@ -12215,11 +12212,7 @@
         }
       ],
       "related_vocab": [
-        "내년",
-        "내달",
-        "다음",
-        "다음날",
-        "모레"
+        "오늘"
       ],
       "phonetic_romanization": "naeil"
     },

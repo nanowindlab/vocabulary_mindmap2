@@ -2687,21 +2687,18 @@
     "id": "금요일_일반명사-1",
     "def_ko": "한 주의 다섯 번째 요일",
     "related_vocab": [
-      "달력",
-      "수요일",
-      "요일",
       "주말"
     ],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
         {
-          "target_id": "토요일_일반명사-1",
-          "target_term": "토요일",
+          "target_id": "월요일_일반명사-1",
+          "target_term": "월요일",
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시점",
-          "hook_id": "H04"
+          "hook_id": "DRAFT-REL"
         }
       ]
     },
@@ -4147,11 +4144,7 @@
     "id": "내일_일반명사-1",
     "def_ko": "오늘의 다음 날",
     "related_vocab": [
-      "내년",
-      "내달",
-      "다음",
-      "다음날",
-      "모레"
+      "오늘"
     ],
     "is_center_profile": false,
     "refs": {

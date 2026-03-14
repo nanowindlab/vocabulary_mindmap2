@@ -1,6 +1,6 @@
 # 앱 데이터 재배포 표준 절차 (APP_DATA_REDEPLOY_SOP_V1)
 
-> Date: `2026-03-12`
+> Date: `2026-03-15`
 > Purpose: 단어 업데이트, 연관 데이터 갱신, 분류 수정 후 앱 runtime JSON을 일관되게 재배포하기 위한 데이터 에이전트 표준 절차
 
 ## 1. 적용 범위
@@ -26,6 +26,9 @@
 transition note:
 
 - `08_expansion/rev47/REV47_RELATED_LINKS_V1.json`는 transition period 동안 builder compatibility input으로 유지 가능
+- current validated mode:
+  - `scripts/mining/run_rev47_xwd_mining.py --publish-only`는 `RELATION_GRAPH_CANONICAL_V1.json` 기반 `internal_canonical_overlay` 모드를 지원한다.
+  - pilot/package 범위 relation만 overlay하고, 비대상 runtime relation은 유지할 수 있다.
 
 ### 최종 출력
 
@@ -69,6 +72,7 @@ python3 scripts/mining/run_rev47_xwd_mining.py --publish-only
 - 같은 `system/root/category`만 `related_vocab`
 - 다른 분류로 넘어가는 연결만 `refs.cross_links`
 - `APP_READY_SEARCH_INDEX.json`의 `chunk_id`를 유지할 것
+- active internal canonical이 있을 때는 `internal_canonical_overlay` 방식으로 pilot/package 범위 relation을 우선 반영한다.
 
 ### Step 2. detail chunk 재생성
 
@@ -121,6 +125,7 @@ data -> review gate 전 아래 증거를 모두 남긴다.
 - legacy `target_center_id` 잔존 `0`
 - `CHUNK_MANIFEST_V1.json` 생성 확인
 - detail chunk와 live tree relation 일치 확인
+- pilot/package ids에 대해 search / split / detail chunk relation count가 일치함을 별도 증거로 남긴다
 
 ## 5. 보고 문서 갱신
 
@@ -137,6 +142,7 @@ data -> review gate 전 아래 증거를 모두 남긴다.
 - search total / chunk_id total
 - 정합성 검증 결과
 - 새 정책 변경이 있다면 한 줄 요약
+- pilot/package 작업이었다면 before/after snapshot과 holdout exclusion evidence도 함께 남길 것
 
 ## 6. 금지 사항
 

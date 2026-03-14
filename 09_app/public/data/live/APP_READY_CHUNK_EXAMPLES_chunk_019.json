@@ -6225,9 +6225,7 @@
         }
       ],
       "related_vocab": [
-        "대낮",
-        "새벽",
-        "오전"
+        "저녁"
       ],
       "phonetic_romanization": "achim"
     },
@@ -8672,10 +8670,7 @@
         }
       ],
       "related_vocab": [
-        "그저께",
-        "그제",
-        "어저께",
-        "어제"
+        "오늘"
       ],
       "phonetic_romanization": ""
     },
@@ -8718,11 +8713,7 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [
-        "전날",
-        "어저께",
-        "어제"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "eoje"
     },
     "어젯밤_일반명사-1": {
@@ -10057,9 +10048,7 @@
         }
       ],
       "related_vocab": [
-        "늦봄",
-        "늦여름",
-        "팔월"
+        "봄"
       ],
       "phonetic_romanization": "yeoreum"
     },
@@ -12163,11 +12152,8 @@
         }
       ],
       "related_vocab": [
-        "오늘날",
-        "올해",
-        "이번",
-        "지금",
-        "현재"
+        "내일",
+        "어제"
       ],
       "phonetic_romanization": ""
     },
@@ -12210,11 +12196,7 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [
-        "당일",
-        "올해",
-        "지금"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "oneul"
     },
     "오늘날_일반명사-1": {
@@ -15170,9 +15152,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "토요일"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "woryoil"
     },
     "웬일_일반명사-1": {
