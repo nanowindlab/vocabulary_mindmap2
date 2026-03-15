@@ -548,7 +548,40 @@
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "통증_일반명사-1",
+          "target_term": "통증",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "질병과 증상",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "병원_일반명사-1",
+          "target_term": "병원",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "진료_일반명사-1",
+          "target_term": "진료",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "진료와 치료 행위",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "약국_일반명사-1",
+          "target_term": "약국",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        }
+      ]
     },
     "phonetic_romanization": "apeuda"
   },
