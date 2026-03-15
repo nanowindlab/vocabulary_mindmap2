@@ -2188,7 +2188,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "계산대",
+        "화폐",
+        "환율",
+        "쿠폰",
+        "가격"
+      ],
       "phonetic_romanization": "sangpumgwon"
     },
     "상품명_일반명사-1": {
@@ -2953,7 +2959,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "김밥",
+        "반찬",
+        "만두",
+        "먹을거리",
+        "비빔밥"
+      ],
       "phonetic_romanization": "saelleodeu"
     },
     "샛별_일반명사-1": {
@@ -3088,7 +3100,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "뇌",
+        "가슴",
+        "간",
+        "갈비",
+        "귀"
+      ],
       "phonetic_romanization": "saengni"
     },
     "생머리_일반명사-1": {
@@ -3100,7 +3118,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "맨발",
+        "머리카락",
+        "가슴",
+        "간",
+        "갈비"
+      ],
       "phonetic_romanization": ""
     },
     "생명_일반명사-1": {
@@ -3148,7 +3172,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "일개미",
+        "포획",
+        "생명력",
+        "가축",
+        "강아지"
+      ],
       "phonetic_romanization": "saengmyeong"
     },
     "생명력_일반명사-1": {
@@ -3190,7 +3220,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "포획",
+        "생명",
+        "가축",
+        "강아지",
+        "개"
+      ],
       "phonetic_romanization": "saengmyeongnyeok"
     },
     "생물_일반명사-1": {
@@ -7231,7 +7267,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "환경",
+        "강",
+        "강물",
+        "개울",
+        "경치"
+      ],
       "phonetic_romanization": "seom"
     },
     "섬유_일반명사-1": {
@@ -7369,7 +7411,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "고객"
+      ],
       "phonetic_romanization": "seong"
     },
     "성곽_일반명사-1": {
@@ -7521,7 +7569,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "간",
+        "귀",
+        "근육",
+        "기관",
+        "내장"
+      ],
       "phonetic_romanization": "seongdae"
     },
     "성명_일반명사-1": {
@@ -7584,7 +7638,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "고객"
+      ],
       "phonetic_romanization": "seongbyeol"
     },
     "성복_일반명사-1": {
@@ -9789,7 +9849,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거주",
+        "겉옷",
+        "구두",
+        "굽",
+        "귀가"
+      ],
       "phonetic_romanization": "somae"
     },
     "소문_일반명사-1": {
@@ -9999,7 +10065,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "규율",
+        "소방관",
+        "소방",
+        "사립",
+        "가로등"
+      ],
       "phonetic_romanization": "sobangcha"
     },
     "소변_일반명사-1": {
@@ -10011,7 +10083,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "눈코",
+        "송장",
+        "육체",
+        "인체",
+        "입술"
+      ],
       "phonetic_romanization": ""
     },
     "소비_일반명사-1": {
@@ -10214,7 +10292,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "무용가",
+        "가수",
+        "관객",
+        "관람객",
+        "드라마"
+      ],
       "phonetic_romanization": "soseolga"
     },
     "소설집_일반명사-1": {
@@ -10256,7 +10340,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "연주회",
+        "동물원",
+        "연극제",
+        "군무",
+        "독주"
+      ],
       "phonetic_romanization": "soseoljip"
     },
     "소셜_일반명사-1": {
@@ -10412,7 +10502,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "국수",
+        "잡채",
+        "김밥",
+        "나물",
+        "닭갈비"
+      ],
       "phonetic_romanization": ""
     },
     "소식_일반명사-1": {
@@ -10564,7 +10660,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "근무",
+        "업무",
+        "경영",
+        "계획서",
+        "공정"
+      ],
       "phonetic_romanization": "soim"
     },
     "소장_일반명사-1": {

@@ -1,7 +1,7 @@
 # Next Main PM Handoff V1
 
 > Purpose: 다음 Main PM이 현재 프로젝트 상태를 빠르게 이어받기 위한 handoff
-> Scope: `V1-REV-102` comparison autopilot abort와 post-abort baseline/runtime consistency repair까지 반영된 상태
+> Scope: `V1-REV-102` abort 이후 Yellow closure, runtime projection hardening, restart-ready gate까지 반영된 상태
 > Date: `2026-03-15`
 
 ## 1. 먼저 읽을 문서
@@ -15,10 +15,9 @@
 ## 2. 현재 authoritative 상태
 
 - 대시보드가 유일한 control plane
-- workboard는 snapshot
-- append-only 로그가 실제 receipt/report evidence
+- pm report가 current cycle evidence owner
 - 최종 승인(`ACCEPT`, `DONE`, 배포)은 사용자 승인 필요
-- 현재 investigation phase의 sequencing과 runtime consistency 복구는 Codex/Main PM이 직접 주도하고, multi-agent workboard는 증거/기록 용도로 유지
+- 현재 restart-ready phase의 sequencing과 runtime consistency 기준 관리는 Codex/Main PM이 직접 주도하고, workboard/workboard_archive는 history-only다
 
 ## 3. 현재까지 완료된 핵심 흐름
 
@@ -53,23 +52,38 @@
 - `V1-REV-102`: `Calendar Label Batch-11` comparison autopilot rerun 결과 `AUTOPILOT_ABORTED_TO_YELLOW`; duplicate-id / sentinel drift 이슈 노출
 - post-`REV-102`: live split/search duplicate-id `29`건이 runtime projection/replace 단계에서 유입된 것으로 확인했고, local baseline/runtime consistency를 `8094` unique ids 기준으로 복구함
 - post-`REV-102`: `scripts/core/rebuild_rev23_detail_chunks.py`는 duplicate live input을 조기 실패시키도록 hard-fail guard를 추가함
+- post-restart execution: `Relative Year Markers Batch-6` internal canonical draft, publish-only, chunk rebuild, search/tree/chunk consistency check까지 통과함
+- second post-restart execution: `Temporal Reference Nouns Batch-8` internal canonical draft, publish-only, chunk rebuild, search/tree/chunk consistency check까지 통과함
+- third post-restart execution: `Past Day Reference Batch-6` internal canonical draft, publish-only, chunk rebuild, search/tree/chunk consistency check까지 통과함
+- bulk execution: `Time Point Bulk Batch-65` current live mirror 방식으로 runtime-safe하게 통과함
+- bulk execution: `Time Root Bulk Remaining Batch-132` current live mirror 방식으로 runtime-safe하게 통과했고, `시간과 흐름` safe noun coverage가 닫힘
+- full execution: `Full Live Runtime Mirror V1` current live runtime relation을 대규모로 internal canonical에 미러링했고, integrity는 유지됐지만 duplicate-term dedupe에 따른 runtime normalization이 발생함
+- full execution: `Full Live Node Coverage V1`까지 완료되어 internal canonical node coverage가 current live `8094 / 8094` 상태가 됨
+- generation execution: zero-relation generation 이후 non-control zero rows는 `0`, remaining zero rows는 intentional holdout `4`개만 남음
+- richer enrichment execution: `병원 -> 아프다` 축의 medical learner journey jump가 runtime에 반영됨
 
 ## 4. 현재 활성 초점
 
-- `Yellow runtime consistency investigation`
+- `Post-restart rollout model`
   - Owner: Codex / Main PM
-  - Status: `IN_PROGRESS`
-  - Purpose:
-    - `Calendar Label Batch-11` comparison abort 이후 duplicate-id 생성 경로와 sentinel control 해석 문제를 정리
-    - green autopilot 확대 전에 baseline/runtime 정합성을 다시 고정
-  - Verified so far:
-    - live split/search current unique ids는 `8094`
-    - true new ids는 `자료_일반명사-1`, `먼저_일반부사-1` 2건뿐임
-    - overlapping `29` ids는 기존 live node와 재분류본이 중복 append된 상태였음
-    - `rebuild_rev23_detail_chunks.py`는 duplicate input을 생성하지 않았지만, duplicated live tree를 읽어 chunk dict key overwrite로 manifest/search mismatch를 유발할 수 있었음
+  - Status: `COMPLETE / USER APPROVAL GATE READY`
+  - Closed:
+    - duplicate live input과 rebuild 노출 경로를 분리하고 runtime canonical을 `8094` unique ids 기준으로 복구
+    - `Calendar Label Batch-11`을 `Yellow / Runtime Reclassification`으로 재분류
+    - `publish-only`와 `rebuild`에 runtime-safe guard를 추가
+    - pilot / Batch-14 / Batch-11 / Month Unit / Date Point portfolio를 재분류
+    - `Relative Year Markers Batch-6` green execution reported
+    - `Temporal Reference Nouns Batch-8` green execution reported
+    - `Past Day Reference Batch-6` green execution reported
+    - `Time Point Bulk Batch-65` bulk execution reported
+    - `Time Root Bulk Remaining Batch-132` bulk execution reported
   - Next:
-    - runtime projection/replace 단계에서 왜 batch core `31`개를 전부 live append했는지 경로를 특정
-    - sentinel `요일_일반명사-1`를 no-drift control set에 둔 판단이 맞는지 재분류
+    - medical learner journey 패턴을 다른 domain으로 확장할지 사용자 승인 요청
+    - 또는 holdout `4`개를 해제할지 사용자 승인 요청
+    - 그 이전까지는 current live parity + non-control generation + medical enrichment 기준을 authoritative baseline으로 유지
+    - hierarchy change나 id admission이 필요한 후보는 yellow track으로 유지
+
+## 5. 직전 revision context
 
 - `V1-REV-98`
   - Agent: 데이터
@@ -362,7 +376,7 @@
     - `chunk rebuild` 금지
     - `live overwrite` 금지
 
-## 5. canonical에 이미 반영된 문서
+## 6. canonical에 이미 반영된 문서
 
 - `08_expansion/RELATION_DATA_POLICY_V1.md`
 - `08_expansion/APP_DATA_REDEPLOY_SOP_V1.md`
@@ -370,7 +384,7 @@
 - `08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md`
 - `08_expansion/MASTER_ROADMAP_V1.md`
 
-## 6. 중요한 산출물 위치
+## 7. 중요한 산출물 위치
 
 - planning proposal:
   - `.gemini-orchestration/workboard_archive/planning/20260314_REV74_relation_model_execution_closure_proposal.md`
@@ -442,7 +456,7 @@
   - `.gemini-orchestration/workboard_archive/review/20260314_PRE_REV83_execution_method_survey_assignment.md`
   - `.gemini-orchestration/workboard_archive/development/20260314_PRE_REV83_execution_method_survey_assignment.md`
 
-## 7. 현재 Main PM 판단 메모
+## 8. 현재 Main PM 판단 메모
 
 - 문서/프로토콜 구조는 이미 충분히 정리됨
 - `REV-82` 내용 검토 결과, holdout 4는 현재 단계에서 `node seeded / edge held` 유지가 타당함
@@ -459,9 +473,12 @@
 - 과도하게 micro revision을 쪼개는 문제를 인식하고 있음
   - 이후는 가능한 `work package` 단위로 더 크게 묶는 편이 좋음
 
-## 8. 바로 다음 액션
+## 9. 바로 다음 액션
 
-- 다음 단계는 `REV-98` projection gate package 보고 확인
+- 다음 단계는 medical learner journey 패턴을 다른 domain으로 확장할지 사용자 승인 요청을 여는 것이다.
 - 판단 메모:
-  - `REV-97` verdict는 수용
-  - 신규 20 edge preview coverage를 먼저 닫은 뒤 runtime projection으로 가는 것이 맞다
+  - `Calendar Label Batch-11`은 green queue가 아니라 yellow runtime reclassification queue에 유지한다.
+  - current live parity 기준의 internal canonical node coverage는 `8094 / 8094`로 닫혔다.
+  - non-control generation도 닫혀서 remaining zero는 intentional holdout `4`개뿐이다.
+  - `병원 -> 아프다`류의 richer enrichment는 runtime에 실제 반영되는 것이 확인됐다.
+  - 다음 meaningful gate는 domain-scale richer enrichment 확장 여부다.

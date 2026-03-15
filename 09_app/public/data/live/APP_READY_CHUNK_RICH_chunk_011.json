@@ -655,7 +655,13 @@
   "키우다_동사-1": {
     "id": "키우다_동사-1",
     "def_ko": "사람이나 동식물을 돌보아 자라게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "기르다",
+      "끌어들이다",
+      "나누다",
+      "데리다",
+      "드리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1358,7 +1364,13 @@
   "테러리스트_일반명사-1": {
     "id": "테러리스트_일반명사-1",
     "def_ko": "폭력을 이용한 테러를 일으키는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "공범"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1756,7 +1768,13 @@
   "통하다_동사-1": {
     "id": "통하다_동사-1",
     "def_ko": "막히지 않고 지나갈 수 있다",
-    "related_vocab": [],
+    "related_vocab": [
+      "갈아타다",
+      "거치다",
+      "건너가다",
+      "건너다",
+      "건너오다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2396,7 +2414,13 @@
   "파리_일반명사-1": {
     "id": "파리_일반명사-1",
     "def_ko": "사람이나 동물의 주변을 날아다니는 작은 날벌레",
-    "related_vocab": [],
+    "related_vocab": [
+      "모기",
+      "진드기",
+      "거미",
+      "곤충",
+      "미생물"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2433,7 +2457,13 @@
   "파손_일반명사-1": {
     "id": "파손_일반명사-1",
     "def_ko": "물건이 깨지거나 부서져 상함",
-    "related_vocab": [],
+    "related_vocab": [
+      "곳",
+      "파편",
+      "붙다",
+      "가죽",
+      "각지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2456,7 +2486,13 @@
   "파출소_일반명사-1": {
     "id": "파출소_일반명사-1",
     "def_ko": "동네 치안을 맡아 보는 작은 경찰서",
-    "related_vocab": [],
+    "related_vocab": [
+      "경찰서",
+      "시청",
+      "교육청",
+      "동",
+      "정부"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2578,7 +2614,13 @@
   "판소리_일반명사-1": {
     "id": "판소리_일반명사-1",
     "def_ko": "한 사람이 북장단에 맞추어 긴 이야기를 부르는 우리 전통 음악",
-    "related_vocab": [],
+    "related_vocab": [
+      "군무",
+      "가수",
+      "노래",
+      "독주회",
+      "발레"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2690,7 +2732,13 @@
   "패키지_일반명사-1": {
     "id": "패키지_일반명사-1",
     "def_ko": "여러 가지를 한데 묶어 놓은 상품이나 구성",
-    "related_vocab": [],
+    "related_vocab": [
+      "기념품",
+      "마직물",
+      "명품",
+      "물품",
+      "보석"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2715,7 +2763,13 @@
   "팬_일반명사-1": {
     "id": "팬_일반명사-1",
     "def_ko": "어떤 사람이나 분야를 매우 좋아하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "관계자",
+      "글쓴이",
+      "내부자",
+      "단원",
+      "상대방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3000,7 +3054,13 @@
   "평화_일반명사-1": {
     "id": "평화_일반명사-1",
     "def_ko": "전쟁이나 싸움이 없고 조용한 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "노벨상",
+      "각계",
+      "각광",
+      "간담회",
+      "개혁"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3039,7 +3099,13 @@
   "폐교_일반명사-1": {
     "id": "폐교_일반명사-1",
     "def_ko": "학생이 없어져 문을 닫은 학교",
-    "related_vocab": [],
+    "related_vocab": [
+      "학교",
+      "교복",
+      "공부방",
+      "교육원",
+      "대학교"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3073,7 +3139,13 @@
   "폐지_일반명사-1": {
     "id": "폐지_일반명사-1",
     "def_ko": "하던 제도나 법, 기관 등을 없앰",
-    "related_vocab": [],
+    "related_vocab": [
+      "개혁",
+      "공모",
+      "방청",
+      "짓다",
+      "언론사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3083,7 +3155,13 @@
   "포_일반명사-1": {
     "id": "포_일반명사-1",
     "def_ko": "고기나 생선을 얇게 저며 말린 음식",
-    "related_vocab": [],
+    "related_vocab": [
+      "만두",
+      "국",
+      "면",
+      "샌드위치",
+      "불고기"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3120,7 +3198,13 @@
   "포도주_일반명사-1": {
     "id": "포도주_일반명사-1",
     "def_ko": "포도를 발효시켜 만든 술",
-    "related_vocab": [],
+    "related_vocab": [
+      "와인",
+      "녹차",
+      "맥주",
+      "사탕",
+      "소주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3158,7 +3242,13 @@
   "포장_일반명사-1": {
     "id": "포장_일반명사-1",
     "def_ko": "물건을 싸거나 둘러써 보호하거나 보기 좋게 함",
-    "related_vocab": [],
+    "related_vocab": [
+      "값",
+      "구매",
+      "구입",
+      "돈",
+      "세일"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3410,7 +3500,13 @@
   "풀썩_일반부사-1": {
     "id": "풀썩_일반부사-1",
     "def_ko": "갑자기 주저앉거나 쓰러지는 모양",
-    "related_vocab": [],
+    "related_vocab": [
+      "네모",
+      "동그라미",
+      "모양",
+      "선",
+      "삼각"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3458,7 +3554,13 @@
   "품다_동사-1": {
     "id": "품다_동사-1",
     "def_ko": "가슴에 안다",
-    "related_vocab": [],
+    "related_vocab": [
+      "껴안다",
+      "끌어안다",
+      "가로채다",
+      "갚다",
+      "거들다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3533,7 +3635,13 @@
   "풍선_일반명사-1": {
     "id": "풍선_일반명사-1",
     "def_ko": "커다란 주머니에 수소나 헬륨 등의 공기보다 가벼운 기체를 넣어, 공중에 높이 올라가도록 만든 물건",
-    "related_vocab": [],
+    "related_vocab": [
+      "가죽",
+      "기구",
+      "내용물",
+      "막대",
+      "물건"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3587,7 +3695,13 @@
   "프랜차이즈_일반명사-1": {
     "id": "프랜차이즈_일반명사-1",
     "def_ko": "본사 이름과 방식으로 여러 사람이 가게를 내는 사업 방식",
-    "related_vocab": [],
+    "related_vocab": [
+      "조직",
+      "사업",
+      "상회",
+      "발생기",
+      "복사기"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3625,7 +3739,13 @@
   "프린터_일반명사-1": {
     "id": "프린터_일반명사-1",
     "def_ko": "컴퓨터의 내용을 종이에 인쇄하는 기계",
-    "related_vocab": [],
+    "related_vocab": [
+      "감지기",
+      "라디오",
+      "선풍기",
+      "사진기",
+      "텔레비전"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3664,7 +3784,13 @@
   "플랜트_일반명사-1": {
     "id": "플랜트_일반명사-1",
     "def_ko": "공장이나 시설을 통째로 묶어 이르는 설비 체계",
-    "related_vocab": [],
+    "related_vocab": [
+      "계열사",
+      "본부",
+      "본사",
+      "부서",
+      "사무실"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3687,7 +3813,13 @@
   "피겨_일반명사-1": {
     "id": "피겨_일반명사-1",
     "def_ko": "빙판 위에서 음악에 맞춰 도는 스케이팅 경기",
-    "related_vocab": [],
+    "related_vocab": [
+      "결승전",
+      "경기",
+      "달리기",
+      "본선",
+      "스포츠"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3710,7 +3842,13 @@
   "피난_일반명사-1": {
     "id": "피난_일반명사-1",
     "def_ko": "전쟁이나 재해를 피하여 다른 데로 옮겨 감",
-    "related_vocab": [],
+    "related_vocab": [
+      "기증",
+      "가로등",
+      "감옥",
+      "개장",
+      "검거"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5960,7 +6098,13 @@
   "혁명_일반명사-1": {
     "id": "혁명_일반명사-1",
     "def_ko": "정치나 사회 제도가 급격히 바뀌는 큰 변화",
-    "related_vocab": [],
+    "related_vocab": [
+      "파행",
+      "각계",
+      "각광",
+      "간담회",
+      "개혁"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6026,7 +6170,13 @@
   "현대인_일반명사-1": {
     "id": "현대인_일반명사-1",
     "def_ko": "현대 사회에 살고 있는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "현지인",
+      "교포",
+      "내부자",
+      "단원",
+      "상대방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

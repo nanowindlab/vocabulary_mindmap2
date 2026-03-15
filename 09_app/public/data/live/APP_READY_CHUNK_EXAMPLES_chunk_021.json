@@ -94,7 +94,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "pochak"
     },
     "포함_일반명사-1": {
@@ -596,7 +602,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "깨닫다",
+        "끊기다",
+        "끊어지다",
+        "낳다",
+        "말미암다"
+      ],
       "phonetic_romanization": "pulda"
     },
     "풀이_일반명사-1": {
@@ -1103,7 +1115,6 @@
         "닷새",
         "밤낮",
         "수요일",
-        "종일",
         "종일"
       ],
       "phonetic_romanization": "haru"
@@ -1147,7 +1158,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곧",
+        "곧바로",
+        "곧이어",
+        "금방",
+        "때로"
+      ],
       "phonetic_romanization": "haruppalli"
     },
     "하루하루_일반명사-1": {
@@ -1250,7 +1267,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "넓이",
+        "극",
+        "대규모",
+        "반",
+        "소규모"
+      ],
       "phonetic_romanization": ""
     },
     "한가하다_형용사-1": {
@@ -1569,7 +1592,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "haedap"
     },
     "해당_일반명사-1": {
@@ -2213,11 +2242,11 @@
         }
       ],
       "related_vocab": [
-        "오늘",
-        "오늘날",
+        "지금",
         "올해",
-        "이번",
-        "현행"
+        "최근",
+        "미래",
+        "이후"
       ],
       "phonetic_romanization": "hyeonjae"
     },
@@ -2402,7 +2431,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "수집",
+        "손동작",
+        "수거",
+        "되풀이",
+        "모으다"
+      ],
       "phonetic_romanization": "honhap"
     },
     "홀수_일반명사-1": {
@@ -3003,7 +3038,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "버리다",
+        "잃어버리다",
+        "가져다주다",
+        "잃다",
+        "강구"
+      ],
       "phonetic_romanization": "hwaldong"
     },
     "활동량_일반명사-1": {
@@ -3782,7 +3823,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "당대",
+        "조기",
+        "초기",
+        "밤늦다",
+        "초창기"
+      ],
       "phonetic_romanization": "hyugacheol"
     },
     "휴일_일반명사-1": {
@@ -4326,7 +4373,11 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "앞서",
+        "나중",
+        "다음"
+      ],
       "phonetic_romanization": "meonjeo"
     }
   }

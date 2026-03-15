@@ -2,7 +2,13 @@
   "좌절_일반명사-1": {
     "id": "좌절_일반명사-1",
     "def_ko": "계획이나 희망이 중간에 무너짐",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -295,7 +301,13 @@
   "중독_일반명사-1": {
     "id": "중독_일반명사-1",
     "def_ko": "약물이나 게임 등에 지나치게 빠져 벗어나기 어려운 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "동정",
+      "풀어지다",
+      "각오",
+      "갈망",
+      "갈증"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -333,7 +345,13 @@
   "중얼거리다_동사-1": {
     "id": "중얼거리다_동사-1",
     "def_ko": "작은 소리로 혼자 계속 말하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "외치다",
+      "들려주다",
+      "소리치다",
+      "외침",
+      "듣다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -419,7 +437,13 @@
   "즐거워하다_동사-1": {
     "id": "즐거워하다_동사-1",
     "def_ko": "마음속으로 기뻐하고 좋아하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "감탄",
+      "좋아하다",
+      "기뻐하다",
+      "신나다",
+      "웃기다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -458,7 +482,13 @@
   "지겹다_형용사-1": {
     "id": "지겹다_형용사-1",
     "def_ko": "너무 오래 계속되어 싫고 질리는 느낌이 들다",
-    "related_vocab": [],
+    "related_vocab": [
+      "귀찮다",
+      "민망하다",
+      "서운하다",
+      "딱하다",
+      "답답하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -962,7 +992,13 @@
   "집중력_일반명사-1": {
     "id": "집중력_일반명사-1",
     "def_ko": "정신을 한 가지에 오래 모을 수 있는 힘",
-    "related_vocab": [],
+    "related_vocab": [
+      "염두",
+      "의중",
+      "머릿속",
+      "인상적",
+      "본능"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1117,7 +1153,13 @@
   "찍히다_동사-1": {
     "id": "찍히다_동사-1",
     "def_ko": "평평한 곳에 대고 눌려 자국이 나다",
-    "related_vocab": [],
+    "related_vocab": [
+      "비추다",
+      "투영",
+      "그리다",
+      "긋다",
+      "기다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1127,7 +1169,13 @@
   "찡그리다_동사-1": {
     "id": "찡그리다_동사-1",
     "def_ko": "얼굴의 근육이나 눈살에 힘을 주어 주름이 잡히게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "기울이다",
+      "깜박하다",
+      "비추다",
+      "늘이다",
+      "드러내다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1151,7 +1199,13 @@
   "차라리_일반부사-1": {
     "id": "차라리_일반부사-1",
     "def_ko": "완전히 좋지는 않지만 그 편이 더 낫다는 뜻으로",
-    "related_vocab": [],
+    "related_vocab": [
+      "마땅히",
+      "하필",
+      "가치",
+      "가치관",
+      "각별"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1441,7 +1495,13 @@
   "천차만별_일반명사-1": {
     "id": "천차만별_일반명사-1",
     "def_ko": "여러 가지가 서로 매우 다 다름",
-    "related_vocab": [],
+    "related_vocab": [
+      "강력",
+      "고속",
+      "막심",
+      "빈약",
+      "심각성"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1463,7 +1523,13 @@
   "천편일률_일반명사-1": {
     "id": "천편일률_일반명사-1",
     "def_ko": "많은 것이 하나같이 비슷해 재미가 없음",
-    "related_vocab": [],
+    "related_vocab": [
+      "결핍",
+      "미비",
+      "상당",
+      "저조",
+      "신속"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1488,7 +1554,13 @@
   "철저_일반명사-1": {
     "id": "철저_일반명사-1",
     "def_ko": "빠짐없이 끝까지 그러함",
-    "related_vocab": [],
+    "related_vocab": [
+      "고루",
+      "철저히",
+      "가늠",
+      "강도",
+      "강력"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1510,7 +1582,13 @@
   "첨단_일반명사-1": {
     "id": "첨단_일반명사-1",
     "def_ko": "어떤 분야에서 가장 앞선 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "위주",
+      "가치",
+      "감상문",
+      "거론",
+      "건의"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1520,7 +1598,13 @@
   "첫눈_일반명사-1": {
     "id": "첫눈_일반명사-1",
     "def_ko": "무엇을 처음 보았을 때의 느낌이나 인상",
-    "related_vocab": [],
+    "related_vocab": [
+      "첫인상",
+      "생각",
+      "욕구",
+      "의욕",
+      "이미지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1530,7 +1614,13 @@
   "첫사랑_일반명사-1": {
     "id": "첫사랑_일반명사-1",
     "def_ko": "처음으로 깊이 사랑한 사람이나 그 사랑",
-    "related_vocab": [],
+    "related_vocab": [
+      "사랑",
+      "애정",
+      "감격",
+      "모성애",
+      "반가움"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1633,7 +1723,13 @@
   "체면_일반명사-1": {
     "id": "체면_일반명사-1",
     "def_ko": "남을 대하기에 떳떳한 입장이나 얼굴",
-    "related_vocab": [],
+    "related_vocab": [
+      "겸손",
+      "무시",
+      "선행",
+      "유머",
+      "조종"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1672,7 +1768,13 @@
   "초심_일반명사-1": {
     "id": "초심_일반명사-1",
     "def_ko": "처음에 가지던 마음가짐",
-    "related_vocab": [],
+    "related_vocab": [
+      "각오",
+      "갈망",
+      "갈증",
+      "감정",
+      "결심"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1703,7 +1805,13 @@
   "촉각_일반명사-1": {
     "id": "촉각_일반명사-1",
     "def_ko": "살갗으로 만져서 느끼는 감각",
-    "related_vocab": [],
+    "related_vocab": [
+      "간지럽다",
+      "가루",
+      "가시",
+      "간지럼",
+      "감촉"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1727,7 +1835,13 @@
   "촌스럽다_형용사-1": {
     "id": "촌스럽다_형용사-1",
     "def_ko": "태도나 취향이 세련되지 못하고 시골 사람 같다",
-    "related_vocab": [],
+    "related_vocab": [
+      "굴다",
+      "굽실거리다",
+      "돌아서다",
+      "머뭇거리다",
+      "비굴"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1812,7 +1926,13 @@
   "추억_일반명사-1": {
     "id": "추억_일반명사-1",
     "def_ko": "지난 일을 떠올리며 생각함 또는 그 기억",
-    "related_vocab": [],
+    "related_vocab": [
+      "기억",
+      "고려",
+      "노력",
+      "뜻",
+      "상상"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1822,7 +1942,13 @@
   "추천_일반명사-1": {
     "id": "추천_일반명사-1",
     "def_ko": "좋다고 여겨 남에게 권함",
-    "related_vocab": [],
+    "related_vocab": [
+      "권유",
+      "권장",
+      "동의",
+      "권고",
+      "항의"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1832,7 +1958,13 @@
   "축_일반명사-1": {
     "id": "축_일반명사-1",
     "def_ko": "기쁜 일을 함께 기리며 즐기는 말이나 글",
-    "related_vocab": [],
+    "related_vocab": [
+      "축하",
+      "반가움",
+      "농담",
+      "심미",
+      "기호"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1932,7 +2064,13 @@
   "충족_일반명사-1": {
     "id": "충족_일반명사-1",
     "def_ko": "필요한 조건이나 욕구가 채워짐",
-    "related_vocab": [],
+    "related_vocab": [
+      "구하다",
+      "각오",
+      "갈망",
+      "갈증",
+      "감정"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2499,7 +2637,13 @@
   "토질_일반명사-1": {
     "id": "토질_일반명사-1",
     "def_ko": "흙의 성질이나 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "가루",
+      "가시",
+      "간지럼",
+      "감촉",
+      "건조"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2924,7 +3068,13 @@
   "판별_일반명사-1": {
     "id": "판별_일반명사-1",
     "def_ko": "여러 가지를 서로 비교하여 구별해 냄",
-    "related_vocab": [],
+    "related_vocab": [
+      "감지",
+      "개념",
+      "계발",
+      "관찰력",
+      "기교"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3262,7 +3412,13 @@
   "표현력_일반명사-1": {
     "id": "표현력_일반명사-1",
     "def_ko": "자기 생각과 감정을 효과적으로 드러내는 능력",
-    "related_vocab": [],
+    "related_vocab": [
+      "모습",
+      "거대",
+      "거품",
+      "경관",
+      "관능"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4071,7 +4227,13 @@
   "허점_일반명사-1": {
     "id": "허점_일반명사-1",
     "def_ko": "단단하지 못해 약한 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4081,7 +4243,13 @@
   "허탈_일반명사-1": {
     "id": "허탈_일반명사-1",
     "def_ko": "기운이 빠져 멍한 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4107,7 +4275,6 @@
     "def_ko": "이미 오래되어 새롭지 않은",
     "related_vocab": [
       "간소하다",
-      "낡다",
       "낡다",
       "더러움"
     ],
@@ -4356,7 +4523,13 @@
   "호의_일반명사-1": {
     "id": "호의_일반명사-1",
     "def_ko": "누군가에게 보이는 좋은 마음과 태도",
-    "related_vocab": [],
+    "related_vocab": [
+      "기쁨",
+      "호감",
+      "기뻐하다",
+      "희소식",
+      "누리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4394,7 +4567,13 @@
   "혼_일반명사-1": {
     "id": "혼_일반명사-1",
     "def_ko": "사람의 몸과 떨어져 생각되는 정신이나 넋",
-    "related_vocab": [],
+    "related_vocab": [
+      "기운",
+      "유인",
+      "심리",
+      "집중",
+      "영혼"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4404,7 +4583,13 @@
   "혼선_일반명사-1": {
     "id": "혼선_일반명사-1",
     "def_ko": "내용이 뒤섞여 제대로 전달되지 못함",
-    "related_vocab": [],
+    "related_vocab": [
+      "어려움",
+      "단순",
+      "간단하다",
+      "간단히",
+      "만만하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4414,7 +4599,13 @@
   "혼잡_일반명사-1": {
     "id": "혼잡_일반명사-1",
     "def_ko": "사람이나 차가 너무 많아 어수선함",
-    "related_vocab": [],
+    "related_vocab": [
+      "어려움",
+      "단순",
+      "간단하다",
+      "간단히",
+      "만만하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4424,7 +4615,13 @@
   "화_일반명사-1": {
     "id": "화_일반명사-1",
     "def_ko": "기분이 몹시 언짢고 성이 난 감정",
-    "related_vocab": [],
+    "related_vocab": [
+      "노여움",
+      "화나다",
+      "고난",
+      "그리움",
+      "불쾌감"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4434,7 +4631,13 @@
   "화나다_동사-1": {
     "id": "화나다_동사-1",
     "def_ko": "몹시 언짢거나 못마땅하여 기분이 나빠지다",
-    "related_vocab": [],
+    "related_vocab": [
+      "화",
+      "고난",
+      "그리움",
+      "노여움",
+      "불쾌감"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4848,7 +5051,6 @@
     "id": "훼손_일반명사-1",
     "def_ko": "귀중한 것의 가치나 겉모습을 해치거나 망가뜨림",
     "related_vocab": [
-      "낡다",
       "낡다"
     ],
     "is_center_profile": false,

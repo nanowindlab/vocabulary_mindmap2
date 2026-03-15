@@ -155,7 +155,13 @@
   "눈꽃_일반명사-1": {
     "id": "눈꽃_일반명사-1",
     "def_ko": "눈이 나뭇가지나 물체에 앉아 꽃처럼 보이는 모양",
-    "related_vocab": [],
+    "related_vocab": [
+      "추적추적",
+      "가뭄",
+      "가스",
+      "강수량",
+      "강우"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -258,7 +264,13 @@
   "눈사람_일반명사-1": {
     "id": "눈사람_일반명사-1",
     "def_ko": "눈을 뭉쳐 사람 모양으로 만든 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "장난감",
+      "놀이터",
+      "게임",
+      "놀이",
+      "오락"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -268,7 +280,13 @@
   "눈살_일반명사-1": {
     "id": "눈살_일반명사-1",
     "def_ko": "눈썹과 그 주변의 살",
-    "related_vocab": [],
+    "related_vocab": [
+      "가슴",
+      "간",
+      "갈비",
+      "귀",
+      "귓등"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2462,7 +2480,13 @@
   "대형_일반명사-1": {
     "id": "대형_일반명사-1",
     "def_ko": "크기가 큰 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로",
+      "가운데",
+      "가장자리",
+      "겉",
+      "겉면"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2486,7 +2510,13 @@
   "대회장_일반명사-1": {
     "id": "대회장_일반명사-1",
     "def_ko": "대회가 열리는 장소",
-    "related_vocab": [],
+    "related_vocab": [
+      "경비실",
+      "가로등",
+      "감옥",
+      "개장",
+      "검거"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3818,7 +3848,13 @@
   "돌아서다_동사-1": {
     "id": "돌아서다_동사-1",
     "def_ko": "서 있는 방향을 바꾸다",
-    "related_vocab": [],
+    "related_vocab": [
+      "꺼내다",
+      "놓이다",
+      "빼내다",
+      "파내다",
+      "뽑아내다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4785,7 +4821,13 @@
   "뒤돌다_동사-1": {
     "id": "뒤돌다_동사-1",
     "def_ko": "몸이나 방향을 뒤쪽으로 돌리다",
-    "related_vocab": [],
+    "related_vocab": [
+      "뒤돌아서다",
+      "동서남북",
+      "방면",
+      "향하다",
+      "내비게이션"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4795,7 +4837,13 @@
   "뒤돌아서다_동사-1": {
     "id": "뒤돌아서다_동사-1",
     "def_ko": "몸을 뒤로 틀어 다른 방향을 향해 서다",
-    "related_vocab": [],
+    "related_vocab": [
+      "곧장",
+      "뒤돌다",
+      "동서남북",
+      "방면",
+      "향하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4834,7 +4882,13 @@
   "뒷걸음_일반명사-1": {
     "id": "뒷걸음_일반명사-1",
     "def_ko": "뒤로 물러가는 걸음",
-    "related_vocab": [],
+    "related_vocab": [
+      "걸음",
+      "감속",
+      "과속",
+      "귀환",
+      "도보"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

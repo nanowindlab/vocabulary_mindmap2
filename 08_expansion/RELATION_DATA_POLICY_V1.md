@@ -107,6 +107,9 @@ runtime-safe 제한:
 - internal canonical은 richer schema를 허용
 - runtime projection은 `word_to_word` 관계만 대상으로 유지
 - `word_to_scene`, `word_to_grammar`, `word_to_idiom`은 schema reserve만 하고 live runtime에는 직접 노출하지 않는다
+- runtime projection은 relation overlay only다
+- runtime projection은 new runtime id를 추가하지 않는다
+- runtime projection은 live `system/root/category`를 재분류하지 않는다
 ## 5. canonical runtime 규칙
 
 현재 canonical runtime 파일은 모두 아래 경로 기준이다.
@@ -148,6 +151,13 @@ runtime-safe 제한:
 optional note:
 
 - `jump_purpose_label` 등 learner-purpose 라벨은 후속 dev gate에서 검토한다
+
+### runtime safety gate
+
+- split/search duplicate ids가 있으면 projection을 중단한다
+- split/search count mismatch가 있으면 projection을 중단한다
+- active batch change surface에 포함된 id는 sentinel/no-drift control set에 넣지 않는다
+- active overlay ids가 current live runtime에 없으면 이 cycle은 thin runtime projection이 아니라 runtime admission/reclassification cycle로 분리한다
 
 ## 7. tie-breaker / duplicate rule
 
@@ -198,10 +208,11 @@ display intent precedence:
 - `related_vocab` 타분류 오염 `0`
 - `cross_links` 동일분류 오염 `0`
 - `cross_links` 타깃 누락 `0`
-- `chunk_id` 존재 `8092 / 8092`
+- `chunk_id` 존재 `8094 / 8094`
 - live chunk 내 legacy `target_center_id` 잔존 `0`
 - `core12 + holdout4` pilot relation이 runtime projection과 chunk rebuild gate까지 검증됨
 - holdout 4는 live search / split / chunk 모두 `related_vocab = 0`, `cross_links = 0`
+- local runtime recovery 후 split/search/chunk duplicate ids `0`
 
 현재 live count:
 

@@ -356,7 +356,13 @@
   "수난_일반명사-1": {
     "id": "수난_일반명사-1",
     "def_ko": "억울하게 당하는 큰 어려움이나 재난",
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -767,7 +773,13 @@
   "수확량_일반명사-1": {
     "id": "수확량_일반명사-1",
     "def_ko": "거둔 농작물의 양",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -985,7 +997,13 @@
   "쉿_감탄사-1": {
     "id": "쉿_감탄사-1",
     "def_ko": "남에게 큰 소리를 내지 말고 조용히 하라고 할 때 급하거나 단호하게 내는 소리",
-    "related_vocab": [],
+    "related_vocab": [
+      "부르다",
+      "응",
+      "이외",
+      "경고",
+      "명"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1037,7 +1055,13 @@
   "승화_일반명사-1": {
     "id": "승화_일반명사-1",
     "def_ko": "어떤 것이 더 높고 좋은 상태로 바뀌는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "없이",
+      "넘어가다",
+      "강구",
+      "결합",
+      "고갈"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1369,7 +1393,13 @@
   "식사량_일반명사-1": {
     "id": "식사량_일반명사-1",
     "def_ko": "한 번 밥을 먹을 때 먹는 양",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1379,7 +1409,13 @@
   "식후_일반명사-1": {
     "id": "식후_일반명사-1",
     "def_ko": "밥을 먹은 뒤",
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1420,7 +1456,13 @@
   "신선도_일반명사-1": {
     "id": "신선도_일반명사-1",
     "def_ko": "음식 재료가 얼마나 신선한지를 나타내는 정도",
-    "related_vocab": [],
+    "related_vocab": [
+      "신뢰도",
+      "완성도",
+      "운동량",
+      "기여도",
+      "내외"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1485,7 +1527,13 @@
   "실시간_일반명사-1": {
     "id": "실시간_일반명사-1",
     "def_ko": "일이 일어나는 바로 그 시간에 동시에",
-    "related_vocab": [],
+    "related_vocab": [
+      "직전",
+      "직후",
+      "초기",
+      "그때",
+      "날"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1543,7 +1591,13 @@
   "실종_일반명사-1": {
     "id": "실종_일반명사-1",
     "def_ko": "사라져서 어디 있는지 알 수 없게 됨",
-    "related_vocab": [],
+    "related_vocab": [
+      "검사",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1553,7 +1607,13 @@
   "실질_일반명사-1": {
     "id": "실질_일반명사-1",
     "def_ko": "겉이 아니라 내용이나 본바탕",
-    "related_vocab": [],
+    "related_vocab": [
+      "본질",
+      "다채롭다",
+      "사항",
+      "실제로",
+      "가능"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1575,7 +1635,13 @@
   "실체_일반명사-1": {
     "id": "실체_일반명사-1",
     "def_ko": "겉모습 뒤에 있는 진짜 모습이나 본모양",
-    "related_vocab": [],
+    "related_vocab": [
+      "실상",
+      "가능성",
+      "계열",
+      "성과",
+      "속성"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1705,7 +1771,13 @@
   "싸다_형용사-1": {
     "id": "싸다_형용사-1",
     "def_ko": "값이 보통보다 낮다",
-    "related_vocab": [],
+    "related_vocab": [
+      "많다",
+      "워낙",
+      "그지없다",
+      "넉넉하다",
+      "막대하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1800,10 +1872,10 @@
     "id": "아까_일반명사-1",
     "def_ko": "조금 전",
     "related_vocab": [
-      "금방",
       "방금",
-      "방금",
-      "이따"
+      "지금",
+      "그때",
+      "어젯밤"
     ],
     "is_center_profile": false,
     "refs": {
@@ -1816,7 +1888,6 @@
     "def_ko": "지금보다 조금 전에",
     "related_vocab": [
       "미리",
-      "방금",
       "방금",
       "전"
     ],
@@ -1936,7 +2007,13 @@
   "아무리_일반부사-1": {
     "id": "아무리_일반부사-1",
     "def_ko": "얼마나 많이 하거나 정도가 세게",
-    "related_vocab": [],
+    "related_vocab": [
+      "의존도",
+      "운동량",
+      "굉장히",
+      "꽤",
+      "너무나"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2381,7 +2458,13 @@
   "앞서_일반부사-1": {
     "id": "앞서_일반부사-1",
     "def_ko": "시간이나 순서에서 이전에",
-    "related_vocab": [],
+    "related_vocab": [
+      "곧",
+      "곧바로",
+      "곧이어",
+      "금방",
+      "때로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2714,7 +2797,13 @@
   "어느덧_일반부사-1": {
     "id": "어느덧_일반부사-1",
     "def_ko": "모르고 있는 동안에 벌써",
-    "related_vocab": [],
+    "related_vocab": [
+      "오래간만",
+      "수명",
+      "도중",
+      "갈수록",
+      "계속"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2838,11 +2927,11 @@
     "id": "어저께_일반명사-1",
     "def_ko": "오늘의 하루 전날",
     "related_vocab": [
-      "그저께",
-      "그제",
-      "어제",
       "전날",
-      "어제"
+      "어젯밤",
+      "그제",
+      "그저께",
+      "그날"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2878,11 +2967,11 @@
     "id": "어젯밤_일반명사-1",
     "def_ko": "지난 밤",
     "related_vocab": [
-      "내달",
-      "모레",
-      "작년",
-      "전년",
-      "최근"
+      "어저께",
+      "전날",
+      "그날",
+      "최근",
+      "아까"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2910,7 +2999,6 @@
     "id": "어쩌다_동사-1",
     "def_ko": "우연히 어떤 일이 생기다",
     "related_vocab": [
-      "어쩌다",
       "경우",
       "여파",
       "원인"
@@ -3203,7 +3291,13 @@
   "엊그제_일반명사-1": {
     "id": "엊그제_일반명사-1",
     "def_ko": "바로 며칠 전",
-    "related_vocab": [],
+    "related_vocab": [
+      "그때",
+      "다음",
+      "전날",
+      "이번",
+      "직전"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3249,7 +3343,13 @@
   "여든_수사-1": {
     "id": "여든_수사-1",
     "def_ko": "여덟이 열 번인 수",
-    "related_vocab": [],
+    "related_vocab": [
+      "백",
+      "넷",
+      "다섯",
+      "만",
+      "백만"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3326,7 +3426,13 @@
   "여부_일반명사-1": {
     "id": "여부_일반명사-1",
     "def_ko": "그런가 그렇지 않은가 하는 점",
-    "related_vocab": [],
+    "related_vocab": [
+      "기제",
+      "맞춤법",
+      "매개체",
+      "소용",
+      "수법"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3349,7 +3455,13 @@
   "여전히_일반부사-1": {
     "id": "여전히_일반부사-1",
     "def_ko": "전과 다르지 않게 계속",
-    "related_vocab": [],
+    "related_vocab": [
+      "계속",
+      "내내",
+      "지속",
+      "차차",
+      "내리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3419,7 +3531,13 @@
   "역전_일반명사-1": {
     "id": "역전_일반명사-1",
     "def_ko": "뒤집혀서 형세가 바뀜",
-    "related_vocab": [],
+    "related_vocab": [
+      "변동",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3631,7 +3749,13 @@
   "연장_일반명사-1": {
     "id": "연장_일반명사-1",
     "def_ko": "기간이나 길이를 더 늘림",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3890,9 +4014,9 @@
     "id": "예전_일반명사-1",
     "def_ko": "지나가 버린 옛날",
     "related_vocab": [
-      "고대",
-      "옛날",
-      "왕년"
+      "과거",
+      "당시",
+      "작년"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4274,7 +4398,6 @@
     "related_vocab": [
       "다",
       "모두",
-      "모두",
       "몽땅",
       "전력"
     ],
@@ -4287,7 +4410,13 @@
   "올여름_일반명사-1": {
     "id": "올여름_일반명사-1",
     "def_ko": "올해의 여름",
-    "related_vocab": [],
+    "related_vocab": [
+      "작년",
+      "전년",
+      "내년",
+      "고대",
+      "공휴일"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4298,9 +4427,11 @@
     "id": "올해_일반명사-1",
     "def_ko": "지금 지나가고 있는 이 해",
     "related_vocab": [
-      "오늘",
-      "오늘",
-      "현재"
+      "금년",
+      "작년",
+      "전년",
+      "내후년",
+      "새해"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4684,7 +4815,13 @@
   "용량_일반명사-1": {
     "id": "용량_일반명사-1",
     "def_ko": "담을 수 있는 양",
-    "related_vocab": [],
+    "related_vocab": [
+      "꼭대기",
+      "밀도",
+      "전력",
+      "몽땅",
+      "재력"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4727,8 +4864,7 @@
     "related_vocab": [
       "교체",
       "대안",
-      "반면",
-      "우선"
+      "반면"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4861,7 +4997,11 @@
     "id": "원래_일반명사-1",
     "def_ko": "처음부터 그와 같았던 상태",
     "related_vocab": [
-      "원래"
+      "원래",
+      "결국",
+      "궁극",
+      "기말",
+      "끝"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5045,7 +5185,13 @@
   "위력_일반명사-1": {
     "id": "위력_일반명사-1",
     "def_ko": "상대가 두려워할 만큼 강한 힘",
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5070,7 +5216,13 @@
   "위아래_일반명사-1": {
     "id": "위아래_일반명사-1",
     "def_ko": "윗부분과 아랫부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "건너",
+      "건너편",
+      "뒤",
+      "뒤쪽",
+      "안"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5106,7 +5258,13 @@
   "윗_일반명사-1": {
     "id": "윗_일반명사-1",
     "def_ko": "위쪽에 있는 부분을 가리키는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "건너편",
+      "뒤쪽",
+      "옆",
+      "뒷자리",
+      "위치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5116,7 +5274,13 @@
   "윗글_일반명사-1": {
     "id": "윗글_일반명사-1",
     "def_ko": "지금 보고 있는 글의 앞부분에 나온 글",
-    "related_vocab": [],
+    "related_vocab": [
+      "경고",
+      "명",
+      "명칭",
+      "신호",
+      "아무것"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5140,7 +5304,13 @@
   "유래_일반명사-1": {
     "id": "유래_일반명사-1",
     "def_ko": "어디에서부터 비롯되었는가 하는 내력",
-    "related_vocab": [],
+    "related_vocab": [
+      "결국",
+      "궁극",
+      "기말",
+      "끝",
+      "마감"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5164,7 +5334,13 @@
   "유보_일반명사-1": {
     "id": "유보_일반명사-1",
     "def_ko": "당장 하지 않고 뒤로 미루어 둠",
-    "related_vocab": [],
+    "related_vocab": [
+      "그만",
+      "그만두다",
+      "끝나다",
+      "결국",
+      "궁극"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5198,7 +5374,13 @@
   "유월_일반명사-1": {
     "id": "유월_일반명사-1",
     "def_ko": "일 년 열두 달 가운데 여섯째 달",
-    "related_vocab": [],
+    "related_vocab": [
+      "팔월",
+      "열흘",
+      "십이월",
+      "여름",
+      "주중"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5208,7 +5390,13 @@
   "유일_일반명사-1": {
     "id": "유일_일반명사-1",
     "def_ko": "오직 하나뿐임",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5582,7 +5770,13 @@
   "이러다_동사-1": {
     "id": "이러다_동사-1",
     "def_ko": "이렇게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "고치다",
+      "내보내다",
+      "내쫓다",
+      "돌려보내다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5592,7 +5786,13 @@
   "이론_일반명사-1": {
     "id": "이론_일반명사-1",
     "def_ko": "현상을 설명하기 위해 세운 체계적인 생각",
-    "related_vocab": [],
+    "related_vocab": [
+      "가설",
+      "방안",
+      "방침",
+      "수단",
+      "요건"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5632,7 +5832,13 @@
   "이뤄지다_동사-1": {
     "id": "이뤄지다_동사-1",
     "def_ko": "이루어지다의 준말",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5760,7 +5966,13 @@
   "이만_수사-1": {
     "id": "이만_수사-1",
     "def_ko": "숫자 이만",
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5783,7 +5995,13 @@
   "이백만_수사-1": {
     "id": "이백만_수사-1",
     "def_ko": "숫자 이백만",
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

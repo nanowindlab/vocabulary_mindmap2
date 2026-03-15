@@ -1859,7 +1859,13 @@
   "단발머리_일반명사-1": {
     "id": "단발머리_일반명사-1",
     "def_ko": "귀밑에서 어깨선 정도까지 오는 짧은 머리",
-    "related_vocab": [],
+    "related_vocab": [
+      "거대",
+      "거품",
+      "경관",
+      "관능",
+      "광경"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3219,7 +3225,13 @@
   "두드러지다_동사-1": {
     "id": "두드러지다_동사-1",
     "def_ko": "가운데가 불룩하게 나오다",
-    "related_vocab": [],
+    "related_vocab": [
+      "그리다",
+      "긋다",
+      "기다",
+      "기울이다",
+      "깜박이다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3301,7 +3313,13 @@
   "두르다_동사-1": {
     "id": "두르다_동사-1",
     "def_ko": "물건이나 사람의 둘레를 감거나 에워싸다",
-    "related_vocab": [],
+    "related_vocab": [
+      "둘러싸다",
+      "기울이다",
+      "잘생기다",
+      "체형",
+      "그리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3325,7 +3343,13 @@
   "두텁다_형용사-1": {
     "id": "두텁다_형용사-1",
     "def_ko": "정이나 믿음, 도움 따위가 깊고 크다",
-    "related_vocab": [],
+    "related_vocab": [
+      "벅차다",
+      "맹신",
+      "간절하다",
+      "굳다",
+      "궁금하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3426,7 +3450,13 @@
   "뒷전_일반명사-1": {
     "id": "뒷전_일반명사-1",
     "def_ko": "관심이나 중요함에서 밀려난 자리나 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3820,7 +3850,13 @@
   "딱_일반부사-1": {
     "id": "딱_일반부사-1",
     "def_ko": "정확하고 조금도 어긋남이 없이",
-    "related_vocab": [],
+    "related_vocab": [
+      "극히",
+      "강력히",
+      "곧잘",
+      "그럭저럭",
+      "급격히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3859,7 +3895,13 @@
   "딱히_일반부사-1": {
     "id": "딱히_일반부사-1",
     "def_ko": "특별히 뚜렷하게",
-    "related_vocab": [],
+    "related_vocab": [
+      "유난히",
+      "강력히",
+      "곧잘",
+      "그럭저럭",
+      "극히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3960,7 +4002,6 @@
     "def_ko": "합격이나 기준에 미치지 못하다",
     "related_vocab": [
       "못하다",
-      "못하다",
       "심사"
     ],
     "is_center_profile": false,
@@ -3985,7 +4026,13 @@
   "똑같다_형용사-1": {
     "id": "똑같다_형용사-1",
     "def_ko": "비교되는 두 것이 차이가 없다",
-    "related_vocab": [],
+    "related_vocab": [
+      "결핍",
+      "미비",
+      "천편일률",
+      "강하다",
+      "거세다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4023,7 +4070,13 @@
   "똑똑히_일반부사-1": {
     "id": "똑똑히_일반부사-1",
     "def_ko": "분명하고 확실하게",
-    "related_vocab": [],
+    "related_vocab": [
+      "가득히",
+      "감쪽같이",
+      "갸웃",
+      "거꾸로",
+      "고스란히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4679,8 +4732,7 @@
     "def_ko": "윗사람이나 높이는 대상의 말을 공손하게 이르는 말",
     "related_vocab": [
       "말",
-      "대화",
-      "말"
+      "대화"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4749,9 +4801,9 @@
     "id": "맘껏_일반부사-1",
     "def_ko": "마음에 흡족하도록 얼마든지",
     "related_vocab": [
+      "간절하다",
       "억지로",
-      "꺼리다",
-      "간절하다"
+      "꺼리다"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5699,7 +5751,6 @@
     "related_vocab": [
       "깔끔하다",
       "못생기다",
-      "못생기다",
       "잘생기다",
       "준수"
     ],
@@ -5747,7 +5798,6 @@
     "related_vocab": [
       "깔끔하다",
       "못나다",
-      "못생기다",
       "잘생기다",
       "준수"
     ],
@@ -5780,8 +5830,7 @@
       "금지",
       "금하다",
       "성공",
-      "떨어지다",
-      "못하다"
+      "떨어지다"
     ],
     "is_center_profile": false,
     "refs": {

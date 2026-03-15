@@ -113,7 +113,13 @@
   "이에_일반부사-1": {
     "id": "이에_일반부사-1",
     "def_ko": "이 때문에 또는 이 다음에",
-    "related_vocab": [],
+    "related_vocab": [
+      "병목",
+      "동",
+      "또는",
+      "말미암다",
+      "동문서답"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -164,7 +170,13 @@
   "이윽고_일반부사-1": {
     "id": "이윽고_일반부사-1",
     "def_ko": "얼마 지나지 않아 곧",
-    "related_vocab": [],
+    "related_vocab": [
+      "곧",
+      "조기",
+      "곧바로",
+      "곧이어",
+      "금방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -216,7 +228,13 @@
   "이제_일반부사-1": {
     "id": "이제_일반부사-1",
     "def_ko": "바로 지금부터",
-    "related_vocab": [],
+    "related_vocab": [
+      "이제",
+      "곧바로",
+      "곧이어",
+      "막",
+      "바로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -255,7 +273,13 @@
   "이쯤_일반부사-1": {
     "id": "이쯤_일반부사-1",
     "def_ko": "이 정도쯤의 때나 정도에",
-    "related_vocab": [],
+    "related_vocab": [
+      "미처",
+      "닥치다",
+      "임박",
+      "전",
+      "수시"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -277,7 +301,13 @@
   "이튿날_일반명사-1": {
     "id": "이튿날_일반명사-1",
     "def_ko": "기준이 되는 날의 다음 날",
-    "related_vocab": [],
+    "related_vocab": [
+      "시점",
+      "다음날",
+      "이르다",
+      "그때",
+      "다음"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -316,7 +346,13 @@
   "이해_일반명사-2": {
     "id": "이해_일반명사-2",
     "def_ko": "이익과 손해 따위의 관계",
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -341,10 +377,9 @@
     "id": "이후_일반명사-1",
     "def_ko": "어떤 때가 지나간 뒤의 때",
     "related_vocab": [
+      "미래",
       "내후년",
-      "뒤늦다",
-      "왕년",
-      "후"
+      "현재"
     ],
     "is_center_profile": false,
     "refs": {
@@ -728,11 +763,9 @@
     "id": "작년_일반명사-1",
     "def_ko": "올해의 바로 지난 해",
     "related_vocab": [
-      "내달",
-      "어젯밤",
       "전년",
-      "지난",
-      "최근"
+      "올해",
+      "재작년"
     ],
     "is_center_profile": false,
     "refs": {
@@ -904,7 +937,13 @@
   "잡다_동사-1": {
     "id": "잡다_동사-1",
     "def_ko": "손으로 쥐거나 붙들다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1070,7 +1109,13 @@
   "재료비_일반명사-1": {
     "id": "재료비_일반명사-1",
     "def_ko": "재료를 사는 데 드는 돈",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1108,7 +1153,10 @@
   "재작년_일반명사-1": {
     "id": "재작년_일반명사-1",
     "def_ko": "지난해의 바로 전 해",
-    "related_vocab": [],
+    "related_vocab": [
+      "작년",
+      "전년"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1188,7 +1236,13 @@
   "저러다_동사-1": {
     "id": "저러다_동사-1",
     "def_ko": "저렇게 행동하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "부르다",
+      "달다",
+      "시키다",
+      "경고",
+      "명"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1198,7 +1252,13 @@
   "저런_관형사-1": {
     "id": "저런_관형사-1",
     "def_ko": "저와 같은, 저와 비슷한",
-    "related_vocab": [],
+    "related_vocab": [
+      "저렇다",
+      "아무",
+      "경고",
+      "명",
+      "명칭"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1208,7 +1268,13 @@
   "저렇다_형용사-1": {
     "id": "저렇다_형용사-1",
     "def_ko": "저와 같은 상태이다",
-    "related_vocab": [],
+    "related_vocab": [
+      "저런",
+      "경고",
+      "명",
+      "명칭",
+      "부르다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1218,7 +1284,13 @@
   "저리_일반부사-1": {
     "id": "저리_일반부사-1",
     "def_ko": "저곳으로. 또는 저쪽으로",
-    "related_vocab": [],
+    "related_vocab": [
+      "안",
+      "뒤편",
+      "동방",
+      "가까이",
+      "가깝다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1282,7 +1354,13 @@
   "저해_일반명사-1": {
     "id": "저해_일반명사-1",
     "def_ko": "잘되는 것을 가로막아 해를 줌",
-    "related_vocab": [],
+    "related_vocab": [
+      "개방",
+      "계승",
+      "냉각",
+      "도입",
+      "마련"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1320,7 +1398,6 @@
     "def_ko": "아무리 적게 잡아도",
     "related_vocab": [
       "고작",
-      "최소한",
       "최소한"
     ],
     "is_center_profile": false,
@@ -1345,7 +1422,13 @@
   "적용_일반명사-1": {
     "id": "적용_일반명사-1",
     "def_ko": "알맞은 경우에 방법이나 규칙을 실제로 씀",
-    "related_vocab": [],
+    "related_vocab": [
+      "수단",
+      "결과물",
+      "실존",
+      "실효",
+      "실제로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1367,7 +1450,13 @@
   "적정량_일반명사-1": {
     "id": "적정량_일반명사-1",
     "def_ko": "알맞은 양",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1405,7 +1494,13 @@
   "전_관형사-2": {
     "id": "전_관형사-2",
     "def_ko": "이전의",
-    "related_vocab": [],
+    "related_vocab": [
+      "지난",
+      "갑작스럽다",
+      "고대",
+      "곧",
+      "곧바로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1444,11 +1539,11 @@
     "id": "전날_일반명사-1",
     "def_ko": "어떤 날의 바로 앞날",
     "related_vocab": [
-      "그저께",
-      "그제",
-      "다음날",
       "어저께",
-      "어제"
+      "어젯밤",
+      "그날",
+      "그제",
+      "그저께"
     ],
     "is_center_profile": false,
     "refs": {
@@ -1460,9 +1555,8 @@
     "id": "전년_일반명사-1",
     "def_ko": "올해의 바로 지난 해",
     "related_vocab": [
-      "어젯밤",
       "작년",
-      "지난"
+      "올해"
     ],
     "is_center_profile": false,
     "refs": {
@@ -1532,7 +1626,13 @@
   "전망_일반명사-1": {
     "id": "전망_일반명사-1",
     "def_ko": "앞으로 일이 어떻게 될지 내다봄",
-    "related_vocab": [],
+    "related_vocab": [
+      "가능성",
+      "걸림돌",
+      "경우",
+      "계기",
+      "근원"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1814,7 +1914,13 @@
   "젊다_형용사-1": {
     "id": "젊다_형용사-1",
     "def_ko": "나이가 적다",
-    "related_vocab": [],
+    "related_vocab": [
+      "갑작스럽다",
+      "늦다",
+      "뒤늦다",
+      "밤늦다",
+      "고대"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1824,7 +1930,13 @@
   "젊음_일반명사-1": {
     "id": "젊음_일반명사-1",
     "def_ko": "몸과 마음이 젊은 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1991,7 +2103,13 @@
   "정립_일반명사-1": {
     "id": "정립_일반명사-1",
     "def_ko": "기초를 세워 확립함",
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2036,7 +2154,13 @@
   "정상_일반명사-2": {
     "id": "정상_일반명사-2",
     "def_ko": "상태나 기능에 이상이 없이 바른 모습",
-    "related_vocab": [],
+    "related_vocab": [
+      "결과",
+      "공통",
+      "공동",
+      "상징",
+      "공통점"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2264,7 +2388,13 @@
   "제약_일반명사-1": {
     "id": "제약_일반명사-1",
     "def_ko": "어떤 조건을 붙여 자유를 막음",
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "결과",
+      "경우",
+      "계기"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2665,8 +2795,7 @@
       "밤낮",
       "하루",
       "하룻밤",
-      "하루하루",
-      "종일"
+      "하루하루"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2771,7 +2900,13 @@
   "주기_일반명사-1": {
     "id": "주기_일반명사-1",
     "def_ko": "어떤 현상이 되풀이되는 동안의 간격",
-    "related_vocab": [],
+    "related_vocab": [
+      "과정",
+      "그동안",
+      "동안",
+      "때",
+      "명맥"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2794,7 +2929,13 @@
   "주로_일반부사-1": {
     "id": "주로_일반부사-1",
     "def_ko": "대부분, 거의",
-    "related_vocab": [],
+    "related_vocab": [
+      "좀처럼",
+      "간혹",
+      "거듭",
+      "그때그때",
+      "수시로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3234,7 +3375,13 @@
   "증감_일반명사-1": {
     "id": "증감_일반명사-1",
     "def_ko": "늘고 줄어드는 변화",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3329,11 +3476,9 @@
     "id": "지금_일반명사-1",
     "def_ko": "말하고 있는 바로 이 때",
     "related_vocab": [
-      "바로",
-      "오늘",
-      "오늘",
-      "이번",
-      "이제"
+      "현재",
+      "올해",
+      "최근"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3665,7 +3810,13 @@
   "진도_일반명사-1": {
     "id": "진도_일반명사-1",
     "def_ko": "일이나 공부가 나아가고 있는 정도",
-    "related_vocab": [],
+    "related_vocab": [
+      "꼭대기",
+      "밀도",
+      "전력",
+      "몽땅",
+      "재력"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3785,7 +3936,13 @@
   "짓_일반명사-1": {
     "id": "짓_일반명사-1",
     "def_ko": "(낮잡아 이르는 말로) 어떠한 행위나 행동",
-    "related_vocab": [],
+    "related_vocab": [
+      "공격",
+      "조치",
+      "강구",
+      "개발",
+      "개방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4059,7 +4216,13 @@
   "착오_일반명사-1": {
     "id": "착오_일반명사-1",
     "def_ko": "헷갈려서 잘못 생각하거나 처리한 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4276,7 +4439,13 @@
   "처박히다_동사-1": {
     "id": "처박히다_동사-1",
     "def_ko": "안쪽이나 구석에 깊이 박히다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4607,7 +4776,13 @@
   "초속_일반명사-1": {
     "id": "초속_일반명사-1",
     "def_ko": "1초 동안에 간 거리로 나타낸 속도",
-    "related_vocab": [],
+    "related_vocab": [
+      "겹",
+      "금화",
+      "단위",
+      "자",
+      "각도"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4617,7 +4792,13 @@
   "초저녁_일반명사-1": {
     "id": "초저녁_일반명사-1",
     "def_ko": "저녁이 시작되는 때",
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4667,11 +4848,9 @@
     "id": "최근_일반명사-1",
     "def_ko": "지금에 가장 가까운 지난 때",
     "related_vocab": [
-      "어젯밤",
+      "현재",
       "작년",
-      "조만간",
-      "지난",
-      "최신"
+      "전년"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4743,8 +4922,7 @@
       "최소",
       "최저",
       "적어도",
-      "제일",
-      "최소한"
+      "제일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4889,7 +5067,13 @@
   "추적_일반명사-1": {
     "id": "추적_일반명사-1",
     "def_ko": "도망가거나 숨은 대상을 뒤쫓아 찾음",
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "맞이",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5004,7 +5188,13 @@
   "충당_일반명사-1": {
     "id": "충당_일반명사-1",
     "def_ko": "모자라는 부분을 다른 것으로 채움",
-    "related_vocab": [],
+    "related_vocab": [
+      "바꾸다",
+      "변조",
+      "전달",
+      "모방",
+      "전이"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5386,7 +5576,13 @@
   "토요_일반명사-1": {
     "id": "토요_일반명사-1",
     "def_ko": "토요일과 관련된 것임을 나타내는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "그날",
+      "고대",
+      "공휴일",
+      "과거",
+      "그때"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

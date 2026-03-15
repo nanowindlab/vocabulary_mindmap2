@@ -637,7 +637,13 @@
   "반신반의_일반명사-1": {
     "id": "반신반의_일반명사-1",
     "def_ko": "절반은 믿고 절반은 의심함",
-    "related_vocab": [],
+    "related_vocab": [
+      "각오",
+      "갈망",
+      "갈증",
+      "감정",
+      "결심"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1085,7 +1091,13 @@
   "벌칙_일반명사-1": {
     "id": "벌칙_일반명사-1",
     "def_ko": "규칙을 어겼을 때 내리는 벌의 규정",
-    "related_vocab": [],
+    "related_vocab": [
+      "반칙",
+      "가치",
+      "가치관",
+      "각별",
+      "간과"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1305,7 +1317,13 @@
   "보상_일반명사-1": {
     "id": "보상_일반명사-1",
     "def_ko": "손해나 수고에 걸맞게 대신 주는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "조언",
+      "가치",
+      "가치관",
+      "각별",
+      "간과"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1345,7 +1363,13 @@
   "복수_일반명사-1": {
     "id": "복수_일반명사-1",
     "def_ko": "자기나 자기의 가족 등에게 해를 끼친 사람에게 원수를 갚음",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1464,7 +1488,6 @@
     "def_ko": "겉모양이 초라하거나 매력이 없다",
     "related_vocab": [
       "간소하다",
-      "낡다",
       "낡다",
       "낮다"
     ],
@@ -2624,7 +2647,13 @@
   "비추다_동사-2": {
     "id": "비추다_동사-2",
     "def_ko": "거울이나 물 등에 모습이 나타나게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "비추다",
+      "그리다",
+      "기울이다",
+      "깜박하다",
+      "늘이다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2801,7 +2830,13 @@
   "빛나다_동사-2": {
     "id": "빛나다_동사-2",
     "def_ko": "재능이나 성과가 뛰어나 돋보이다",
-    "related_vocab": [],
+    "related_vocab": [
+      "부진",
+      "거스르다",
+      "고르다",
+      "권하다",
+      "꼽다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3174,7 +3209,13 @@
   "산산조각_일반명사-1": {
     "id": "산산조각_일반명사-1",
     "def_ko": "여러 조각으로 잘게 부서짐",
-    "related_vocab": [],
+    "related_vocab": [
+      "색채",
+      "줄무늬",
+      "거대",
+      "거품",
+      "경관"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3364,7 +3405,13 @@
   "상세히_일반부사-1": {
     "id": "상세히_일반부사-1",
     "def_ko": "자세하고 낱낱이",
-    "related_vocab": [],
+    "related_vocab": [
+      "가득히",
+      "감쪽같이",
+      "갸웃",
+      "거꾸로",
+      "고스란히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4353,7 +4400,13 @@
   "소극적_관형사-1": {
     "id": "소극적_관형사-1",
     "def_ko": "스스로 하려는 의지가 부족하고 활동적이지 않은 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "독립심",
+      "능동",
+      "도덕심",
+      "수동적",
+      "가만히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4489,7 +4542,13 @@
   "소홀하다_형용사-1": {
     "id": "소홀하다_형용사-1",
     "def_ko": "중요하게 생각하지 않아 주의나 정성이 부족하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "공손하다",
+      "당당하다",
+      "불친절하다",
+      "단정하다",
+      "가만"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4514,7 +4573,13 @@
   "속다_동사-1": {
     "id": "속다_동사-1",
     "def_ko": "남의 거짓이나 속임수에 넘어가다",
-    "related_vocab": [],
+    "related_vocab": [
+      "동정",
+      "걷잡다",
+      "견디다",
+      "구하다",
+      "그리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4607,7 +4672,13 @@
   "손사래_일반명사-1": {
     "id": "손사래_일반명사-1",
     "def_ko": "싫다고 하거나 사양할 때 손을 좌우로 젓는 동작",
-    "related_vocab": [],
+    "related_vocab": [
+      "필수",
+      "필요",
+      "요구",
+      "못하다",
+      "가치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4733,7 +4804,13 @@
   "수락_일반명사-1": {
     "id": "수락_일반명사-1",
     "def_ko": "요청이나 제안을 받아들임",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부",
+      "거절",
+      "인정",
+      "수용",
+      "채택"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5213,7 +5290,6 @@
     "def_ko": "풀이나 꽃이 물기가 없어져 축 늘어지다",
     "related_vocab": [
       "매달리다",
-      "낡다",
       "낡다",
       "기울다",
       "끄떡없다"
@@ -5697,7 +5773,13 @@
   "실용_일반명사-1": {
     "id": "실용_일반명사-1",
     "def_ko": "이론보다 실제 쓰임을 중시함",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

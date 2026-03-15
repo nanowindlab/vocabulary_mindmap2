@@ -2,9 +2,9 @@
 
 > **핵심 원칙**: 모든 에이전트의 작업 시작은 **`ORCHESTRATION_DASHBOARD.md`**에서 출발한다.
 >
-> **적용 범위**: 개발 에이전트의 실행 환경과 무관하게 동일한 workboard, 사용자 승인, append-only 로그 규칙을 적용한다.
+> **적용 범위**: 개발 에이전트의 실행 환경과 무관하게 동일한 PM 중심 상태 관리, 사용자 승인, evidence 보고 규칙을 적용한다.
 >
-> **사용자 프로토콜**: 사용자는 기본적으로 `ORCHESTRATION_DASHBOARD.md` 한 문서만 보고 모니터링하고 지시한다. workboard는 에이전트 상세 지시용으로 사용한다.
+> **사용자 프로토콜**: 사용자는 기본적으로 `ORCHESTRATION_DASHBOARD.md` 한 문서만 보고 모니터링하고 지시한다. 세부 근거와 intermediate evidence는 `08_expansion/pm_reports/`를 본다.
 
 ---
 
@@ -16,21 +16,21 @@
     - 자신의 행에 `DISPATCHED` 또는 `READY` 미션이 있는지 확인.
     - 프로젝트의 전체적인 맥락과 다른 에이전트의 완료 상태 파악.
     - 사용자는 이 문서만 보고 현재 누구를 움직일지 판단한다.
-2.  **[2차 문서] 워크보드 (Workboard)**: 
-    - 대시보드의 미션을 확인했다면, 즉시 자신의 워크보드로 이동.
-    - 매니저의 상세 지시문(Manager's Command)과 검증 체크리스트 숙지.
+2.  **[2차 문서] PM 보고서 / handoff**: 
+    - 대시보드의 active milestone을 확인했다면, 해당 PM 보고서와 handoff를 읽는다.
+    - 매니저의 현재 목적, 검증 체크리스트, 남은 리스크를 숙지한다.
 3.  **[3차 실행] 작업 및 보고 (Execution & Report)**: 
     - 실제 코드/문서 작업 수행.
-    - 작업 완료 후 워크보드에 `Latest Report`를 작성하고, 마지막으로 대시보드 상태를 `REPORTED`로 변경.
+    - 작업 완료 후 관련 milestone 보고서 또는 canonical 문서에 근거를 남기고, 마지막으로 대시보드 상태를 `REPORTED`로 변경한다.
 
-### 1.1. 접수 / 착수 반영 절차
+### 1.1. 착수 반영 절차
 
-- 에이전트가 첫 append-only 로그를 남기면, 그 로그를 **지시접수 / 착수 증거**로 간주합니다.
+- 에이전트 또는 Codex가 첫 근거 파일을 남기면, 그것을 **착수 증거**로 간주합니다.
 - 에이전트는 대시보드 상태를 직접 수정하지 않습니다.
 - Codex는 해당 로그를 확인한 뒤 대시보드의 아래 필드를 갱신합니다.
   - `지시접수 (Agent)`
   - `진행 상태 (Status)`
-- 따라서 에이전트의 책임은 `로그를 남기는 것`, Codex의 책임은 `대시보드에 반영하는 것`입니다.
+- 따라서 에이전트의 책임은 `근거를 남기는 것`, Codex의 책임은 `대시보드에 반영하는 것`입니다.
 
 ---
 
@@ -48,7 +48,7 @@
 - Codex가 검증을 완료해도, 사용자 승인 기록이 없으면 최종 완료로 처리하지 않습니다.
 - 사용자 승인 상태는 최소 아래 두 곳 중 하나에 남겨야 합니다.
   - `ORCHESTRATION_DASHBOARD.md`
-  - 해당 agent workboard
+  - `.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md`
 - 권장 상태값:
   - `요청 전`
   - `승인 대기`
@@ -73,19 +73,14 @@
 
 ---
 
-## 4. 워크보드 관리 표준
+## 4. PM 중심 상태 관리 표준
 
-- **snapshot 원칙**: 현재 workboard는 최신 상태 요약판으로 유지하고, 세부 보고는 append-only 로그 파일로 남깁니다.
-- **append-only 원칙**: workboard를 덮어쓰기 전에 상세 보고를 `.gemini-orchestration/workboard_archive/<agent>/` 아래 별도 문서로 먼저 보관합니다.
-- **write_file 원칙**: 현재 snapshot 갱신이 필요할 때만 전체 갱신(`write_file`)을 사용합니다.
-- **제어 필드 소유권**: workboard의 헤더(`Version`, `Status`, `User Approval Gate`, `Latest Detailed Report Path`)와 `Current Task`는 Codex 또는 사용자만 변경합니다. 에이전트는 append-only 로그에만 보고합니다.
+- **control plane 원칙**: 현재 상태는 `ORCHESTRATION_DASHBOARD.md`가 소유합니다.
+- **evidence 원칙**: 세부 보고와 intermediate proof는 `08_expansion/pm_reports/` 아래 milestone 보고서로 남깁니다.
+- **handoff 원칙**: 다음 스레드 재진입 상태는 `NEXT_MAIN_PM_HANDOFF_V1.md`가 소유합니다.
+- **제어 필드 소유권**: dashboard, handoff, decision log, tasklist의 상태 필드는 Codex 또는 사용자만 변경합니다.
 - **Self-Validation**: 지시문에 포함된 검증 루프(예: 3인 전문가 검증)를 보고서에 반드시 포함합니다.
-- **유실 방지 최소 항목**:
-  - `Current Task`
-  - `Expected Outputs`
-  - `Latest Snapshot`
-  - `Latest Detailed Report Path`
-  - `User Approval Gate`
+- **legacy 처리**: workboard/workboard_archive는 history-only로 유지하며, active state update 경로로 사용하지 않습니다.
 
 ## 5. 솔루션 우선 프로토콜 (Solution-First Protocol)
 

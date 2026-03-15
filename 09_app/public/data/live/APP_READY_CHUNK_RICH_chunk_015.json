@@ -297,7 +297,13 @@
   "아끼다_동사-1": {
     "id": "아끼다_동사-1",
     "def_ko": "낭비하지 않으려고 조심해 적게 쓰다",
-    "related_vocab": [],
+    "related_vocab": [
+      "미적거리다",
+      "서두르다",
+      "가만히",
+      "감성",
+      "감수"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -647,7 +653,13 @@
   "안녕_일반명사-1": {
     "id": "안녕_일반명사-1",
     "def_ko": "아픈 데나 탈이 없이 평안한 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "견디다",
+      "마지못하다",
+      "정신없이",
+      "각오",
+      "갈망"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -744,7 +756,13 @@
   "안색_일반명사-1": {
     "id": "안색_일반명사-1",
     "def_ko": "얼굴에 나타나는 표정이나 빛깔",
-    "related_vocab": [],
+    "related_vocab": [
+      "무늬",
+      "색깔",
+      "파란색",
+      "하얀색",
+      "색상"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -770,7 +788,13 @@
   "안쓰러워하다_동사-1": {
     "id": "안쓰러워하다_동사-1",
     "def_ko": "불쌍하고 가엾게 여기는 마음을 가지다",
-    "related_vocab": [],
+    "related_vocab": [
+      "고민거리",
+      "불만",
+      "미련",
+      "안되다",
+      "노려보다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1186,7 +1210,13 @@
   "얇다_형용사-1": {
     "id": "얇다_형용사-1",
     "def_ko": "두께가 두껍지 않고 가늘다",
-    "related_vocab": [],
+    "related_vocab": [
+      "거칠다",
+      "따뜻하다",
+      "딱딱하다",
+      "부드럽다",
+      "뻣뻣하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1481,7 +1511,13 @@
   "어휘력_일반명사-1": {
     "id": "어휘력_일반명사-1",
     "def_ko": "말을 이해하거나 사용하는 능력",
-    "related_vocab": [],
+    "related_vocab": [
+      "관찰력",
+      "능력",
+      "두뇌",
+      "사고력",
+      "실력"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1507,7 +1543,13 @@
   "억울하다_형용사-1": {
     "id": "억울하다_형용사-1",
     "def_ko": "잘못한 것도 없이 피해를 입어 속이 상하고 답답하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "답답하다",
+      "안타깝다",
+      "괴롭다",
+      "귀찮다",
+      "못마땅하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2132,7 +2174,13 @@
   "염려_일반명사-1": {
     "id": "염려_일반명사-1",
     "def_ko": "앞일에 대해 걱정함",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2191,7 +2239,13 @@
   "영광_일반명사-1": {
     "id": "영광_일반명사-1",
     "def_ko": "명예롭고 빛나는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2217,7 +2271,13 @@
   "영혼_일반명사-1": {
     "id": "영혼_일반명사-1",
     "def_ko": "죽은 사람의 몸에서 빠져나온 넋",
-    "related_vocab": [],
+    "related_vocab": [
+      "유인",
+      "심리",
+      "혼",
+      "각오",
+      "갈망"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2298,7 +2358,13 @@
   "예술관_일반명사-1": {
     "id": "예술관_일반명사-1",
     "def_ko": "예술을 어떻게 보느냐 하는 생각",
-    "related_vocab": [],
+    "related_vocab": [
+      "인생관",
+      "도덕",
+      "의무",
+      "목적",
+      "편견"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2332,7 +2398,13 @@
   "예측_일반명사-1": {
     "id": "예측_일반명사-1",
     "def_ko": "앞으로 일어날 일을 미리 짐작함",
-    "related_vocab": [],
+    "related_vocab": [
+      "계획",
+      "예상",
+      "돌이키다",
+      "기대",
+      "꿈"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2342,7 +2414,13 @@
   "오순도순_일반부사-1": {
     "id": "오순도순_일반부사-1",
     "def_ko": "서로 사이좋게 지내는 모양",
-    "related_vocab": [],
+    "related_vocab": [
+      "머뭇머뭇",
+      "가만",
+      "감히",
+      "당당",
+      "당당히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2731,7 +2809,13 @@
   "우기다_동사-1": {
     "id": "우기다_동사-1",
     "def_ko": "억지를 부려 자기의 의견이나 뜻을 고집스럽게 내세우다",
-    "related_vocab": [],
+    "related_vocab": [
+      "동조",
+      "내세우다",
+      "논평",
+      "반대",
+      "찬성"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2741,7 +2825,13 @@
   "우대_일반명사-1": {
     "id": "우대_일반명사-1",
     "def_ko": "남보다 더 잘 대해 줌",
-    "related_vocab": [],
+    "related_vocab": [
+      "마음가짐",
+      "겸손",
+      "경청",
+      "남용",
+      "낭비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2765,7 +2855,13 @@
   "우려_일반명사-1": {
     "id": "우려_일반명사-1",
     "def_ko": "앞일을 걱정하고 근심함",
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2816,7 +2912,13 @@
   "우연_일반명사-1": {
     "id": "우연_일반명사-1",
     "def_ko": "뜻하지 않게 일어나는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "정확히",
+      "거짓",
+      "거짓말",
+      "공산",
+      "리얼리티"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2826,7 +2928,13 @@
   "우연히_일반부사-1": {
     "id": "우연히_일반부사-1",
     "def_ko": "생각하지 않은 때에 뜻밖에",
-    "related_vocab": [],
+    "related_vocab": [
+      "가히",
+      "단연",
+      "분명히",
+      "설마",
+      "아마"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2836,7 +2944,13 @@
   "우열_일반명사-1": {
     "id": "우열_일반명사-1",
     "def_ko": "뛰어남과 못함의 차이",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2871,7 +2985,13 @@
   "운_일반명사-1": {
     "id": "운_일반명사-1",
     "def_ko": "사람이 어찌할 수 없는 좋고 나쁜 일의 기회",
-    "related_vocab": [],
+    "related_vocab": [
+      "진실",
+      "한계",
+      "거짓",
+      "거짓말",
+      "공산"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2905,7 +3025,13 @@
   "울먹이다_동사-1": {
     "id": "울먹이다_동사-1",
     "def_ko": "곧 울 것처럼 목이 메어 말하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "허전하다",
+      "죄송하다",
+      "노려보다",
+      "뉘우치다",
+      "찌푸리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3160,7 +3286,13 @@
   "위축감_일반명사-1": {
     "id": "위축감_일반명사-1",
     "def_ko": "자신이 작게 느껴져 기가 죽는 느낌",
-    "related_vocab": [],
+    "related_vocab": [
+      "고통",
+      "불쾌감",
+      "싫증",
+      "짜증",
+      "피로감"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3496,7 +3628,13 @@
   "은공_일반명사-1": {
     "id": "은공_일반명사-1",
     "def_ko": "도움을 준 공덕",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4617,7 +4755,13 @@
   "잘하다_동사-1": {
     "id": "잘하다_동사-1",
     "def_ko": "익숙하고 솜씨가 있게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "거스르다",
+      "위하다",
+      "금하다",
+      "내세우다",
+      "부풀리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4831,7 +4975,13 @@
   "재미없다_형용사-1": {
     "id": "재미없다_형용사-1",
     "def_ko": "흥미나 즐거움이 없다",
-    "related_vocab": [],
+    "related_vocab": [
+      "괴롭다",
+      "귀찮다",
+      "답답하다",
+      "못마땅하다",
+      "미안하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5070,7 +5220,13 @@
   "적성_일반명사-1": {
     "id": "적성_일반명사-1",
     "def_ko": "어떤 일에 잘 맞는 개인의 성질이나 능력",
-    "related_vocab": [],
+    "related_vocab": [
+      "열성",
+      "정신",
+      "도전",
+      "모험",
+      "버릇"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5240,7 +5396,13 @@
   "점잖다_형용사-1": {
     "id": "점잖다_형용사-1",
     "def_ko": "말이나 행동이 얌전하고 침착하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "못되다",
+      "변덕스럽다",
+      "엉터리",
+      "게으르다",
+      "까다롭다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5279,7 +5441,13 @@
   "정답_일반명사-1": {
     "id": "정답_일반명사-1",
     "def_ko": "문제의 옳은 대답",
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5382,7 +5550,13 @@
   "정신력_일반명사-1": {
     "id": "정신력_일반명사-1",
     "def_ko": "어려움을 견디고 이겨 내는 마음의 힘",
-    "related_vocab": [],
+    "related_vocab": [
+      "감성",
+      "극복",
+      "느긋하다",
+      "감수",
+      "개성"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5453,7 +5627,13 @@
   "정하다_동사-1": {
     "id": "정하다_동사-1",
     "def_ko": "기준이나 목표를 골라서 딱 정해 두다",
-    "related_vocab": [],
+    "related_vocab": [
+      "되다",
+      "맞다",
+      "밝혀내다",
+      "점치다",
+      "가히"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5507,7 +5687,13 @@
   "제고_일반명사-1": {
     "id": "제고_일반명사-1",
     "def_ko": "수준이나 가치를 더 높임",
-    "related_vocab": [],
+    "related_vocab": [
+      "인정",
+      "최고",
+      "가치",
+      "가치관",
+      "각별"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5553,7 +5739,13 @@
   "제한_일반명사-1": {
     "id": "제한_일반명사-1",
     "def_ko": "범위를 정해 넘지 못하게 막음",
-    "related_vocab": [],
+    "related_vocab": [
+      "가늠",
+      "강도",
+      "강력",
+      "강화",
+      "결핍"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5575,7 +5767,13 @@
   "조심_일반명사-1": {
     "id": "조심_일반명사-1",
     "def_ko": "다치거나 실수하지 않도록 살피는 태도",
-    "related_vocab": [],
+    "related_vocab": [
+      "겸손",
+      "경청",
+      "남용",
+      "낭비",
+      "단정"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5585,7 +5783,13 @@
   "조언_일반명사-1": {
     "id": "조언_일반명사-1",
     "def_ko": "도움이 되도록 해 주는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "공익",
+      "유용",
+      "유익",
+      "쓸데없다",
+      "위하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5634,7 +5838,13 @@
   "조장_일반명사-2": {
     "id": "조장_일반명사-2",
     "def_ko": "바람직하지 않은 일을 더 심해지게 부추김",
-    "related_vocab": [],
+    "related_vocab": [
+      "지양",
+      "거론",
+      "건의",
+      "권유",
+      "권장"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5656,7 +5866,13 @@
   "존경_일반명사-1": {
     "id": "존경_일반명사-1",
     "def_ko": "훌륭하다고 여겨 우러러보는 마음",
-    "related_vocab": [],
+    "related_vocab": [
+      "사랑",
+      "안정감",
+      "애",
+      "동정심",
+      "모성애"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5678,7 +5894,13 @@
   "좁다_형용사-1": {
     "id": "좁다_형용사-1",
     "def_ko": "가로로 트인 폭이 크지 않다",
-    "related_vocab": [],
+    "related_vocab": [
+      "깨끗하다",
+      "못생기다",
+      "어둡다",
+      "지저분하다",
+      "뿌옇다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5713,7 +5935,13 @@
   "좋아하다_동사-1": {
     "id": "좋아하다_동사-1",
     "def_ko": "마음에 들어 기쁘게 여기다",
-    "related_vocab": [],
+    "related_vocab": [
+      "흡족",
+      "즐기다",
+      "기쁘다",
+      "반기다",
+      "즐거워하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

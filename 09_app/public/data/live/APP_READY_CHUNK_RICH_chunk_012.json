@@ -71,7 +71,13 @@
   "현지인_일반명사-1": {
     "id": "현지인_일반명사-1",
     "def_ko": "그 지역에서 태어나 살고 있는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "현대인",
+      "교포",
+      "내부자",
+      "단원",
+      "상대방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -367,7 +373,13 @@
   "호박_일반명사-1": {
     "id": "호박_일반명사-1",
     "def_ko": "덩굴에 달리고 속이 노란 둥근 채소",
-    "related_vocab": [],
+    "related_vocab": [
+      "마늘",
+      "고추",
+      "당근",
+      "돼지",
+      "배추"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -403,7 +415,13 @@
   "호응_일반명사-1": {
     "id": "호응_일반명사-1",
     "def_ko": "부름이나 요구에 맞추어 반응함",
-    "related_vocab": [],
+    "related_vocab": [
+      "조정",
+      "가입",
+      "간섭",
+      "강요",
+      "강제"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -526,7 +544,13 @@
   "혹자_일반명사-1": {
     "id": "혹자_일반명사-1",
     "def_ko": "어떤 사람을 가리키는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "관계자",
+      "글쓴이",
+      "내부자",
+      "단원",
+      "상대방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -551,7 +575,6 @@
     "id": "혼자_일반명사-1",
     "def_ko": "다른 사람 없이 홀로 있는 상태",
     "related_vocab": [
-      "혼자",
       "홀로",
       "의존"
     ],
@@ -605,7 +628,6 @@
     "id": "홀로_일반부사-1",
     "def_ko": "다른 사람 없이 혼자서",
     "related_vocab": [
-      "혼자",
       "혼자"
     ],
     "is_center_profile": false,
@@ -811,7 +833,13 @@
   "화분_일반명사-1": {
     "id": "화분_일반명사-1",
     "def_ko": "꽃이나 나무를 심어 기르는 그릇",
-    "related_vocab": [],
+    "related_vocab": [
+      "내용",
+      "내용물",
+      "액체",
+      "은",
+      "가죽"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -847,7 +875,13 @@
   "화석_일반명사-1": {
     "id": "화석_일반명사-1",
     "def_ko": "옛날 생물의 흔적이 돌처럼 굳어진 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "공해",
+      "강",
+      "강물",
+      "개울",
+      "경치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -945,7 +979,13 @@
   "화재_일반명사-1": {
     "id": "화재_일반명사-1",
     "def_ko": "큰불이 나서 재산이나 사람이 피해를 입는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "공공",
+      "공공시설",
+      "규약",
+      "경비실",
+      "가로등"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1051,7 +1091,13 @@
   "확립_일반명사-1": {
     "id": "확립_일반명사-1",
     "def_ko": "기준이나 제도를 튼튼히 세움",
-    "related_vocab": [],
+    "related_vocab": [
+      "개정",
+      "경찰서",
+      "경찰청",
+      "계약",
+      "계약서"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1122,7 +1168,13 @@
   "환기_일반명사-1": {
     "id": "환기_일반명사-1",
     "def_ko": "실내의 더운 공기나 나쁜 공기를 바깥 공기로 바꾸는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "냉방",
+      "가계",
+      "가난",
+      "간직",
+      "기숙사비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1132,7 +1184,13 @@
   "환불_일반명사-1": {
     "id": "환불_일반명사-1",
     "def_ko": "지불한 돈을 다시 돌려받는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "계산대",
+      "거래",
+      "공짜",
+      "영수증",
+      "지불"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1154,7 +1212,13 @@
   "환승역_일반명사-1": {
     "id": "환승역_일반명사-1",
     "def_ko": "다른 노선으로 갈아탈 수 있는 역",
-    "related_vocab": [],
+    "related_vocab": [
+      "교통편",
+      "잠수함",
+      "관광버스",
+      "교통수단",
+      "기사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2086,7 +2150,13 @@
   "자료_일반명사-1": {
     "id": "자료_일반명사-1",
     "def_ko": "조사나 공부, 일을 하는 데 바탕이 되는 내용",
-    "related_vocab": [],
+    "related_vocab": [
+      "교재",
+      "교과서",
+      "공책",
+      "도서",
+      "읽을거리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2208,7 +2278,13 @@
   "가벼워지다_동사-1": {
     "id": "가벼워지다_동사-1",
     "def_ko": "무게나 부담이 덜하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "건드리다",
+      "달라붙다",
+      "닳다",
+      "닿다",
+      "떨리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4935,7 +5011,13 @@
   "구사_일반명사-1": {
     "id": "구사_일반명사-1",
     "def_ko": "말이나 기술을 능숙하게 씀",
-    "related_vocab": [],
+    "related_vocab": [
+      "서투르다",
+      "알아듣다",
+      "감지",
+      "개념",
+      "계발"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

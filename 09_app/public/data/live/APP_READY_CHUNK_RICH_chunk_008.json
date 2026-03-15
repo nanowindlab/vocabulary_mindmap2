@@ -143,7 +143,13 @@
   "연구소_일반명사-1": {
     "id": "연구소_일반명사-1",
     "def_ko": "연구를 하는 기관이나 단체",
-    "related_vocab": [],
+    "related_vocab": [
+      "부서",
+      "사무실",
+      "일터",
+      "직장",
+      "인쇄소"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -854,7 +860,13 @@
   "열쇠고리_일반명사-1": {
     "id": "열쇠고리_일반명사-1",
     "def_ko": "열쇠를 끼워 보관하는 물건",
-    "related_vocab": [],
+    "related_vocab": [
+      "거울",
+      "구슬",
+      "못",
+      "부채",
+      "생필품"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -998,7 +1010,13 @@
   "영상_일반명사-1": {
     "id": "영상_일반명사-1",
     "def_ko": "화면에 비치는 움직이는 그림",
-    "related_vocab": [],
+    "related_vocab": [
+      "명화",
+      "미술",
+      "저작",
+      "추상화",
+      "춤"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1120,7 +1138,13 @@
   "영업시간_일반명사-1": {
     "id": "영업시간_일반명사-1",
     "def_ko": "가게나 회사가 손님을 받는 시간",
-    "related_vocab": [],
+    "related_vocab": [
+      "경영",
+      "계획서",
+      "공정",
+      "관리",
+      "근무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1155,7 +1179,13 @@
   "영하_일반명사-1": {
     "id": "영하_일반명사-1",
     "def_ko": "0도보다 낮은 온도",
-    "related_vocab": [],
+    "related_vocab": [
+      "기온",
+      "고온",
+      "가을밤",
+      "추",
+      "가을"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1193,7 +1223,13 @@
   "영화배우_일반명사-1": {
     "id": "영화배우_일반명사-1",
     "def_ko": "영화에 출연하여 연기하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "공범"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1203,7 +1239,13 @@
   "영화제_일반명사-1": {
     "id": "영화제_일반명사-1",
     "def_ko": "여러 영화를 모아 상영하고 시상하는 행사",
-    "related_vocab": [],
+    "related_vocab": [
+      "박람회",
+      "잔치",
+      "설명회",
+      "파티",
+      "개회식"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1225,7 +1267,13 @@
   "옆면_일반명사-1": {
     "id": "옆면_일반명사-1",
     "def_ko": "사물의 옆쪽 바깥 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "외곽선",
+      "모양",
+      "외부",
+      "가로",
+      "가운데"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1235,7 +1283,13 @@
   "옆집_일반명사-1": {
     "id": "옆집_일반명사-1",
     "def_ko": "바로 이웃하여 붙어 있는 집",
-    "related_vocab": [],
+    "related_vocab": [
+      "도시",
+      "뒷문",
+      "은신처",
+      "입주민",
+      "궁중"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1343,7 +1397,13 @@
   "예보_일반명사-1": {
     "id": "예보_일반명사-1",
     "def_ko": "앞으로의 날씨나 일을 미리 알리는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "가뭄",
+      "가스",
+      "강수량",
+      "강우",
+      "강풍"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1892,7 +1952,13 @@
   "오톨도톨_일반명사-1": {
     "id": "오톨도톨_일반명사-1",
     "def_ko": "작은 혹이나 돌기가 고르지 않게 많이 난 모양",
-    "related_vocab": [],
+    "related_vocab": [
+      "네모",
+      "동그라미",
+      "모양",
+      "선",
+      "모형"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1929,7 +1995,13 @@
   "옥_일반명사-1": {
     "id": "옥_일반명사-1",
     "def_ko": "단단하고 빛이 고운 보석의 한 종류",
-    "related_vocab": [],
+    "related_vocab": [
+      "꺼지다",
+      "가죽",
+      "각지",
+      "게시판",
+      "고무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1951,7 +2023,13 @@
   "온난_일반명사-1": {
     "id": "온난_일반명사-1",
     "def_ko": "날씨가 따뜻하고 포근함",
-    "related_vocab": [],
+    "related_vocab": [
+      "개다",
+      "가뭄",
+      "가스",
+      "강수량",
+      "강우"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1991,7 +2069,13 @@
   "온실_일반명사-1": {
     "id": "온실_일반명사-1",
     "def_ko": "주위를 덮어 따뜻하게 유지하는 유리집",
-    "related_vocab": [],
+    "related_vocab": [
+      "가옥",
+      "객실",
+      "거처",
+      "건물",
+      "건설"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2163,7 +2247,13 @@
   "옻칠_일반명사-1": {
     "id": "옻칠_일반명사-1",
     "def_ko": "옻을 나무나 그릇 겉에 바르는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "가계",
+      "가난",
+      "간직",
+      "기숙사비",
+      "난방"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2203,7 +2293,13 @@
   "완공_일반명사-1": {
     "id": "완공_일반명사-1",
     "def_ko": "건물을 지어 다 끝냄",
-    "related_vocab": [],
+    "related_vocab": [
+      "건축",
+      "공사",
+      "벽돌",
+      "관리실",
+      "지하실"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2299,7 +2395,13 @@
   "왕비_일반명사-1": {
     "id": "왕비_일반명사-1",
     "def_ko": "왕의 아내인 여인",
-    "related_vocab": [],
+    "related_vocab": [
+      "즉위",
+      "건국",
+      "고고학",
+      "고궁",
+      "국가"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2343,7 +2445,13 @@
   "외곽선_일반명사-1": {
     "id": "외곽선_일반명사-1",
     "def_ko": "사물의 바깥 둘레를 나타내는 선",
-    "related_vocab": [],
+    "related_vocab": [
+      "옆면",
+      "모양",
+      "마크",
+      "외부",
+      "가로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2368,7 +2476,13 @@
   "외교관_일반명사-1": {
     "id": "외교관_일반명사-1",
     "def_ko": "외국에 살며 자기 나라를 대표하여 외교 업무를 보는 관직. 또는 그 일을 하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "근로자",
+      "기술자",
+      "노동자",
+      "만화가",
+      "요리사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2457,7 +2571,13 @@
   "외부_일반명사-1": {
     "id": "외부_일반명사-1",
     "def_ko": "어떤 범위의 바깥 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "밖",
+      "양식",
+      "형성",
+      "마크",
+      "회전"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2494,7 +2614,13 @@
   "외숙모_일반명사-1": {
     "id": "외숙모_일반명사-1",
     "def_ko": "어머니의 남자 형제의 아내",
-    "related_vocab": [],
+    "related_vocab": [
+      "외삼촌",
+      "가장",
+      "남동생",
+      "남편",
+      "며느리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2547,7 +2673,13 @@
   "외양간_일반명사-1": {
     "id": "외양간_일반명사-1",
     "def_ko": "소나 말 같은 가축을 묶어 두는 곳",
-    "related_vocab": [],
+    "related_vocab": [
+      "단지",
+      "오피스텔",
+      "가옥",
+      "객실",
+      "거처"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2570,7 +2702,13 @@
   "외출_일반명사-1": {
     "id": "외출_일반명사-1",
     "def_ko": "집이나 직장 밖으로 잠시 나감",
-    "related_vocab": [],
+    "related_vocab": [
+      "묵다",
+      "휴식",
+      "외박",
+      "외출복",
+      "거주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2592,7 +2730,13 @@
   "외투_일반명사-1": {
     "id": "외투_일반명사-1",
     "def_ko": "옷 위에 걸쳐 입는 두꺼운 겉옷",
-    "related_vocab": [],
+    "related_vocab": [
+      "겉옷",
+      "드레스",
+      "바지",
+      "블라우스",
+      "옷"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2630,7 +2774,13 @@
   "왼발_일반명사-1": {
     "id": "왼발_일반명사-1",
     "def_ko": "왼쪽 발",
-    "related_vocab": [],
+    "related_vocab": [
+      "가슴",
+      "간",
+      "갈비",
+      "귀",
+      "귓등"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2640,7 +2790,13 @@
   "왼손_일반명사-1": {
     "id": "왼손_일반명사-1",
     "def_ko": "왼쪽에 있는 손",
-    "related_vocab": [],
+    "related_vocab": [
+      "내장",
+      "눈알",
+      "맹장",
+      "머리",
+      "목구멍"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3396,7 +3552,13 @@
   "운영자_일반명사-1": {
     "id": "운영자_일반명사-1",
     "def_ko": "어떤 기관이나 시스템을 관리하고 맡아서 꾸려 나가는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "관장",
+      "담당자",
+      "프로",
+      "실장",
+      "종사자"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3443,7 +3605,13 @@
   "운전면허_일반명사-1": {
     "id": "운전면허_일반명사-1",
     "def_ko": "차를 운전해도 된다는 것을 인정하는 증명서",
-    "related_vocab": [],
+    "related_vocab": [
+      "등록증",
+      "개정",
+      "경찰서",
+      "경찰청",
+      "계약"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3453,7 +3621,13 @@
   "운전사_일반명사-1": {
     "id": "운전사_일반명사-1",
     "def_ko": "기계나 자동차 등의 운전을 직업으로 하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "만화가",
+      "번역가",
+      "요리사",
+      "프로",
+      "연극인"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3463,7 +3637,13 @@
   "운전자_일반명사-1": {
     "id": "운전자_일반명사-1",
     "def_ko": "차나 기계를 직접 조작해서 움직이는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "제삼자",
+      "가입자",
+      "가해자",
+      "개인",
+      "거지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3502,7 +3682,13 @@
   "웃어른_일반명사-1": {
     "id": "웃어른_일반명사-1",
     "def_ko": "나이나 지위, 신분 등이 자기보다 높아서 모셔야 하는 윗사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "계집애",
+      "고향",
+      "과부",
+      "구세대",
+      "기혼"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3524,7 +3710,13 @@
   "워터_일반명사-1": {
     "id": "워터_일반명사-1",
     "def_ko": "물이라는 뜻으로 쓰이는 영어식 표현",
-    "related_vocab": [],
+    "related_vocab": [
+      "석유",
+      "강",
+      "강물",
+      "개울",
+      "경치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3546,7 +3738,13 @@
   "원고지_일반명사-1": {
     "id": "원고지_일반명사-1",
     "def_ko": "글을 쓰기 위해 칸을 나누어 놓은 종이",
-    "related_vocab": [],
+    "related_vocab": [
+      "공책",
+      "사전",
+      "동화책",
+      "시험지",
+      "갈피"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3568,7 +3766,13 @@
   "원두_일반명사-1": {
     "id": "원두_일반명사-1",
     "def_ko": "볶기 전이나 막 볶은 상태의 커피콩",
-    "related_vocab": [],
+    "related_vocab": [
+      "가미",
+      "감자",
+      "건강식품",
+      "겨자",
+      "견과"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3620,7 +3824,13 @@
   "원본_일반명사-1": {
     "id": "원본_일반명사-1",
     "def_ko": "처음에 만든 본래의 문서나 그림",
-    "related_vocab": [],
+    "related_vocab": [
+      "가죽",
+      "기구",
+      "기록물",
+      "내용",
+      "유리구슬"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3988,7 +4198,13 @@
   "윗물_일반명사-1": {
     "id": "윗물_일반명사-1",
     "def_ko": "위쪽에서 내려오는 물 또는 윗사람의 영향을 비유적으로 이르는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "모랫",
+      "산천",
+      "강",
+      "강물",
+      "개울"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4521,7 +4737,13 @@
   "유치_일반명사-1": {
     "id": "유치_일반명사-1",
     "def_ko": "어린아이의 이",
-    "related_vocab": [],
+    "related_vocab": [
+      "가슴",
+      "간",
+      "갈비",
+      "귀",
+      "귓등"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4858,7 +5080,13 @@
   "은화_일반명사-1": {
     "id": "은화_일반명사-1",
     "def_ko": "은으로 만든 돈",
-    "related_vocab": [],
+    "related_vocab": [
+      "동전",
+      "지폐",
+      "주화",
+      "가격",
+      "값"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4900,7 +5128,13 @@
   "음반_일반명사-1": {
     "id": "음반_일반명사-1",
     "def_ko": "노래나 연주를 담은 매체",
-    "related_vocab": [],
+    "related_vocab": [
+      "곡",
+      "공연",
+      "가락",
+      "부르다",
+      "명창"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5044,7 +5278,13 @@
   "음파_일반명사-1": {
     "id": "음파_일반명사-1",
     "def_ko": "소리가 퍼지는 물결",
-    "related_vocab": [],
+    "related_vocab": [
+      "가죽",
+      "각지",
+      "게시판",
+      "고무",
+      "곳"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5305,7 +5545,13 @@
   "의사_일반명사-1": {
     "id": "의사_일반명사-1",
     "def_ko": "병을 치료하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "공범"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5358,7 +5604,13 @@
   "의원_일반명사-1": {
     "id": "의원_일반명사-1",
     "def_ko": "국회나 지방 의회에 뽑힌 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "공범"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5387,7 +5639,6 @@
     "related_vocab": [
       "덩달다",
       "돌보다",
-      "혼자",
       "혼자",
       "힘입다"
     ],

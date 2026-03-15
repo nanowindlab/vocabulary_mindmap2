@@ -29,6 +29,7 @@ transition note:
 - current validated mode:
   - `scripts/mining/run_rev47_xwd_mining.py --publish-only`는 `RELATION_GRAPH_CANONICAL_V1.json` 기반 `internal_canonical_overlay` 모드를 지원한다.
   - pilot/package 범위 relation만 overlay하고, 비대상 runtime relation은 유지할 수 있다.
+  - 단, `publish-only`는 relation overlay only이며 new runtime id admission 또는 live hierarchy reclassification에는 사용할 수 없다.
 
 ### 최종 출력
 
@@ -59,6 +60,17 @@ transition note:
 
 ## 3. 표준 실행 순서
 
+### Step 0. runtime contract preflight
+
+아래 조건이 깨져 있으면 publish/rebuild를 시작하지 않는다.
+
+- split/search duplicate ids `0`
+- split/search count mismatch `0`
+- active overlay ids가 current live runtime에 모두 존재
+- internal canonical node hierarchy와 current live hierarchy drift `0`
+
+이 중 하나라도 깨지면 해당 batch는 thin runtime projection이 아니라 yellow reclassification track으로 회수한다.
+
 ### Step 1. 관계 publish
 
 `related_vocab` / `cross_links` 변경이 있으면 먼저 아래를 실행한다.
@@ -73,6 +85,8 @@ python3 scripts/mining/run_rev47_xwd_mining.py --publish-only
 - 다른 분류로 넘어가는 연결만 `refs.cross_links`
 - `APP_READY_SEARCH_INDEX.json`의 `chunk_id`를 유지할 것
 - active internal canonical이 있을 때는 `internal_canonical_overlay` 방식으로 pilot/package 범위 relation을 우선 반영한다.
+- `publish-only`는 live tree/search에 새 row를 추가하지 않는다.
+- `publish-only`는 existing runtime hierarchy를 재분류하지 않는다.
 
 ### Step 2. detail chunk 재생성
 
@@ -131,9 +145,9 @@ data -> review gate 전 아래 증거를 모두 남긴다.
 
 재배포 후 아래 문서를 함께 갱신한다.
 
-- `.gemini-orchestration/DATA_VALIDATION_AGENT_WORKBOARD_V1.md`
 - 필요 시 `.gemini-orchestration/ORCHESTRATION_DASHBOARD.md`
-- `08_expansion/rev47/REV47_DEV_HANDOFF_V1.md`
+- `.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md`
+- 현재 cycle evidence owner인 `08_expansion/pm_reports/*.md`
 - 리뷰 혼선이 우려되면 `08_expansion/REVIEW_HANDOFF_CANONICAL_GUIDE_V1.md`
 
 보고에는 아래를 포함한다.

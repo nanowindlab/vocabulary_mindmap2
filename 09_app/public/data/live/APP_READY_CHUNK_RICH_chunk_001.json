@@ -2106,7 +2106,13 @@
   "개구리_일반명사-1": {
     "id": "개구리_일반명사-1",
     "def_ko": "뒷다리가 길어 폴짝 뛰는 양서류",
-    "related_vocab": [],
+    "related_vocab": [
+      "토끼",
+      "타조",
+      "가축",
+      "강아지",
+      "개"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2116,7 +2122,13 @@
   "개그_일반명사-1": {
     "id": "개그_일반명사-1",
     "def_ko": "사람을 웃기는 말이나 행동",
-    "related_vocab": [],
+    "related_vocab": [
+      "노래",
+      "춤",
+      "예능",
+      "가사",
+      "가수"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2251,7 +2263,13 @@
   "개업식_일반명사-1": {
     "id": "개업식_일반명사-1",
     "def_ko": "개업을 기념하여 여는 행사",
-    "related_vocab": [],
+    "related_vocab": [
+      "가동",
+      "관광업",
+      "교정지",
+      "기업",
+      "단말기"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2516,7 +2534,13 @@
   "거래처_일반명사-1": {
     "id": "거래처_일반명사-1",
     "def_ko": "물건을 사고파는 관계에 있는 상대 회사나 가게",
-    "related_vocab": [],
+    "related_vocab": [
+      "시장",
+      "편의점",
+      "면세점",
+      "마켓",
+      "상점"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4775,7 +4799,13 @@
   "고서적_일반명사-1": {
     "id": "고서적_일반명사-1",
     "def_ko": "가치 있는 오래된 책들",
-    "related_vocab": [],
+    "related_vocab": [
+      "고국",
+      "군대",
+      "본국",
+      "적지",
+      "유적지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4785,7 +4815,13 @@
   "고소득자_일반명사-1": {
     "id": "고소득자_일반명사-1",
     "def_ko": "다른 사람보다 벌이가 많은 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "선임",
+      "결근",
+      "경력",
+      "고용",
+      "급여"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4905,7 +4941,13 @@
   "고유어_일반명사-1": {
     "id": "고유어_일반명사-1",
     "def_ko": "다른 언어에서 빌려오지 않은 토박이말",
-    "related_vocab": [],
+    "related_vocab": [
+      "갓",
+      "국경일",
+      "띠",
+      "명절",
+      "문화유산"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

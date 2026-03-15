@@ -5802,7 +5802,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "토끼",
+        "타조",
+        "가축",
+        "강아지",
+        "개"
+      ],
       "phonetic_romanization": "gaeguri"
     },
     "개그_일반명사-1": {
@@ -5844,7 +5850,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "노래",
+        "춤",
+        "예능",
+        "가사",
+        "가수"
+      ],
       "phonetic_romanization": "gaegeu"
     },
     "개나리_일반명사-1": {
@@ -6174,7 +6186,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가동",
+        "관광업",
+        "교정지",
+        "기업",
+        "단말기"
+      ],
       "phonetic_romanization": "gae-eopsik"
     },
     "개울_일반명사-1": {
@@ -6938,7 +6956,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "시장",
+        "편의점",
+        "면세점",
+        "마켓",
+        "상점"
+      ],
       "phonetic_romanization": "georaecheo"
     },
     "거미_일반명사-1": {
@@ -13151,7 +13175,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고국",
+        "군대",
+        "본국",
+        "적지",
+        "유적지"
+      ],
       "phonetic_romanization": "goseojeok"
     },
     "고소득자_일반명사-1": {
@@ -13193,7 +13223,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "선임",
+        "결근",
+        "경력",
+        "고용",
+        "급여"
+      ],
       "phonetic_romanization": "gosodeukja"
     },
     "고속도로_일반명사-1": {
@@ -13613,7 +13649,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "갓",
+        "국경일",
+        "띠",
+        "명절",
+        "문화유산"
+      ],
       "phonetic_romanization": "goyueo"
     },
     "고장_일반명사-1": {

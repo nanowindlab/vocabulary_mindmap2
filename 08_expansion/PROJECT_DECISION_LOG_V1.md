@@ -53,3 +53,40 @@
 - **V1-REV-24**: 3 Depth(100여 개 세부 카테고리) 설계 및 사전 구축.
 - **V1-REV-28**: 통합 내비게이션 및 콘텐츠 시나리오 고도화 착수.
 - **V1-REV-61**: 구조 정리 리스크 감사 및 오너십 매핑 완료.
+
+---
+
+## 6. PM-Centric State Management
+*결정 일자: 2026-03-15*
+
+- active state surface는 `ORCHESTRATION_DASHBOARD.md`, `NEXT_MAIN_PM_HANDOFF_V1.md`, `PROJECT_DECISION_LOG_V1.md`, `SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md`, `08_expansion/pm_reports/*.md`로 고정한다.
+- workboard/workboard_archive는 history-only다.
+- intermediate evidence와 milestone closure는 `08_expansion/pm_reports/`가 소유한다.
+
+## 7. Thin Runtime Projection Hardening
+*결정 일자: 2026-03-15*
+
+- `scripts/mining/run_rev47_xwd_mining.py --publish-only`는 relation overlay only다.
+- `publish-only`는 new runtime id admission에 사용할 수 없다.
+- `publish-only`는 live `system/root/category` reclassification에 사용할 수 없다.
+- split/search duplicate 또는 split/search mismatch 위에서는 publish를 시작하지 않는다.
+
+## 8. Batch-11 Reclassification
+*결정 일자: 2026-03-15*
+
+- `Calendar Label Batch-11`은 더 이상 `Type A + Green`으로 취급하지 않는다.
+- 현재 분류는 `Yellow / Runtime Reclassification`이다.
+- `요일_일반명사-1`는 change surface에 포함되므로 no-drift sentinel에서 제외한다.
+
+## 9. Coverage Restart Gate
+*결정 일자: 2026-03-15*
+
+- coverage expansion은 `green autopilot 확대`가 아니라 `green relation-overlay batch만 제한적으로 재개`로 다시 연다.
+- green 자격은 duplicate-free runtime, count-consistent surfaces, clean control set, existing live id-only overlay를 동시에 만족해야 한다.
+
+## 10. Restart Model Accepted
+*결정 일자: 2026-03-15*
+
+- 사용자는 restart model을 승인했다.
+- 승인 이후 `Relative Year Markers Batch-6`, `Temporal Reference Nouns Batch-8`가 연속으로 runtime-safe하게 집행되었다.
+- 다음 승인 게이트는 개별 batch 승인보다 rollout scale decision이다.

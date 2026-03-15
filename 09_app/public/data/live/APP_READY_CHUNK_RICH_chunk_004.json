@@ -129,7 +129,13 @@
   "마사지_일반명사-1": {
     "id": "마사지_일반명사-1",
     "def_ko": "손으로 몸을 두드리거나 주물러서 근육의 긴장을 풀어 주는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "요법",
+      "요양",
+      "골든타임",
+      "금연",
+      "방제"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -139,7 +145,13 @@
   "마수걸이_일반명사-1": {
     "id": "마수걸이_일반명사-1",
     "def_ko": "어떤 일을 시작한 뒤 처음으로 올린 실적이나 판매",
-    "related_vocab": [],
+    "related_vocab": [
+      "사고팔다",
+      "사용료",
+      "주문",
+      "판매",
+      "구입자"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -246,7 +258,13 @@
   "마일리지_일반명사-1": {
     "id": "마일리지_일반명사-1",
     "def_ko": "이용한 거리나 실적에 따라 쌓이는 포인트",
-    "related_vocab": [],
+    "related_vocab": [
+      "가격",
+      "값",
+      "결제",
+      "계산대",
+      "구매"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1328,7 +1346,13 @@
   "머리채_일반명사-1": {
     "id": "머리채_일반명사-1",
     "def_ko": "한 움큼 쥘 수 있을 만큼의 머리털",
-    "related_vocab": [],
+    "related_vocab": [
+      "머리털",
+      "머리칼",
+      "가슴",
+      "간",
+      "갈비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1354,7 +1378,13 @@
   "머리칼_일반명사-1": {
     "id": "머리칼_일반명사-1",
     "def_ko": "머리털 하나하나",
-    "related_vocab": [],
+    "related_vocab": [
+      "머리털",
+      "머리채",
+      "가슴",
+      "간",
+      "갈비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1393,7 +1423,13 @@
   "머슴살이_일반명사-1": {
     "id": "머슴살이_일반명사-1",
     "def_ko": "남의 집 머슴으로 살며 일하던 생활",
-    "related_vocab": [],
+    "related_vocab": [
+      "하숙비",
+      "가계",
+      "가난",
+      "간직",
+      "기숙사비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1403,7 +1439,13 @@
   "먹고살다_동사-1": {
     "id": "먹고살다_동사-1",
     "def_ko": "생계를 유지하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "벌다",
+      "결근",
+      "경력",
+      "고용",
+      "급여"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1458,7 +1500,13 @@
   "먹이_일반명사-1": {
     "id": "먹이_일반명사-1",
     "def_ko": "동물이나 곤충이 먹는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "냉면",
+      "도시락",
+      "라면",
+      "반찬",
+      "식사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1661,7 +1709,13 @@
   "메모_일반명사-1": {
     "id": "메모_일반명사-1",
     "def_ko": "기억을 위해 간단히 적는 글",
-    "related_vocab": [],
+    "related_vocab": [
+      "기구",
+      "시설",
+      "장비",
+      "방탄복",
+      "표"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1935,7 +1989,13 @@
   "면하다_동사-1": {
     "id": "면하다_동사-1",
     "def_ko": "어떤 일이나 책임을 피하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "신청",
+      "당국",
+      "동의서",
+      "신고자",
+      "진흥원"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1987,7 +2047,13 @@
   "명령_일반명사-1": {
     "id": "명령_일반명사-1",
     "def_ko": "윗사람이 아랫사람에게 하라고 지시함",
-    "related_vocab": [],
+    "related_vocab": [
+      "경영",
+      "계획서",
+      "공정",
+      "관리",
+      "근무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2875,7 +2941,13 @@
   "무너지다_동사-1": {
     "id": "무너지다_동사-1",
     "def_ko": "형체가 허물어져 내려앉다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가라앉다",
+      "가라앉히다",
+      "구르다",
+      "굴러가다",
+      "굴리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4631,7 +4703,13 @@
   "바이올린_일반명사-1": {
     "id": "바이올린_일반명사-1",
     "def_ko": "어깨에 괴고 활로 켜는 현악기",
-    "related_vocab": [],
+    "related_vocab": [
+      "가사",
+      "가수",
+      "각본",
+      "갤러리",
+      "고미술품"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4641,7 +4719,13 @@
   "바자회_일반명사-1": {
     "id": "바자회_일반명사-1",
     "def_ko": "물건을 팔아 모은 돈을 기부하는 판매 행사",
-    "related_vocab": [],
+    "related_vocab": [
+      "매출",
+      "무역",
+      "교역",
+      "투자자",
+      "경기"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4681,7 +4765,13 @@
   "바코드_일반명사-1": {
     "id": "바코드_일반명사-1",
     "def_ko": "굵기가 다른 여러 줄로 숫자 정보를 나타낸 코드",
-    "related_vocab": [],
+    "related_vocab": [
+      "화폐",
+      "할부",
+      "환율",
+      "환전",
+      "가격"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4747,7 +4837,13 @@
   "박수_일반명사-1": {
     "id": "박수_일반명사-1",
     "def_ko": "손뼉을 치는 일 또는 그 소리",
-    "related_vocab": [],
+    "related_vocab": [
+      "뽀뽀",
+      "선약",
+      "손잡다",
+      "뵈다",
+      "수다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4773,7 +4869,13 @@
   "박탈_일반명사-1": {
     "id": "박탈_일반명사-1",
     "def_ko": "가지고 있던 권리나 물건을 강제로 빼앗음",
-    "related_vocab": [],
+    "related_vocab": [
+      "도둑",
+      "박물관",
+      "가로등",
+      "감옥",
+      "개장"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6394,7 +6496,13 @@
   "배신_일반명사-1": {
     "id": "배신_일반명사-1",
     "def_ko": "믿음을 져버리고 돌아섬",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입",
+      "간섭",
+      "강요",
+      "강제",
+      "공경"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

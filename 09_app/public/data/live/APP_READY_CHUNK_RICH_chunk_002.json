@@ -992,7 +992,13 @@
   "구입자_일반명사-1": {
     "id": "구입자_일반명사-1",
     "def_ko": "어떤 물건을 사는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "구매",
+      "구입비",
+      "사용료",
+      "값",
+      "구입"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1601,7 +1607,6 @@
       "군인",
       "민족",
       "군사",
-      "군사",
       "적지"
     ],
     "is_center_profile": false,
@@ -1659,7 +1664,6 @@
     "id": "군사_일반명사-1",
     "def_ko": "전쟁이나 군대에 관련된 일",
     "related_vocab": [
-      "군사",
       "군인",
       "입대",
       "군대",
@@ -1691,7 +1695,6 @@
     "def_ko": "군대에 속하여 복무하는 사람",
     "related_vocab": [
       "군대",
-      "군사",
       "군사",
       "입대"
     ],
@@ -6012,7 +6015,13 @@
   "노동부_일반명사-1": {
     "id": "노동부_일반명사-1",
     "def_ko": "노동과 관련된 일을 맡는 행정 기관",
-    "related_vocab": [],
+    "related_vocab": [
+      "특허청",
+      "정부",
+      "진흥원",
+      "교통부",
+      "국회"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6066,7 +6075,13 @@
   "노랗다_형용사-1": {
     "id": "노랗다_형용사-1",
     "def_ko": "빛깔이 노란 성질이다",
-    "related_vocab": [],
+    "related_vocab": [
+      "검다",
+      "노란색",
+      "무채색",
+      "까맣다",
+      "붉다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6092,7 +6107,13 @@
   "노래방_일반명사-1": {
     "id": "노래방_일반명사-1",
     "def_ko": "기계 반주에 맞춰 노래를 부를 수 있는 시설",
-    "related_vocab": [],
+    "related_vocab": [
+      "가수",
+      "고미술품",
+      "댄스",
+      "독창",
+      "부르다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

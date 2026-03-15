@@ -1821,7 +1821,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기르다",
+        "끌어들이다",
+        "나누다",
+        "데리다",
+        "드리다"
+      ],
       "phonetic_romanization": "kiuda"
     },
     "타다_동사-1": {
@@ -3793,7 +3799,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "공범"
+      ],
       "phonetic_romanization": "tereoriseuteu"
     },
     "테이블_일반명사-1": {
@@ -4999,7 +5011,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "갈아타다",
+        "거치다",
+        "건너가다",
+        "건너다",
+        "건너오다"
+      ],
       "phonetic_romanization": "tonghada"
     },
     "통행_일반명사-1": {
@@ -7094,7 +7112,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "모기",
+        "진드기",
+        "거미",
+        "곤충",
+        "미생물"
+      ],
       "phonetic_romanization": "pari"
     },
     "파마_일반명사-1": {
@@ -7233,7 +7257,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곳",
+        "파편",
+        "붙다",
+        "가죽",
+        "각지"
+      ],
       "phonetic_romanization": "pason"
     },
     "파스타_일반명사-1": {
@@ -7326,7 +7356,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경찰서",
+        "시청",
+        "교육청",
+        "동",
+        "정부"
+      ],
       "phonetic_romanization": "pachulso"
     },
     "파티_일반명사-1": {
@@ -7649,7 +7685,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "군무",
+        "가수",
+        "노래",
+        "독주회",
+        "발레"
+      ],
       "phonetic_romanization": "pansori"
     },
     "팔_일반명사-1": {
@@ -7996,7 +8038,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기념품",
+        "마직물",
+        "명품",
+        "물품",
+        "보석"
+      ],
       "phonetic_romanization": "paekiji"
     },
     "팩스_일반명사-1": {
@@ -8091,7 +8139,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관계자",
+        "글쓴이",
+        "내부자",
+        "단원",
+        "상대방"
+      ],
       "phonetic_romanization": "paen"
     },
     "팬티_일반명사-1": {
@@ -9010,7 +9064,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "노벨상",
+        "각계",
+        "각광",
+        "간담회",
+        "개혁"
+      ],
       "phonetic_romanization": "pyeonghwa"
     },
     "폐_일반명사-1": {
@@ -9096,7 +9156,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "학교",
+        "교복",
+        "공부방",
+        "교육원",
+        "대학교"
+      ],
       "phonetic_romanization": "pyegyo"
     },
     "폐기물_일반명사-1": {
@@ -9232,7 +9298,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "개혁",
+        "공모",
+        "방청",
+        "짓다",
+        "언론사"
+      ],
       "phonetic_romanization": "pyeji"
     },
     "포_일반명사-1": {
@@ -9274,7 +9346,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "만두",
+        "국",
+        "면",
+        "샌드위치",
+        "불고기"
+      ],
       "phonetic_romanization": "po"
     },
     "포_일반명사-2": {
@@ -9419,7 +9497,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "와인",
+        "녹차",
+        "맥주",
+        "사탕",
+        "소주"
+      ],
       "phonetic_romanization": "podoju"
     },
     "포스터_일반명사-1": {
@@ -9559,7 +9643,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "값",
+        "구매",
+        "구입",
+        "돈",
+        "세일"
+      ],
       "phonetic_romanization": "pojang"
     },
     "포장재_일반명사-1": {
@@ -10455,7 +10545,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "네모",
+        "동그라미",
+        "모양",
+        "선",
+        "삼각"
+      ],
       "phonetic_romanization": "pulssok"
     },
     "풀어내다_동사-1": {
@@ -10643,7 +10739,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "껴안다",
+        "끌어안다",
+        "가로채다",
+        "갚다",
+        "거들다"
+      ],
       "phonetic_romanization": "pumda"
     },
     "품절_일반명사-1": {
@@ -10886,7 +10988,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가죽",
+        "기구",
+        "내용물",
+        "막대",
+        "물건"
+      ],
       "phonetic_romanization": ""
     },
     "풍속_일반명사-1": {
@@ -11086,7 +11194,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "조직",
+        "사업",
+        "상회",
+        "발생기",
+        "복사기"
+      ],
       "phonetic_romanization": "peuraenchaijeu"
     },
     "프로_일반명사-1": {
@@ -11226,7 +11340,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "감지기",
+        "라디오",
+        "선풍기",
+        "사진기",
+        "텔레비전"
+      ],
       "phonetic_romanization": "peurinteo"
     },
     "플라스틱_일반명사-1": {
@@ -11367,7 +11487,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "계열사",
+        "본부",
+        "본사",
+        "부서",
+        "사무실"
+      ],
       "phonetic_romanization": "peullaenteu"
     },
     "피_일반명사-1": {
@@ -11460,7 +11586,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "결승전",
+        "경기",
+        "달리기",
+        "본선",
+        "스포츠"
+      ],
       "phonetic_romanization": "pigyeo"
     },
     "피나다_동사-1": {
@@ -11547,7 +11679,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기증",
+        "가로등",
+        "감옥",
+        "개장",
+        "검거"
+      ],
       "phonetic_romanization": "pinan"
     },
     "피다_동사-1": {
@@ -17398,7 +17536,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "파행",
+        "각계",
+        "각광",
+        "간담회",
+        "개혁"
+      ],
       "phonetic_romanization": "hyeongmyeong"
     },
     "현관_일반명사-1": {
@@ -17606,7 +17750,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "현지인",
+        "교포",
+        "내부자",
+        "단원",
+        "상대방"
+      ],
       "phonetic_romanization": "hyeondaein"
     }
   }

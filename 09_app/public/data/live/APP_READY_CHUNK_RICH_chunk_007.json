@@ -174,7 +174,13 @@
   "시골집_일반명사-1": {
     "id": "시골집_일반명사-1",
     "def_ko": "시골에 있는 집",
-    "related_vocab": [],
+    "related_vocab": [
+      "도시",
+      "뒷문",
+      "은신처",
+      "입주민",
+      "궁중"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -224,7 +230,13 @@
   "시내버스_일반명사-1": {
     "id": "시내버스_일반명사-1",
     "def_ko": "도시 안에서 정해진 노선을 따라 운행하는 버스",
-    "related_vocab": [],
+    "related_vocab": [
+      "운행",
+      "관광버스",
+      "공항버스",
+      "버스",
+      "전철"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -248,7 +260,13 @@
   "시동_일반명사-1": {
     "id": "시동_일반명사-1",
     "def_ko": "기계나 자동차의 움직임을 시작하게 함",
-    "related_vocab": [],
+    "related_vocab": [
+      "감속",
+      "걸음",
+      "과속",
+      "귀환",
+      "도보"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -629,7 +647,13 @@
   "시청_일반명사-1": {
     "id": "시청_일반명사-1",
     "def_ko": "시의 행정을 맡아 보는 기관이나 건물",
-    "related_vocab": [],
+    "related_vocab": [
+      "파출소",
+      "경찰서",
+      "교육청",
+      "시정",
+      "정부"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1121,7 +1145,13 @@
   "신간_일반명사-1": {
     "id": "신간_일반명사-1",
     "def_ko": "막 새로 나온 책",
-    "related_vocab": [],
+    "related_vocab": [
+      "단편",
+      "가사",
+      "가수",
+      "각본",
+      "갤러리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1890,7 +1920,13 @@
   "실외_일반명사-1": {
     "id": "실외_일반명사-1",
     "def_ko": "방이나 건물의 밖",
-    "related_vocab": [],
+    "related_vocab": [
+      "실내",
+      "뒷문",
+      "정문",
+      "지붕",
+      "현관문"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1980,7 +2016,13 @@
   "심급_일반명사-1": {
     "id": "심급_일반명사-1",
     "def_ko": "법원에서 재판을 하는 단계",
-    "related_vocab": [],
+    "related_vocab": [
+      "경찰관",
+      "도둑",
+      "법",
+      "안내원",
+      "기관"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1990,7 +2032,13 @@
   "심다_동사-1": {
     "id": "심다_동사-1",
     "def_ko": "씨나 묘목을 흙에 넣어 가꾸다",
-    "related_vocab": [],
+    "related_vocab": [
+      "담그다",
+      "저장",
+      "개다",
+      "거두다",
+      "깔다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2014,7 +2062,13 @@
   "심리학과_일반명사-1": {
     "id": "심리학과_일반명사-1",
     "def_ko": "대학에서 심리학을 전공하는 학과",
-    "related_vocab": [],
+    "related_vocab": [
+      "공부방",
+      "교육원",
+      "대학교",
+      "도서관",
+      "연구실"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2062,7 +2116,13 @@
   "심부름_일반명사-1": {
     "id": "심부름_일반명사-1",
     "def_ko": "다른 사람을 대신해 작은 일을 해 주는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "살림",
+      "따르다",
+      "붓다",
+      "이사",
+      "닫히다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2452,7 +2512,13 @@
   "쏠리다_동사-1": {
     "id": "쏠리다_동사-1",
     "def_ko": "한쪽으로 기울거나 모이다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가라앉다",
+      "가라앉히다",
+      "구르다",
+      "굴러가다",
+      "굴리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2985,7 +3051,13 @@
   "아르바이트_일반명사-1": {
     "id": "아르바이트_일반명사-1",
     "def_ko": "정식 직업이 아닌, 시간을 정해 잠깐 하는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "담당",
+      "야근",
+      "육체노동",
+      "일",
+      "작업"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5925,7 +5997,13 @@
   "여쭙다_동사-2": {
     "id": "여쭙다_동사-2",
     "def_ko": "웃어른에게 말씀을 드리다",
-    "related_vocab": [],
+    "related_vocab": [
+      "여쭙다",
+      "드리다",
+      "바치다",
+      "가로채다",
+      "갚다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

@@ -298,7 +298,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "건드리다",
+      "달라붙다",
+      "닳다",
+      "닿다",
+      "떨리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -2836,7 +2842,16 @@
       "고민거리"
     ],
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "병원_일반명사-1",
+          "target_term": "병원",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        }
+      ]
     },
     "is_center_profile": false,
     "chunk_id": "chunk_012"
@@ -6912,7 +6927,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "서투르다",
+      "알아듣다",
+      "감지",
+      "개념",
+      "계발"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -14648,7 +14669,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거대",
+      "거품",
+      "경관",
+      "관능",
+      "광경"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -17940,7 +17967,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "그리다",
+      "긋다",
+      "기다",
+      "기울이다",
+      "깜박이다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -18137,7 +18170,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "둘러싸다",
+      "기울이다",
+      "잘생기다",
+      "체형",
+      "그리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -18207,7 +18246,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "벅차다",
+      "맹신",
+      "간절하다",
+      "굳다",
+      "궁금하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -18492,7 +18537,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -19461,7 +19512,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "극히",
+      "강력히",
+      "곧잘",
+      "그럭저럭",
+      "급격히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -19569,7 +19626,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "유난히",
+      "강력히",
+      "곧잘",
+      "그럭저럭",
+      "극히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -19831,7 +19894,6 @@
     },
     "related_vocab": [
       "못하다",
-      "못하다",
       "심사"
     ],
     "refs": {
@@ -19902,7 +19964,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "결핍",
+      "미비",
+      "천편일률",
+      "강하다",
+      "거세다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -20009,7 +20077,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가득히",
+      "감쪽같이",
+      "갸웃",
+      "거꾸로",
+      "고스란히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -21608,8 +21682,7 @@
     },
     "related_vocab": [
       "말",
-      "대화",
-      "말"
+      "대화"
     ],
     "refs": {
       "cross_links": []
@@ -21793,9 +21866,9 @@
       "level": "Intermediate"
     },
     "related_vocab": [
+      "간절하다",
       "억지로",
-      "꺼리다",
-      "간절하다"
+      "꺼리다"
     ],
     "refs": {
       "cross_links": []
@@ -24146,7 +24219,6 @@
     "related_vocab": [
       "깔끔하다",
       "못생기다",
-      "못생기다",
       "잘생기다",
       "준수"
     ],
@@ -24263,7 +24335,6 @@
     "related_vocab": [
       "깔끔하다",
       "못나다",
-      "못생기다",
       "잘생기다",
       "준수"
     ],
@@ -24342,8 +24413,7 @@
       "금지",
       "금하다",
       "성공",
-      "떨어지다",
-      "못하다"
+      "떨어지다"
     ],
     "refs": {
       "cross_links": []
@@ -27127,7 +27197,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "각오",
+      "갈망",
+      "갈증",
+      "감정",
+      "결심"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -28288,7 +28364,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "반칙",
+      "가치",
+      "가치관",
+      "각별",
+      "간과"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -28853,7 +28935,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "조언",
+      "가치",
+      "가치관",
+      "각별",
+      "간과"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -28962,7 +29050,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -29265,7 +29359,6 @@
     },
     "related_vocab": [
       "간소하다",
-      "낡다",
       "낡다",
       "낮다"
     ],
@@ -31378,6 +31471,14 @@
           "target_root": "보건과 의료",
           "target_category": "질병과 증상",
           "hook_id": "H02"
+        },
+        {
+          "target_id": "병원_일반명사-1",
+          "target_term": "병원",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
         }
       ]
     },
@@ -32127,7 +32228,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "비추다",
+      "그리다",
+      "기울이다",
+      "깜박하다",
+      "늘이다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -32580,7 +32687,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "부진",
+      "거스르다",
+      "고르다",
+      "권하다",
+      "꼽다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -33551,7 +33664,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "색채",
+      "줄무늬",
+      "거대",
+      "거품",
+      "경관"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -34040,7 +34159,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가득히",
+      "감쪽같이",
+      "갸웃",
+      "거꾸로",
+      "고스란히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36501,7 +36626,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "독립심",
+      "능동",
+      "도덕심",
+      "수동적",
+      "가만히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36867,7 +36998,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "공손하다",
+      "당당하다",
+      "불친절하다",
+      "단정하다",
+      "가만"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36938,7 +37075,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "동정",
+      "걷잡다",
+      "견디다",
+      "구하다",
+      "그리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -37192,7 +37335,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "필수",
+      "필요",
+      "요구",
+      "못하다",
+      "가치"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -37525,7 +37674,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부",
+      "거절",
+      "인정",
+      "수용",
+      "채택"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -38765,7 +38920,6 @@
     "related_vocab": [
       "매달리다",
       "낡다",
-      "낡다",
       "기울다",
       "끄떡없다"
     ],
@@ -39984,7 +40138,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -41444,7 +41604,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "미적거리다",
+      "서두르다",
+      "가만히",
+      "감성",
+      "감수"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -42056,7 +42222,40 @@
       "차마"
     ],
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "통증_일반명사-1",
+          "target_term": "통증",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "질병과 증상",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "병원_일반명사-1",
+          "target_term": "병원",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "진료_일반명사-1",
+          "target_term": "진료",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "진료와 치료 행위",
+          "hook_id": "MED-JOURNEY"
+        },
+        {
+          "target_id": "약국_일반명사-1",
+          "target_term": "약국",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        }
+      ]
     },
     "is_center_profile": false,
     "chunk_id": "chunk_015"
@@ -42346,7 +42545,13 @@
       "band": 2,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "견디다",
+      "마지못하다",
+      "정신없이",
+      "각오",
+      "갈망"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -42604,7 +42809,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "무늬",
+      "색깔",
+      "파란색",
+      "하얀색",
+      "색상"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -42676,7 +42887,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고민거리",
+      "불만",
+      "미련",
+      "안되다",
+      "노려보다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -43713,7 +43930,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거칠다",
+      "따뜻하다",
+      "딱딱하다",
+      "부드럽다",
+      "뻣뻣하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -44468,7 +44691,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "관찰력",
+      "능력",
+      "두뇌",
+      "사고력",
+      "실력"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -44540,7 +44769,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "답답하다",
+      "안타깝다",
+      "괴롭다",
+      "귀찮다",
+      "못마땅하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46131,7 +46366,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46282,7 +46523,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46354,7 +46601,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "유인",
+      "심리",
+      "혼",
+      "각오",
+      "갈망"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46550,7 +46803,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "인생관",
+      "도덕",
+      "의무",
+      "목적",
+      "편견"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46653,7 +46912,13 @@
       "band": 2,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "계획",
+      "예상",
+      "돌이키다",
+      "기대",
+      "꿈"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46686,7 +46951,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "머뭇머뭇",
+      "가만",
+      "감히",
+      "당당",
+      "당당히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47696,7 +47967,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "동조",
+      "내세우다",
+      "논평",
+      "반대",
+      "찬성"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47729,7 +48006,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "마음가짐",
+      "겸손",
+      "경청",
+      "남용",
+      "낭비"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47799,7 +48082,13 @@
       "band": 2,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47942,7 +48231,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "정확히",
+      "거짓",
+      "거짓말",
+      "공산",
+      "리얼리티"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47975,7 +48270,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가히",
+      "단연",
+      "분명히",
+      "설마",
+      "아마"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48008,7 +48309,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48112,7 +48419,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "진실",
+      "한계",
+      "거짓",
+      "거짓말",
+      "공산"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48215,7 +48528,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "허전하다",
+      "죄송하다",
+      "노려보다",
+      "뉘우치다",
+      "찌푸리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48884,7 +49203,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고통",
+      "불쾌감",
+      "싫증",
+      "짜증",
+      "피로감"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -49749,7 +50074,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -52664,7 +52995,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거스르다",
+      "위하다",
+      "금하다",
+      "내세우다",
+      "부풀리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -53223,7 +53560,13 @@
       "band": 4,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "괴롭다",
+      "귀찮다",
+      "답답하다",
+      "못마땅하다",
+      "미안하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -53830,7 +54173,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "열성",
+      "정신",
+      "도전",
+      "모험",
+      "버릇"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54276,7 +54625,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "못되다",
+      "변덕스럽다",
+      "엉터리",
+      "게으르다",
+      "까다롭다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54384,7 +54739,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54648,7 +55009,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "감성",
+      "극복",
+      "느긋하다",
+      "감수",
+      "개성"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54834,7 +55201,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "되다",
+      "맞다",
+      "밝혀내다",
+      "점치다",
+      "가히"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54980,7 +55353,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "인정",
+      "최고",
+      "가치",
+      "가치관",
+      "각별"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55118,7 +55497,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가늠",
+      "강도",
+      "강력",
+      "강화",
+      "결핍"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55186,7 +55571,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "겸손",
+      "경청",
+      "남용",
+      "낭비",
+      "단정"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55219,7 +55610,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "공익",
+      "유용",
+      "유익",
+      "쓸데없다",
+      "위하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55360,7 +55757,13 @@
       "band": null,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "지양",
+      "거론",
+      "건의",
+      "권유",
+      "권장"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55428,7 +55831,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "사랑",
+      "안정감",
+      "애",
+      "동정심",
+      "모성애"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55496,7 +55905,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "깨끗하다",
+      "못생기다",
+      "어둡다",
+      "지저분하다",
+      "뿌옇다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55600,7 +56015,13 @@
       "band": 1,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "흡족",
+      "즐기다",
+      "기쁘다",
+      "반기다",
+      "즐거워하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55633,7 +56054,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -56409,7 +56836,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "동정",
+      "풀어지다",
+      "각오",
+      "갈망",
+      "갈증"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -56516,7 +56949,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "외치다",
+      "들려주다",
+      "소리치다",
+      "외침",
+      "듣다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -56740,7 +57179,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "감탄",
+      "좋아하다",
+      "기뻐하다",
+      "신나다",
+      "웃기다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -56848,7 +57293,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "귀찮다",
+      "민망하다",
+      "서운하다",
+      "딱하다",
+      "답답하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -58134,7 +58585,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "염두",
+      "의중",
+      "머릿속",
+      "인상적",
+      "본능"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -58542,7 +58999,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "비추다",
+      "투영",
+      "그리다",
+      "긋다",
+      "기다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -58575,7 +59038,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "기울이다",
+      "깜박하다",
+      "비추다",
+      "늘이다",
+      "드러내다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -58645,7 +59114,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "마땅히",
+      "하필",
+      "가치",
+      "가치관",
+      "각별"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59395,7 +59870,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강력",
+      "고속",
+      "막심",
+      "빈약",
+      "심각성"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59463,7 +59944,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "결핍",
+      "미비",
+      "상당",
+      "저조",
+      "신속"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59534,7 +60021,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고루",
+      "철저히",
+      "가늠",
+      "강도",
+      "강력"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59602,7 +60095,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "위주",
+      "가치",
+      "감상문",
+      "거론",
+      "건의"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59635,7 +60134,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "첫인상",
+      "생각",
+      "욕구",
+      "의욕",
+      "이미지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59668,7 +60173,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "사랑",
+      "애정",
+      "감격",
+      "모성애",
+      "반가움"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59955,7 +60466,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "겸손",
+      "무시",
+      "선행",
+      "유머",
+      "조종"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60063,7 +60580,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "각오",
+      "갈망",
+      "갈증",
+      "감정",
+      "결심"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60140,7 +60663,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "간지럽다",
+      "가루",
+      "가시",
+      "간지럼",
+      "감촉"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60210,7 +60739,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "굴다",
+      "굽실거리다",
+      "돌아서다",
+      "머뭇거리다",
+      "비굴"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60433,7 +60968,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "기억",
+      "고려",
+      "노력",
+      "뜻",
+      "상상"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60466,7 +61007,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "권유",
+      "권장",
+      "동의",
+      "권고",
+      "항의"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60499,7 +61046,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "축하",
+      "반가움",
+      "농담",
+      "심미",
+      "기호"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60760,7 +61313,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "구하다",
+      "각오",
+      "갈망",
+      "갈증",
+      "감정"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -62247,7 +62806,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가루",
+      "가시",
+      "간지럼",
+      "감촉",
+      "건조"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -63339,7 +63904,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "감지",
+      "개념",
+      "계발",
+      "관찰력",
+      "기교"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -64229,7 +64800,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "모습",
+      "거대",
+      "거품",
+      "경관",
+      "관능"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -64784,7 +65361,16 @@
       "피곤"
     ],
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "병원_일반명사-1",
+          "target_term": "병원",
+          "target_system": "상황과 장소",
+          "target_root": "보건과 의료",
+          "target_category": "의료 시설과 약국",
+          "hook_id": "MED-JOURNEY"
+        }
+      ]
     },
     "is_center_profile": false,
     "chunk_id": "chunk_016"
@@ -66326,7 +66912,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가치",
+      "가치관",
+      "각별",
+      "간과",
+      "간주"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -66359,7 +66951,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "거부감",
+      "걱정",
+      "고난",
+      "고독",
+      "고민"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -66431,7 +67029,6 @@
     },
     "related_vocab": [
       "간소하다",
-      "낡다",
       "낡다",
       "더러움"
     ],
@@ -67094,7 +67691,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "기쁨",
+      "호감",
+      "기뻐하다",
+      "희소식",
+      "누리다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -67201,7 +67804,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "기운",
+      "유인",
+      "심리",
+      "집중",
+      "영혼"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -67234,7 +67843,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "어려움",
+      "단순",
+      "간단하다",
+      "간단히",
+      "만만하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -67267,7 +67882,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "어려움",
+      "단순",
+      "간단하다",
+      "간단히",
+      "만만하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -67300,7 +67921,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "노여움",
+      "화나다",
+      "고난",
+      "그리움",
+      "불쾌감"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -67333,7 +67960,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "화",
+      "고난",
+      "그리움",
+      "노여움",
+      "불쾌감"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -68414,7 +69047,6 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "낡다",
       "낡다"
     ],
     "refs": {

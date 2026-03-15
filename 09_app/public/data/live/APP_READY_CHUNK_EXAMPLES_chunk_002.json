@@ -2562,7 +2562,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "구매",
+        "구입비",
+        "사용료",
+        "값",
+        "구입"
+      ],
       "phonetic_romanization": "guipja"
     },
     "구전_일반명사-1": {
@@ -4040,7 +4046,6 @@
         "군인",
         "민족",
         "군사",
-        "군사",
         "적지"
       ],
       "phonetic_romanization": ""
@@ -4232,7 +4237,6 @@
         }
       ],
       "related_vocab": [
-        "군사",
         "군인",
         "입대",
         "군대",
@@ -4340,7 +4344,6 @@
       ],
       "related_vocab": [
         "군대",
-        "군사",
         "군사",
         "입대"
       ],
@@ -16299,7 +16302,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "특허청",
+        "정부",
+        "진흥원",
+        "교통부",
+        "국회"
+      ],
       "phonetic_romanization": "nodongbu"
     },
     "노동자_일반명사-1": {
@@ -16433,7 +16442,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "검다",
+        "노란색",
+        "무채색",
+        "까맣다",
+        "붉다"
+      ],
       "phonetic_romanization": "norata"
     },
     "노래_일반명사-1": {
@@ -16535,7 +16550,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가수",
+        "고미술품",
+        "댄스",
+        "독창",
+        "부르다"
+      ],
       "phonetic_romanization": "noraebang"
     },
     "노래자랑_일반명사-1": {

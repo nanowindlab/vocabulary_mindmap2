@@ -740,7 +740,13 @@
   "상품권_일반명사-1": {
     "id": "상품권_일반명사-1",
     "def_ko": "정해진 가게에서 물건과 바꿀 수 있는 증서",
-    "related_vocab": [],
+    "related_vocab": [
+      "계산대",
+      "화폐",
+      "환율",
+      "쿠폰",
+      "가격"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1011,7 +1017,13 @@
   "샐러드_일반명사-1": {
     "id": "샐러드_일반명사-1",
     "def_ko": "여러 채소나 과일에 소스를 뿌린 음식",
-    "related_vocab": [],
+    "related_vocab": [
+      "김밥",
+      "반찬",
+      "만두",
+      "먹을거리",
+      "비빔밥"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1050,7 +1062,13 @@
   "생리_일반명사-1": {
     "id": "생리_일반명사-1",
     "def_ko": "몸 안에서 일어나는 자연스러운 기능",
-    "related_vocab": [],
+    "related_vocab": [
+      "뇌",
+      "가슴",
+      "간",
+      "갈비",
+      "귀"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1060,7 +1078,13 @@
   "생머리_일반명사-1": {
     "id": "생머리_일반명사-1",
     "def_ko": "파마를 하지 않은 곧은 머리카락",
-    "related_vocab": [],
+    "related_vocab": [
+      "맨발",
+      "머리카락",
+      "가슴",
+      "간",
+      "갈비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1070,7 +1094,13 @@
   "생명_일반명사-1": {
     "id": "생명_일반명사-1",
     "def_ko": "살아 움직이게 하는 힘",
-    "related_vocab": [],
+    "related_vocab": [
+      "일개미",
+      "포획",
+      "생명력",
+      "가축",
+      "강아지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1080,7 +1110,13 @@
   "생명력_일반명사-1": {
     "id": "생명력_일반명사-1",
     "def_ko": "살아 있으려는 강한 힘",
-    "related_vocab": [],
+    "related_vocab": [
+      "포획",
+      "생명",
+      "가축",
+      "강아지",
+      "개"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2521,7 +2557,13 @@
   "섬_일반명사-1": {
     "id": "섬_일반명사-1",
     "def_ko": "사방이 물로 둘러싸인 땅",
-    "related_vocab": [],
+    "related_vocab": [
+      "환경",
+      "강",
+      "강물",
+      "개울",
+      "경치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2557,7 +2599,13 @@
   "성_일반명사-1": {
     "id": "성_일반명사-1",
     "def_ko": "둘로 나뉘는 남자와 여자의 구별",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "고객"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2611,7 +2659,13 @@
   "성대_일반명사-1": {
     "id": "성대_일반명사-1",
     "def_ko": "목소리를 내는 목 안의 기관",
-    "related_vocab": [],
+    "related_vocab": [
+      "간",
+      "귀",
+      "근육",
+      "기관",
+      "내장"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2634,7 +2688,13 @@
   "성별_일반명사-1": {
     "id": "성별_일반명사-1",
     "def_ko": "남성과 여성의 구분",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "고객"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3444,7 +3504,13 @@
   "소매_일반명사-1": {
     "id": "소매_일반명사-1",
     "def_ko": "윗옷에서 팔을 끼우는 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "거주",
+      "겉옷",
+      "구두",
+      "굽",
+      "귀가"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3506,7 +3572,13 @@
   "소방차_일반명사-1": {
     "id": "소방차_일반명사-1",
     "def_ko": "불을 끄기 위한 장비를 실은 차",
-    "related_vocab": [],
+    "related_vocab": [
+      "규율",
+      "소방관",
+      "소방",
+      "사립",
+      "가로등"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3516,7 +3588,13 @@
   "소변_일반명사-1": {
     "id": "소변_일반명사-1",
     "def_ko": "(점잖게 이르는 말로) 사람의 오줌",
-    "related_vocab": [],
+    "related_vocab": [
+      "눈코",
+      "송장",
+      "육체",
+      "인체",
+      "입술"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3567,7 +3645,13 @@
   "소설가_일반명사-1": {
     "id": "소설가_일반명사-1",
     "def_ko": "소설을 쓰는 것을 직업으로 하는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "무용가",
+      "가수",
+      "관객",
+      "관람객",
+      "드라마"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3577,7 +3661,13 @@
   "소설집_일반명사-1": {
     "id": "소설집_일반명사-1",
     "def_ko": "여러 편의 소설을 모아 엮은 책",
-    "related_vocab": [],
+    "related_vocab": [
+      "연주회",
+      "동물원",
+      "연극제",
+      "군무",
+      "독주"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3629,7 +3719,13 @@
   "소시지_일반명사-1": {
     "id": "소시지_일반명사-1",
     "def_ko": "으깨어 양념한 고기를 돼지 창자나 가늘고 긴 자루에 채워 만든 식품",
-    "related_vocab": [],
+    "related_vocab": [
+      "국수",
+      "잡채",
+      "김밥",
+      "나물",
+      "닭갈비"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3677,7 +3773,13 @@
   "소임_일반명사-1": {
     "id": "소임_일반명사-1",
     "def_ko": "맡은 바 작은 직책이나 할 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "근무",
+      "업무",
+      "경영",
+      "계획서",
+      "공정"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

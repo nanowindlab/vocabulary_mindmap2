@@ -17,19 +17,20 @@
 > 참고: 개발 에이전트의 실행 환경이 바뀌더라도 동일한 오케스트레이션 문서, 사용자 승인 게이트, append-only 로그 규칙을 그대로 적용합니다.
 > 참고: 각 에이전트는 자기 역할 안에서만 능동적이어야 하며, PM 역할은 Codex만 수행합니다.
 
-1. **[오케스트레이션 대시보드 (Dashboard)](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 현재 진행 중인 미션과 에이전트별 워크보드 링크.
+1. **[오케스트레이션 대시보드 (Dashboard)](./.gemini-orchestration/ORCHESTRATION_DASHBOARD.md)**: 현재 milestone과 승인 상태를 관리하는 control plane.
 2. **[Main PM 역할 정의](./.gemini-orchestration/MAIN_PM_ROLE_DEFINITION_V1.md)**: Main PM의 권한, 책임, 필수 스킬, control field 소유권 정의.
 3. **[오케스트레이션 허브 (Hub)](./.gemini-orchestration/WORK_ORCHESTRATION_HUB_V1.md)**: 현재 SSOT 읽기 순서와 active canonical 문서 요약.
 4. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
-5. **[워크보드 템플릿 및 로그 규칙](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 사용자 승인 게이트와 append-only 보고 방식의 기준 문서.
-6. **[다음 Main PM handoff](./.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md)**: 현재 상태(`REV-87` chunk rebuild gate까지) 기준 handoff 문서.
-7. **[배치용 에이전트 운영 모델](./.gemini-orchestration/BATCH_AGENT_OPERATING_MODEL_V1.md)**: batch type, exception gate, one-batch-one-rev 조건을 정의한 운영 문서.
+5. **[PM 상태 관리 프로토콜](./08_expansion/PM_STATE_MANAGEMENT_PROTOCOL_V1.md)**: workboard 없는 PM 중심 운영에서 상태, 근거, handoff를 어디에 남길지 정의한 문서.
+6. **[현재 milestone 보고서](./08_expansion/pm_reports/20260315_PM_RUNTIME_RECOVERY_AND_RESTART_PLAN_V1.md)**: Yellow runtime consistency closure부터 restart gate까지의 현재 authoritative report.
+7. **[다음 Main PM handoff](./.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md)**: 현재 상태 기준 handoff 문서.
+8. **[배치용 에이전트 운영 모델](./.gemini-orchestration/BATCH_AGENT_OPERATING_MODEL_V1.md)**: batch type, exception gate, one-batch-one-rev 조건을 정의한 운영 문서.
 
-> 현재 상태 메모: `Calendar Continuity Batch-14`는 internal build, runtime projection, chunk rebuild gate까지 한 배치로 완결되었습니다. `Calendar Label Batch-11`은 internal build와 projection gate까지는 통과했지만 comparison autopilot에서 runtime consistency 문제가 드러났습니다. 현재 우선순위는 green autopilot 확대가 아니라 Codex/Main PM 중심 `Yellow runtime consistency investigation`이며, `REV-74` 기획은 폐기 대상이 아니라 이 investigation의 planning baseline으로 유지합니다.
+> 현재 상태 메모: `Calendar Continuity Batch-14`는 internal build, runtime projection, chunk rebuild gate까지 한 배치로 완결되었습니다. `Calendar Label Batch-11`은 comparison autopilot에서 드러난 runtime consistency 문제를 기준으로 `Yellow / Runtime Reclassification`으로 재분류되었습니다. Yellow closure와 runtime projection hardening은 완료되었고, 현재 phase는 `restart-ready`입니다. `REV-74` 기획은 폐기 대상이 아니라 현재 restart gate의 planning baseline으로 유지합니다.
 
-> 기본 프로토콜: 사용자는 대시보드 한 문서만 보고 현재 상태를 모니터링하고 지시합니다. 에이전트는 대시보드에서 자기 workboard로 내려가 상세 지시를 읽습니다.
-> 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 운영 가이드와 허브 문서를 기준으로 합니다.
-> 운영 메모: 현재 sequencing과 runtime consistency 복구는 Codex/Main PM이 직접 주도하며, multi-agent workboard는 증거/기록 용도로만 유지합니다.
+> 기본 프로토콜: 사용자는 대시보드 한 문서만 보고 현재 상태를 모니터링하고 지시합니다. 세부 근거와 intermediate evidence는 `08_expansion/pm_reports/`에서 추적합니다.
+> 운영 메모: 역할별 필수 스킬과 dashboard/decision/tasklist 제어 필드 소유권은 운영 가이드와 허브 문서를 기준으로 합니다.
+> 운영 메모: 현재 sequencing과 runtime consistency 복구는 Codex/Main PM이 직접 주도하며, workboard/workboard_archive는 history-only로 취급합니다.
 > 운영 메모: 모든 에이전트는 진단에서 멈추지 않고 기본적으로 해결안을 제시해야 합니다. 독자 결정이 어려우면 최대 3개 이내의 선택지를 제안합니다.
 
 ---

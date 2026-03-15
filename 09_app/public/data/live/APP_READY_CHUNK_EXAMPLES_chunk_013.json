@@ -5272,7 +5272,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거대",
+        "거품",
+        "경관",
+        "관능",
+        "광경"
+      ],
       "phonetic_romanization": ""
     },
     "단순_일반명사-1": {
@@ -9131,7 +9137,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "그리다",
+        "긋다",
+        "기다",
+        "기울이다",
+        "깜박이다"
+      ],
       "phonetic_romanization": ""
     },
     "두드리다_동사-1": {
@@ -9380,7 +9392,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "둘러싸다",
+        "기울이다",
+        "잘생기다",
+        "체형",
+        "그리다"
+      ],
       "phonetic_romanization": "dureuda"
     },
     "두리번거리다_동사-1": {
@@ -9438,7 +9456,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "벅차다",
+        "맹신",
+        "간절하다",
+        "굳다",
+        "궁금하다"
+      ],
       "phonetic_romanization": "duteoptta"
     },
     "둘러보다_동사-1": {
@@ -9801,7 +9825,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가치",
+        "가치관",
+        "각별",
+        "간과",
+        "간주"
+      ],
       "phonetic_romanization": "dwitjeon"
     },
     "드넓다_형용사-1": {
@@ -10974,7 +11004,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "극히",
+        "강력히",
+        "곧잘",
+        "그럭저럭",
+        "급격히"
+      ],
       "phonetic_romanization": "ttak"
     },
     "딱딱하다_형용사-1": {
@@ -11115,7 +11151,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "유난히",
+        "강력히",
+        "곧잘",
+        "그럭저럭",
+        "극히"
+      ],
       "phonetic_romanization": "ttakhi"
     },
     "떠들다_동사-1": {
@@ -11482,7 +11524,6 @@
       ],
       "related_vocab": [
         "못하다",
-        "못하다",
         "심사"
       ],
       "phonetic_romanization": "tteoreojida"
@@ -11577,7 +11618,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "결핍",
+        "미비",
+        "천편일률",
+        "강하다",
+        "거세다"
+      ],
       "phonetic_romanization": "ttokkatta"
     },
     "똑같이_일반부사-1": {
@@ -11657,7 +11704,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가득히",
+        "감쪽같이",
+        "갸웃",
+        "거꾸로",
+        "고스란히"
+      ],
       "phonetic_romanization": ""
     },
     "똑바로_일반부사-1": {
@@ -13334,8 +13387,7 @@
       ],
       "related_vocab": [
         "말",
-        "대화",
-        "말"
+        "대화"
       ],
       "phonetic_romanization": "malsseum"
     },
@@ -13522,9 +13574,9 @@
         }
       ],
       "related_vocab": [
+        "간절하다",
         "억지로",
-        "꺼리다",
-        "간절하다"
+        "꺼리다"
       ],
       "phonetic_romanization": ""
     },
@@ -16349,7 +16401,6 @@
       "related_vocab": [
         "깔끔하다",
         "못생기다",
-        "못생기다",
         "잘생기다",
         "준수"
       ],
@@ -16433,7 +16484,6 @@
       "related_vocab": [
         "깔끔하다",
         "못나다",
-        "못생기다",
         "잘생기다",
         "준수"
       ],
@@ -16500,8 +16550,7 @@
         "금지",
         "금하다",
         "성공",
-        "떨어지다",
-        "못하다"
+        "떨어지다"
       ],
       "phonetic_romanization": ""
     },

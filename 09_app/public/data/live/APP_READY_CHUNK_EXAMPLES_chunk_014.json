@@ -1899,7 +1899,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "각오",
+        "갈망",
+        "갈증",
+        "감정",
+        "결심"
+      ],
       "phonetic_romanization": "bansinbanui"
     },
     "반짝_일반부사-1": {
@@ -3213,7 +3219,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "반칙",
+        "가치",
+        "가치관",
+        "각별",
+        "간과"
+      ],
       "phonetic_romanization": "beolchik"
     },
     "범하다_동사-1": {
@@ -3931,7 +3943,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "조언",
+        "가치",
+        "가치관",
+        "각별",
+        "간과"
+      ],
       "phonetic_romanization": "bosang"
     },
     "보이다_동사-1": {
@@ -4013,7 +4031,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거부감",
+        "걱정",
+        "고난",
+        "고독",
+        "고민"
+      ],
       "phonetic_romanization": ""
     },
     "복잡하다_형용사-1": {
@@ -4391,7 +4415,6 @@
       ],
       "related_vocab": [
         "간소하다",
-        "낡다",
         "낡다",
         "낮다"
       ],
@@ -7508,7 +7531,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "비추다",
+        "그리다",
+        "기울이다",
+        "깜박하다",
+        "늘이다"
+      ],
       "phonetic_romanization": "bichuda"
     },
     "비치다_동사-1": {
@@ -8087,7 +8116,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "부진",
+        "거스르다",
+        "고르다",
+        "권하다",
+        "꼽다"
+      ],
       "phonetic_romanization": "bitnada"
     },
     "빠져들다_동사-1": {
@@ -9274,7 +9309,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "색채",
+        "줄무늬",
+        "거대",
+        "거품",
+        "경관"
+      ],
       "phonetic_romanization": "sansanjogak"
     },
     "산성_일반명사-1": {
@@ -9886,7 +9927,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가득히",
+        "감쪽같이",
+        "갸웃",
+        "거꾸로",
+        "고스란히"
+      ],
       "phonetic_romanization": "sangsehi"
     },
     "상식_일반명사-1": {
@@ -12620,7 +12667,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "독립심",
+        "능동",
+        "도덕심",
+        "수동적",
+        "가만히"
+      ],
       "phonetic_romanization": ""
     },
     "소리_일반명사-1": {
@@ -13040,7 +13093,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공손하다",
+        "당당하다",
+        "불친절하다",
+        "단정하다",
+        "가만"
+      ],
       "phonetic_romanization": ""
     },
     "소홀히_일반부사-1": {
@@ -13099,7 +13158,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "동정",
+        "걷잡다",
+        "견디다",
+        "구하다",
+        "그리다"
+      ],
       "phonetic_romanization": ""
     },
     "속마음_일반명사-1": {
@@ -13398,7 +13463,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "필수",
+        "필요",
+        "요구",
+        "못하다",
+        "가치"
+      ],
       "phonetic_romanization": "sonsarae"
     },
     "손쉽다_형용사-1": {
@@ -13776,7 +13847,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거부",
+        "거절",
+        "인정",
+        "수용",
+        "채택"
+      ],
       "phonetic_romanization": "surak"
     },
     "수분_일반명사-1": {
@@ -15249,7 +15326,6 @@
       ],
       "related_vocab": [
         "매달리다",
-        "낡다",
         "낡다",
         "기울다",
         "끄떡없다"
@@ -16738,7 +16814,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가치",
+        "가치관",
+        "각별",
+        "간과",
+        "간주"
+      ],
       "phonetic_romanization": "silyong"
     },
     "실패_일반명사-1": {

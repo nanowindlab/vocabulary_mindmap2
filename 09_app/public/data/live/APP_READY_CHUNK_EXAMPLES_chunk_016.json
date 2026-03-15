@@ -40,7 +40,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거부감",
+        "걱정",
+        "고난",
+        "고독",
+        "고민"
+      ],
       "phonetic_romanization": "jwajeol"
     },
     "좌절감_일반명사-1": {
@@ -1008,7 +1014,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "동정",
+        "풀어지다",
+        "각오",
+        "갈망",
+        "갈증"
+      ],
       "phonetic_romanization": "jungdok"
     },
     "중립_일반명사-1": {
@@ -1148,7 +1160,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "외치다",
+        "들려주다",
+        "소리치다",
+        "외침",
+        "듣다"
+      ],
       "phonetic_romanization": "jungeolgeorida"
     },
     "중요_일반명사-1": {
@@ -1399,7 +1417,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "감탄",
+        "좋아하다",
+        "기뻐하다",
+        "신나다",
+        "웃기다"
+      ],
       "phonetic_romanization": "jeulgeowohada"
     },
     "즐겁다_형용사-1": {
@@ -1552,7 +1576,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "귀찮다",
+        "민망하다",
+        "서운하다",
+        "딱하다",
+        "답답하다"
+      ],
       "phonetic_romanization": "jigyeopda"
     },
     "지나치다_형용사-1": {
@@ -3012,7 +3042,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "염두",
+        "의중",
+        "머릿속",
+        "인상적",
+        "본능"
+      ],
       "phonetic_romanization": "jipjungnyeok"
     },
     "집착_일반명사-1": {
@@ -3489,7 +3525,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "비추다",
+        "투영",
+        "그리다",
+        "긋다",
+        "기다"
+      ],
       "phonetic_romanization": ""
     },
     "찡그리다_동사-1": {
@@ -3501,7 +3543,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기울이다",
+        "깜박하다",
+        "비추다",
+        "늘이다",
+        "드러내다"
+      ],
       "phonetic_romanization": ""
     },
     "차갑다_형용사-1": {
@@ -3601,7 +3649,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "마땅히",
+        "하필",
+        "가치",
+        "가치관",
+        "각별"
+      ],
       "phonetic_romanization": "charari"
     },
     "차마_일반부사-1": {
@@ -4522,7 +4576,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강력",
+        "고속",
+        "막심",
+        "빈약",
+        "심각성"
+      ],
       "phonetic_romanization": "cheonchamanbyeol"
     },
     "천천히_일반부사-1": {
@@ -4614,7 +4674,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "결핍",
+        "미비",
+        "상당",
+        "저조",
+        "신속"
+      ],
       "phonetic_romanization": "cheonpyeonillyul"
     },
     "철렁_일반부사-1": {
@@ -4703,7 +4769,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고루",
+        "철저히",
+        "가늠",
+        "강도",
+        "강력"
+      ],
       "phonetic_romanization": "cheoljeo"
     },
     "철저히_일반부사-1": {
@@ -4795,7 +4867,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "위주",
+        "가치",
+        "감상문",
+        "거론",
+        "건의"
+      ],
       "phonetic_romanization": "cheomdan"
     },
     "첫눈_일반명사-1": {
@@ -4807,7 +4885,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "첫인상",
+        "생각",
+        "욕구",
+        "의욕",
+        "이미지"
+      ],
       "phonetic_romanization": ""
     },
     "첫사랑_일반명사-1": {
@@ -4855,7 +4939,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "사랑",
+        "애정",
+        "감격",
+        "모성애",
+        "반가움"
+      ],
       "phonetic_romanization": "cheotsarang"
     },
     "첫인상_일반명사-1": {
@@ -5190,7 +5280,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "겸손",
+        "무시",
+        "선행",
+        "유머",
+        "조종"
+      ],
       "phonetic_romanization": ""
     },
     "체형_일반명사-1": {
@@ -5331,7 +5427,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "각오",
+        "갈망",
+        "갈증",
+        "감정",
+        "결심"
+      ],
       "phonetic_romanization": "chosim"
     },
     "초조_일반명사-1": {
@@ -5423,7 +5525,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "간지럽다",
+        "가루",
+        "가시",
+        "간지럼",
+        "감촉"
+      ],
       "phonetic_romanization": "chokgak"
     },
     "촉감_일반명사-1": {
@@ -5481,7 +5589,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "굴다",
+        "굽실거리다",
+        "돌아서다",
+        "머뭇거리다",
+        "비굴"
+      ],
       "phonetic_romanization": ""
     },
     "촬영_일반명사-1": {
@@ -5773,7 +5887,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기억",
+        "고려",
+        "노력",
+        "뜻",
+        "상상"
+      ],
       "phonetic_romanization": "chueok"
     },
     "추천_일반명사-1": {
@@ -5821,7 +5941,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "권유",
+        "권장",
+        "동의",
+        "권고",
+        "항의"
+      ],
       "phonetic_romanization": "chucheon"
     },
     "축_일반명사-1": {
@@ -5863,7 +5989,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "축하",
+        "반가움",
+        "농담",
+        "심미",
+        "기호"
+      ],
       "phonetic_romanization": "chuk"
     },
     "축하_일반명사-1": {
@@ -6160,7 +6292,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "구하다",
+        "각오",
+        "갈망",
+        "갈증",
+        "감정"
+      ],
       "phonetic_romanization": "chungjok"
     },
     "취약_일반명사-1": {
@@ -7914,7 +8052,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가루",
+        "가시",
+        "간지럼",
+        "감촉",
+        "건조"
+      ],
       "phonetic_romanization": "tojil"
     },
     "톡톡_일반부사-1": {
@@ -9207,7 +9351,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "감지",
+        "개념",
+        "계발",
+        "관찰력",
+        "기교"
+      ],
       "phonetic_romanization": "panbyeol"
     },
     "팽개치다_동사-1": {
@@ -10298,7 +10448,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "모습",
+        "거대",
+        "거품",
+        "경관",
+        "관능"
+      ],
       "phonetic_romanization": "pyohyeonryeok"
     },
     "푸르다_형용사-1": {
@@ -12972,7 +13128,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가치",
+        "가치관",
+        "각별",
+        "간과",
+        "간주"
+      ],
       "phonetic_romanization": "heojeom"
     },
     "허탈_일반명사-1": {
@@ -13014,7 +13176,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거부감",
+        "걱정",
+        "고난",
+        "고독",
+        "고민"
+      ],
       "phonetic_romanization": "heotal"
     },
     "허허_일반부사-1": {
@@ -13080,7 +13248,6 @@
       ],
       "related_vocab": [
         "간소하다",
-        "낡다",
         "낡다",
         "더러움"
       ],
@@ -13854,7 +14021,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기쁨",
+        "호감",
+        "기뻐하다",
+        "희소식",
+        "누리다"
+      ],
       "phonetic_romanization": "ho-ui"
     },
     "호평_일반명사-1": {
@@ -13988,7 +14161,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기운",
+        "유인",
+        "심리",
+        "집중",
+        "영혼"
+      ],
       "phonetic_romanization": "hon"
     },
     "혼선_일반명사-1": {
@@ -14030,7 +14209,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "어려움",
+        "단순",
+        "간단하다",
+        "간단히",
+        "만만하다"
+      ],
       "phonetic_romanization": "honseon"
     },
     "혼잡_일반명사-1": {
@@ -14072,7 +14257,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "어려움",
+        "단순",
+        "간단하다",
+        "간단히",
+        "만만하다"
+      ],
       "phonetic_romanization": "honjab"
     },
     "화_일반명사-1": {
@@ -14120,7 +14311,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "노여움",
+        "화나다",
+        "고난",
+        "그리움",
+        "불쾌감"
+      ],
       "phonetic_romanization": "hwa"
     },
     "화나다_동사-1": {
@@ -14132,7 +14329,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "화",
+        "고난",
+        "그리움",
+        "노여움",
+        "불쾌감"
+      ],
       "phonetic_romanization": ""
     },
     "화내다_동사-1": {
@@ -15384,7 +15587,6 @@
         }
       ],
       "related_vocab": [
-        "낡다",
         "낡다"
       ],
       "phonetic_romanization": "hweson"

@@ -350,7 +350,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "요법",
+        "요양",
+        "골든타임",
+        "금연",
+        "방제"
+      ],
       "phonetic_romanization": ""
     },
     "마수걸이_일반명사-1": {
@@ -392,7 +398,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "사고팔다",
+        "사용료",
+        "주문",
+        "판매",
+        "구입자"
+      ],
       "phonetic_romanization": "masugeori"
     },
     "마술_일반명사-1": {
@@ -713,7 +725,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가격",
+        "값",
+        "결제",
+        "계산대",
+        "구매"
+      ],
       "phonetic_romanization": "mailriji"
     },
     "마주_일반부사-1": {
@@ -3407,7 +3425,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "머리털",
+        "머리칼",
+        "가슴",
+        "간",
+        "갈비"
+      ],
       "phonetic_romanization": "meorichae"
     },
     "머리카락_일반명사-1": {
@@ -3473,7 +3497,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "머리털",
+        "머리채",
+        "가슴",
+        "간",
+        "갈비"
+      ],
       "phonetic_romanization": ""
     },
     "머리털_일반명사-1": {
@@ -3608,7 +3638,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "하숙비",
+        "가계",
+        "가난",
+        "간직",
+        "기숙사비"
+      ],
       "phonetic_romanization": "meoseumsari"
     },
     "먹고살다_동사-1": {
@@ -3620,7 +3656,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "벌다",
+        "결근",
+        "경력",
+        "고용",
+        "급여"
+      ],
       "phonetic_romanization": ""
     },
     "먹구름_일반명사-1": {
@@ -3760,7 +3802,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "냉면",
+        "도시락",
+        "라면",
+        "반찬",
+        "식사"
+      ],
       "phonetic_romanization": "meogi"
     },
     "먹잇감_일반명사-1": {
@@ -4325,7 +4373,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기구",
+        "시설",
+        "장비",
+        "방탄복",
+        "표"
+      ],
       "phonetic_romanization": "memo"
     },
     "메모지_일반명사-1": {
@@ -5070,7 +5124,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "신청",
+        "당국",
+        "동의서",
+        "신고자",
+        "진흥원"
+      ],
       "phonetic_romanization": "myeonhada"
     },
     "면허_일반명사-1": {
@@ -5274,7 +5334,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경영",
+        "계획서",
+        "공정",
+        "관리",
+        "근무"
+      ],
       "phonetic_romanization": "myeongnyeong"
     },
     "명예_일반명사-1": {
@@ -7724,7 +7790,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가라앉다",
+        "가라앉히다",
+        "구르다",
+        "굴러가다",
+        "굴리다"
+      ],
       "phonetic_romanization": "muneojida"
     },
     "무대_일반명사-1": {
@@ -12816,7 +12888,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가사",
+        "가수",
+        "각본",
+        "갤러리",
+        "고미술품"
+      ],
       "phonetic_romanization": "baiollin"
     },
     "바자회_일반명사-1": {
@@ -12858,7 +12936,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "매출",
+        "무역",
+        "교역",
+        "투자자",
+        "경기"
+      ],
       "phonetic_romanization": "bajahoe"
     },
     "바지_일반명사-1": {
@@ -12970,7 +13054,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "화폐",
+        "할부",
+        "환율",
+        "환전",
+        "가격"
+      ],
       "phonetic_romanization": "bakodeu"
     },
     "박다_동사-1": {
@@ -13214,7 +13304,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "뽀뽀",
+        "선약",
+        "손잡다",
+        "뵈다",
+        "수다"
+      ],
       "phonetic_romanization": "baksu"
     },
     "박스_일반명사-1": {
@@ -13274,7 +13370,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "도둑",
+        "박물관",
+        "가로등",
+        "감옥",
+        "개장"
+      ],
       "phonetic_romanization": "baktal"
     },
     "박히다_동사-1": {
@@ -17494,7 +17596,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입",
+        "간섭",
+        "강요",
+        "강제",
+        "공경"
+      ],
       "phonetic_romanization": "baesin"
     },
     "배역_일반명사-1": {

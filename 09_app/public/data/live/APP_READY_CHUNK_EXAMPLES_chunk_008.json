@@ -344,7 +344,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "부서",
+        "사무실",
+        "일터",
+        "직장",
+        "인쇄소"
+      ],
       "phonetic_romanization": "yeonguso"
     },
     "연구실_일반명사-1": {
@@ -2318,7 +2324,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거울",
+        "구슬",
+        "못",
+        "부채",
+        "생필품"
+      ],
       "phonetic_romanization": ""
     },
     "열차_일반명사-1": {
@@ -2741,7 +2753,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "명화",
+        "미술",
+        "저작",
+        "추상화",
+        "춤"
+      ],
       "phonetic_romanization": "yeongsang"
     },
     "영상물_일반명사-1": {
@@ -3124,7 +3142,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경영",
+        "계획서",
+        "공정",
+        "관리",
+        "근무"
+      ],
       "phonetic_romanization": "yeongeopsigan"
     },
     "영웅_일반명사-1": {
@@ -3267,7 +3291,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기온",
+        "고온",
+        "가을밤",
+        "추",
+        "가을"
+      ],
       "phonetic_romanization": "yeongha"
     },
     "영화_일반명사-1": {
@@ -3419,7 +3449,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "공범"
+      ],
       "phonetic_romanization": "yeonghwabaeu"
     },
     "영화제_일반명사-1": {
@@ -3461,7 +3497,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "박람회",
+        "잔치",
+        "설명회",
+        "파티",
+        "개회식"
+      ],
       "phonetic_romanization": "yeonghwaje"
     },
     "영화표_일반명사-1": {
@@ -3547,7 +3589,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "외곽선",
+        "모양",
+        "외부",
+        "가로",
+        "가운데"
+      ],
       "phonetic_romanization": "yeopmyeon"
     },
     "옆집_일반명사-1": {
@@ -3589,7 +3637,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "도시",
+        "뒷문",
+        "은신처",
+        "입주민",
+        "궁중"
+      ],
       "phonetic_romanization": "yeopjip"
     },
     "예금_일반명사-1": {
@@ -3900,7 +3954,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가뭄",
+        "가스",
+        "강수량",
+        "강우",
+        "강풍"
+      ],
       "phonetic_romanization": "yebo"
     },
     "예복_일반명사-1": {
@@ -5384,7 +5444,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "네모",
+        "동그라미",
+        "모양",
+        "선",
+        "모형"
+      ],
       "phonetic_romanization": "otoldotol"
     },
     "오페라_일반명사-1": {
@@ -5487,7 +5553,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "꺼지다",
+        "가죽",
+        "각지",
+        "게시판",
+        "고무"
+      ],
       "phonetic_romanization": "ok"
     },
     "옥수수_일반명사-1": {
@@ -5579,7 +5651,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "개다",
+        "가뭄",
+        "가스",
+        "강수량",
+        "강우"
+      ],
       "phonetic_romanization": "onnan"
     },
     "온라인_일반명사-1": {
@@ -5727,7 +5805,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가옥",
+        "객실",
+        "거처",
+        "건물",
+        "건설"
+      ],
       "phonetic_romanization": "onsil"
     },
     "온천_일반명사-1": {
@@ -6312,7 +6396,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가계",
+        "가난",
+        "간직",
+        "기숙사비",
+        "난방"
+      ],
       "phonetic_romanization": "otchil"
     },
     "와이셔츠_일반명사-1": {
@@ -6418,7 +6508,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "건축",
+        "공사",
+        "벽돌",
+        "관리실",
+        "지하실"
+      ],
       "phonetic_romanization": "wangong"
     },
     "완구_일반명사-1": {
@@ -6741,7 +6837,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "즉위",
+        "건국",
+        "고고학",
+        "고궁",
+        "국가"
+      ],
       "phonetic_romanization": "wangbi"
     },
     "왕실_일반명사-1": {
@@ -6842,7 +6944,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "옆면",
+        "모양",
+        "마크",
+        "외부",
+        "가로"
+      ],
       "phonetic_romanization": "oegwakseon"
     },
     "외교_일반명사-1": {
@@ -6907,7 +7015,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "근로자",
+        "기술자",
+        "노동자",
+        "만화가",
+        "요리사"
+      ],
       "phonetic_romanization": ""
     },
     "외국_일반명사-1": {
@@ -7173,7 +7287,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "밖",
+        "양식",
+        "형성",
+        "마크",
+        "회전"
+      ],
       "phonetic_romanization": "oe bu"
     },
     "외부인_일반명사-1": {
@@ -7246,7 +7366,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "외삼촌",
+        "가장",
+        "남동생",
+        "남편",
+        "며느리"
+      ],
       "phonetic_romanization": ""
     },
     "외식_일반명사-1": {
@@ -7354,7 +7480,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "단지",
+        "오피스텔",
+        "가옥",
+        "객실",
+        "거처"
+      ],
       "phonetic_romanization": "oe yanggan"
     },
     "외우다_동사-1": {
@@ -7453,7 +7585,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "묵다",
+        "휴식",
+        "외박",
+        "외출복",
+        "거주"
+      ],
       "phonetic_romanization": "oechul"
     },
     "외출복_일반명사-1": {
@@ -7515,7 +7653,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "겉옷",
+        "드레스",
+        "바지",
+        "블라우스",
+        "옷"
+      ],
       "phonetic_romanization": "oetu"
     },
     "외할머니_일반명사-1": {
@@ -7559,7 +7703,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가슴",
+        "간",
+        "갈비",
+        "귀",
+        "귓등"
+      ],
       "phonetic_romanization": ""
     },
     "왼손_일반명사-1": {
@@ -7607,7 +7757,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "내장",
+        "눈알",
+        "맹장",
+        "머리",
+        "목구멍"
+      ],
       "phonetic_romanization": "oen son"
     },
     "요_일반명사-1": {
@@ -9670,7 +9826,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관장",
+        "담당자",
+        "프로",
+        "실장",
+        "종사자"
+      ],
       "phonetic_romanization": "unyeongja"
     },
     "운전_일반명사-1": {
@@ -9810,7 +9972,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "등록증",
+        "개정",
+        "경찰서",
+        "경찰청",
+        "계약"
+      ],
       "phonetic_romanization": "unjeonmyeonheo"
     },
     "운전사_일반명사-1": {
@@ -9822,7 +9990,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "만화가",
+        "번역가",
+        "요리사",
+        "프로",
+        "연극인"
+      ],
       "phonetic_romanization": ""
     },
     "운전자_일반명사-1": {
@@ -9864,7 +10038,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "제삼자",
+        "가입자",
+        "가해자",
+        "개인",
+        "거지"
+      ],
       "phonetic_romanization": "unjeonja"
     },
     "운행_일반명사-1": {
@@ -9975,7 +10155,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "계집애",
+        "고향",
+        "과부",
+        "구세대",
+        "기혼"
+      ],
       "phonetic_romanization": ""
     },
     "웅덩이_일반명사-1": {
@@ -10061,7 +10247,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "석유",
+        "강",
+        "강물",
+        "개울",
+        "경치"
+      ],
       "phonetic_romanization": "woteo"
     },
     "원고_일반명사-1": {
@@ -10147,7 +10339,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공책",
+        "사전",
+        "동화책",
+        "시험지",
+        "갈피"
+      ],
       "phonetic_romanization": "wongoji"
     },
     "원금_일반명사-1": {
@@ -10233,7 +10431,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가미",
+        "감자",
+        "건강식품",
+        "겨자",
+        "견과"
+      ],
       "phonetic_romanization": "wondu"
     },
     "원로_일반명사-1": {
@@ -10383,7 +10587,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가죽",
+        "기구",
+        "기록물",
+        "내용",
+        "유리구슬"
+      ],
       "phonetic_romanization": "wonbon"
     },
     "원서_일반명사-1": {
@@ -11511,7 +11721,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "모랫",
+        "산천",
+        "강",
+        "강물",
+        "개울"
+      ],
       "phonetic_romanization": "witmul"
     },
     "윗사람_일반명사-1": {
@@ -13129,7 +13345,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가슴",
+        "간",
+        "갈비",
+        "귀",
+        "귓등"
+      ],
       "phonetic_romanization": "yuchi"
     },
     "유치원_일반명사-1": {
@@ -14076,7 +14298,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "동전",
+        "지폐",
+        "주화",
+        "가격",
+        "값"
+      ],
       "phonetic_romanization": "eunhwa"
     },
     "음료_일반명사-1": {
@@ -14232,7 +14460,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곡",
+        "공연",
+        "가락",
+        "부르다",
+        "명창"
+      ],
       "phonetic_romanization": "eumban"
     },
     "음식_일반명사-1": {
@@ -14729,7 +14963,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가죽",
+        "각지",
+        "게시판",
+        "고무",
+        "곳"
+      ],
       "phonetic_romanization": "eumpa"
     },
     "음향_일반명사-1": {
@@ -15502,7 +15742,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "공범"
+      ],
       "phonetic_romanization": "uisa"
     },
     "의사소통_일반명사-1": {
@@ -15689,7 +15935,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "공범"
+      ],
       "phonetic_romanization": "uiwon"
     },
     "의자_일반명사-1": {
@@ -15794,7 +16046,6 @@
       "related_vocab": [
         "덩달다",
         "돌보다",
-        "혼자",
         "혼자",
         "힘입다"
       ],

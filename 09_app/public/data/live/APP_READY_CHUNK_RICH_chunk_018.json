@@ -477,7 +477,6 @@
     "def_ko": "알거나 행동하는 때가 너무 늦다",
     "related_vocab": [
       "늦다",
-      "늦다",
       "뒤",
       "미처",
       "이후"
@@ -2181,7 +2180,13 @@
   "무겁다_형용사-1": {
     "id": "무겁다_형용사-1",
     "def_ko": "들거나 움직이기 힘들 만큼 무게가 나가다",
-    "related_vocab": [],
+    "related_vocab": [
+      "그지없다",
+      "무수히",
+      "무궁무진",
+      "수없이",
+      "실컷"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2727,11 +2732,9 @@
     "id": "미래_일반명사-1",
     "def_ko": "앞으로 올 때나 시대",
     "related_vocab": [
-      "나중",
+      "이후",
       "내후년",
-      "닥치다",
-      "당대",
-      "오늘날"
+      "올해"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3179,7 +3182,6 @@
       "이분법",
       "차이점",
       "우선",
-      "우선",
       "상대적"
     ],
     "is_center_profile": false,
@@ -3429,8 +3431,6 @@
     "def_ko": "말하고 있는 시점보다 바로 조금 전",
     "related_vocab": [
       "막",
-      "방금",
-      "아까",
       "아까",
       "이제"
     ],
@@ -3446,7 +3446,6 @@
     "related_vocab": [
       "금방",
       "방금",
-      "아까",
       "아까"
     ],
     "is_center_profile": false,
@@ -3505,7 +3504,13 @@
   "방어_일반명사-1": {
     "id": "방어_일반명사-1",
     "def_ko": "공격을 막아 스스로를 지키는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3948,7 +3953,13 @@
   "변경_일반명사-1": {
     "id": "변경_일반명사-1",
     "def_ko": "정하였던 내용이나 상태를 바꾸는 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "검사",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4230,7 +4241,13 @@
   "보태다_동사-1": {
     "id": "보태다_동사-1",
     "def_ko": "모자라는 데 더하여 채우다",
-    "related_vocab": [],
+    "related_vocab": [
+      "보충",
+      "깨닫다",
+      "끊기다",
+      "끊어지다",
+      "낳다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4306,7 +4323,13 @@
   "본래_일반명사-1": {
     "id": "본래_일반명사-1",
     "def_ko": "처음부터 지닌 모습이나 상태",
-    "related_vocab": [],
+    "related_vocab": [
+      "다시",
+      "고대",
+      "공휴일",
+      "과거",
+      "그날"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4330,7 +4353,11 @@
   "본인_일반명사-1": {
     "id": "본인_일반명사-1",
     "def_ko": "문제의 당사자 자신",
-    "related_vocab": [],
+    "related_vocab": [
+      "이름",
+      "지칭",
+      "지시어"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4859,7 +4886,13 @@
   "비롯하다_동사-1": {
     "id": "비롯하다_동사-1",
     "def_ko": "여럿 가운데서 앞의 것을 첫째로 삼아 그것을 중심으로 다른 것도 포함하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "아니면",
+      "간접",
+      "교체",
+      "걸림돌",
+      "교정"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4992,7 +5025,6 @@
     "def_ko": "빠뜨리거나 빼놓는 부분 없이 모두",
     "related_vocab": [
       "무한히",
-      "모두",
       "모두",
       "온",
       "힘껏"
@@ -5142,7 +5174,13 @@
   "사용량_일반명사-1": {
     "id": "사용량_일반명사-1",
     "def_ko": "사용한 양",
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5180,7 +5218,13 @@
   "사이_일반명사-1": {
     "id": "사이_일반명사-1",
     "def_ko": "두 대상의 거리나 관계",
-    "related_vocab": [],
+    "related_vocab": [
+      "실태",
+      "가능",
+      "가능성",
+      "가설",
+      "갈래"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5274,7 +5318,13 @@
   "삭제_일반명사-1": {
     "id": "삭제_일반명사-1",
     "def_ko": "없애거나 지움",
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5366,7 +5416,13 @@
   "삼십일_수사-1": {
     "id": "삼십일_수사-1",
     "def_ko": "수 31",
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5388,7 +5444,13 @@
   "상관관계_일반명사-1": {
     "id": "상관관계_일반명사-1",
     "def_ko": "두 대상이 서로 관련되는 관계",
-    "related_vocab": [],
+    "related_vocab": [
+      "관계",
+      "계열",
+      "관련",
+      "구별",
+      "동"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5566,7 +5628,13 @@
   "상하다_동사-1": {
     "id": "상하다_동사-1",
     "def_ko": "다치거나 썩거나 나빠지다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5713,10 +5781,9 @@
     "id": "새해_일반명사-1",
     "def_ko": "갓 시작된 한 해",
     "related_vocab": [
+      "올해",
       "금년",
-      "내년",
-      "초기",
-      "초창기"
+      "연말"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5759,7 +5826,13 @@
   "생년월일_일반명사-1": {
     "id": "생년월일_일반명사-1",
     "def_ko": "태어난 해와 달과 날",
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6182,7 +6255,13 @@
   "성장세_일반명사-1": {
     "id": "성장세_일반명사-1",
     "def_ko": "자라고 늘어나는 추세",
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

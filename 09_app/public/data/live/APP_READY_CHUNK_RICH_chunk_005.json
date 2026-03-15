@@ -4216,7 +4216,13 @@
   "비틀다_동사-1": {
     "id": "비틀다_동사-1",
     "def_ko": "한쪽을 잡고 돌려 꼬이게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "굴리다",
+      "깨뜨리다",
+      "꺼내다",
+      "녹이다",
+      "늘어뜨리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5209,7 +5215,13 @@
   "사립_일반명사-1": {
     "id": "사립_일반명사-1",
     "def_ko": "개인이 자신의 자금으로 공공의 이익을 위한 사업 기관을 설립하여 유지함",
-    "related_vocab": [],
+    "related_vocab": [
+      "공공",
+      "규율",
+      "소방차",
+      "가로등",
+      "감옥"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5219,7 +5231,13 @@
   "사립문_일반명사-1": {
     "id": "사립문_일반명사-1",
     "def_ko": "작고 가벼운 출입문",
-    "related_vocab": [],
+    "related_vocab": [
+      "대문",
+      "정문",
+      "출입문",
+      "현관문",
+      "가옥"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5342,7 +5360,13 @@
   "사범_일반명사-1": {
     "id": "사범_일반명사-1",
     "def_ko": "무술이나 기술을 가르치는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "교사",
+      "교수",
+      "선생님",
+      "선생",
+      "교육자"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5365,7 +5389,13 @@
   "사보_일반명사-1": {
     "id": "사보_일반명사-1",
     "def_ko": "회사나 기관에서 펴내는 소식지",
-    "related_vocab": [],
+    "related_vocab": [
+      "경영",
+      "계획서",
+      "공정",
+      "관리",
+      "근무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5475,7 +5505,13 @@
   "사외_일반명사-1": {
     "id": "사외_일반명사-1",
     "def_ko": "회사나 조직의 바깥",
-    "related_vocab": [],
+    "related_vocab": [
+      "본사",
+      "직장",
+      "신문사",
+      "계열사",
+      "본부"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -6244,7 +6280,13 @@
   "산천_일반명사-1": {
     "id": "산천_일반명사-1",
     "def_ko": "산과 강을 아울러 이르는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "모랫",
+      "윗물",
+      "강",
+      "강물",
+      "개울"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

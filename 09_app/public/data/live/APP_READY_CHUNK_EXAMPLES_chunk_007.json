@@ -558,7 +558,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "도시",
+        "뒷문",
+        "은신처",
+        "입주민",
+        "궁중"
+      ],
       "phonetic_romanization": "sigoljjip"
     },
     "시구_일반명사-1": {
@@ -682,7 +688,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "운행",
+        "관광버스",
+        "공항버스",
+        "버스",
+        "전철"
+      ],
       "phonetic_romanization": ""
     },
     "시댁_일반명사-1": {
@@ -776,7 +788,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "감속",
+        "걸음",
+        "과속",
+        "귀환",
+        "도보"
+      ],
       "phonetic_romanization": "sidong"
     },
     "시래기_일반명사-1": {
@@ -1897,7 +1915,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "파출소",
+        "경찰서",
+        "교육청",
+        "시정",
+        "정부"
+      ],
       "phonetic_romanization": "sicheong"
     },
     "시청_일반명사-2": {
@@ -3129,7 +3153,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "단편",
+        "가사",
+        "가수",
+        "각본",
+        "갤러리"
+      ],
       "phonetic_romanization": "singan"
     },
     "신경_일반명사-1": {
@@ -5375,7 +5405,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "실내",
+        "뒷문",
+        "정문",
+        "지붕",
+        "현관문"
+      ],
       "phonetic_romanization": "siroe"
     },
     "실장_일반명사-1": {
@@ -5701,7 +5737,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경찰관",
+        "도둑",
+        "법",
+        "안내원",
+        "기관"
+      ],
       "phonetic_romanization": "simgeup"
     },
     "심다_동사-1": {
@@ -5749,7 +5791,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "담그다",
+        "저장",
+        "개다",
+        "거두다",
+        "깔다"
+      ],
       "phonetic_romanization": "simda"
     },
     "심리학_일반명사-1": {
@@ -5837,7 +5885,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공부방",
+        "교육원",
+        "대학교",
+        "도서관",
+        "연구실"
+      ],
       "phonetic_romanization": "simnihakkwa"
     },
     "심리학자_일반명사-1": {
@@ -5978,7 +6032,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "살림",
+        "따르다",
+        "붓다",
+        "이사",
+        "닫히다"
+      ],
       "phonetic_romanization": "simbureum"
     },
     "심사관_일반명사-1": {
@@ -7175,7 +7235,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가라앉다",
+        "가라앉히다",
+        "구르다",
+        "굴러가다",
+        "굴리다"
+      ],
       "phonetic_romanization": "ssollida"
     },
     "쑤다_동사-1": {
@@ -8624,7 +8690,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "담당",
+        "야근",
+        "육체노동",
+        "일",
+        "작업"
+      ],
       "phonetic_romanization": "areubaiteu"
     },
     "아메리카노_일반명사-1": {
@@ -16879,7 +16951,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "여쭙다",
+        "드리다",
+        "바치다",
+        "가로채다",
+        "갚다"
+      ],
       "phonetic_romanization": ""
     },
     "여학교_일반명사-1": {

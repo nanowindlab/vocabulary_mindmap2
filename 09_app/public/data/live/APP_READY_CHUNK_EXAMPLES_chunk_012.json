@@ -281,7 +281,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "현대인",
+        "교포",
+        "내부자",
+        "단원",
+        "상대방"
+      ],
       "phonetic_romanization": "hyeonjiin"
     },
     "혈관_일반명사-1": {
@@ -1255,7 +1261,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "마늘",
+        "고추",
+        "당근",
+        "돼지",
+        "배추"
+      ],
       "phonetic_romanization": "hobak"
     },
     "호수_일반명사-1": {
@@ -1363,7 +1375,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "조정",
+        "가입",
+        "간섭",
+        "강요",
+        "강제"
+      ],
       "phonetic_romanization": "hoeung"
     },
     "호주머니_일반명사-1": {
@@ -1618,7 +1636,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관계자",
+        "글쓴이",
+        "내부자",
+        "단원",
+        "상대방"
+      ],
       "phonetic_romanization": "hokja"
     },
     "혼내다_동사-1": {
@@ -1677,7 +1701,6 @@
         }
       ],
       "related_vocab": [
-        "혼자",
         "홀로",
         "의존"
       ],
@@ -1739,7 +1762,6 @@
         }
       ],
       "related_vocab": [
-        "혼자",
         "혼자"
       ],
       "phonetic_romanization": "hollo"
@@ -2342,7 +2364,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "내용",
+        "내용물",
+        "액체",
+        "은",
+        "가죽"
+      ],
       "phonetic_romanization": "hwabun"
     },
     "화산_일반명사-1": {
@@ -2474,7 +2502,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공해",
+        "강",
+        "강물",
+        "개울",
+        "경치"
+      ],
       "phonetic_romanization": "hwaseok"
     },
     "화성_일반명사-1": {
@@ -2796,7 +2830,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공공",
+        "공공시설",
+        "규약",
+        "경비실",
+        "가로등"
+      ],
       "phonetic_romanization": "hwajae"
     },
     "화폐_일반명사-1": {
@@ -3084,7 +3124,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "개정",
+        "경찰서",
+        "경찰청",
+        "계약",
+        "계약서"
+      ],
       "phonetic_romanization": "hwakrip"
     },
     "확인서_일반명사-1": {
@@ -3312,7 +3358,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "냉방",
+        "가계",
+        "가난",
+        "간직",
+        "기숙사비"
+      ],
       "phonetic_romanization": "hwan-gi"
     },
     "환불_일반명사-1": {
@@ -3360,7 +3412,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "계산대",
+        "거래",
+        "공짜",
+        "영수증",
+        "지불"
+      ],
       "phonetic_romanization": "hwanbul"
     },
     "환수_일반명사-1": {
@@ -3416,7 +3474,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교통편",
+        "잠수함",
+        "관광버스",
+        "교통수단",
+        "기사"
+      ],
       "phonetic_romanization": ""
     },
     "환영_일반명사-1": {
@@ -6063,7 +6127,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교재",
+        "교과서",
+        "공책",
+        "도서",
+        "읽을거리"
+      ],
       "phonetic_romanization": "jaryo"
     },
     "가늘다_형용사-1": {
@@ -6333,7 +6403,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "건드리다",
+        "달라붙다",
+        "닳다",
+        "닿다",
+        "떨리다"
+      ],
       "phonetic_romanization": "gabyeowojida"
     },
     "가벼이_일반부사-1": {
@@ -14270,7 +14346,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "서투르다",
+        "알아듣다",
+        "감지",
+        "개념",
+        "계발"
+      ],
       "phonetic_romanization": "gusa"
     },
     "구상_일반명사-1": {

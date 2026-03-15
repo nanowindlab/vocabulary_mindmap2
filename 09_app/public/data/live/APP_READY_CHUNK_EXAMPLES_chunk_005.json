@@ -11667,7 +11667,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "굴리다",
+        "깨뜨리다",
+        "꺼내다",
+        "녹이다",
+        "늘어뜨리다"
+      ],
       "phonetic_romanization": "biteulda"
     },
     "비행_일반명사-1": {
@@ -14314,7 +14320,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공공",
+        "규율",
+        "소방차",
+        "가로등",
+        "감옥"
+      ],
       "phonetic_romanization": ""
     },
     "사립문_일반명사-1": {
@@ -14356,7 +14368,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "대문",
+        "정문",
+        "출입문",
+        "현관문",
+        "가옥"
+      ],
       "phonetic_romanization": "saribmun"
     },
     "사막_일반명사-1": {
@@ -14773,7 +14791,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교사",
+        "교수",
+        "선생님",
+        "선생",
+        "교육자"
+      ],
       "phonetic_romanization": "sabeom"
     },
     "사법_일반명사-1": {
@@ -14860,7 +14884,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경영",
+        "계획서",
+        "공정",
+        "관리",
+        "근무"
+      ],
       "phonetic_romanization": "sabo"
     },
     "사본_일반명사-1": {
@@ -15250,7 +15280,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "본사",
+        "직장",
+        "신문사",
+        "계열사",
+        "본부"
+      ],
       "phonetic_romanization": "saoe"
     },
     "사용료_일반명사-1": {
@@ -17380,7 +17416,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "모랫",
+        "윗물",
+        "강",
+        "강물",
+        "개울"
+      ],
       "phonetic_romanization": "sancheon"
     },
     "산호_일반명사-1": {

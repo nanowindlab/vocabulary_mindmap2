@@ -674,11 +674,11 @@
         }
       ],
       "related_vocab": [
-        "각종",
-        "겹겹이",
         "만반",
         "사면",
-        "사방"
+        "사방",
+        "각종",
+        "겹겹이"
       ],
       "phonetic_romanization": "gatgaji"
     },
@@ -4665,11 +4665,11 @@
         }
       ],
       "related_vocab": [
-        "고대",
-        "그때",
-        "금년",
-        "기존",
-        "당대"
+        "예전",
+        "당시",
+        "작년",
+        "전년",
+        "최근"
       ],
       "phonetic_romanization": "gwageo"
     },
@@ -5615,7 +5615,6 @@
         "다른",
         "차단",
         "영향력",
-        "우선",
         "우선"
       ],
       "phonetic_romanization": "gyoche"
@@ -6503,10 +6502,10 @@
       ],
       "related_vocab": [
         "그때",
-        "날",
         "당시",
-        "당일",
-        "목요일"
+        "전날",
+        "어저께",
+        "어젯밤"
       ],
       "phonetic_romanization": "geunal"
     },
@@ -6759,11 +6758,11 @@
         }
       ],
       "related_vocab": [
-        "과거",
         "그날",
-        "그제야",
         "당시",
-        "동시"
+        "과거",
+        "전날",
+        "아까"
       ],
       "phonetic_romanization": "geuttae"
     },
@@ -8971,7 +8970,6 @@
         "날",
         "날짜",
         "늦다",
-        "늦다",
         "닥치다"
       ],
       "phonetic_romanization": "gi:han"
@@ -9178,7 +9176,6 @@
       "related_vocab": [
         "고도",
         "길이",
-        "깊이",
         "수량",
         "멀리"
       ],
@@ -10313,7 +10310,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "깨닫다",
+        "끊기다",
+        "끊어지다",
+        "낳다",
+        "말미암다"
+      ],
       "phonetic_romanization": "kkichida"
     },
     "나날이_일반부사-1": {
@@ -11881,7 +11884,6 @@
       "related_vocab": [
         "나오다",
         "내놓다",
-        "내밀다",
         "내보내다",
         "내지르다"
       ],
@@ -12463,11 +12465,9 @@
         }
       ],
       "related_vocab": [
-        "금년",
-        "나중",
         "내년",
-        "미래",
-        "이후"
+        "올해",
+        "새해"
       ],
       "phonetic_romanization": ""
     },
@@ -12954,7 +12954,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "고치다",
+        "내보내다",
+        "내쫓다",
+        "돌려보내다"
+      ],
       "phonetic_romanization": "neomnadeulda"
     },
     "넘다_동사-1": {
@@ -14042,7 +14048,6 @@
       ],
       "related_vocab": [
         "기한",
-        "늦다",
         "뒤늦다",
         "마감일",
         "이르다"
@@ -16102,11 +16107,9 @@
         }
       ],
       "related_vocab": [
-        "고대",
-        "그날",
-        "그때",
-        "당대",
-        "동시"
+        "과거",
+        "예전",
+        "그날"
       ],
       "phonetic_romanization": "dangsi"
     },
@@ -16963,7 +16966,6 @@
         "달리",
         "차이점",
         "우선",
-        "우선",
         "대책"
       ],
       "phonetic_romanization": "daean"
@@ -17596,7 +17598,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가르다",
+        "나누다",
+        "나뉘다",
+        "남기다",
+        "남다"
+      ],
       "phonetic_romanization": "deohada"
     },
     "덕분_일반명사-1": {

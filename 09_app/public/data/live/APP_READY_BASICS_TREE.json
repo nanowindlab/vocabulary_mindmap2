@@ -1668,11 +1668,11 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "각종",
-      "겹겹이",
       "만반",
       "사면",
-      "사방"
+      "사방",
+      "각종",
+      "겹겹이"
     ],
     "refs": {
       "cross_links": []
@@ -4929,11 +4929,11 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "고대",
-      "그때",
-      "금년",
-      "기존",
-      "당대"
+      "예전",
+      "당시",
+      "작년",
+      "전년",
+      "최근"
     ],
     "refs": {
       "cross_links": []
@@ -5738,7 +5738,6 @@
       "다른",
       "차단",
       "영향력",
-      "우선",
       "우선"
     ],
     "refs": {
@@ -6437,10 +6436,10 @@
     },
     "related_vocab": [
       "그때",
-      "날",
       "당시",
-      "당일",
-      "목요일"
+      "전날",
+      "어저께",
+      "어젯밤"
     ],
     "refs": {
       "cross_links": []
@@ -6630,11 +6629,11 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "과거",
       "그날",
-      "그제야",
       "당시",
-      "동시"
+      "과거",
+      "전날",
+      "아까"
     ],
     "refs": {
       "cross_links": []
@@ -8534,7 +8533,6 @@
       "날",
       "날짜",
       "늦다",
-      "늦다",
       "닥치다"
     ],
     "refs": {
@@ -8705,7 +8703,6 @@
     "related_vocab": [
       "고도",
       "길이",
-      "깊이",
       "수량",
       "멀리"
     ],
@@ -9647,7 +9644,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "깨닫다",
+      "끊기다",
+      "끊어지다",
+      "낳다",
+      "말미암다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -10906,7 +10909,6 @@
     "related_vocab": [
       "나오다",
       "내놓다",
-      "내밀다",
       "내보내다",
       "내지르다"
     ],
@@ -11419,11 +11421,9 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "금년",
-      "나중",
       "내년",
-      "미래",
-      "이후"
+      "올해",
+      "새해"
     ],
     "refs": {
       "cross_links": []
@@ -11841,7 +11841,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "고치다",
+      "내보내다",
+      "내쫓다",
+      "돌려보내다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -12704,7 +12710,6 @@
     },
     "related_vocab": [
       "기한",
-      "늦다",
       "뒤늦다",
       "마감일",
       "이르다"
@@ -14497,11 +14502,9 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "고대",
-      "그날",
-      "그때",
-      "당대",
-      "동시"
+      "과거",
+      "예전",
+      "그날"
     ],
     "refs": {
       "cross_links": []
@@ -15249,7 +15252,6 @@
       "달리",
       "차이점",
       "우선",
-      "우선",
       "대책"
     ],
     "refs": {
@@ -15858,7 +15860,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가르다",
+      "나누다",
+      "나뉘다",
+      "남기다",
+      "남다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -18106,7 +18114,6 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "늦다",
       "늦다",
       "뒤",
       "미처",
@@ -22157,7 +22164,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "그지없다",
+      "무수히",
+      "무궁무진",
+      "수없이",
+      "실컷"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -23393,11 +23406,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "나중",
+      "이후",
       "내후년",
-      "닥치다",
-      "당대",
-      "오늘날"
+      "올해"
     ],
     "refs": {
       "cross_links": []
@@ -24489,7 +24500,6 @@
       "이분법",
       "차이점",
       "우선",
-      "우선",
       "상대적"
     ],
     "refs": {
@@ -25107,8 +25117,6 @@
     },
     "related_vocab": [
       "막",
-      "방금",
-      "아까",
       "아까",
       "이제"
     ],
@@ -25147,7 +25155,6 @@
     "related_vocab": [
       "금방",
       "방금",
-      "아까",
       "아까"
     ],
     "refs": {
@@ -25298,7 +25305,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -26385,7 +26398,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "검사",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -27104,7 +27123,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "보충",
+      "깨닫다",
+      "끊기다",
+      "끊어지다",
+      "낳다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -27272,7 +27297,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "다시",
+      "고대",
+      "공휴일",
+      "과거",
+      "그날"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -27342,7 +27373,11 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "이름",
+      "지칭",
+      "지시어"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -28630,7 +28665,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "아니면",
+      "간접",
+      "교체",
+      "걸림돌",
+      "교정"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -28970,7 +29011,6 @@
     },
     "related_vocab": [
       "무한히",
-      "모두",
       "모두",
       "온",
       "힘껏"
@@ -29350,7 +29390,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -29457,7 +29503,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "실태",
+      "가능",
+      "가능성",
+      "가설",
+      "갈래"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -29712,7 +29764,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -29965,7 +30023,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -30033,7 +30097,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "관계",
+      "계열",
+      "관련",
+      "구별",
+      "동"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -30510,7 +30580,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -30841,10 +30917,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
+      "올해",
       "금년",
-      "내년",
-      "초기",
-      "초창기"
+      "연말"
     ],
     "refs": {
       "cross_links": []
@@ -30956,7 +31031,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -32069,7 +32150,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -33437,7 +33524,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -34515,7 +34608,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -35032,7 +35131,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "부르다",
+      "응",
+      "이외",
+      "경고",
+      "명"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -35176,7 +35281,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "없이",
+      "넘어가다",
+      "강구",
+      "결합",
+      "고갈"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36037,7 +36148,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36070,7 +36187,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36180,7 +36303,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "신뢰도",
+      "완성도",
+      "운동량",
+      "기여도",
+      "내외"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36360,7 +36489,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "직전",
+      "직후",
+      "초기",
+      "그때",
+      "날"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36533,7 +36668,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "검사",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36566,7 +36707,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "본질",
+      "다채롭다",
+      "사항",
+      "실제로",
+      "가능"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36634,7 +36781,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "실상",
+      "가능성",
+      "계열",
+      "성과",
+      "속성"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -36994,7 +37147,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "많다",
+      "워낙",
+      "그지없다",
+      "넉넉하다",
+      "막대하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -37227,10 +37386,10 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "금방",
       "방금",
-      "방금",
-      "이따"
+      "지금",
+      "그때",
+      "어젯밤"
     ],
     "refs": {
       "cross_links": []
@@ -37266,7 +37425,6 @@
     },
     "related_vocab": [
       "미리",
-      "방금",
       "방금",
       "전"
     ],
@@ -37547,7 +37705,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "의존도",
+      "운동량",
+      "굉장히",
+      "꽤",
+      "너무나"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -38705,7 +38869,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "곧",
+      "곧바로",
+      "곧이어",
+      "금방",
+      "때로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -39544,7 +39714,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "오래간만",
+      "수명",
+      "도중",
+      "갈수록",
+      "계속"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -39875,11 +40051,11 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "그저께",
-      "그제",
-      "어제",
       "전날",
-      "어제"
+      "어젯밤",
+      "그제",
+      "그저께",
+      "그날"
     ],
     "refs": {
       "cross_links": []
@@ -39984,11 +40160,11 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "내달",
-      "모레",
-      "작년",
-      "전년",
-      "최근"
+      "어저께",
+      "전날",
+      "그날",
+      "최근",
+      "아까"
     ],
     "refs": {
       "cross_links": []
@@ -40062,7 +40238,6 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "어쩌다",
       "경우",
       "여파",
       "원인"
@@ -40815,7 +40990,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "그때",
+      "다음",
+      "전날",
+      "이번",
+      "직전"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -40953,7 +41134,13 @@
       "band": 5,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "백",
+      "넷",
+      "다섯",
+      "만",
+      "백만"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -41168,7 +41355,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "기제",
+      "맞춤법",
+      "매개체",
+      "소용",
+      "수법"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -41237,7 +41430,13 @@
       "band": 2,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "계속",
+      "내내",
+      "지속",
+      "차차",
+      "내리"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -41422,7 +41621,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "변동",
+      "강구",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -41979,7 +42184,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -42675,9 +42886,9 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "고대",
-      "옛날",
-      "왕년"
+      "과거",
+      "당시",
+      "작년"
     ],
     "refs": {
       "cross_links": []
@@ -43588,7 +43799,6 @@
     "related_vocab": [
       "다",
       "모두",
-      "모두",
       "몽땅",
       "전력"
     ],
@@ -43624,7 +43834,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "작년",
+      "전년",
+      "내년",
+      "고대",
+      "공휴일"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -43658,9 +43874,11 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "오늘",
-      "오늘",
-      "현재"
+      "금년",
+      "작년",
+      "전년",
+      "내후년",
+      "새해"
     ],
     "refs": {
       "cross_links": []
@@ -44619,7 +44837,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "꼭대기",
+      "밀도",
+      "전력",
+      "몽땅",
+      "재력"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -44731,8 +44955,7 @@
     "related_vocab": [
       "교체",
       "대안",
-      "반면",
-      "우선"
+      "반면"
     ],
     "refs": {
       "cross_links": []
@@ -45072,7 +45295,11 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "원래"
+      "원래",
+      "결국",
+      "궁극",
+      "기말",
+      "끝"
     ],
     "refs": {
       "cross_links": []
@@ -45532,7 +45759,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45603,7 +45836,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "건너",
+      "건너편",
+      "뒤",
+      "뒤쪽",
+      "안"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45708,7 +45947,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "건너편",
+      "뒤쪽",
+      "옆",
+      "뒷자리",
+      "위치"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45741,7 +45986,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "경고",
+      "명",
+      "명칭",
+      "신호",
+      "아무것"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45811,7 +46062,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "결국",
+      "궁극",
+      "기말",
+      "끝",
+      "마감"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45881,7 +46138,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "그만",
+      "그만두다",
+      "끝나다",
+      "결국",
+      "궁극"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -45984,7 +46247,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "팔월",
+      "열흘",
+      "십이월",
+      "여름",
+      "주중"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46017,7 +46286,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46966,7 +47241,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "고치다",
+      "내보내다",
+      "내쫓다",
+      "돌려보내다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -46999,7 +47280,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가설",
+      "방안",
+      "방침",
+      "수단",
+      "요건"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47108,7 +47395,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47420,7 +47713,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47489,7 +47788,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "넷",
+      "다섯",
+      "만",
+      "백",
+      "백만"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47817,7 +48122,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "병목",
+      "동",
+      "또는",
+      "말미암다",
+      "동문서답"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -47960,7 +48271,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "곧",
+      "조기",
+      "곧바로",
+      "곧이어",
+      "금방"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48104,7 +48421,13 @@
       "band": 1,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "이제",
+      "곧바로",
+      "곧이어",
+      "막",
+      "바로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48212,7 +48535,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "미처",
+      "닥치다",
+      "임박",
+      "전",
+      "수시"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48280,7 +48609,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "시점",
+      "다음날",
+      "이르다",
+      "그때",
+      "다음"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48388,7 +48723,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -48459,10 +48800,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
+      "미래",
       "내후년",
-      "뒤늦다",
-      "왕년",
-      "후"
+      "현재"
     ],
     "refs": {
       "cross_links": []
@@ -49421,11 +49761,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "내달",
-      "어젯밤",
       "전년",
-      "지난",
-      "최근"
+      "올해",
+      "재작년"
     ],
     "refs": {
       "cross_links": []
@@ -49850,7 +50188,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50292,7 +50636,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50399,7 +50749,10 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "작년",
+      "전년"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50594,7 +50947,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "부르다",
+      "달다",
+      "시키다",
+      "경고",
+      "명"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50627,7 +50986,13 @@
       "band": 5,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "저렇다",
+      "아무",
+      "경고",
+      "명",
+      "명칭"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50660,7 +51025,13 @@
       "band": 5,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "저런",
+      "경고",
+      "명",
+      "명칭",
+      "부르다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50693,7 +51064,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "안",
+      "뒤편",
+      "동방",
+      "가까이",
+      "가깝다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50872,7 +51249,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "개방",
+      "계승",
+      "냉각",
+      "도입",
+      "마련"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -50979,7 +51362,6 @@
     },
     "related_vocab": [
       "고작",
-      "최소한",
       "최소한"
     ],
     "refs": {
@@ -51050,7 +51432,13 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "수단",
+      "결과물",
+      "실존",
+      "실효",
+      "실제로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -51118,7 +51506,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -51225,7 +51619,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "지난",
+      "갑작스럽다",
+      "고대",
+      "곧",
+      "곧바로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -51333,11 +51733,11 @@
       "level": "Intermediate"
     },
     "related_vocab": [
-      "그저께",
-      "그제",
-      "다음날",
       "어저께",
-      "어제"
+      "어젯밤",
+      "그날",
+      "그제",
+      "그저께"
     ],
     "refs": {
       "cross_links": []
@@ -51372,9 +51772,8 @@
       "level": "Unrated"
     },
     "related_vocab": [
-      "어젯밤",
       "작년",
-      "지난"
+      "올해"
     ],
     "refs": {
       "cross_links": []
@@ -51559,7 +51958,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가능성",
+      "걸림돌",
+      "경우",
+      "계기",
+      "근원"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -52255,7 +52660,13 @@
       "band": 3,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "갑작스럽다",
+      "늦다",
+      "뒤늦다",
+      "밤늦다",
+      "고대"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -52288,7 +52699,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -52708,7 +53125,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -52822,7 +53245,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "결과",
+      "공통",
+      "공동",
+      "상징",
+      "공통점"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -53418,7 +53847,13 @@
       "band": 4,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "결과",
+      "경우",
+      "계기"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54440,8 +54875,7 @@
       "밤낮",
       "하루",
       "하룻밤",
-      "하루하루",
-      "종일"
+      "하루하루"
     ],
     "refs": {
       "cross_links": []
@@ -54684,7 +55118,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "과정",
+      "그동안",
+      "동안",
+      "때",
+      "명맥"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -54753,7 +55193,13 @@
       "band": 2,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "좀처럼",
+      "간혹",
+      "거듭",
+      "그때그때",
+      "수시로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -55883,7 +56329,13 @@
       "band": 4,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가량",
+      "각종",
+      "감소",
+      "감축",
+      "갖가지"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -56116,11 +56568,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "바로",
-      "오늘",
-      "오늘",
-      "이번",
-      "이제"
+      "현재",
+      "올해",
+      "최근"
     ],
     "refs": {
       "cross_links": []
@@ -56958,7 +57408,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "꼭대기",
+      "밀도",
+      "전력",
+      "몽땅",
+      "재력"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -57262,7 +57718,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "공격",
+      "조치",
+      "강구",
+      "개발",
+      "개방"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -57950,7 +58412,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가능",
+      "가능성",
+      "가설",
+      "갈래",
+      "걸림돌"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -58512,7 +58980,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "가로막다",
+      "가져가다",
+      "가져오다",
+      "가지다",
+      "가하다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59395,7 +59869,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "겹",
+      "금화",
+      "단위",
+      "자",
+      "각도"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59428,7 +59908,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "고대",
+      "공휴일",
+      "과거",
+      "그날",
+      "그때"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -59570,11 +60056,9 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "어젯밤",
+      "현재",
       "작년",
-      "조만간",
-      "지난",
-      "최신"
+      "전년"
     ],
     "refs": {
       "cross_links": []
@@ -59761,8 +60245,7 @@
       "최소",
       "최저",
       "적어도",
-      "제일",
-      "최소한"
+      "제일"
     ],
     "refs": {
       "cross_links": []
@@ -60160,7 +60643,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "맞이",
+      "개발",
+      "개방",
+      "개선"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -60482,7 +60971,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "바꾸다",
+      "변조",
+      "전달",
+      "모방",
+      "전이"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -61485,7 +61980,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "그날",
+      "고대",
+      "공휴일",
+      "과거",
+      "그때"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -62538,7 +63039,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -62911,7 +63418,13 @@
       "band": null,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "깨닫다",
+      "끊기다",
+      "끊어지다",
+      "낳다",
+      "말미암다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -63356,7 +63869,6 @@
       "닷새",
       "밤낮",
       "수요일",
-      "종일",
       "종일"
     ],
     "refs": {
@@ -63391,7 +63903,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "곧",
+      "곧바로",
+      "곧이어",
+      "금방",
+      "때로"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -63497,7 +64015,13 @@
       "band": null,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "넓이",
+      "극",
+      "대규모",
+      "반",
+      "소규모"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -63786,7 +64310,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "강구",
+      "개발",
+      "개방",
+      "개선",
+      "개선책"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -64292,11 +64822,11 @@
       "level": "Beginner"
     },
     "related_vocab": [
-      "오늘",
-      "오늘날",
+      "지금",
       "올해",
-      "이번",
-      "현행"
+      "최근",
+      "미래",
+      "이후"
     ],
     "refs": {
       "cross_links": []
@@ -64439,7 +64969,13 @@
       "band": 5,
       "level": "Unrated"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "수집",
+      "손동작",
+      "수거",
+      "되풀이",
+      "모으다"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -64905,7 +65441,13 @@
       "band": 1,
       "level": "Beginner"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "버리다",
+      "잃어버리다",
+      "가져다주다",
+      "잃다",
+      "강구"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -65507,7 +66049,13 @@
       "band": 5,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "당대",
+      "조기",
+      "초기",
+      "밤늦다",
+      "초창기"
+    ],
     "refs": {
       "cross_links": []
     },
@@ -65913,7 +66461,11 @@
       "band": 3,
       "level": "Intermediate"
     },
-    "related_vocab": [],
+    "related_vocab": [
+      "앞서",
+      "나중",
+      "다음"
+    ],
     "refs": {
       "cross_links": []
     },

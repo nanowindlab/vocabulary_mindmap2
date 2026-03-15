@@ -435,7 +435,13 @@
   "인연_일반명사-1": {
     "id": "인연_일반명사-1",
     "def_ko": "사람 사이에 맺어진 관계나 끈",
-    "related_vocab": [],
+    "related_vocab": [
+      "인맥",
+      "가입자",
+      "가해자",
+      "개인",
+      "거지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -600,7 +606,13 @@
   "인화_일반명사-2": {
     "id": "인화_일반명사-2",
     "def_ko": "사람들 사이가 잘 어울려 화목함",
-    "related_vocab": [],
+    "related_vocab": [
+      "구성원",
+      "대중",
+      "서민",
+      "주민",
+      "또래"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1182,7 +1194,13 @@
   "입문서_일반명사-1": {
     "id": "입문서_일반명사-1",
     "def_ko": "처음 배우는 사람이 보는 기초 책",
-    "related_vocab": [],
+    "related_vocab": [
+      "교과서",
+      "저서",
+      "갈피",
+      "공책",
+      "과목"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1899,7 +1917,13 @@
   "잔디밭_일반명사-1": {
     "id": "잔디밭_일반명사-1",
     "def_ko": "잔디가 많이 나 있는 풀밭",
-    "related_vocab": [],
+    "related_vocab": [
+      "나무",
+      "씨",
+      "장미",
+      "꽃망울",
+      "난"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1984,7 +2008,13 @@
   "잠기다_동사-1": {
     "id": "잠기다_동사-1",
     "def_ko": "문 등이 자물쇠나 고리로 남이 열 수 없게 채워지다",
-    "related_vocab": [],
+    "related_vocab": [
+      "잠그다",
+      "개다",
+      "거두다",
+      "깔다",
+      "깔리다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1994,7 +2024,13 @@
   "잠들다_동사-1": {
     "id": "잠들다_동사-1",
     "def_ko": "잠에 빠져들어 자게 되다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가꾸다",
+      "갈아입다",
+      "깨다",
+      "깨우다",
+      "끼다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2093,7 +2129,13 @@
   "장가_일반명사-1": {
     "id": "장가_일반명사-1",
     "def_ko": "남자가 아내를 맞는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입",
+      "간섭",
+      "강요",
+      "강제",
+      "공경"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2103,7 +2145,13 @@
   "장갑_일반명사-1": {
     "id": "장갑_일반명사-1",
     "def_ko": "손을 보호하거나 꾸미기 위해 끼는 물건",
-    "related_vocab": [],
+    "related_vocab": [
+      "기념품",
+      "상품",
+      "명품",
+      "물품",
+      "복제품"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2113,7 +2161,13 @@
   "장국_일반명사-1": {
     "id": "장국_일반명사-1",
     "def_ko": "간장을 풀어 만든 맑은 국",
-    "related_vocab": [],
+    "related_vocab": [
+      "국수",
+      "김밥",
+      "나물",
+      "떡",
+      "매운탕"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2123,7 +2177,13 @@
   "장군_일반명사-1": {
     "id": "장군_일반명사-1",
     "def_ko": "군대를 지휘하는 높은 계급의 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "국민",
+      "문화재",
+      "양반",
+      "왕",
+      "군사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2818,7 +2878,13 @@
   "잼_일반명사-1": {
     "id": "잼_일반명사-1",
     "def_ko": "과일을 설탕과 함께 끓여 걸쭉하게 만든 식품",
-    "related_vocab": [],
+    "related_vocab": [
+      "녹차",
+      "맥주",
+      "사탕",
+      "소주",
+      "식혜"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2828,7 +2894,13 @@
   "저가_일반명사-1": {
     "id": "저가_일반명사-1",
     "def_ko": "값이 싼 편인 가격",
-    "related_vocab": [],
+    "related_vocab": [
+      "가격",
+      "시세",
+      "금값",
+      "저렴하다",
+      "비싸다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2876,7 +2948,13 @@
   "저서_일반명사-1": {
     "id": "저서_일반명사-1",
     "def_ko": "어떤 사람이 쓴 책",
-    "related_vocab": [],
+    "related_vocab": [
+      "입문서",
+      "갈피",
+      "공책",
+      "과목",
+      "교과서"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2913,7 +2991,13 @@
   "저울_일반명사-1": {
     "id": "저울_일반명사-1",
     "def_ko": "물건의 무게를 다는 데 쓰는 기구",
-    "related_vocab": [],
+    "related_vocab": [
+      "전지",
+      "다리미",
+      "가전",
+      "끈",
+      "난로"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2963,7 +3047,13 @@
   "저장고_일반명사-1": {
     "id": "저장고_일반명사-1",
     "def_ko": "물건을 오래 두고 보관하는 창고",
-    "related_vocab": [],
+    "related_vocab": [
+      "창고",
+      "임대료",
+      "가옥",
+      "객실",
+      "거처"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3006,7 +3096,13 @@
   "적국_일반명사-1": {
     "id": "적국_일반명사-1",
     "def_ko": "싸우고 있는 상대 나라",
-    "related_vocab": [],
+    "related_vocab": [
+      "고국",
+      "본국",
+      "국외",
+      "국제",
+      "나라"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3276,7 +3372,13 @@
   "전문가_일반명사-1": {
     "id": "전문가_일반명사-1",
     "def_ko": "특정 분야에 경험과 지식이 많은 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "기술자",
+      "연구가",
+      "감독",
+      "감독관",
+      "개발자"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3476,7 +3578,13 @@
   "전시장_일반명사-1": {
     "id": "전시장_일반명사-1",
     "def_ko": "전시가 열리는 장소",
-    "related_vocab": [],
+    "related_vocab": [
+      "공연장",
+      "무대",
+      "가사",
+      "가수",
+      "각본"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3502,7 +3610,13 @@
   "전역_일반명사-1": {
     "id": "전역_일반명사-1",
     "def_ko": "군 복무를 마치고 나오게 됨",
-    "related_vocab": [],
+    "related_vocab": [
+      "가로등",
+      "감옥",
+      "개장",
+      "검거",
+      "검사"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3580,7 +3694,13 @@
   "전자책_일반명사-1": {
     "id": "전자책_일반명사-1",
     "def_ko": "전자 기기로 읽는 책",
-    "related_vocab": [],
+    "related_vocab": [
+      "갈피",
+      "공책",
+      "과목",
+      "교과서",
+      "교재"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5272,7 +5392,13 @@
   "조장_일반명사-1": {
     "id": "조장_일반명사-1",
     "def_ko": "한 모둠이나 조를 이끄는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "관장",
+      "부서장",
+      "감독",
+      "감독관",
+      "개발자"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5396,7 +5522,13 @@
   "조카_일반명사-1": {
     "id": "조카_일반명사-1",
     "def_ko": "형제자매가 낳은 자식",
-    "related_vocab": [],
+    "related_vocab": [
+      "남매",
+      "부모",
+      "외아들",
+      "둘째",
+      "가문"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5552,7 +5684,13 @@
   "졸업식_일반명사-1": {
     "id": "졸업식_일반명사-1",
     "def_ko": "졸업을 축하하는 공식 행사",
-    "related_vocab": [],
+    "related_vocab": [
+      "강습",
+      "강의",
+      "강좌",
+      "견학",
+      "공부"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5925,7 +6063,13 @@
   "주도_일반명사-1": {
     "id": "주도_일반명사-1",
     "def_ko": "앞장서서 이끌어 감",
-    "related_vocab": [],
+    "related_vocab": [
+      "경영",
+      "계획서",
+      "공정",
+      "관리",
+      "근무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

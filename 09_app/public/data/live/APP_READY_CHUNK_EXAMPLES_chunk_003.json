@@ -525,7 +525,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "추적추적",
+        "가뭄",
+        "가스",
+        "강수량",
+        "강우"
+      ],
       "phonetic_romanization": "nunkkot"
     },
     "눈높이_일반명사-1": {
@@ -789,7 +795,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "장난감",
+        "놀이터",
+        "게임",
+        "놀이",
+        "오락"
+      ],
       "phonetic_romanization": "nunsaram"
     },
     "눈살_일반명사-1": {
@@ -831,7 +843,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가슴",
+        "간",
+        "갈비",
+        "귀",
+        "귓등"
+      ],
       "phonetic_romanization": "nunsal"
     },
     "눈썹_일반명사-1": {
@@ -6975,7 +6993,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로",
+        "가운데",
+        "가장자리",
+        "겉",
+        "겉면"
+      ],
       "phonetic_romanization": "daehyeong"
     },
     "대회_일반명사-1": {
@@ -7069,7 +7093,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경비실",
+        "가로등",
+        "감옥",
+        "개장",
+        "검거"
+      ],
       "phonetic_romanization": "daeoijang"
     },
     "댁_일반명사-1": {
@@ -10642,7 +10672,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "꺼내다",
+        "놓이다",
+        "빼내다",
+        "파내다",
+        "뽑아내다"
+      ],
       "phonetic_romanization": "doraseoda"
     },
     "돌아오다_동사-1": {
@@ -13393,7 +13429,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "뒤돌아서다",
+        "동서남북",
+        "방면",
+        "향하다",
+        "내비게이션"
+      ],
       "phonetic_romanization": "dwidolda"
     },
     "뒤돌아서다_동사-1": {
@@ -13435,7 +13477,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곧장",
+        "뒤돌다",
+        "동서남북",
+        "방면",
+        "향하다"
+      ],
       "phonetic_romanization": "dwidoraseoda"
     },
     "뒤따르다_동사-1": {
@@ -13540,7 +13588,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "걸음",
+        "감속",
+        "과속",
+        "귀환",
+        "도보"
+      ],
       "phonetic_romanization": "dwitgeoreum"
     },
     "뒷문_일반명사-1": {

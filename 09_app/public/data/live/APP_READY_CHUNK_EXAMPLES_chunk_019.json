@@ -1153,7 +1153,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "sunan"
     },
     "수년_일반명사-1": {
@@ -2474,7 +2480,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "suhwangnyang"
     },
     "숙이다_동사-1": {
@@ -3061,7 +3073,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "부르다",
+        "응",
+        "이외",
+        "경고",
+        "명"
+      ],
       "phonetic_romanization": ""
     },
     "스물_수사-1": {
@@ -3253,7 +3271,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "없이",
+        "넘어가다",
+        "강구",
+        "결합",
+        "고갈"
+      ],
       "phonetic_romanization": "seunghwa"
     },
     "시각_일반명사-1": {
@@ -4345,7 +4369,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "siksaryang"
     },
     "식후_일반명사-1": {
@@ -4357,7 +4387,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고대",
+        "공휴일",
+        "과거",
+        "그날",
+        "그때"
+      ],
       "phonetic_romanization": ""
     },
     "신규_일반명사-1": {
@@ -4494,7 +4530,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "신뢰도",
+        "완성도",
+        "운동량",
+        "기여도",
+        "내외"
+      ],
       "phonetic_romanization": "sinsondo"
     },
     "신호_일반명사-1": {
@@ -4731,7 +4773,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "직전",
+        "직후",
+        "초기",
+        "그때",
+        "날"
+      ],
       "phonetic_romanization": "sil sigan"
     },
     "실정_일반명사-1": {
@@ -4961,7 +5009,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "검사",
+        "강구",
+        "개발",
+        "개방",
+        "개선"
+      ],
       "phonetic_romanization": "siljong"
     },
     "실질_일반명사-1": {
@@ -5003,7 +5057,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "본질",
+        "다채롭다",
+        "사항",
+        "실제로",
+        "가능"
+      ],
       "phonetic_romanization": "siljil"
     },
     "실천_일반명사-1": {
@@ -5101,7 +5161,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "실상",
+        "가능성",
+        "계열",
+        "성과",
+        "속성"
+      ],
       "phonetic_romanization": "silche"
     },
     "실컷_일반부사-1": {
@@ -5533,7 +5599,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "많다",
+        "워낙",
+        "그지없다",
+        "넉넉하다",
+        "막대하다"
+      ],
       "phonetic_romanization": ""
     },
     "싹쓸이_일반명사-1": {
@@ -5721,10 +5793,10 @@
         }
       ],
       "related_vocab": [
-        "금방",
         "방금",
-        "방금",
-        "이따"
+        "지금",
+        "그때",
+        "어젯밤"
       ],
       "phonetic_romanization": ""
     },
@@ -5769,7 +5841,6 @@
       ],
       "related_vocab": [
         "미리",
-        "방금",
         "방금",
         "전"
       ],
@@ -6084,7 +6155,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "의존도",
+        "운동량",
+        "굉장히",
+        "꽤",
+        "너무나"
+      ],
       "phonetic_romanization": "amuri"
     },
     "아무튼_일반부사-1": {
@@ -7398,7 +7475,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곧",
+        "곧바로",
+        "곧이어",
+        "금방",
+        "때로"
+      ],
       "phonetic_romanization": "apseo"
     },
     "앞서다_동사-1": {
@@ -8321,7 +8404,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "오래간만",
+        "수명",
+        "도중",
+        "갈수록",
+        "계속"
+      ],
       "phonetic_romanization": ""
     },
     "어느새_일반부사-1": {
@@ -8697,11 +8786,11 @@
         }
       ],
       "related_vocab": [
-        "그저께",
-        "그제",
-        "어제",
         "전날",
-        "어제"
+        "어젯밤",
+        "그제",
+        "그저께",
+        "그날"
       ],
       "phonetic_romanization": ""
     },
@@ -8809,11 +8898,11 @@
         }
       ],
       "related_vocab": [
-        "내달",
-        "모레",
-        "작년",
-        "전년",
-        "최근"
+        "어저께",
+        "전날",
+        "그날",
+        "최근",
+        "아까"
       ],
       "phonetic_romanization": "eojetbam"
     },
@@ -8875,7 +8964,6 @@
         }
       ],
       "related_vocab": [
-        "어쩌다",
         "경우",
         "여파",
         "원인"
@@ -9754,7 +9842,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "그때",
+        "다음",
+        "전날",
+        "이번",
+        "직전"
+      ],
       "phonetic_romanization": ""
     },
     "여간_일반부사-1": {
@@ -9940,7 +10034,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "백",
+        "넷",
+        "다섯",
+        "만",
+        "백만"
+      ],
       "phonetic_romanization": "yeodeun"
     },
     "여러_관형사-1": {
@@ -10245,7 +10345,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기제",
+        "맞춤법",
+        "매개체",
+        "소용",
+        "수법"
+      ],
       "phonetic_romanization": "yeobu"
     },
     "여섯_수사-1": {
@@ -10344,7 +10450,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "계속",
+        "내내",
+        "지속",
+        "차차",
+        "내리"
+      ],
       "phonetic_romanization": "yeojeonhi"
     },
     "여파_일반명사-1": {
@@ -10571,7 +10683,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "변동",
+        "강구",
+        "개발",
+        "개방",
+        "개선"
+      ],
       "phonetic_romanization": "yeokjeon"
     },
     "역효과_일반명사-1": {
@@ -11234,7 +11352,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "yeonjang"
     },
     "연휴_일반명사-1": {
@@ -12077,9 +12201,9 @@
         }
       ],
       "related_vocab": [
-        "고대",
-        "옛날",
-        "왕년"
+        "과거",
+        "당시",
+        "작년"
       ],
       "phonetic_romanization": "yejeon"
     },
@@ -13051,7 +13175,6 @@
       "related_vocab": [
         "다",
         "모두",
-        "모두",
         "몽땅",
         "전력"
       ],
@@ -13066,7 +13189,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "작년",
+        "전년",
+        "내년",
+        "고대",
+        "공휴일"
+      ],
       "phonetic_romanization": ""
     },
     "올해_일반명사-1": {
@@ -13115,9 +13244,11 @@
         }
       ],
       "related_vocab": [
-        "오늘",
-        "오늘",
-        "현재"
+        "금년",
+        "작년",
+        "전년",
+        "내후년",
+        "새해"
       ],
       "phonetic_romanization": "olhae"
     },
@@ -14254,7 +14385,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "꼭대기",
+        "밀도",
+        "전력",
+        "몽땅",
+        "재력"
+      ],
       "phonetic_romanization": "yongnyang"
     },
     "용법_일반명사-1": {
@@ -14363,8 +14500,7 @@
       "related_vocab": [
         "교체",
         "대안",
-        "반면",
-        "우선"
+        "반면"
       ],
       "phonetic_romanization": ""
     },
@@ -14806,7 +14942,11 @@
         }
       ],
       "related_vocab": [
-        "원래"
+        "원래",
+        "결국",
+        "궁극",
+        "기말",
+        "끝"
       ],
       "phonetic_romanization": "wonrae"
     },
@@ -15281,7 +15421,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "wiryok"
     },
     "위반_일반명사-1": {
@@ -15382,7 +15528,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "건너",
+        "건너편",
+        "뒤",
+        "뒤쪽",
+        "안"
+      ],
       "phonetic_romanization": "wiare"
     },
     "위쪽_일반명사-1": {
@@ -15526,7 +15678,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "건너편",
+        "뒤쪽",
+        "옆",
+        "뒷자리",
+        "위치"
+      ],
       "phonetic_romanization": "wit"
     },
     "윗글_일반명사-1": {
@@ -15568,7 +15726,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경고",
+        "명",
+        "명칭",
+        "신호",
+        "아무것"
+      ],
       "phonetic_romanization": "witgeul"
     },
     "유동_일반명사-1": {
@@ -15656,7 +15820,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "결국",
+        "궁극",
+        "기말",
+        "끝",
+        "마감"
+      ],
       "phonetic_romanization": "yurae"
     },
     "유발_일반명사-1": {
@@ -15744,7 +15914,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "그만",
+        "그만두다",
+        "끝나다",
+        "결국",
+        "궁극"
+      ],
       "phonetic_romanization": "yubo"
     },
     "유사_일반명사-1": {
@@ -15844,7 +16020,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "팔월",
+        "열흘",
+        "십이월",
+        "여름",
+        "주중"
+      ],
       "phonetic_romanization": ""
     },
     "유일_일반명사-1": {
@@ -15892,7 +16074,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "yuil"
     },
     "유추_일반명사-1": {
@@ -16865,7 +17053,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "고치다",
+        "내보내다",
+        "내쫓다",
+        "돌려보내다"
+      ],
       "phonetic_romanization": ""
     },
     "이론_일반명사-1": {
@@ -16913,7 +17107,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가설",
+        "방안",
+        "방침",
+        "수단",
+        "요건"
+      ],
       "phonetic_romanization": "iron"
     },
     "이루다_동사-1": {
@@ -17055,7 +17255,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "가져가다",
+        "가져오다",
+        "가지다",
+        "가하다"
+      ],
       "phonetic_romanization": "irwojida"
     },
     "이르다_동사-1": {
@@ -17421,7 +17627,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "넷",
+        "다섯",
+        "만",
+        "백",
+        "백만"
+      ],
       "phonetic_romanization": "iman"
     },
     "이미_일반부사-1": {
@@ -17514,7 +17726,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "넷",
+        "다섯",
+        "만",
+        "백",
+        "백만"
+      ],
       "phonetic_romanization": "ibaengman"
     }
   }

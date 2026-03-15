@@ -1406,7 +1406,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "인맥",
+        "가입자",
+        "가해자",
+        "개인",
+        "거지"
+      ],
       "phonetic_romanization": "inyeon"
     },
     "인종_일반명사-1": {
@@ -1882,7 +1888,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "구성원",
+        "대중",
+        "서민",
+        "주민",
+        "또래"
+      ],
       "phonetic_romanization": "inhwa"
     },
     "일_일반명사-1": {
@@ -3351,7 +3363,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교과서",
+        "저서",
+        "갈피",
+        "공책",
+        "과목"
+      ],
       "phonetic_romanization": "ipmunseo"
     },
     "입사_일반명사-1": {
@@ -5135,7 +5153,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "나무",
+        "씨",
+        "장미",
+        "꽃망울",
+        "난"
+      ],
       "phonetic_romanization": ""
     },
     "잔소리_일반명사-1": {
@@ -5331,7 +5355,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "잠그다",
+        "개다",
+        "거두다",
+        "깔다",
+        "깔리다"
+      ],
       "phonetic_romanization": ""
     },
     "잠들다_동사-1": {
@@ -5379,7 +5409,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가꾸다",
+        "갈아입다",
+        "깨다",
+        "깨우다",
+        "끼다"
+      ],
       "phonetic_romanization": "jamdeulda"
     },
     "잠수함_일반명사-1": {
@@ -5686,7 +5722,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입",
+        "간섭",
+        "강요",
+        "강제",
+        "공경"
+      ],
       "phonetic_romanization": ""
     },
     "장갑_일반명사-1": {
@@ -5734,7 +5776,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기념품",
+        "상품",
+        "명품",
+        "물품",
+        "복제품"
+      ],
       "phonetic_romanization": "janggap"
     },
     "장국_일반명사-1": {
@@ -5776,7 +5824,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "국수",
+        "김밥",
+        "나물",
+        "떡",
+        "매운탕"
+      ],
       "phonetic_romanization": "jangguk"
     },
     "장군_일반명사-1": {
@@ -5818,7 +5872,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "국민",
+        "문화재",
+        "양반",
+        "왕",
+        "군사"
+      ],
       "phonetic_romanization": "janggun"
     },
     "장기_일반명사-1": {
@@ -7766,7 +7826,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "녹차",
+        "맥주",
+        "사탕",
+        "소주",
+        "식혜"
+      ],
       "phonetic_romanization": "jaem"
     },
     "저가_일반명사-1": {
@@ -7808,7 +7874,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가격",
+        "시세",
+        "금값",
+        "저렴하다",
+        "비싸다"
+      ],
       "phonetic_romanization": "jeoga"
     },
     "저금_일반명사-1": {
@@ -8002,7 +8074,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "입문서",
+        "갈피",
+        "공책",
+        "과목",
+        "교과서"
+      ],
       "phonetic_romanization": "jeoseo"
     },
     "저수지_일반명사-1": {
@@ -8105,7 +8183,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "전지",
+        "다리미",
+        "가전",
+        "끈",
+        "난로"
+      ],
       "phonetic_romanization": ""
     },
     "저자_일반명사-1": {
@@ -8295,7 +8379,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "창고",
+        "임대료",
+        "가옥",
+        "객실",
+        "거처"
+      ],
       "phonetic_romanization": "jeojang-go"
     },
     "저축_일반명사-1": {
@@ -8401,7 +8491,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고국",
+        "본국",
+        "국외",
+        "국제",
+        "나라"
+      ],
       "phonetic_romanization": "jeokguk"
     },
     "적발_일반명사-1": {
@@ -9182,7 +9278,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "기술자",
+        "연구가",
+        "감독",
+        "감독관",
+        "개발자"
+      ],
       "phonetic_romanization": "jeonmunga"
     },
     "전문점_일반명사-1": {
@@ -9790,7 +9892,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공연장",
+        "무대",
+        "가사",
+        "가수",
+        "각본"
+      ],
       "phonetic_romanization": "jeonsijang"
     },
     "전시회_일반명사-1": {
@@ -9886,7 +9994,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로등",
+        "감옥",
+        "개장",
+        "검거",
+        "검사"
+      ],
       "phonetic_romanization": "jeonyeok"
     },
     "전염_일반명사-1": {
@@ -10174,7 +10288,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "갈피",
+        "공책",
+        "과목",
+        "교과서",
+        "교재"
+      ],
       "phonetic_romanization": "jeonjachaek"
     },
     "전작_일반명사-1": {
@@ -14967,7 +15087,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관장",
+        "부서장",
+        "감독",
+        "감독관",
+        "개발자"
+      ],
       "phonetic_romanization": "jojang"
     },
     "조정_일반명사-2": {
@@ -15355,7 +15481,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "남매",
+        "부모",
+        "외아들",
+        "둘째",
+        "가문"
+      ],
       "phonetic_romanization": ""
     },
     "조항_일반명사-1": {
@@ -15756,7 +15888,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강습",
+        "강의",
+        "강좌",
+        "견학",
+        "공부"
+      ],
       "phonetic_romanization": "joreopsik"
     },
     "졸음_일반명사-1": {
@@ -16934,7 +17072,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "경영",
+        "계획서",
+        "공정",
+        "관리",
+        "근무"
+      ],
       "phonetic_romanization": "judo"
     },
     "주도_일반명사-2": {

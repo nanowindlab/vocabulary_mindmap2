@@ -111,7 +111,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "도시",
+        "보금자리",
+        "건물",
+        "건축",
+        "농가"
+      ],
       "phonetic_romanization": "juso"
     },
     "주술_일반명사-1": {
@@ -254,7 +260,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "상회",
+        "서식",
+        "제작사",
+        "제조사",
+        "가동"
+      ],
       "phonetic_romanization": "jusik"
     },
     "주식_일반명사-2": {
@@ -348,7 +360,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "대본",
+        "각본",
+        "가사",
+        "가수",
+        "갤러리"
+      ],
       "phonetic_romanization": "juyeon"
     },
     "주연_일반명사-2": {
@@ -390,7 +408,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "갈비탕",
+        "국",
+        "국수",
+        "김밥",
+        "김치"
+      ],
       "phonetic_romanization": "juyeon"
     },
     "주유소_일반명사-1": {
@@ -542,7 +566,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교회",
+        "개회식",
+        "결혼식장",
+        "경사",
+        "귀신"
+      ],
       "phonetic_romanization": "juil"
     },
     "주장_일반명사-2": {
@@ -656,7 +686,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "감속",
+        "걸음",
+        "과속",
+        "귀환",
+        "도보"
+      ],
       "phonetic_romanization": "jucha"
     },
     "주차장_일반명사-1": {
@@ -2650,7 +2686,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "연합",
+        "케이팝",
+        "두레",
+        "각계",
+        "각광"
+      ],
       "phonetic_romanization": "jiguchon"
     },
     "지급_일반명사-1": {
@@ -2839,7 +2881,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "건너오다",
+        "달려오다",
+        "드나들다",
+        "가다",
+        "지나가다"
+      ],
       "phonetic_romanization": "jinaoda"
     },
     "지내다_동사-1": {
@@ -2938,7 +2986,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "망하다",
+        "짓다",
+        "각계",
+        "각광",
+        "간담회"
+      ],
       "phonetic_romanization": "jida"
     },
     "지대_일반명사-1": {
@@ -3078,7 +3132,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "일행",
+        "가입자",
+        "가해자",
+        "개인",
+        "거지"
+      ],
       "phonetic_romanization": "jidoja"
     },
     "지름길_일반명사-1": {
@@ -3405,7 +3465,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "이",
+        "장기",
+        "폐",
+        "가슴",
+        "간"
+      ],
       "phonetic_romanization": "jibang"
     },
     "지배_일반명사-1": {
@@ -3447,7 +3513,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "이민",
+        "차별",
+        "외래어",
+        "원작",
+        "후보"
+      ],
       "phonetic_romanization": "jibae"
     },
     "지배인_일반명사-1": {
@@ -4445,7 +4517,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공개",
+        "생방송",
+        "망하다",
+        "짓다",
+        "각계"
+      ],
       "phonetic_romanization": "jikida"
     },
     "지킴이_일반명사-1": {
@@ -5014,7 +5092,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가격",
+        "값",
+        "결제",
+        "계산대",
+        "구매"
+      ],
       "phonetic_romanization": "jikgeorae"
     },
     "직무_일반명사-1": {
@@ -5251,7 +5335,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "내부자",
+        "단원",
+        "사회인",
+        "상대방",
+        "부원"
+      ],
       "phonetic_romanization": "jigeobin"
     },
     "직원_일반명사-1": {
@@ -6292,7 +6382,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "둑",
+        "강",
+        "강물",
+        "개울",
+        "경치"
+      ],
       "phonetic_romanization": "jinheuktang"
     },
     "진흥_일반명사-1": {
@@ -7200,7 +7296,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가꾸다",
+        "갈아입다",
+        "깨다",
+        "깨우다",
+        "끼다"
+      ],
       "phonetic_romanization": "jibeonaeda"
     },
     "집집_일반명사-1": {
@@ -7242,7 +7344,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "구조물",
+        "아파트",
+        "궁궐",
+        "빌딩",
+        "샤워장"
+      ],
       "phonetic_romanization": "jipjip"
     },
     "집필_일반명사-1": {
@@ -7842,7 +7950,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "의학",
+        "수술",
+        "의료",
+        "간병",
+        "요법"
+      ],
       "phonetic_romanization": ""
     },
     "찢다_동사-1": {
@@ -7854,7 +7968,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "뽑다",
+        "굴리다",
+        "깨뜨리다",
+        "꺼내다",
+        "녹이다"
+      ],
       "phonetic_romanization": ""
     },
     "찢어지다_동사-1": {
@@ -7866,7 +7986,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "뽑히다",
+        "가라앉다",
+        "가라앉히다",
+        "구르다",
+        "굴러가다"
+      ],
       "phonetic_romanization": ""
     },
     "찧다_동사-1": {
@@ -7908,7 +8034,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "깨뜨리다",
+        "깨어지다",
+        "깨지다",
+        "부러지다",
+        "유리"
+      ],
       "phonetic_romanization": "jjitda"
     },
     "차_일반명사-1": {
@@ -8062,7 +8194,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "쇼트",
+        "축구",
+        "공",
+        "이기다",
+        "겨루다"
+      ],
       "phonetic_romanization": "chada"
     },
     "차다_동사-2": {
@@ -8230,7 +8368,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고속도로",
+        "길",
+        "차도",
+        "터널",
+        "노선"
+      ],
       "phonetic_romanization": ""
     },
     "차리다_동사-1": {
@@ -8278,7 +8422,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "익히다",
+        "볶음",
+        "굽다",
+        "끓다",
+        "끓이다"
+      ],
       "phonetic_romanization": "charida"
     },
     "차림_일반명사-1": {
@@ -8385,7 +8535,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "평등",
+        "지배",
+        "방언",
+        "후보",
+        "교류"
+      ],
       "phonetic_romanization": "chabyeol"
     },
     "차비_일반명사-1": {
@@ -8497,7 +8653,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "교통편",
+        "기사",
+        "기차",
+        "탑승객",
+        "버스"
+      ],
       "phonetic_romanization": ""
     },
     "착륙_일반명사-1": {
@@ -8674,7 +8836,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관람료",
+        "요금",
+        "사용료",
+        "주문서",
+        "가격"
+      ],
       "phonetic_romanization": "chamgabi"
     },
     "참가자_일반명사-1": {
@@ -8782,7 +8950,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "부원",
+        "내부자",
+        "단원",
+        "상대방",
+        "장애인"
+      ],
       "phonetic_romanization": "chamseokja"
     },
     "참외_일반명사-1": {
@@ -8884,7 +9058,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "편의점",
+        "면세점",
+        "거래처",
+        "상점",
+        "시장"
+      ],
       "phonetic_romanization": "chatjip"
     },
     "창_일반명사-1": {
@@ -9032,7 +9212,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "옆집",
+        "창문",
+        "창밖",
+        "가옥",
+        "객실"
+      ],
       "phonetic_romanization": "changga"
     },
     "창고_일반명사-1": {
@@ -9180,7 +9366,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "골재",
+        "건립",
+        "벽지",
+        "짓다",
+        "창"
+      ],
       "phonetic_romanization": "changmun"
     },
     "창밖_일반명사-1": {
@@ -9228,7 +9420,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "창가",
+        "창문",
+        "가옥",
+        "객실",
+        "거처"
+      ],
       "phonetic_romanization": "changbak"
     },
     "창시자_일반명사-1": {
@@ -11023,7 +11221,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강",
+        "강물",
+        "개울",
+        "경치",
+        "계곡"
+      ],
       "phonetic_romanization": "cheonha"
     },
     "철_일반명사-1": {
@@ -11071,7 +11275,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "동",
+        "가죽",
+        "각지",
+        "게시판",
+        "고무"
+      ],
       "phonetic_romanization": "cheol"
     },
     "철도_일반명사-1": {
@@ -11882,7 +12092,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입",
+        "간섭",
+        "강요",
+        "강제",
+        "공경"
+      ],
       "phonetic_romanization": ""
     },
     "체결_일반명사-1": {
@@ -13241,7 +13457,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "춤",
+        "춤추다",
+        "군무",
+        "발레",
+        "추다"
+      ],
       "phonetic_romanization": "chuimsae"
     },
     "추적추적_일반부사-1": {
@@ -14944,7 +15166,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "동식물",
+        "가축",
+        "강아지",
+        "개",
+        "거미"
+      ],
       "phonetic_romanization": "chung"
     },
     "충수_일반명사-1": {
@@ -15120,7 +15348,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "암세포",
+        "간암",
+        "감기",
+        "감염",
+        "건강"
+      ],
       "phonetic_romanization": "chungchi"
     },
     "충혈_일반명사-1": {
@@ -15469,7 +15703,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "낫다",
+        "죽다",
+        "마르다",
+        "멀미",
+        "죽음"
+      ],
       "phonetic_romanization": "chwihada"
     },
     "측면_일반명사-1": {
@@ -15517,7 +15757,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "반대쪽",
+        "양식",
+        "형성",
+        "마크",
+        "밖"
+      ],
       "phonetic_romanization": "cheukmyeon"
     },
     "층_일반명사-1": {
@@ -15826,7 +16072,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "거주",
+        "겉옷",
+        "구두",
+        "굽",
+        "귀가"
+      ],
       "phonetic_romanization": "chima"
     },
     "치매_일반명사-1": {
@@ -16012,7 +16264,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가입자",
+        "가해자",
+        "개인",
+        "거지",
+        "공범"
+      ],
       "phonetic_romanization": "chieorideo"
     },
     "치우다_동사-1": {
@@ -16453,7 +16711,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가옥",
+        "객실",
+        "거처",
+        "건물",
+        "건설"
+      ],
       "phonetic_romanization": "chinjeong"
     },
     "친척_일반명사-1": {
@@ -17511,7 +17775,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "복제약",
+        "반창고",
+        "효능",
+        "감기약",
+        "두통약"
+      ],
       "phonetic_romanization": "kaepsyul"
     }
   }

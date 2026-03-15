@@ -36,7 +36,13 @@
   "주소_일반명사-1": {
     "id": "주소_일반명사-1",
     "def_ko": "집이나 건물이 있는 곳을 적은 것",
-    "related_vocab": [],
+    "related_vocab": [
+      "도시",
+      "보금자리",
+      "건물",
+      "건축",
+      "농가"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -71,7 +77,13 @@
   "주식_일반명사-1": {
     "id": "주식_일반명사-1",
     "def_ko": "회사 재산을 나누어 가진 지분",
-    "related_vocab": [],
+    "related_vocab": [
+      "상회",
+      "서식",
+      "제작사",
+      "제조사",
+      "가동"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -95,7 +107,13 @@
   "주연_일반명사-1": {
     "id": "주연_일반명사-1",
     "def_ko": "연극이나 영화에서 가장 중요한 배역",
-    "related_vocab": [],
+    "related_vocab": [
+      "대본",
+      "각본",
+      "가사",
+      "가수",
+      "갤러리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -105,7 +123,13 @@
   "주연_일반명사-2": {
     "id": "주연_일반명사-2",
     "def_ko": "손님을 초대해 베푸는 술자리나 잔치",
-    "related_vocab": [],
+    "related_vocab": [
+      "갈비탕",
+      "국",
+      "국수",
+      "김밥",
+      "김치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -152,7 +176,13 @@
   "주일_일반명사-1": {
     "id": "주일_일반명사-1",
     "def_ko": "기독교에서 예배를 드리는 날인 일요일",
-    "related_vocab": [],
+    "related_vocab": [
+      "교회",
+      "개회식",
+      "결혼식장",
+      "경사",
+      "귀신"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -197,7 +227,13 @@
   "주차_일반명사-1": {
     "id": "주차_일반명사-1",
     "def_ko": "자동차를 한곳에 세워 두는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "감속",
+      "걸음",
+      "과속",
+      "귀환",
+      "도보"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -902,7 +938,13 @@
   "지구촌_일반명사-1": {
     "id": "지구촌_일반명사-1",
     "def_ko": "세계가 하나의 마을처럼 가까워진 공동 사회를 이르는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "연합",
+      "케이팝",
+      "두레",
+      "각계",
+      "각광"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -951,7 +993,13 @@
   "지나오다_동사-1": {
     "id": "지나오다_동사-1",
     "def_ko": "어떤 곳을 거쳐 이쪽으로 오다",
-    "related_vocab": [],
+    "related_vocab": [
+      "건너오다",
+      "달려오다",
+      "드나들다",
+      "가다",
+      "지나가다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -974,7 +1022,13 @@
   "지다_동사-2": {
     "id": "지다_동사-2",
     "def_ko": "경쟁이나 싸움에서 이기지 못하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "망하다",
+      "짓다",
+      "각계",
+      "각광",
+      "간담회"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1012,7 +1066,13 @@
   "지도자_일반명사-1": {
     "id": "지도자_일반명사-1",
     "def_ko": "사람들을 이끌어 가는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "일행",
+      "가입자",
+      "가해자",
+      "개인",
+      "거지"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1106,7 +1166,13 @@
   "지방_일반명사-2": {
     "id": "지방_일반명사-2",
     "def_ko": "몸 안에 에너지를 저장하는 기름 성분",
-    "related_vocab": [],
+    "related_vocab": [
+      "이",
+      "장기",
+      "폐",
+      "가슴",
+      "간"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1116,7 +1182,13 @@
   "지배_일반명사-1": {
     "id": "지배_일반명사-1",
     "def_ko": "다른 사람이나 집단을 자기 뜻대로 다스림",
-    "related_vocab": [],
+    "related_vocab": [
+      "이민",
+      "차별",
+      "외래어",
+      "원작",
+      "후보"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1429,7 +1501,13 @@
   "지키다_동사-2": {
     "id": "지키다_동사-2",
     "def_ko": "약속이나 규칙을 어기지 않고 그대로 따르다",
-    "related_vocab": [],
+    "related_vocab": [
+      "공개",
+      "생방송",
+      "망하다",
+      "짓다",
+      "각계"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1621,7 +1699,13 @@
   "직거래_일반명사-1": {
     "id": "직거래_일반명사-1",
     "def_ko": "중간 상인 없이 팔 사람과 살 사람이 바로 서로 거래함",
-    "related_vocab": [],
+    "related_vocab": [
+      "가격",
+      "값",
+      "결제",
+      "계산대",
+      "구매"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1703,7 +1787,13 @@
   "직업인_일반명사-1": {
     "id": "직업인_일반명사-1",
     "def_ko": "어떤 직업을 가지고 있는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "내부자",
+      "단원",
+      "사회인",
+      "상대방",
+      "부원"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2112,7 +2202,13 @@
   "진흙탕_일반명사-1": {
     "id": "진흙탕_일반명사-1",
     "def_ko": "물과 흙이 섞여 질퍽질퍽한 땅",
-    "related_vocab": [],
+    "related_vocab": [
+      "둑",
+      "강",
+      "강물",
+      "개울",
+      "경치"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2382,7 +2478,13 @@
   "집어내다_동사-1": {
     "id": "집어내다_동사-1",
     "def_ko": "여럿 가운데서 골라 들다",
-    "related_vocab": [],
+    "related_vocab": [
+      "가꾸다",
+      "갈아입다",
+      "깨다",
+      "깨우다",
+      "끼다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2392,7 +2494,13 @@
   "집집_일반명사-1": {
     "id": "집집_일반명사-1",
     "def_ko": "여러 집 하나하나",
-    "related_vocab": [],
+    "related_vocab": [
+      "구조물",
+      "아파트",
+      "궁궐",
+      "빌딩",
+      "샤워장"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2683,7 +2791,13 @@
   "찜질_일반명사-1": {
     "id": "찜질_일반명사-1",
     "def_ko": "더운물을 적신 헝겊이나 얼음을 넣은 주머니를 아픈 곳에 대어 병을 고치는 일",
-    "related_vocab": [],
+    "related_vocab": [
+      "의학",
+      "수술",
+      "의료",
+      "간병",
+      "요법"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2693,7 +2807,13 @@
   "찢다_동사-1": {
     "id": "찢다_동사-1",
     "def_ko": "도구를 이용하거나 잡아당겨 갈라지게 하다",
-    "related_vocab": [],
+    "related_vocab": [
+      "뽑다",
+      "굴리다",
+      "깨뜨리다",
+      "꺼내다",
+      "녹이다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2703,7 +2823,13 @@
   "찢어지다_동사-1": {
     "id": "찢어지다_동사-1",
     "def_ko": "도구에 의해서나 잡아당겨져 갈라지다",
-    "related_vocab": [],
+    "related_vocab": [
+      "뽑히다",
+      "가라앉다",
+      "가라앉히다",
+      "구르다",
+      "굴러가다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2713,7 +2839,13 @@
   "찧다_동사-1": {
     "id": "찧다_동사-1",
     "def_ko": "단단한 것으로 마구 내리쳐 부수거나 으깨다",
-    "related_vocab": [],
+    "related_vocab": [
+      "깨뜨리다",
+      "깨어지다",
+      "깨지다",
+      "부러지다",
+      "유리"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2770,7 +2902,13 @@
   "차다_동사-1": {
     "id": "차다_동사-1",
     "def_ko": "발로 세게 밀거나 치다",
-    "related_vocab": [],
+    "related_vocab": [
+      "쇼트",
+      "축구",
+      "공",
+      "이기다",
+      "겨루다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2847,7 +2985,13 @@
   "차로_일반명사-1": {
     "id": "차로_일반명사-1",
     "def_ko": "자동차가 다니는 길",
-    "related_vocab": [],
+    "related_vocab": [
+      "고속도로",
+      "길",
+      "차도",
+      "터널",
+      "노선"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2857,7 +3001,13 @@
   "차리다_동사-1": {
     "id": "차리다_동사-1",
     "def_ko": "상 위에 음식이나 그릇을 알맞게 놓다",
-    "related_vocab": [],
+    "related_vocab": [
+      "익히다",
+      "볶음",
+      "굽다",
+      "끓다",
+      "끓이다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2901,7 +3051,13 @@
   "차별_일반명사-1": {
     "id": "차별_일반명사-1",
     "def_ko": "사람이나 집단을 이유 없이 다르게 대함",
-    "related_vocab": [],
+    "related_vocab": [
+      "평등",
+      "지배",
+      "방언",
+      "후보",
+      "교류"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2935,7 +3091,13 @@
   "차창_일반명사-1": {
     "id": "차창_일반명사-1",
     "def_ko": "기차나 자동차 등에 달린 창문",
-    "related_vocab": [],
+    "related_vocab": [
+      "교통편",
+      "기사",
+      "기차",
+      "탑승객",
+      "버스"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -2984,7 +3146,13 @@
   "참가비_일반명사-1": {
     "id": "참가비_일반명사-1",
     "def_ko": "행사나 대회에 들어가기 위해 내는 돈",
-    "related_vocab": [],
+    "related_vocab": [
+      "관람료",
+      "요금",
+      "사용료",
+      "주문서",
+      "가격"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3029,7 +3197,13 @@
   "참석자_일반명사-1": {
     "id": "참석자_일반명사-1",
     "def_ko": "모임이나 행사에 나와 있는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "부원",
+      "내부자",
+      "단원",
+      "상대방",
+      "장애인"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3065,7 +3239,13 @@
   "찻집_일반명사-1": {
     "id": "찻집_일반명사-1",
     "def_ko": "차나 음료를 시켜 마실 수 있는 가게",
-    "related_vocab": [],
+    "related_vocab": [
+      "편의점",
+      "면세점",
+      "거래처",
+      "상점",
+      "시장"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3099,7 +3279,13 @@
   "창가_일반명사-1": {
     "id": "창가_일반명사-1",
     "def_ko": "창문 바로 곁",
-    "related_vocab": [],
+    "related_vocab": [
+      "옆집",
+      "창문",
+      "창밖",
+      "가옥",
+      "객실"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3133,7 +3319,13 @@
   "창문_일반명사-1": {
     "id": "창문_일반명사-1",
     "def_ko": "벽에 낸 창에 유리틀 등을 단 부분",
-    "related_vocab": [],
+    "related_vocab": [
+      "골재",
+      "건립",
+      "벽지",
+      "짓다",
+      "창"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3143,7 +3335,13 @@
   "창밖_일반명사-1": {
     "id": "창밖_일반명사-1",
     "def_ko": "창문 바깥쪽",
-    "related_vocab": [],
+    "related_vocab": [
+      "창가",
+      "창문",
+      "가옥",
+      "객실",
+      "거처"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3757,7 +3955,13 @@
   "천하_일반명사-1": {
     "id": "천하_일반명사-1",
     "def_ko": "온 세상",
-    "related_vocab": [],
+    "related_vocab": [
+      "강",
+      "강물",
+      "개울",
+      "경치",
+      "계곡"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -3767,7 +3971,13 @@
   "철_일반명사-1": {
     "id": "철_일반명사-1",
     "def_ko": "딱딱하고 무거운 금속의 하나",
-    "related_vocab": [],
+    "related_vocab": [
+      "동",
+      "가죽",
+      "각지",
+      "게시판",
+      "고무"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4059,7 +4269,13 @@
   "청혼_일반명사-1": {
     "id": "청혼_일반명사-1",
     "def_ko": "결혼하기를 부탁함",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입",
+      "간섭",
+      "강요",
+      "강제",
+      "공경"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -4494,7 +4710,13 @@
   "추임새_일반명사-1": {
     "id": "추임새_일반명사-1",
     "def_ko": "창이나 장단에 맞추어 중간중간 넣는 소리나 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "춤",
+      "춤추다",
+      "군무",
+      "발레",
+      "추다"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5060,7 +5282,13 @@
   "충_일반명사-1": {
     "id": "충_일반명사-1",
     "def_ko": "벌레를 두루 이르는 말",
-    "related_vocab": [],
+    "related_vocab": [
+      "동식물",
+      "가축",
+      "강아지",
+      "개",
+      "거미"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5117,7 +5345,13 @@
   "충치_일반명사-1": {
     "id": "충치_일반명사-1",
     "def_ko": "이가 썩어 구멍이 난 병든 이",
-    "related_vocab": [],
+    "related_vocab": [
+      "암세포",
+      "간암",
+      "감기",
+      "감염",
+      "건강"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5212,7 +5446,13 @@
   "취하다_동사-2": {
     "id": "취하다_동사-2",
     "def_ko": "술기운 때문에 정신이 흐려진 상태가 되다",
-    "related_vocab": [],
+    "related_vocab": [
+      "낫다",
+      "죽다",
+      "마르다",
+      "멀미",
+      "죽음"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5222,7 +5462,13 @@
   "측면_일반명사-1": {
     "id": "측면_일반명사-1",
     "def_ko": "어떤 대상의 옆부분이나 다른 방향에서 본 면",
-    "related_vocab": [],
+    "related_vocab": [
+      "반대쪽",
+      "양식",
+      "형성",
+      "마크",
+      "밖"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5312,7 +5558,13 @@
   "치마_일반명사-1": {
     "id": "치마_일반명사-1",
     "def_ko": "허리부터 아래를 감싸 내려오는 옷",
-    "related_vocab": [],
+    "related_vocab": [
+      "거주",
+      "겉옷",
+      "구두",
+      "굽",
+      "귀가"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5364,7 +5616,13 @@
   "치어리더_일반명사-1": {
     "id": "치어리더_일반명사-1",
     "def_ko": "응원 동작과 춤으로 선수나 관중을 북돋우는 사람",
-    "related_vocab": [],
+    "related_vocab": [
+      "가입자",
+      "가해자",
+      "개인",
+      "거지",
+      "공범"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5496,7 +5754,13 @@
   "친정_일반명사-1": {
     "id": "친정_일반명사-1",
     "def_ko": "결혼한 여자가 태어나 자란 부모의 집",
-    "related_vocab": [],
+    "related_vocab": [
+      "가옥",
+      "객실",
+      "거처",
+      "건물",
+      "건설"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -5899,7 +6163,13 @@
   "캡슐_일반명사-1": {
     "id": "캡슐_일반명사-1",
     "def_ko": "속에 약이나 물건을 넣도록 만든 작은 껍질이나 통",
-    "related_vocab": [],
+    "related_vocab": [
+      "복제약",
+      "반창고",
+      "효능",
+      "감기약",
+      "두통약"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []

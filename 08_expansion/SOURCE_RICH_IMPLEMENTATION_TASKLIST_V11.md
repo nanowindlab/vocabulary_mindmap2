@@ -3,7 +3,7 @@
 > Version: `V11-ULTIMATE`
 > Date: `2026-03-14`
 > Owner: `Gemini Orchestrator (Manager)`
-> Status: `ACTIVE - Data Execution Phase`
+> Status: `ACTIVE - PM Runtime Recovery / Restart Ready`
 > Role: `Single Authoritative Tasklist / Todo`
 
 ---
@@ -16,6 +16,24 @@
 ---
 
 ## 2. 상세 태스크 및 체크리스트 (Tracks)
+
+### Current Recovery Program (Codex / Main PM)
+
+- [x] **M1: Yellow runtime consistency closure**
+    - [x] duplicate live input 원인과 rebuild 노출 경로를 분리했다.
+    - [x] local runtime canonical을 duplicate-free / count-consistent 상태로 복구했다.
+    - [x] rebuild duplicate guard를 코드에 추가했다.
+- [x] **M2: Batch-11 contract redefinition**
+    - [x] `Calendar Label Batch-11`을 `Yellow / Runtime Reclassification`으로 재분류했다.
+    - [x] active change surface와 sentinel/no-drift control set을 분리했다.
+- [x] **M3: runtime projection hardening**
+    - [x] `publish-only`를 relation overlay only로 다시 고정했다.
+    - [x] duplicate/mismatch/missing-live-id/hierarchy-drift preflight를 코드에 추가했다.
+- [x] **M4: batch portfolio reclassification**
+    - [x] pilot, Batch-14, Batch-11, Month Unit, Date Point를 현재 기준으로 재분류했다.
+- [x] **M5: coverage expansion restart gate definition**
+    - [x] restart-ready gate를 정의했다.
+    - [x] 현재 cycle evidence owner를 `08_expansion/pm_reports/20260315_PM_RUNTIME_RECOVERY_AND_RESTART_PLAN_V1.md`로 고정했다.
 
 ### Track 1. Integrated Planning (Planning Agent)
 

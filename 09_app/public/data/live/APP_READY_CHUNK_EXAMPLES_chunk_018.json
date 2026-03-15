@@ -1492,7 +1492,6 @@
       ],
       "related_vocab": [
         "늦다",
-        "늦다",
         "뒤",
         "미처",
         "이후"
@@ -6086,7 +6085,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "그지없다",
+        "무수히",
+        "무궁무진",
+        "수없이",
+        "실컷"
+      ],
       "phonetic_romanization": "mugeopda"
     },
     "무게_일반명사-1": {
@@ -7553,11 +7558,9 @@
         }
       ],
       "related_vocab": [
-        "나중",
+        "이후",
         "내후년",
-        "닥치다",
-        "당대",
-        "오늘날"
+        "올해"
       ],
       "phonetic_romanization": "mirae"
     },
@@ -8881,7 +8884,6 @@
         "이분법",
         "차이점",
         "우선",
-        "우선",
         "상대적"
       ],
       "phonetic_romanization": "banmyeon"
@@ -9604,8 +9606,6 @@
       ],
       "related_vocab": [
         "막",
-        "방금",
-        "아까",
         "아까",
         "이제"
       ],
@@ -9653,7 +9653,6 @@
       "related_vocab": [
         "금방",
         "방금",
-        "아까",
         "아까"
       ],
       "phonetic_romanization": "banggeum"
@@ -9858,7 +9857,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "강구",
+        "개발",
+        "개방",
+        "개선"
+      ],
       "phonetic_romanization": "bangeo"
     },
     "방지_일반명사-1": {
@@ -11127,7 +11132,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "검사",
+        "강구",
+        "개발",
+        "개방",
+        "개선"
+      ],
       "phonetic_romanization": "byeongyeong"
     },
     "변동_일반명사-1": {
@@ -12008,7 +12019,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "보충",
+        "깨닫다",
+        "끊기다",
+        "끊어지다",
+        "낳다"
+      ],
       "phonetic_romanization": "botaeda"
     },
     "보통_일반명사-1": {
@@ -12163,7 +12180,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "다시",
+        "고대",
+        "공휴일",
+        "과거",
+        "그날"
+      ],
       "phonetic_romanization": "bonrae"
     },
     "본성_일반명사-1": {
@@ -12257,7 +12280,11 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "이름",
+        "지칭",
+        "지시어"
+      ],
       "phonetic_romanization": "bonin"
     },
     "본질_일반명사-1": {
@@ -13801,7 +13828,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "아니면",
+        "간접",
+        "교체",
+        "걸림돌",
+        "교정"
+      ],
       "phonetic_romanization": ""
     },
     "비법_일반명사-1": {
@@ -14258,7 +14291,6 @@
       ],
       "related_vocab": [
         "무한히",
-        "모두",
         "모두",
         "온",
         "힘껏"
@@ -14734,7 +14766,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "sayongnyang"
     },
     "사유_일반명사-1": {
@@ -14874,7 +14912,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "실태",
+        "가능",
+        "가능성",
+        "가설",
+        "갈래"
+      ],
       "phonetic_romanization": "sai"
     },
     "사이사이_일반명사-1": {
@@ -15192,7 +15236,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "sakje"
     },
     "산물_일반명사-1": {
@@ -15490,7 +15540,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "넷",
+        "다섯",
+        "만",
+        "백",
+        "백만"
+      ],
       "phonetic_romanization": "samsi:bil"
     },
     "삼월_일반명사-1": {
@@ -15576,7 +15632,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "관계",
+        "계열",
+        "관련",
+        "구별",
+        "동"
+      ],
       "phonetic_romanization": "sanggwangwangye"
     },
     "상관없다_형용사-1": {
@@ -16170,7 +16232,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "가져가다",
+        "가져오다",
+        "가지다",
+        "가하다"
+      ],
       "phonetic_romanization": "sanghada"
     },
     "상황_일반명사-1": {
@@ -16538,10 +16606,9 @@
         }
       ],
       "related_vocab": [
+        "올해",
         "금년",
-        "내년",
-        "초기",
-        "초창기"
+        "연말"
       ],
       "phonetic_romanization": "saehae"
     },
@@ -16692,7 +16759,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고대",
+        "공휴일",
+        "과거",
+        "그날",
+        "그때"
+      ],
       "phonetic_romanization": "saengnyeonworil"
     },
     "생략_일반명사-1": {
@@ -18054,7 +18127,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "개발",
+        "개방",
+        "개선",
+        "개선책"
+      ],
       "phonetic_romanization": "seongjangse"
     },
     "세_관형사-1": {

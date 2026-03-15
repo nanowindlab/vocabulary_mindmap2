@@ -431,7 +431,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "병목",
+        "동",
+        "또는",
+        "말미암다",
+        "동문서답"
+      ],
       "phonetic_romanization": "ie"
     },
     "이외_일반명사-1": {
@@ -628,7 +634,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "곧",
+        "조기",
+        "곧바로",
+        "곧이어",
+        "금방"
+      ],
       "phonetic_romanization": "i-eukgo"
     },
     "이음_일반명사-1": {
@@ -784,7 +796,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "이제",
+        "곧바로",
+        "곧이어",
+        "막",
+        "바로"
+      ],
       "phonetic_romanization": "ije"
     },
     "이제야_일반부사-1": {
@@ -889,7 +907,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "미처",
+        "닥치다",
+        "임박",
+        "전",
+        "수시"
+      ],
       "phonetic_romanization": "ijjeum"
     },
     "이천_수사-1": {
@@ -945,7 +969,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "시점",
+        "다음날",
+        "이르다",
+        "그때",
+        "다음"
+      ],
       "phonetic_romanization": ""
     },
     "이틀_일반명사-1": {
@@ -1098,7 +1128,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가능",
+        "가능성",
+        "가설",
+        "갈래",
+        "걸림돌"
+      ],
       "phonetic_romanization": "ihae"
     },
     "이해관계_일반명사-1": {
@@ -1193,10 +1229,9 @@
         }
       ],
       "related_vocab": [
+        "미래",
         "내후년",
-        "뒤늦다",
-        "왕년",
-        "후"
+        "현재"
       ],
       "phonetic_romanization": "ihu"
     },
@@ -2325,11 +2360,9 @@
         }
       ],
       "related_vocab": [
-        "내달",
-        "어젯밤",
         "전년",
-        "지난",
-        "최근"
+        "올해",
+        "재작년"
       ],
       "phonetic_romanization": "jangnyeon"
     },
@@ -2854,7 +2887,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "가져가다",
+        "가져오다",
+        "가지다",
+        "가하다"
+      ],
       "phonetic_romanization": "jabda"
     },
     "잡아당기다_동사-1": {
@@ -3398,7 +3437,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "jaeryobi"
     },
     "재산_일반명사-1": {
@@ -3508,7 +3553,10 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "작년",
+        "전년"
+      ],
       "phonetic_romanization": ""
     },
     "재정_일반명사-1": {
@@ -3748,7 +3796,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "부르다",
+        "달다",
+        "시키다",
+        "경고",
+        "명"
+      ],
       "phonetic_romanization": "jeoreoda"
     },
     "저런_관형사-1": {
@@ -3796,7 +3850,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "저렇다",
+        "아무",
+        "경고",
+        "명",
+        "명칭"
+      ],
       "phonetic_romanization": "jeoreon"
     },
     "저렇다_형용사-1": {
@@ -3844,7 +3904,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "저런",
+        "경고",
+        "명",
+        "명칭",
+        "부르다"
+      ],
       "phonetic_romanization": "jeoreota"
     },
     "저리_일반부사-1": {
@@ -3856,7 +3922,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "안",
+        "뒤편",
+        "동방",
+        "가까이",
+        "가깝다"
+      ],
       "phonetic_romanization": ""
     },
     "저번_일반명사-1": {
@@ -4098,7 +4170,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "개방",
+        "계승",
+        "냉각",
+        "도입",
+        "마련"
+      ],
       "phonetic_romanization": "jeohae"
     },
     "적기_일반명사-1": {
@@ -4208,7 +4286,6 @@
       ],
       "related_vocab": [
         "고작",
-        "최소한",
         "최소한"
       ],
       "phonetic_romanization": ""
@@ -4303,7 +4380,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "수단",
+        "결과물",
+        "실존",
+        "실효",
+        "실제로"
+      ],
       "phonetic_romanization": "jeogyong"
     },
     "적잖이_일반부사-1": {
@@ -4389,7 +4472,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "jeokjeongnyang"
     },
     "적히다_동사-1": {
@@ -4463,7 +4552,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "지난",
+        "갑작스럽다",
+        "고대",
+        "곧",
+        "곧바로"
+      ],
       "phonetic_romanization": ""
     },
     "전_일반명사-1": {
@@ -4610,11 +4705,11 @@
         }
       ],
       "related_vocab": [
-        "그저께",
-        "그제",
-        "다음날",
         "어저께",
-        "어제"
+        "어젯밤",
+        "그날",
+        "그제",
+        "그저께"
       ],
       "phonetic_romanization": "jeonnal"
     },
@@ -4658,9 +4753,8 @@
         }
       ],
       "related_vocab": [
-        "어젯밤",
         "작년",
-        "지난"
+        "올해"
       ],
       "phonetic_romanization": "jeonnyeon"
     },
@@ -4902,7 +4996,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가능성",
+        "걸림돌",
+        "경우",
+        "계기",
+        "근원"
+      ],
       "phonetic_romanization": "jeonmang"
     },
     "전문_일반명사-2": {
@@ -5776,7 +5876,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "갑작스럽다",
+        "늦다",
+        "뒤늦다",
+        "밤늦다",
+        "고대"
+      ],
       "phonetic_romanization": "jeomtta"
     },
     "젊음_일반명사-1": {
@@ -5788,7 +5894,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고대",
+        "공휴일",
+        "과거",
+        "그날",
+        "그때"
+      ],
       "phonetic_romanization": ""
     },
     "점수_일반명사-1": {
@@ -6259,7 +6371,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가능",
+        "가능성",
+        "가설",
+        "갈래",
+        "걸림돌"
+      ],
       "phonetic_romanization": "jeongnip"
     },
     "정밀_일반명사-1": {
@@ -6397,7 +6515,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "결과",
+        "공통",
+        "공동",
+        "상징",
+        "공통점"
+      ],
       "phonetic_romanization": "jeongsang"
     },
     "정수_일반명사-2": {
@@ -7101,7 +7225,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가능",
+        "가능성",
+        "결과",
+        "경우",
+        "계기"
+      ],
       "phonetic_romanization": "jeyak"
     },
     "제외_일반명사-1": {
@@ -8402,8 +8532,7 @@
         "밤낮",
         "하루",
         "하룻밤",
-        "하루하루",
-        "종일"
+        "하루하루"
       ],
       "phonetic_romanization": "jongil"
     },
@@ -8596,7 +8725,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "과정",
+        "그동안",
+        "동안",
+        "때",
+        "명맥"
+      ],
       "phonetic_romanization": "jugi"
     },
     "주되다_동사-1": {
@@ -8689,7 +8824,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "좀처럼",
+        "간혹",
+        "거듭",
+        "그때그때",
+        "수시로"
+      ],
       "phonetic_romanization": "juro"
     },
     "주말_일반명사-1": {
@@ -10074,7 +10215,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가량",
+        "각종",
+        "감소",
+        "감축",
+        "갖가지"
+      ],
       "phonetic_romanization": "jeunggam"
     },
     "증거_일반명사-1": {
@@ -10367,11 +10514,9 @@
         }
       ],
       "related_vocab": [
-        "바로",
-        "오늘",
-        "오늘",
-        "이번",
-        "이제"
+        "현재",
+        "올해",
+        "최근"
       ],
       "phonetic_romanization": "jigeum"
     },
@@ -11406,7 +11551,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "꼭대기",
+        "밀도",
+        "전력",
+        "몽땅",
+        "재력"
+      ],
       "phonetic_romanization": "jindo"
     },
     "진입_일반명사-1": {
@@ -11761,7 +11912,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "공격",
+        "조치",
+        "강구",
+        "개발",
+        "개방"
+      ],
       "phonetic_romanization": ""
     },
     "짝_일반명사-1": {
@@ -12552,7 +12709,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가능",
+        "가능성",
+        "가설",
+        "갈래",
+        "걸림돌"
+      ],
       "phonetic_romanization": "chago"
     },
     "참고_일반명사-1": {
@@ -13300,7 +13463,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "가로막다",
+        "가져가다",
+        "가져오다",
+        "가지다",
+        "가하다"
+      ],
       "phonetic_romanization": "cheobakhida"
     },
     "처음_일반명사-1": {
@@ -14417,7 +14586,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "겹",
+        "금화",
+        "단위",
+        "자",
+        "각도"
+      ],
       "phonetic_romanization": "chosok"
     },
     "초저녁_일반명사-1": {
@@ -14429,7 +14604,13 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "고대",
+        "공휴일",
+        "과거",
+        "그날",
+        "그때"
+      ],
       "phonetic_romanization": ""
     },
     "초점_일반명사-1": {
@@ -14619,11 +14800,9 @@
         }
       ],
       "related_vocab": [
-        "어젯밤",
+        "현재",
         "작년",
-        "조만간",
-        "지난",
-        "최신"
+        "전년"
       ],
       "phonetic_romanization": "choegeun"
     },
@@ -14873,8 +15052,7 @@
         "최소",
         "최저",
         "적어도",
-        "제일",
-        "최소한"
+        "제일"
       ],
       "phonetic_romanization": "choesohan"
     },
@@ -15371,7 +15549,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "강구",
+        "맞이",
+        "개발",
+        "개방",
+        "개선"
+      ],
       "phonetic_romanization": "chujeok"
     },
     "추정_일반명사-1": {
@@ -15792,7 +15976,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "바꾸다",
+        "변조",
+        "전달",
+        "모방",
+        "전이"
+      ],
       "phonetic_romanization": "chungdang"
     },
     "충분조건_일반명사-1": {
@@ -17023,7 +17213,13 @@
           "category": "해요체"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "그날",
+        "고대",
+        "공휴일",
+        "과거",
+        "그때"
+      ],
       "phonetic_romanization": "toyo"
     },
     "토요일_일반명사-1": {

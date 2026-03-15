@@ -77,6 +77,79 @@ def load_core_pool() -> list[dict]:
     return items
 
 
+def summarize_duplicate_ids(items: list[dict]) -> dict[str, int]:
+    counts = Counter(item["id"] for item in items)
+    return {meaning_id: count for meaning_id, count in counts.items() if count > 1}
+
+
+def validate_runtime_projection_contract(
+    split_items: list[dict],
+    search_items: list[dict],
+    *,
+    overlay_ids: set[str] | None = None,
+    node_metadata: dict[str, dict] | None = None,
+    phase: str,
+) -> None:
+    split_counts = Counter(item["id"] for item in split_items)
+    search_counts = Counter(item["id"] for item in search_items)
+    duplicate_split = summarize_duplicate_ids(split_items)
+    duplicate_search = summarize_duplicate_ids(search_items)
+    mismatched_counts = sorted(
+        meaning_id
+        for meaning_id in set(split_counts) | set(search_counts)
+        if split_counts.get(meaning_id, 0) != search_counts.get(meaning_id, 0)
+    )
+
+    issues = []
+    if duplicate_split:
+        sample = dict(list(sorted(duplicate_split.items()))[:10])
+        issues.append(f"duplicate split ids={len(duplicate_split)} sample={sample}")
+    if duplicate_search:
+        sample = dict(list(sorted(duplicate_search.items()))[:10])
+        issues.append(f"duplicate search ids={len(duplicate_search)} sample={sample}")
+    if mismatched_counts:
+        issues.append(f"split/search count mismatch ids={len(mismatched_counts)} sample={mismatched_counts[:10]}")
+
+    if overlay_ids is not None:
+        split_id_set = set(split_counts)
+        missing_overlay = sorted(overlay_ids - split_id_set)
+        if missing_overlay:
+            issues.append(
+                "overlay ids missing from live runtime. "
+                "publish-only is relation overlay only and cannot admit new runtime ids. "
+                f"missing_count={len(missing_overlay)} sample={missing_overlay[:10]}"
+            )
+
+    if node_metadata:
+        split_by_id = {item["id"]: item for item in split_items}
+        hierarchy_mismatch = []
+        for meaning_id, meta in node_metadata.items():
+            live_item = split_by_id.get(meaning_id)
+            if not live_item:
+                continue
+            live_hier = live_item.get("hierarchy", {})
+            diffs = []
+            if meta.get("system") != live_hier.get("system"):
+                diffs.append(("system", meta.get("system"), live_hier.get("system")))
+            if meta.get("root") != live_hier.get("root"):
+                diffs.append(("root", meta.get("root"), live_hier.get("root")))
+            if meta.get("category") != live_hier.get("category"):
+                diffs.append(("category", meta.get("category"), live_hier.get("category")))
+            if diffs:
+                hierarchy_mismatch.append({"id": meaning_id, "diffs": diffs})
+        if hierarchy_mismatch:
+            issues.append(
+                "internal canonical node hierarchy differs from live runtime. "
+                "publish-only cannot be used for runtime reclassification. "
+                f"mismatch_count={len(hierarchy_mismatch)} sample={hierarchy_mismatch[:10]}"
+            )
+
+    if issues:
+        raise RuntimeError(
+            f"Runtime projection contract violation during {phase}: " + " | ".join(issues)
+        )
+
+
 def role_rank(role: str) -> int:
     precedence = {
         "sense_disambiguation": 0,
@@ -181,6 +254,14 @@ def build_projection_from_internal_canonical() -> dict | None:
         "cross_links_map": cross_links_map,
         "graph_status": payload.get("status"),
         "edge_count": len(edges),
+        "node_metadata": {
+            meaning_id: {
+                "system": node.get("system"),
+                "root": node.get("root"),
+                "category": node.get("category"),
+            }
+            for meaning_id, node in (nodes.items() if isinstance(nodes, dict) else [])
+        },
     }
 
 
@@ -641,11 +722,27 @@ def publish_from_saved_links() -> dict:
         overlay_ids = set(internal_projection["overlay_ids"])
         related_vocab_map = internal_projection["related_vocab_map"]
         cross_links_map = internal_projection["cross_links_map"]
+        node_metadata = internal_projection.get("node_metadata") or {}
 
         split_paths = [SITUATIONS, EXPRESSIONS, BASICS]
         split_items = []
+        split_payloads = {}
+        search_items = load_json(SEARCH)
         for path in split_paths:
             items = load_json(path)
+            split_payloads[path] = items
+            split_items.extend(items)
+        validate_runtime_projection_contract(
+            split_items,
+            search_items,
+            overlay_ids=overlay_ids,
+            node_metadata=node_metadata,
+            phase="publish-only preflight",
+        )
+
+        split_items = []
+        for path in split_paths:
+            items = split_payloads[path]
             for item in items:
                 if item["id"] in overlay_ids:
                     item["related_vocab"] = related_vocab_map.get(item["id"], [])
@@ -656,7 +753,6 @@ def publish_from_saved_links() -> dict:
             write_json(path, items)
 
         split_by_id = {item["id"]: item for item in split_items}
-        search_items = load_json(SEARCH)
         for item in search_items:
             if item["id"] in overlay_ids:
                 item["related_vocab"] = related_vocab_map.get(item["id"], [])
@@ -665,6 +761,13 @@ def publish_from_saved_links() -> dict:
                 item["refs"] = refs
                 if item["id"] in split_by_id:
                     item["chunk_id"] = split_by_id[item["id"]].get("chunk_id")
+        validate_runtime_projection_contract(
+            split_items,
+            search_items,
+            overlay_ids=overlay_ids,
+            node_metadata=node_metadata,
+            phase="publish-only postflight",
+        )
         write_json(SEARCH, search_items)
 
         summary = {

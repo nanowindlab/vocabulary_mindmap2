@@ -6,15 +6,48 @@
 > 
 > 📋 **실행 지침서**: [SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md (태스크리스트)](../08_expansion/SOURCE_RICH_IMPLEMENTATION_TASKLIST_V11.md)
 > 
-> 🔗 **워크보드 이동**: [기획 보드](./PLANNING_AGENT_WORKBOARD_V1.md) | [데이터 보드](./DATA_VALIDATION_AGENT_WORKBOARD_V1.md) | [리뷰 보드](./REVIEW_AGENT_WORKBOARD_V1.md) | [개발 보드](./DEVELOPMENT_AGENT_WORKBOARD_V1.md) | [그린배치-1 보드](./GREEN_BATCH_AGENT_1_WORKBOARD_V1.md) | [그린배치-2 보드](./GREEN_BATCH_AGENT_2_WORKBOARD_V1.md)
+> 📎 **현재 evidence owner**: [PM State Management Protocol](../08_expansion/PM_STATE_MANAGEMENT_PROTOCOL_V1.md) | [Current Milestone Report](../08_expansion/pm_reports/20260315_PM_RUNTIME_RECOVERY_AND_RESTART_PLAN_V1.md)
+> 
+> 📎 **다음 green 추천안**: [Next Green Batch Selection](../08_expansion/pm_reports/20260315_PM_NEXT_GREEN_BATCH_SELECTION_V1.md)
+> 
+> 📎 **dispatch package**: [Relative Year Batch Dispatch Package](../08_expansion/pm_reports/20260315_PM_RELATIVE_YEAR_BATCH_DISPATCH_PACKAGE_V1.md)
+> 
+> 📎 **execution report**: [Relative Year Batch Execution Report](../08_expansion/pm_reports/20260315_PM_RELATIVE_YEAR_BATCH_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **second execution report**: [Temporal Reference Batch Execution Report](../08_expansion/pm_reports/20260315_PM_TEMPORAL_REFERENCE_BATCH_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **third execution report**: [Past Day Reference Batch Execution Report](../08_expansion/pm_reports/20260315_PM_PAST_DAY_REFERENCE_BATCH_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **bulk time-point report**: [Time Point Bulk Batch-65 Execution Report](../08_expansion/pm_reports/20260315_PM_TIME_POINT_BULK_BATCH65_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **bulk time-root report**: [Time Root Bulk Remaining Batch-132 Execution Report](../08_expansion/pm_reports/20260315_PM_TIME_ROOT_BULK_REMAINING_BATCH132_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **full mirror report**: [Full Runtime Mirror Execution Report](../08_expansion/pm_reports/20260315_PM_FULL_RUNTIME_MIRROR_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **full node coverage report**: [Full Live Node Coverage Execution Report](../08_expansion/pm_reports/20260315_PM_FULL_LIVE_NODE_COVERAGE_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **zero relation generation report**: [Zero Relation Generation Execution Report](../08_expansion/pm_reports/20260315_PM_ZERO_RELATION_GENERATION_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **medical enrichment report**: [Medical Learner Journey Execution Report](../08_expansion/pm_reports/20260315_PM_MEDICAL_LEARNER_JOURNEY_EXECUTION_REPORT_V1.md)
+> 
+> 📎 **rollout status**: [Post-Restart Rollout Status](../08_expansion/pm_reports/20260315_PM_POST_RESTART_ROLLOUT_STATUS_V1.md)
 
-> **기본 프로토콜**: 사용자는 이 대시보드 한 문서만 기준으로 모니터링하고 지시한다. 각 에이전트는 대시보드에서 자신의 상태를 확인한 뒤 연결된 workboard로 내려가 상세 지시를 읽는다.
+> **기본 프로토콜**: 사용자는 이 대시보드 한 문서만 기준으로 모니터링하고 지시한다. 세부 근거와 milestone 산출물은 `08_expansion/pm_reports/`를 기준으로 읽는다.
 >
-> **현재 운영 재정렬**: `REV-74`는 버리는 기획이 아니라 현재 investigation의 planning baseline이다. `Calendar Continuity Batch-14`는 완료되었고, `Calendar Label Batch-11`은 comparison autopilot에서 runtime consistency 문제가 드러나 green 확대를 중단했다. 현재 우선순위는 `rebuild_rev23_detail_chunks.py`와 live tree 입력의 duplicate-id 경로를 추적하는 `Yellow runtime consistency investigation`이며, sequencing은 Codex/Main PM이 직접 주도한다.
+> **현재 운영 재정렬**: `REV-74`는 버리는 기획이 아니라 현재 restart gate의 planning baseline이다. `Calendar Continuity Batch-14`는 완료되었고, `Calendar Label Batch-11`은 `Yellow / Runtime Reclassification`으로 재분류되었다. Yellow closure와 runtime projection hardening은 완료되었으며, 승인 이후 current live parity와 non-control generation까지 닫혔고 `병원 -> 아프다` 축의 richer enrichment도 검증됐다. 다음 meaningful gate는 이 richer enrichment 패턴을 다른 domain으로 확장할지에 대한 사용자 승인이다. sequencing은 Codex/Main PM이 직접 주도한다.
 
 | 일시 | Agent | 지시 버전 | 지시완료 (Mgr) | 사용자 승인 | 지시접수 (Agent) | 작업 완료 (Agent) | 진행 상태 (Status) | 비고 (Verdict) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 03-15, 16:59:30 | 그린배치-2 | V1-REV-102 | ✅ (Manager) | `승인됨` | ✅ (17:42) | ✅ (17:42) | **REPORTED** | [GREEN-AUTOPILOT-COMPARISON] `Calendar Label Batch-11` comparison trial은 `AUTOPILOT_ABORTED_TO_YELLOW`. duplicate-id / sentinel drift가 드러나 next step은 green 확대가 아니라 runtime consistency investigation |
+| 03-15, 21:00:00 | Codex/PM | PM-MEDICAL-LEARNER-JOURNEY-V1 | ✅ (Manager) | `요청 전` | ✅ | ✅ | **REPORTED** | [RICHER-ENRICHMENT] `병원 -> 아프다`, `아프다 -> 병원/진료/약국` 등 medical learner journey jump runtime 반영 확인 |
+| 03-15, 21:26:46 | Codex/PM | PM-ZERO-RELATION-GENERATION-V1 | ✅ (Manager) | `요청 전` | ✅ (21:15) | ✅ (21:26) | **REPORTED** | [GENERATION-CLOSURE] non-control zero-relation rows `0` 달성. holdout `4`개만 intentional zero 상태 유지 |
+| 03-15, 21:14:01 | Codex/PM | PM-FULL-LIVE-NODE-COVERAGE-V1 | ✅ (Manager) | `요청 전` | ✅ (21:08) | ✅ (21:14) | **REPORTED** | [FULL-NODE-COVERAGE] current live node coverage `8094/8094` 달성. integrity 유지, 다음 승인 게이트는 zero-relation `422`개 생성 단계 |
+| 03-15, 21:07:45 | Codex/PM | PM-FULL-LIVE-RUNTIME-MIRROR-V1 | ✅ (Manager) | `요청 전` | ✅ (21:02) | ✅ (21:07) | **REPORTED** | [FULL-RUNTIME-MIRROR] full runtime relation mirror는 integrity를 유지했지만 duplicate-term dedupe로 `related_total -30` 정규화가 발생. 다음 승인 게이트 필요 |
+| 03-15, 21:01:53 | Codex/PM | PM-TIME-ROOT-BULK-REMAINING-132 | ✅ (Manager) | `요청 전` | ✅ (21:00) | ✅ (21:01) | **REPORTED** | [SAFE-COVERAGE-CLOSURE] `시간과 흐름` root의 remaining safe noun coverage bulk mirror 완료. global integrity `0 mismatch`, control drift `0` |
+| 03-15, 21:00:16 | Codex/PM | PM-TIME-POINT-BULK-65 | ✅ (Manager) | `요청 전` | ✅ (21:00) | ✅ (21:00) | **REPORTED** | [RESTART-GREEN-EXECUTION] `Time Point Bulk Batch-65` publish/rebuild/consistency check 통과. duplicate ids `0`, control drift `0` |
+| 03-15, 20:51:42 | Codex/PM | PM-PAST-DAY-REFERENCE-BATCH6 | ✅ (Manager) | `요청 전` | ✅ (20:49) | ✅ (20:51) | **REPORTED** | [RESTART-GREEN-EXECUTION] `Past Day Reference Batch-6` publish/rebuild/consistency check 통과. holdout/reserve/sentinel drift `0`, duplicate ids `0` |
+| 03-15, 20:38:52 | Codex/PM | PM-TEMPORAL-REFERENCE-BATCH8 | ✅ (Manager) | `요청 전` | ✅ (20:36) | ✅ (20:38) | **REPORTED** | [RESTART-GREEN-EXECUTION] `Temporal Reference Nouns Batch-8` publish/rebuild/consistency check 통과. holdout/reserve/sentinel drift `0`, duplicate ids `0` |
+| 03-15, 20:21:50 | Codex/PM | PM-RELATIVE-YEAR-BATCH6 | ✅ (Manager) | `요청 전` | ✅ (20:19) | ✅ (20:21) | **REPORTED** | [RESTART-GREEN-EXECUTION] `Relative Year Markers Batch-6` publish/rebuild/consistency check 통과. holdout/reserve/sentinel drift `0`, duplicate ids `0` |
+| 03-15, 16:59:30 | 그린배치-2 | V1-REV-102 | ✅ (Manager) | `승인됨` | ✅ (17:42) | ✅ (17:42) | **REPORTED** | [GREEN-AUTOPILOT-COMPARISON] `Calendar Label Batch-11` comparison trial은 `AUTOPILOT_ABORTED_TO_YELLOW`. 후속 Yellow closure 완료 후 batch는 `Runtime Reclassification`으로 재분류되었고, 현재 상태는 `restart-ready` |
 | 03-15, 15:19:11 | 그린배치-1 | V1-REV-101 | ✅ (Manager) | `승인됨` | ✅ (15:20) | ✅ (15:40) | **REPORTED** | [GREEN-AUTOPILOT-TRIAL] `Calendar Label Batch-11` 완료. 31 ids(SIT 23, EXP 1, BAS 7) projection 및 chunk 021 sync 성공. 정합성(8,123건) 일치 확인 |
 | 03-15, 14:28:49 | 기획 | V1-REV-100 | ✅ (Manager) | `승인됨` | ✅ (14:32) | ✅ (14:32) | **REPORTED** | [GREEN-BATCH-AUTOPILOT] autopilot model proposal 제출 완료. step chain, yellow 승격 조건, PM 개입 규칙, first rollout 권고 포함 |
 | 03-15, 14:06:24 | 데이터 | V1-REV-98 | ✅ (Manager) | `승인됨` | ✅ (14:10) | ✅ (14:10) | **REPORTED** | [LABEL-BATCH11-PROJECTION-GATE] projection gate package 보고 제출. 신규 20 edge preview 100% 커버, before snapshot 및 holdout/reserve/sentinel baseline 확보 |
