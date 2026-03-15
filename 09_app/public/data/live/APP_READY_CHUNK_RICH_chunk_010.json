@@ -2005,14 +2005,6 @@
           "target_root": "보건과 의료",
           "target_category": "의료 시설과 약국",
           "hook_id": "H04"
-        },
-        {
-          "target_id": "아프다_형용사-1",
-          "target_term": "아프다",
-          "target_system": "마음과 표현",
-          "target_root": "내면과 감정",
-          "target_category": "부정적 감정",
-          "hook_id": "MED-JOURNEY"
         }
       ]
     },

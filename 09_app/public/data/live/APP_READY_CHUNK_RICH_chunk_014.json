@@ -2359,14 +2359,6 @@
           "target_root": "보건과 의료",
           "target_category": "질병과 증상",
           "hook_id": "H02"
-        },
-        {
-          "target_id": "병원_일반명사-1",
-          "target_term": "병원",
-          "target_system": "상황과 장소",
-          "target_root": "보건과 의료",
-          "target_category": "의료 시설과 약국",
-          "hook_id": "MED-JOURNEY"
         }
       ]
     },
