@@ -1,6 +1,48 @@
 {
   "chunk_id": "chunk_016",
   "data": {
+    "좌절_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "그는 어려운 상황에서도 좌절하지 않았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "실패 때문에 좌절을 느꼈습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "꿈이 좌절되는 아픔을 겪는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "좌절을 딛고 다시 일어서자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "시험에 떨어져서 좌절을 경험했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "여러 번의 실패 끝에 결국 좌절했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "jwajeol"
+    },
     "좌절감_일반명사-1": {
       "attested_sentences": [
         {
@@ -17930,58 +17972,6 @@
         "잡히다"
       ],
       "phonetic_romanization": "gatchida"
-    },
-    "갈다_동사-1": {
-      "attested_sentences": [
-        {
-          "ko": "저는 이 낡은 전구를 새것으로 갈았습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "당신은 자동차의 타이어를 언제 갈 예정입니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "옷이 더러워졌으니 새 옷으로 갈아입어라.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "오래된 달력을 새 달력으로 갈아 놓자.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "저는 방의 분위기를 바꾸려고 커튼을 갈았어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "휴대전화 배터리를 갈았더니 사용 시간이 길어졌어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "전구를 갈다.",
-          "en": null,
-          "round": null,
-          "category": "국어사전"
-        }
-      ],
-      "related_vocab": [
-        "바꾸다",
-        "변조",
-        "변하다"
-      ],
-      "phonetic_romanization": "galda"
     }
   }
 }

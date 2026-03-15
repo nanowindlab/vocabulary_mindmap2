@@ -1,4 +1,20 @@
 {
+  "포기_일반명사-1": {
+    "id": "포기_일반명사-1",
+    "def_ko": "하던 일이나 권리를 더 이상 가지려 하지 않고 그만둠",
+    "related_vocab": [
+      "마치다",
+      "멈추다",
+      "모면",
+      "얼른",
+      "취소"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "pogi"
+  },
   "포착_일반명사-1": {
     "id": "포착_일반명사-1",
     "def_ko": "순간적인 기회나 장면을 잡아냄",
@@ -742,7 +758,9 @@
   "화요일_일반명사-1": {
     "id": "화요일_일반명사-1",
     "def_ko": "한 주의 둘째 날",
-    "related_vocab": [],
+    "related_vocab": [
+      "월요일"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": []
@@ -1255,5 +1273,15 @@
       "cross_links": []
     },
     "phonetic_romanization": "himkkeot"
+  },
+  "먼저_일반부사-1": {
+    "id": "먼저_일반부사-1",
+    "def_ko": "다른 것보다 앞서",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "meonjeo"
   }
 }

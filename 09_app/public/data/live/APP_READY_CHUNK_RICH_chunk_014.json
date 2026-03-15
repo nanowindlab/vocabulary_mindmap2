@@ -1,4 +1,19 @@
 {
+  "미끄럼_일반명사-1": {
+    "id": "미끄럼_일반명사-1",
+    "def_ko": "미끄러져 움직이는 일",
+    "related_vocab": [
+      "닿다",
+      "미끄러지다",
+      "미끄럽다",
+      "스르르"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "mikkeureom"
+  },
   "미끄럽다_형용사-1": {
     "id": "미끄럽다_형용사-1",
     "def_ko": "표면이 반들반들해 잘 미끄러지다",
@@ -5969,21 +5984,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "simhada"
-  },
-  "심화_일반명사-1": {
-    "id": "심화_일반명사-1",
-    "def_ko": "내용이 더 깊어지고 수준이 높아짐",
-    "related_vocab": [
-      "치열",
-      "경지",
-      "본격",
-      "상당하다",
-      "짧아지다"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "simhwa"
   }
 }

@@ -23,11 +23,13 @@
 4. **[운영 프로세스 가이드 (Rules)](./.gemini-orchestration/OPERATING_GUIDE_V1.md)**: 작업 시작/완료 시 대시보드 상태 변경 규칙 (DISPATCHED ➔ RUNNING ➔ REPORTED).
 5. **[워크보드 템플릿 및 로그 규칙](./.gemini-orchestration/WORKBOARD_TEMPLATE_V1.md)**: 사용자 승인 게이트와 append-only 보고 방식의 기준 문서.
 6. **[다음 Main PM handoff](./.gemini-orchestration/NEXT_MAIN_PM_HANDOFF_V1.md)**: 현재 상태(`REV-87` chunk rebuild gate까지) 기준 handoff 문서.
+7. **[배치용 에이전트 운영 모델](./.gemini-orchestration/BATCH_AGENT_OPERATING_MODEL_V1.md)**: batch type, exception gate, one-batch-one-rev 조건을 정의한 운영 문서.
 
-> 현재 상태 메모: `core 12 + holdout 4` pilot은 internal build, runtime projection, chunk rebuild gate까지 검증 완료되었습니다. 다음 큰 단계는 `coverage expansion build`입니다.
+> 현재 상태 메모: `Calendar Continuity Batch-14`는 internal build, runtime projection, chunk rebuild gate까지 한 배치로 완결되었습니다. `Calendar Label Batch-11`은 internal build와 projection gate까지는 통과했지만 comparison autopilot에서 runtime consistency 문제가 드러났습니다. 현재 우선순위는 green autopilot 확대가 아니라 Codex/Main PM 중심 `Yellow runtime consistency investigation`이며, `REV-74` 기획은 폐기 대상이 아니라 이 investigation의 planning baseline으로 유지합니다.
 
 > 기본 프로토콜: 사용자는 대시보드 한 문서만 보고 현재 상태를 모니터링하고 지시합니다. 에이전트는 대시보드에서 자기 workboard로 내려가 상세 지시를 읽습니다.
 > 운영 메모: 역할별 필수 스킬과 dashboard/workboard 제어 필드 소유권은 운영 가이드와 허브 문서를 기준으로 합니다.
+> 운영 메모: 현재 sequencing과 runtime consistency 복구는 Codex/Main PM이 직접 주도하며, multi-agent workboard는 증거/기록 용도로만 유지합니다.
 > 운영 메모: 모든 에이전트는 진단에서 멈추지 않고 기본적으로 해결안을 제시해야 합니다. 독자 결정이 어려우면 최대 3개 이내의 선택지를 제안합니다.
 
 ---

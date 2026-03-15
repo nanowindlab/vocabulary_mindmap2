@@ -1,8 +1,8 @@
 {
   "version": "V1",
-  "status": "core12_edge_package_draft",
+  "status": "calendar_label_batch11_draft",
   "schema_mode": "rich_internal_canonical",
-  "generated_at": "2026-03-15T00:21:00+0900",
+  "generated_at": "2026-03-15T13:14:30+0900",
   "authority": {
     "canonical_path": "09_app/public/data/internal/RELATION_GRAPH_CANONICAL_V1.json",
     "runtime_projection_mode": "thin_runtime",
@@ -266,6 +266,381 @@
       "pilot_group": "core12",
       "current_runtime": {
         "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "그제_일반명사-1": {
+      "id": "그제_일반명사-1",
+      "word": "그제",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_day",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "그저께_일반명사-1": {
+      "id": "그저께_일반명사-1",
+      "word": "그저께",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_day",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "다음날_일반명사-1": {
+      "id": "다음날_일반명사-1",
+      "word": "다음날",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_day",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "당일_일반명사-1": {
+      "id": "당일_일반명사-1",
+      "word": "당일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_day",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "새벽_일반명사-1": {
+      "id": "새벽_일반명사-1",
+      "word": "새벽",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_018",
+      "anchor_family": "day_part",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 1
+      }
+    },
+    "오전_일반명사-1": {
+      "id": "오전_일반명사-1",
+      "word": "오전",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "day_part",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "낮_일반명사-1": {
+      "id": "낮_일반명사-1",
+      "word": "낮",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_017",
+      "anchor_family": "day_part",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 1
+      }
+    },
+    "오후_일반명사-1": {
+      "id": "오후_일반명사-1",
+      "word": "오후",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "day_part",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "화요일_일반명사-1": {
+      "id": "화요일_일반명사-1",
+      "word": "화요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_021",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 0,
+        "cross_links_count": 0
+      }
+    },
+    "수요일_일반명사-1": {
+      "id": "수요일_일반명사-1",
+      "word": "수요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "목요일_일반명사-1": {
+      "id": "목요일_일반명사-1",
+      "word": "목요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_018",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "토요일_일반명사-1": {
+      "id": "토요일_일반명사-1",
+      "word": "토요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_020",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 1,
+        "cross_links_count": 1
+      }
+    },
+    "주중_일반명사-1": {
+      "id": "주중_일반명사-1",
+      "word": "주중",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_020",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "평일_일반명사-1": {
+      "id": "평일_일반명사-1",
+      "word": "평일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_020",
+      "anchor_family": "week_frame",
+      "pilot_group": "calendar_continuity_batch14",
+      "current_runtime": {
+        "related_vocab_count": 2,
+        "cross_links_count": 0
+      }
+    },
+    "날짜_일반명사-1": {
+      "id": "날짜_일반명사-1",
+      "word": "날짜",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "calendar_reference",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "달력_일반명사-1": {
+      "id": "달력_일반명사-1",
+      "word": "달력",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_017",
+      "anchor_family": "calendar_reference",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "요일_일반명사-1": {
+      "id": "요일_일반명사-1",
+      "word": "요일",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "calendar_reference",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 4,
+        "cross_links_count": 0
+      }
+    },
+    "월_일반명사-1": {
+      "id": "월_일반명사-1",
+      "word": "월",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "calendar_reference",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "연도_일반명사-1": {
+      "id": "연도_일반명사-1",
+      "word": "연도",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "calendar_reference",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "금년_일반명사-1": {
+      "id": "금년_일반명사-1",
+      "word": "금년",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_period_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "내년_일반명사-1": {
+      "id": "내년_일반명사-1",
+      "word": "내년",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_period_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "이달_일반명사-1": {
+      "id": "이달_일반명사-1",
+      "word": "이달",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시간 단위",
+      "chunk_id": "chunk_019",
+      "anchor_family": "relative_period_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 2,
+        "cross_links_count": 0
+      }
+    },
+    "내달_일반명사-1": {
+      "id": "내달_일반명사-1",
+      "word": "내달",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_017",
+      "anchor_family": "relative_period_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 5,
+        "cross_links_count": 0
+      }
+    },
+    "연말_일반명사-1": {
+      "id": "연말_일반명사-1",
+      "word": "연말",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시점",
+      "chunk_id": "chunk_019",
+      "anchor_family": "period_boundary_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 2,
+        "cross_links_count": 0
+      }
+    },
+    "월말_일반명사-1": {
+      "id": "월말_일반명사-1",
+      "word": "월말",
+      "pos": "일반명사",
+      "system": "구조와 기초",
+      "root": "시간과 흐름",
+      "category": "시작과 끝",
+      "chunk_id": "chunk_019",
+      "anchor_family": "period_boundary_marker",
+      "pilot_group": "calendar_label_batch11",
+      "current_runtime": {
+        "related_vocab_count": 1,
         "cross_links_count": 0
       }
     },
@@ -730,6 +1105,1206 @@
         "basis": "internal_core12_extension_draft",
         "revision": "V1-REV-83"
       }
+    },
+    {
+      "edge_id": "pilot_edge_017",
+      "source_id": "그제_일반명사-1",
+      "target_id": "어제_일반명사-1",
+      "target_term": "어제",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps two-days-ago adjacent to yesterday within noun-only day references",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_018",
+      "source_id": "어제_일반명사-1",
+      "target_id": "그제_일반명사-1",
+      "target_term": "그제",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps yesterday reciprocal with two-days-ago within the same noun anchor family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_019",
+      "source_id": "그저께_일반명사-1",
+      "target_id": "어제_일반명사-1",
+      "target_term": "어제",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps alternate two-days-ago wording adjacent to yesterday without opening holdout surfaces",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_020",
+      "source_id": "어제_일반명사-1",
+      "target_id": "그저께_일반명사-1",
+      "target_term": "그저께",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps yesterday reciprocal with alternate two-days-ago wording inside the relative-day family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_021",
+      "source_id": "다음날_일반명사-1",
+      "target_id": "내일_일반명사-1",
+      "target_term": "내일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset maps the next-day label to tomorrow as the stable noun anchor",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_022",
+      "source_id": "내일_일반명사-1",
+      "target_id": "다음날_일반명사-1",
+      "target_term": "다음날",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps tomorrow reciprocal with the next-day label in the same noun family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_023",
+      "source_id": "당일_일반명사-1",
+      "target_id": "오늘_일반명사-1",
+      "target_term": "오늘",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps same-day reference aligned to today as the core noun anchor",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_024",
+      "source_id": "오늘_일반명사-1",
+      "target_id": "당일_일반명사-1",
+      "target_term": "당일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "today-centered relative offset keeps today reciprocal with same-day reference inside the relative-day family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_025",
+      "source_id": "새벽_일반명사-1",
+      "target_id": "아침_일반명사-1",
+      "target_term": "아침",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps dawn adjacent to morning as the next noun anchor in the day-part family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_026",
+      "source_id": "아침_일반명사-1",
+      "target_id": "새벽_일반명사-1",
+      "target_term": "새벽",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps morning reciprocal with dawn inside the noun-only day-part family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_027",
+      "source_id": "오전_일반명사-1",
+      "target_id": "아침_일반명사-1",
+      "target_term": "아침",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps the morning-before-noon frame anchored to morning as a stable noun reference",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_028",
+      "source_id": "아침_일반명사-1",
+      "target_id": "오전_일반명사-1",
+      "target_term": "오전",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps morning reciprocal with the before-noon frame in the same day-part family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_029",
+      "source_id": "낮_일반명사-1",
+      "target_id": "밤_일반명사-1",
+      "target_term": "밤",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition uses daytime-night contrast as a stable noun-only boundary pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_030",
+      "source_id": "밤_일반명사-1",
+      "target_id": "낮_일반명사-1",
+      "target_term": "낮",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps night reciprocal with daytime inside the same noun boundary pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_031",
+      "source_id": "오후_일반명사-1",
+      "target_id": "저녁_일반명사-1",
+      "target_term": "저녁",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps afternoon adjacent to evening without opening the dinner holdout sense",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_032",
+      "source_id": "저녁_일반명사-1",
+      "target_id": "오후_일반명사-1",
+      "target_term": "오후",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "within-day sequence / boundary transition keeps evening reciprocal with afternoon inside the noun-only day-part family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_033",
+      "source_id": "화요일_일반명사-1",
+      "target_id": "월요일_일반명사-1",
+      "target_term": "월요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Tuesday adjacent to Monday as neighboring weekday anchors",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_034",
+      "source_id": "월요일_일반명사-1",
+      "target_id": "화요일_일반명사-1",
+      "target_term": "화요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Monday reciprocal with Tuesday inside the weekday frame",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_035",
+      "source_id": "수요일_일반명사-1",
+      "target_id": "금요일_일반명사-1",
+      "target_term": "금요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Wednesday adjacent to Friday as part of the bounded workweek frame",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_036",
+      "source_id": "금요일_일반명사-1",
+      "target_id": "수요일_일반명사-1",
+      "target_term": "수요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Friday reciprocal with Wednesday inside the weekday frame",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_037",
+      "source_id": "목요일_일반명사-1",
+      "target_id": "금요일_일반명사-1",
+      "target_term": "금요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation bridges Thursday to Friday across the current category boundary without leaving the calendar family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_038",
+      "source_id": "금요일_일반명사-1",
+      "target_id": "목요일_일반명사-1",
+      "target_term": "목요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Friday reciprocal with Thursday across the same bounded calendar family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_039",
+      "source_id": "토요일_일반명사-1",
+      "target_id": "금요일_일반명사-1",
+      "target_term": "금요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation uses Saturday-Friday as the direct weekday-weekend boundary pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_040",
+      "source_id": "금요일_일반명사-1",
+      "target_id": "토요일_일반명사-1",
+      "target_term": "토요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps Friday reciprocal with Saturday as the weekend boundary pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_041",
+      "source_id": "주중_일반명사-1",
+      "target_id": "평일_일반명사-1",
+      "target_term": "평일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps midweek adjacent to weekday as the stable workweek grouping pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_042",
+      "source_id": "평일_일반명사-1",
+      "target_id": "주중_일반명사-1",
+      "target_term": "주중",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps weekday reciprocal with midweek as the same workweek grouping pair",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_043",
+      "source_id": "평일_일반명사-1",
+      "target_id": "주말_일반명사-1",
+      "target_term": "주말",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation uses weekday-weekend as the primary segmentation contrast in the calendar family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_044",
+      "source_id": "주말_일반명사-1",
+      "target_id": "평일_일반명사-1",
+      "target_term": "평일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "contrast_lite",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "weekly schedule progression / weekday-weekend segmentation keeps weekend reciprocal with weekday as the same segmentation contrast",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_continuity_batch14",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_continuity_family_build",
+        "revision": "V1-REV-89"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_045",
+      "source_id": "날짜_일반명사-1",
+      "target_id": "달력_일반명사-1",
+      "target_term": "달력",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps date labels connected to the calendar artifact that organizes them",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_046",
+      "source_id": "달력_일반명사-1",
+      "target_id": "날짜_일반명사-1",
+      "target_term": "날짜",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps the calendar artifact reciprocal with date labels across the current category boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_047",
+      "source_id": "달력_일반명사-1",
+      "target_id": "요일_일반명사-1",
+      "target_term": "요일",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps calendar and weekday labels adjacent inside the same calendar labeling family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_048",
+      "source_id": "요일_일반명사-1",
+      "target_id": "달력_일반명사-1",
+      "target_term": "달력",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps weekday labels reciprocal with the calendar artifact in the same labeling family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_049",
+      "source_id": "달력_일반명사-1",
+      "target_id": "월_일반명사-1",
+      "target_term": "월",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps calendar and month labels adjacent within the same calendar reference family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_050",
+      "source_id": "월_일반명사-1",
+      "target_id": "달력_일반명사-1",
+      "target_term": "달력",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps month labels reciprocal with the calendar artifact inside the same family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_051",
+      "source_id": "연도_일반명사-1",
+      "target_id": "금년_일반명사-1",
+      "target_term": "금년",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps the year label connected to the current-year named period across the current category boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_052",
+      "source_id": "금년_일반명사-1",
+      "target_id": "연도_일반명사-1",
+      "target_term": "연도",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "named calendar offset navigation keeps current-year naming reciprocal with the year label across the same bounded calendar cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_053",
+      "source_id": "금년_일반명사-1",
+      "target_id": "내년_일반명사-1",
+      "target_term": "내년",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps current-year and next-year labels adjacent as stable relative period markers",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_054",
+      "source_id": "내년_일반명사-1",
+      "target_id": "금년_일반명사-1",
+      "target_term": "금년",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps next-year naming reciprocal with current-year naming inside the same period marker family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_055",
+      "source_id": "연도_일반명사-1",
+      "target_id": "내년_일반명사-1",
+      "target_term": "내년",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps the year label connected to next-year naming across the current category boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_056",
+      "source_id": "내년_일반명사-1",
+      "target_id": "연도_일반명사-1",
+      "target_term": "연도",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "named calendar offset navigation keeps next-year naming reciprocal with the year label across the same calendar cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_057",
+      "source_id": "이달_일반명사-1",
+      "target_id": "월_일반명사-1",
+      "target_term": "월",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "named calendar offset navigation keeps this-month naming attached to the month label inside the same calendar month cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_058",
+      "source_id": "월_일반명사-1",
+      "target_id": "이달_일반명사-1",
+      "target_term": "이달",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "schedule_anchor_bridge",
+      "reason": "calendar system reference / labeling keeps the month label reciprocal with this-month naming inside the same month label family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_059",
+      "source_id": "내달_일반명사-1",
+      "target_id": "이달_일반명사-1",
+      "target_term": "이달",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps next-month naming connected to this-month naming across the current category boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_060",
+      "source_id": "이달_일반명사-1",
+      "target_id": "내달_일반명사-1",
+      "target_term": "내달",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps this-month naming reciprocal with next-month naming across the same bounded month cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_061",
+      "source_id": "연말_일반명사-1",
+      "target_id": "금년_일반명사-1",
+      "target_term": "금년",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "calendar boundary marker keeps year-end attached to the current-year label inside the same year-boundary family",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_062",
+      "source_id": "금년_일반명사-1",
+      "target_id": "연말_일반명사-1",
+      "target_term": "연말",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시점",
+      "display_intent": "related_vocab",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps the current-year label reciprocal with year-end inside the same bounded year marker cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_063",
+      "source_id": "월말_일반명사-1",
+      "target_id": "이달_일반명사-1",
+      "target_term": "이달",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시간 단위",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "calendar boundary marker keeps month-end connected to the current-month label across the current category boundary",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
+    },
+    {
+      "edge_id": "pilot_edge_064",
+      "source_id": "이달_일반명사-1",
+      "target_id": "월말_일반명사-1",
+      "target_term": "월말",
+      "target_system": "구조와 기초",
+      "target_root": "시간과 흐름",
+      "target_category": "시작과 끝",
+      "display_intent": "cross_links",
+      "relation_role": "scope_expand",
+      "jump_purpose": "time_sequence_navigation",
+      "reason": "named calendar offset navigation keeps this-month labeling reciprocal with month-end across the bounded month marker cluster",
+      "hook_id": "DRAFT-REL",
+      "scope": "calendar_label_batch11",
+      "constraints": {
+        "runtime_safe": true,
+        "draft_only": true,
+        "holdout": false
+      },
+      "provenance": {
+        "source": "APP_READY_SEARCH_INDEX.json",
+        "basis": "calendar_label_family_build",
+        "revision": "V1-REV-96"
+      }
     }
   ],
   "dry_run_reserve": {
@@ -738,6 +2313,14 @@
       "confirm holdout4 count = 4",
       "confirm populated edges are runtime-safe word_to_word only",
       "confirm holdout nodes have no draft edges in REV85",
+      "confirm calendar_continuity_batch14 adds exactly 14 nodes and 28 edges before any projection gate opens",
+      "confirm reserve queue remains untouched during REV89 internal build",
+      "confirm calendar_label_batch11 adds exactly 11 nodes and 20 edges before any projection gate opens",
+      "confirm holdout / reserve / sentinel remain unchanged during REV96 internal build",
+      "confirm pilot_edge_045 through pilot_edge_064 all have expected runtime bucket coverage before any publish gate opens",
+      "confirm Batch-11 holdout / reserve / sentinel baselines are recorded before runtime projection",
+      "confirm pilot_edge_017 through pilot_edge_044 all have expected runtime bucket coverage before any publish gate opens",
+      "confirm holdout / reserve / sentinel baselines are recorded before Batch-14 runtime projection",
       "confirm projection preview is generated from internal canonical only",
       "confirm before snapshot evidence is recorded before any publish gate opens",
       "confirm holdout4 expected projection buckets remain related_vocab=0 and cross_links=0"
@@ -806,6 +2389,198 @@
       {
         "edge_id": "pilot_edge_016",
         "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_017",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_018",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_019",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_020",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_021",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_022",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_023",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_024",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_025",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_026",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_027",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_028",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_029",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_030",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_031",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_032",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_033",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_034",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_035",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_036",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_037",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_038",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_039",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_040",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_041",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_042",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_043",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_044",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_045",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_046",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_047",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_048",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_049",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_050",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_051",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_052",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_053",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_054",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_055",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_056",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_057",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_058",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_059",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_060",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_061",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_062",
+        "expected_runtime_bucket": "related_vocab"
+      },
+      {
+        "edge_id": "pilot_edge_063",
+        "expected_runtime_bucket": "cross_links"
+      },
+      {
+        "edge_id": "pilot_edge_064",
+        "expected_runtime_bucket": "cross_links"
       }
     ],
     "gate_evidence": [
@@ -814,6 +2589,12 @@
       "projection preview expanded to cover pilot_edge_001 through pilot_edge_016",
       "holdout4 projection expectation remains related_vocab=0 and cross_links=0",
       "before snapshot evidence for core12 and holdout4 captured from current live search index",
+      "calendar_continuity_batch14 internal build added 14 nodes and 28 reciprocal edges without touching holdout or reserve queues",
+      "calendar_continuity_batch14 projection preview expanded to cover pilot_edge_017 through pilot_edge_044",
+      "holdout baseline, reserve baseline, and non-target sentinel baseline captured before runtime projection",
+      "calendar_label_batch11 internal build added 11 nodes and 20 reciprocal edges without touching holdout or reserve queues",
+      "calendar_label_batch11 projection preview expanded to cover pilot_edge_045 through pilot_edge_064",
+      "Batch-11 holdout / reserve / sentinel baselines captured before runtime projection",
       "publish-only / chunk rebuild / live overwrite remained unexecuted"
     ]
   }

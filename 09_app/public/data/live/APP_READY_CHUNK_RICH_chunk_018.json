@@ -1,4 +1,28 @@
 {
+  "동_일반명사-1": {
+    "id": "동_일반명사-1",
+    "def_ko": "해가 뜨는 쪽 방향",
+    "related_vocab": [
+      "동방",
+      "동부",
+      "뒤쪽",
+      "옆"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": [
+        {
+          "target_id": "동쪽_일반명사-1",
+          "target_term": "동쪽",
+          "target_system": "상황과 장소",
+          "target_root": "교통",
+          "target_category": "길 찾기와 방향 탐색",
+          "hook_id": "H15"
+        }
+      ]
+    },
+    "phonetic_romanization": "dong"
+  },
   "동_일반명사-2": {
     "id": "동_일반명사-2",
     "def_ko": "서로 같음 또는 같은 부류임",
@@ -2057,15 +2081,19 @@
   "목요일_일반명사-1": {
     "id": "목요일_일반명사-1",
     "def_ko": "주중 넷째 요일",
-    "related_vocab": [
-      "그날",
-      "날",
-      "날짜",
-      "다음날"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "금요일_일반명사-1",
+          "target_term": "금요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "mogyoil"
   },
@@ -3302,7 +3330,9 @@
   "밤_일반명사-1": {
     "id": "밤_일반명사-1",
     "def_ko": "해가 지고 어두워진 때부터 새벽까지의 시간",
-    "related_vocab": [],
+    "related_vocab": [
+      "낮"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
@@ -5671,23 +5701,11 @@
     "id": "새벽_일반명사-1",
     "def_ko": "해가 막 떠오르기 전 이른 시간",
     "related_vocab": [
-      "심야",
-      "아침",
-      "오전",
-      "저녁"
+      "아침"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": [
-        {
-          "target_id": "밤_일반명사-1",
-          "target_term": "밤",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시간 단위",
-          "hook_id": "H04"
-        }
-      ]
+      "cross_links": []
     },
     "phonetic_romanization": "saebyeok"
   },
@@ -6346,20 +6364,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "soryang"
-  },
-  "소모_일반명사-1": {
-    "id": "소모_일반명사-1",
-    "def_ko": "쓰는 동안 점점 줄어들거나 없어짐",
-    "related_vocab": [
-      "늘어나다",
-      "생산량",
-      "소진",
-      "손실"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "somo"
   }
 }

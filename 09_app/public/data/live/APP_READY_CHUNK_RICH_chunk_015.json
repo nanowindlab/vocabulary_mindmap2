@@ -1,4 +1,20 @@
 {
+  "심화_일반명사-1": {
+    "id": "심화_일반명사-1",
+    "def_ko": "내용이 더 깊어지고 수준이 높아짐",
+    "related_vocab": [
+      "치열",
+      "경지",
+      "본격",
+      "상당하다",
+      "짧아지다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "simhwa"
+  },
   "십상_일반명사-1": {
     "id": "십상_일반명사-1",
     "def_ko": "대개 그러하기 쉬운 형편이나 모습",
@@ -5703,15 +5719,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "joahada"
-  },
-  "좌절_일반명사-1": {
-    "id": "좌절_일반명사-1",
-    "def_ko": "계획이나 희망이 중간에 무너짐",
-    "related_vocab": [],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "jwajeol"
   }
 }

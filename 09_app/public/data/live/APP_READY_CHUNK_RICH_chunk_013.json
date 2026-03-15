@@ -1,4 +1,19 @@
 {
+  "깊숙이_일반부사-1": {
+    "id": "깊숙이_일반부사-1",
+    "def_ko": "안쪽으로 깊게",
+    "related_vocab": [
+      "얕다",
+      "깊어지다",
+      "심층",
+      "휑하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "gipsugi"
+  },
   "깊어지다_동사-1": {
     "id": "깊어지다_동사-1",
     "def_ko": "깊게 되다",
@@ -6232,20 +6247,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "mikkeureojida"
-  },
-  "미끄럼_일반명사-1": {
-    "id": "미끄럼_일반명사-1",
-    "def_ko": "미끄러져 움직이는 일",
-    "related_vocab": [
-      "닿다",
-      "미끄러지다",
-      "미끄럽다",
-      "스르르"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "mikkeureom"
   }
 }

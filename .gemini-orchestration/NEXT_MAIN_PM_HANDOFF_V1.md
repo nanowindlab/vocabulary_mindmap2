@@ -1,7 +1,7 @@
 # Next Main PM Handoff V1
 
 > Purpose: 다음 Main PM이 현재 프로젝트 상태를 빠르게 이어받기 위한 handoff
-> Scope: `V1-REV-87` chunk rebuild gate 보고 제출까지 반영된 상태
+> Scope: `V1-REV-102` comparison autopilot abort와 post-abort baseline/runtime consistency repair까지 반영된 상태
 > Date: `2026-03-15`
 
 ## 1. 먼저 읽을 문서
@@ -18,6 +18,7 @@
 - workboard는 snapshot
 - append-only 로그가 실제 receipt/report evidence
 - 최종 승인(`ACCEPT`, `DONE`, 배포)은 사용자 승인 필요
+- 현재 investigation phase의 sequencing과 runtime consistency 복구는 Codex/Main PM이 직접 주도하고, multi-agent workboard는 증거/기록 용도로 유지
 
 ## 3. 현재까지 완료된 핵심 흐름
 
@@ -36,8 +37,204 @@
 - `V1-REV-85`: projection gate package 보고 제출 완료
 - `V1-REV-86`: pilot runtime projection 보고 제출 완료
 - `V1-REV-87`: chunk rebuild gate 보고 제출 완료
+- `V1-REV-88`: coverage expansion build planning 보고 제출 완료
+- `V1-REV-89`: `Calendar Continuity Batch-14` data build 보고 제출 완료
+- `V1-REV-90`: `Calendar Continuity Batch-14` internal acceptance review 보고 제출 완료, verdict `ACCEPT`
+- `V1-REV-91`: Batch-14 projection gate package 보고 제출 완료
+- `V1-REV-92`: Batch-14 runtime projection gate 보고 제출 완료
+- `V1-REV-93`: Batch-14 chunk rebuild gate 보고 제출 완료
+- `V1-REV-94`: batch-agent operating model planning 보고 제출 완료
+- `V1-REV-95`: next green batch selection planning 보고 제출 완료
+- `V1-REV-96`: `Calendar Label Batch-11` data build 보고 제출 완료
+- `V1-REV-97`: `Calendar Label Batch-11` internal acceptance review 보고 제출 완료, verdict `ACCEPT`
+- `V1-REV-98`: Calendar Label Batch-11 projection gate package dispatch 완료
+- `V1-REV-100`: Green Batch Autopilot design 보고 제출 완료
+- `V1-REV-101`: Green Batch Agent first trial dispatch 완료
+- `V1-REV-102`: `Calendar Label Batch-11` comparison autopilot rerun 결과 `AUTOPILOT_ABORTED_TO_YELLOW`; duplicate-id / sentinel drift 이슈 노출
+- post-`REV-102`: live split/search duplicate-id `29`건이 runtime projection/replace 단계에서 유입된 것으로 확인했고, local baseline/runtime consistency를 `8094` unique ids 기준으로 복구함
+- post-`REV-102`: `scripts/core/rebuild_rev23_detail_chunks.py`는 duplicate live input을 조기 실패시키도록 hard-fail guard를 추가함
 
-## 4. 현재 활성 revision
+## 4. 현재 활성 초점
+
+- `Yellow runtime consistency investigation`
+  - Owner: Codex / Main PM
+  - Status: `IN_PROGRESS`
+  - Purpose:
+    - `Calendar Label Batch-11` comparison abort 이후 duplicate-id 생성 경로와 sentinel control 해석 문제를 정리
+    - green autopilot 확대 전에 baseline/runtime 정합성을 다시 고정
+  - Verified so far:
+    - live split/search current unique ids는 `8094`
+    - true new ids는 `자료_일반명사-1`, `먼저_일반부사-1` 2건뿐임
+    - overlapping `29` ids는 기존 live node와 재분류본이 중복 append된 상태였음
+    - `rebuild_rev23_detail_chunks.py`는 duplicate input을 생성하지 않았지만, duplicated live tree를 읽어 chunk dict key overwrite로 manifest/search mismatch를 유발할 수 있었음
+  - Next:
+    - runtime projection/replace 단계에서 왜 batch core `31`개를 전부 live append했는지 경로를 특정
+    - sentinel `요일_일반명사-1`를 no-drift control set에 둔 판단이 맞는지 재분류
+
+- `V1-REV-98`
+  - Agent: 데이터
+  - Status: `DISPATCHED`
+  - Purpose:
+    - Calendar Label Batch-11 projection gate package를 닫고 runtime projection 직전 evidence를 완성
+    - 신규 20 edge preview coverage, before snapshot, holdout/reserve/sentinel baseline을 한 번에 정리
+  - Guard:
+    - `publish` 금지
+    - `chunk rebuild` 금지
+    - holdout / reserve unchanged
+    - 새 relation semantics 금지
+
+- `V1-REV-97`
+  - Agent: 리뷰
+  - Status: `REPORTED`
+  - Purpose:
+    - `Calendar Label Batch-11` internal build package-level acceptance review
+    - verified / residual risk / next projection gate condition 판단
+  - Result:
+    - verdict `ACCEPT`
+    - residual risk는 신규 20 edge preview 미갱신
+    - next step은 runtime projection 직행이 아니라 projection gate package
+  - Guard:
+    - 새 relation semantics 금지
+    - batch 재기획 금지
+    - checklist-only review 금지
+
+- `V1-REV-96`
+  - Agent: 데이터
+  - Status: `REPORTED`
+  - Purpose:
+    - `Calendar Label Batch-11`를 next green batch로 internal canonical에 구축
+    - validated contract를 재사용하는 one-batch-one-rev 후보로 집행
+  - Result:
+    - nodes `30 -> 41`, edges `44 -> 64`
+    - holdout / reserve invariant 유지
+    - family template mismatch `0`, duplicate / reciprocal / required field 문제 `0`
+  - Guard:
+    - `publish` 금지
+    - `chunk rebuild` 금지
+    - reserve / yellow candidate touch 금지
+    - 새 relation semantics 금지
+
+- `V1-REV-95`
+  - Agent: 기획
+  - Status: `REPORTED`
+  - Purpose:
+    - 운영 모델을 실제 다음 batch 선정에 적용
+    - Type/Gate 기준으로 next green batch를 고르고 바로 dispatch outline까지 정리
+  - Result:
+    - `Calendar Label Batch-11`
+    - `Type A + Green`
+    - month/date-point는 yellow 유지
+  - Guard:
+    - 새 relation semantics 금지
+    - validated contract 재개방 금지
+    - 후보 나열로 끝내지 말 것
+
+- `V1-REV-94`
+  - Agent: 기획
+  - Status: `REPORTED`
+  - Purpose:
+    - batch type + exception-based gate 모델을 운영 규칙 수준으로 설계
+    - one-batch-one-rev 가능 조건과 skill map을 정리
+  - Result:
+    - `Type A/B/C`
+    - `Green/Yellow/Red`
+    - one-batch-one-rev 조건
+    - PM sequencing simplification
+  - Guard:
+    - 새 relation semantics 금지
+    - validated contract 재개방 금지
+    - 아이디어 나열로 끝내지 말 것
+
+- `V1-REV-93`
+  - Agent: 데이터
+  - Status: `REPORTED`
+  - Purpose:
+    - Batch-14 chunk rebuild gate를 닫고 search/tree/chunk 정합성을 확인
+  - Result:
+    - Batch-14 ids `14/14` search/tree/chunk relation counts 일치
+    - holdout / reserve / sentinel drift `0`
+    - Batch-14가 build -> acceptance -> projection -> chunk sync까지 한 배치로 완결
+  - Guard:
+    - 다음 step은 의미 있는 batch-level 운영 모델 또는 next expansion batch 설계
+
+- `V1-REV-92`
+  - Agent: 데이터
+  - Status: `REPORTED`
+  - Purpose:
+    - Batch-14 runtime projection을 실제로 실행하고 live runtime 결과를 검증
+    - actual bucket vs expected bucket, holdout/reserve/sentinel drift를 한 번에 판단
+  - Result:
+    - actual bucket vs expected bucket `14/14` match
+    - holdout / reserve / sentinel drift `0`
+    - next step은 chunk rebuild gate
+  - Guard:
+    - `publish-only`는 허용
+    - `chunk rebuild`는 후속 gate로 분리
+    - holdout / reserve unchanged
+    - 새 relation semantics 금지
+
+- `V1-REV-91`
+  - Agent: 데이터
+  - Status: `REPORTED`
+  - Purpose:
+    - Batch-14 projection gate package를 닫고 runtime projection 직전 evidence를 완성
+    - 신규 28 edge preview coverage, before snapshot, sentinel baseline을 한 번에 정리
+  - Result:
+    - 신규 28 edge preview coverage `100%`
+    - before snapshot과 holdout/reserve/sentinel baseline 확보
+    - next step은 runtime projection gate
+  - Guard:
+    - `publish` 금지
+    - `chunk rebuild` 금지
+    - holdout / reserve unchanged
+    - 새 relation semantics 금지
+
+- `V1-REV-90`
+  - Agent: 리뷰
+  - Status: `REPORTED`
+  - Purpose:
+    - `Calendar Continuity Batch-14` internal build package-level acceptance review
+    - verified / residual risk / next projection gate condition 판단
+  - Result:
+    - verdict `ACCEPT`
+    - residual risk는 신규 28 edge preview 미갱신
+    - next step은 runtime projection 직행이 아니라 projection gate package
+  - Guard:
+    - 새 relation semantics 금지
+    - batch 재기획 금지
+    - checklist-only review 금지
+
+- `V1-REV-89`
+  - Agent: 데이터
+  - Status: `REPORTED`
+  - Purpose:
+    - `Calendar Continuity Batch-14`를 first coverage expansion build로 internal canonical에 구축
+    - holdout/reserve 유지와 family-consistent edge package 구축을 한 번에 닫기
+  - Result:
+    - graph totals `nodes 16 -> 30`, `edges 16 -> 44`
+    - holdout / reserve invariant 유지
+    - family template mismatch `0`
+    - duplicate / reciprocal / required field 문제 `0`
+  - Guard:
+    - `publish` 금지
+    - `chunk rebuild` 금지
+    - reserve queue 해제 금지
+    - 새 relation semantics 금지
+
+- `V1-REV-88`
+  - Agent: 기획
+  - Status: `REPORTED`
+  - Purpose:
+    - coverage expansion build를 실행 가능한 big-step package로 설계
+    - first batch, ambiguity control, build/projection/rebuild gate sequence를 함께 닫기
+  - Result:
+    - 추천안 `Calendar Continuity Batch-14`
+    - reserve / holdout / exception queue plan 포함
+    - build -> projection -> chunk rebuild gate sequence 제안
+  - Guard:
+    - 새 relation semantics 금지
+    - pilot contract 재개방 금지
+    - micro-step TODO 나열 금지
 
 - `V1-REV-87`
   - Agent: 데이터
@@ -210,6 +407,36 @@
   - `.gemini-orchestration/workboard_archive/data/20260315_REV87_chunk_rebuild_gate_assignment.md`
 - REV-87 report:
   - `.gemini-orchestration/workboard_archive/data/20260315_REV87_chunk_rebuild_gate_report.md`
+- REV-88 report:
+  - `.gemini-orchestration/workboard_archive/planning/20260315_REV88_coverage_expansion_build_package_report.md`
+- REV-89 assignment:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV89_calendar_continuity_batch14_assignment.md`
+- REV-89 report:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV89_calendar_continuity_batch14_report.md`
+- REV-90 assignment:
+  - `.gemini-orchestration/workboard_archive/review/20260315_REV90_calendar_continuity_batch14_acceptance_assignment.md`
+- REV-90 report:
+  - `.gemini-orchestration/workboard_archive/review/20260315_REV90_calendar_continuity_batch14_acceptance_report.md`
+- REV-91 assignment:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV91_batch14_projection_gate_package_assignment.md`
+- REV-91 report:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV91_batch14_projection_gate_package_report.md`
+- REV-92 assignment:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV92_batch14_runtime_projection_assignment.md`
+- REV-92 report:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV92_batch14_runtime_projection_report.md`
+- REV-93 assignment:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV93_batch14_chunk_rebuild_gate_assignment.md`
+- REV-93 report:
+  - `.gemini-orchestration/workboard_archive/data/20260315_REV93_batch14_chunk_rebuild_gate_report.md`
+- REV-94 report:
+  - `.gemini-orchestration/workboard_archive/planning/20260315_REV94_batch_agent_operating_model_report.md`
+- REV-95 assignment:
+  - `.gemini-orchestration/workboard_archive/planning/20260315_REV95_next_green_batch_selection_assignment.md`
+- REV-94 assignment:
+  - `.gemini-orchestration/workboard_archive/planning/20260315_REV94_batch_agent_operating_model_assignment.md`
+- REV-88 assignment:
+  - `.gemini-orchestration/workboard_archive/planning/20260315_REV88_coverage_expansion_build_package_assignment.md`
 - pre-REV-83 survey assignments:
   - `.gemini-orchestration/workboard_archive/planning/20260314_PRE_REV83_execution_method_survey_assignment.md`
   - `.gemini-orchestration/workboard_archive/review/20260314_PRE_REV83_execution_method_survey_assignment.md`
@@ -234,6 +461,7 @@
 
 ## 8. 바로 다음 액션
 
-- 다음 단계는 `coverage expansion build` work package 설계 및 개시 판단
+- 다음 단계는 `REV-98` projection gate package 보고 확인
 - 판단 메모:
-  - pilot chain은 충분히 검증되었으므로, 다음 큰 난제는 더 많은 단어에 같은 relation structure를 확장하는 package다
+  - `REV-97` verdict는 수용
+  - 신규 20 edge preview coverage를 먼저 닫은 뒤 runtime projection으로 가는 것이 맞다

@@ -38,6 +38,8 @@
 - Codex 검증 완료만으로는 최종 승인되지 않는다.
 - `ACCEPT`, `DONE`, 다음 단계 승격, 배포 진행은 반드시 사용자 승인 기록이 있어야 한다.
 - 승인 상태는 대시보드 또는 workboard에 남긴다.
+- 단, 승인 게이트가 아닌 일반 sequencing과 revision 개시는 Codex가 자율적으로 이어간다.
+- 즉 사용자 승인 대상이 아닌 경우에는 매번 사용자에게 다시 묻지 않고 다음 work package를 바로 연다.
 
 ## 5. Receipt / Start Evidence Rule
 

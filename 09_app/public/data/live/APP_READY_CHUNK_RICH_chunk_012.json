@@ -2083,6 +2083,16 @@
     },
     "phonetic_romanization": "hiphap"
   },
+  "자료_일반명사-1": {
+    "id": "자료_일반명사-1",
+    "def_ko": "조사나 공부, 일을 하는 데 바탕이 되는 내용",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jaryo"
+  },
   "가늘다_형용사-1": {
     "id": "가늘다_형용사-1",
     "def_ko": "물체의 너비가 좁거나 굵기가 얇으면서 길다",
@@ -6200,20 +6210,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "giptta"
-  },
-  "깊숙이_일반부사-1": {
-    "id": "깊숙이_일반부사-1",
-    "def_ko": "안쪽으로 깊게",
-    "related_vocab": [
-      "얕다",
-      "깊어지다",
-      "심층",
-      "휑하다"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "gipsugi"
   }
 }

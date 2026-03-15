@@ -1,6 +1,60 @@
 {
   "chunk_id": "chunk_021",
   "data": {
+    "포기_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 힘들어도 꿈을 포기하지 않습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 힘들어서 운동을 포기하셨습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "마지막 순간까지 희망을 포기하지 마라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그는 모든 권리를 포기하고 떠났다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 시험을 포기하고 싶었지만 참고 견뎠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이 목표를 지금 포기하는 것이 좋을까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "학업을 중도에 포기하다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "마치다",
+        "멈추다",
+        "모면",
+        "얼른",
+        "취소"
+      ],
+      "phonetic_romanization": "pogi"
+    },
     "포착_일반명사-1": {
       "attested_sentences": [
         {
@@ -2455,7 +2509,9 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "월요일"
+      ],
       "phonetic_romanization": "hwayoil"
     },
     "화제_일반명사-1": {
@@ -4224,6 +4280,54 @@
         "전부"
       ],
       "phonetic_romanization": "himkkeot"
+    },
+    "먼저_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "다른 사람보다 제가 먼저 발표를 시작하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "친구가 먼저 약속 장소에 도착했습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "가장 중요한 일부터 먼저 처리한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "먼저 가서 기다릴 테니 천천히 오라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 급한 일이 있어서 먼저 집에 갔어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "저는 이 책을 먼저 읽고 다른 책을 읽을 거예요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "밥을 먼저 먹다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [],
+      "phonetic_romanization": "meonjeo"
     }
   }
 }

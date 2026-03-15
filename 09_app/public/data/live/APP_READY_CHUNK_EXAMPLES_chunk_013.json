@@ -1,6 +1,53 @@
 {
   "chunk_id": "chunk_013",
   "data": {
+    "깊숙이_일반부사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 중요한 서류를 금고 깊숙이 넣어 두었습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 어둠 속 깊숙이 숨어 있는 동굴을 발견했습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "탐험가는 발이 닿지 않는 바닷속 깊숙이 잠수한다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "그는 자신의 생각을 가슴속 깊숙이 숨긴다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 비밀을 마음속 깊숙이 간직하고 있어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "저는 산 깊숙이 들어가서 캠핑을 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "얕다",
+        "깊어지다",
+        "심층",
+        "휑하다"
+      ],
+      "phonetic_romanization": "gipsugi"
+    },
     "깊어지다_동사-1": {
       "attested_sentences": [
         {
@@ -17801,53 +17848,6 @@
         "스치다"
       ],
       "phonetic_romanization": "mikkeureojida"
-    },
-    "미끄럼_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "아이들이 놀이터에서 미끄럼을 타고 있습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "미끄럼을 타는 것은 위험하지 않습니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "공원에 새로 생긴 미끄럼틀이 아주 길다.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "이곳에서 미끄럼을 타지 마라.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "아이들이 미끄럼을 타며 즐거워했어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "눈 오는 날에는 얼음 미끄럼을 탈 수 있어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        }
-      ],
-      "related_vocab": [
-        "닿다",
-        "미끄러지다",
-        "미끄럽다",
-        "스르르"
-      ],
-      "phonetic_romanization": "mikkeureom"
     }
   }
 }

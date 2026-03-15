@@ -1,6 +1,53 @@
 {
   "chunk_id": "chunk_019",
   "data": {
+    "소모_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 에너지를 쓰는 동안 점점 줄어들거나 없어짐하는 일이 없도록 효율적으로 사용했습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "쓰는 동안 점점 줄어들거나 없어짐이 심합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "자원 소모를 줄여라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "쓰는 동안 점점 줄어들거나 없어짐을 최소화해라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 체력 소모가 많은 일을 했어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "쓰는 동안 점점 줄어들거나 없어짐을 줄이기 위해 노력해야 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "늘어나다",
+        "생산량",
+        "소진",
+        "손실"
+      ],
+      "phonetic_romanization": "somo"
+    },
     "소산_일반명사-1": {
       "attested_sentences": [
         {
@@ -2031,11 +2078,7 @@
         }
       ],
       "related_vocab": [
-        "금요일",
-        "요일",
-        "주말",
-        "하루",
-        "지난주"
+        "금요일"
       ],
       "phonetic_romanization": "Suyoil"
     },
@@ -6225,7 +6268,9 @@
         }
       ],
       "related_vocab": [
-        "저녁"
+        "저녁",
+        "새벽",
+        "오전"
       ],
       "phonetic_romanization": "achim"
     },
@@ -8670,7 +8715,9 @@
         }
       ],
       "related_vocab": [
-        "오늘"
+        "오늘",
+        "그제",
+        "그저께"
       ],
       "phonetic_romanization": ""
     },
@@ -10831,13 +10878,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "나이",
-        "반세기",
-        "사계절",
-        "세기",
-        "양력"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "yeondo"
     },
     "연락_일반명사-1": {
@@ -10995,8 +11036,7 @@
         }
       ],
       "related_vocab": [
-        "아침저녁",
-        "요즘"
+        "금년"
       ],
       "phonetic_romanization": ""
     },
@@ -12153,7 +12193,8 @@
       ],
       "related_vocab": [
         "내일",
-        "어제"
+        "어제",
+        "당일"
       ],
       "phonetic_romanization": ""
     },
@@ -12593,11 +12634,7 @@
         }
       ],
       "related_vocab": [
-        "새벽",
-        "아침",
-        "점심때",
-        "정오",
-        "표준시"
+        "아침"
       ],
       "phonetic_romanization": "ojeon"
     },
@@ -12739,10 +12776,7 @@
         }
       ],
       "related_vocab": [
-        "점심때",
-        "정오",
-        "표준시",
-        "한낮"
+        "저녁"
       ],
       "phonetic_romanization": "ohu"
     },
@@ -14045,10 +14079,7 @@
         }
       ],
       "related_vocab": [
-        "달력",
-        "금요일",
-        "수요일",
-        "하루하루"
+        "달력"
       ],
       "phonetic_romanization": "yoil"
     },
@@ -15085,10 +15116,7 @@
         }
       ],
       "related_vocab": [
-        "매달",
-        "세기",
-        "양력",
-        "음력",
+        "달력",
         "이달"
       ],
       "phonetic_romanization": "wol"
@@ -15102,9 +15130,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "말기"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": ""
     },
     "월요일_일반명사-1": {
@@ -15152,7 +15178,9 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "화요일"
+      ],
       "phonetic_romanization": "woryoil"
     },
     "웬일_일반명사-1": {
@@ -16748,8 +16776,7 @@
         }
       ],
       "related_vocab": [
-        "월",
-        "지난달"
+        "월"
       ],
       "phonetic_romanization": ""
     },
@@ -17489,59 +17516,6 @@
       ],
       "related_vocab": [],
       "phonetic_romanization": "ibaengman"
-    },
-    "이번_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "이번 학기에는 장학금을 받도록 노력하겠습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "이번 연휴에 가족들과 여행을 가십니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "이번 기회는 절대로 놓치지 않는다.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "이번 모임은 다음 주로 미루자.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "이번 시험은 지난번보다 쉬웠어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "이번 주말에 같이 영화 보러 갈까요?",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "이번 주.",
-          "en": null,
-          "round": null,
-          "category": "국어사전"
-        }
-      ],
-      "related_vocab": [
-        "오늘",
-        "지금",
-        "현재",
-        "지난번"
-      ],
-      "phonetic_romanization": "ibeon"
     }
   }
 }

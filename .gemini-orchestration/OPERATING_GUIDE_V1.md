@@ -56,6 +56,21 @@
   - `보류`
   - `반려`
 
+### 3.1. Main PM 자율 진행 원칙
+
+- 아래 항목은 사용자 승인 없이 Codex가 바로 다음 단계로 진행할 수 있다.
+  - 다음 revision 개시
+  - 에이전트 handoff sequencing
+  - package-level review 개시
+  - planning/data/review/dev 간 내부 work package 전환
+- 단, 아래는 계속 사용자 승인 대상이다.
+  - `ACCEPT`
+  - `DONE`
+  - 배포 진행
+  - 다음 단계 승격 중 사용자 비용/리스크가 큰 결정
+- 원칙:
+  - 승인 게이트가 아닌데도 매번 사용자에게 재확인하지 말고, Codex가 근거를 갖고 바로 진행한다.
+
 ---
 
 ## 4. 워크보드 관리 표준

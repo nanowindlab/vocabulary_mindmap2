@@ -111,8 +111,11 @@ def build_projection_from_internal_canonical() -> dict | None:
     all_items = load_core_pool()
     id_to_item = {item["id"]: item for item in all_items}
     pilot = payload.get("pilot", {})
-    overlay_ids = set(pilot.get("include_term_ids") or [])
-    overlay_ids.update(pilot.get("holdout_term_ids") or [])
+    nodes = payload.get("nodes", {})
+    overlay_ids = set(nodes.keys()) if isinstance(nodes, dict) and nodes else set()
+    if not overlay_ids:
+        overlay_ids = set(pilot.get("include_term_ids") or [])
+        overlay_ids.update(pilot.get("holdout_term_ids") or [])
     if not overlay_ids:
         overlay_ids.update(edge.get("source_id") for edge in edges if isinstance(edge, dict))
     overlay_ids.discard(None)

@@ -1,4 +1,19 @@
 {
+  "소모_일반명사-1": {
+    "id": "소모_일반명사-1",
+    "def_ko": "쓰는 동안 점점 줄어들거나 없어짐",
+    "related_vocab": [
+      "늘어나다",
+      "생산량",
+      "소진",
+      "손실"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "somo"
+  },
   "소산_일반명사-1": {
     "id": "소산_일반명사-1",
     "def_ko": "어떤 일이나 활동의 결과로 생긴 것",
@@ -632,11 +647,7 @@
     "id": "수요일_일반명사-1",
     "def_ko": "한 주의 셋째 날",
     "related_vocab": [
-      "금요일",
-      "요일",
-      "주말",
-      "하루",
-      "지난주"
+      "금요일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -1991,7 +2002,9 @@
     "id": "아침_일반명사-1",
     "def_ko": "해가 뜨고 난 뒤부터 오전 동안의 시간",
     "related_vocab": [
-      "저녁"
+      "저녁",
+      "새벽",
+      "오전"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2841,7 +2854,9 @@
     "id": "어제_일반명사-1",
     "def_ko": "오늘의 하루 전날",
     "related_vocab": [
-      "오늘"
+      "오늘",
+      "그제",
+      "그저께"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3499,16 +3514,27 @@
   "연도_일반명사-1": {
     "id": "연도_일반명사-1",
     "def_ko": "해의 차례를 나타내는 말",
-    "related_vocab": [
-      "나이",
-      "반세기",
-      "사계절",
-      "세기",
-      "양력"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "금년_일반명사-1",
+          "target_term": "금년",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        },
+        {
+          "target_id": "내년_일반명사-1",
+          "target_term": "내년",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "yeondo"
   },
@@ -3553,8 +3579,7 @@
     "id": "연말_일반명사-1",
     "def_ko": "한 해의 끝 무렵",
     "related_vocab": [
-      "아침저녁",
-      "요즘"
+      "금년"
     ],
     "is_center_profile": false,
     "refs": {
@@ -3944,7 +3969,8 @@
     "def_ko": "지금 지나가고 있는 이날",
     "related_vocab": [
       "내일",
-      "어제"
+      "어제",
+      "당일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4107,11 +4133,7 @@
     "id": "오전_일반명사-1",
     "def_ko": "자정부터 낮 열두 시까지의 시간",
     "related_vocab": [
-      "새벽",
-      "아침",
-      "점심때",
-      "정오",
-      "표준시"
+      "아침"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4151,10 +4173,7 @@
     "id": "오후_일반명사-1",
     "def_ko": "낮 열두 시부터 저녁까지의 시간",
     "related_vocab": [
-      "점심때",
-      "정오",
-      "표준시",
-      "한낮"
+      "저녁"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4602,10 +4621,7 @@
     "id": "요일_일반명사-1",
     "def_ko": "일주일을 나눈 날의 이름",
     "related_vocab": [
-      "달력",
-      "금요일",
-      "수요일",
-      "하루하루"
+      "달력"
     ],
     "is_center_profile": false,
     "refs": {
@@ -4952,10 +4968,7 @@
     "id": "월_일반명사-1",
     "def_ko": "일 년을 나눈 단위로서의 달",
     "related_vocab": [
-      "매달",
-      "세기",
-      "양력",
-      "음력",
+      "달력",
       "이달"
     ],
     "is_center_profile": false,
@@ -4967,19 +4980,28 @@
   "월말_일반명사-1": {
     "id": "월말_일반명사-1",
     "def_ko": "그달의 끝 무렵",
-    "related_vocab": [
-      "말기"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "이달_일반명사-1",
+          "target_term": "이달",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": ""
   },
   "월요일_일반명사-1": {
     "id": "월요일_일반명사-1",
     "def_ko": "한 주의 둘째 날로 월요일이라 부르는 날",
-    "related_vocab": [],
+    "related_vocab": [
+      "화요일"
+    ],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
@@ -5491,12 +5513,28 @@
     "id": "이달_일반명사-1",
     "def_ko": "이번 달",
     "related_vocab": [
-      "월",
-      "지난달"
+      "월"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "내달_일반명사-1",
+          "target_term": "내달",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        },
+        {
+          "target_id": "월말_일반명사-1",
+          "target_term": "월말",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시작과 끝",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": ""
   },
@@ -5751,20 +5789,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "ibaengman"
-  },
-  "이번_일반명사-1": {
-    "id": "이번_일반명사-1",
-    "def_ko": "지금 말하는 바로 이 차례",
-    "related_vocab": [
-      "오늘",
-      "지금",
-      "현재",
-      "지난번"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "ibeon"
   }
 }

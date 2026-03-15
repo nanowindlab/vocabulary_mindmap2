@@ -45,6 +45,11 @@
     - [ ] 범위: 온보딩 시나리오, 도움말 UI, 핵심 UI 텍스트 및 브랜딩 일관성.
 - [ ] **T1.17: README.md 상시 현행화 및 프로젝트 개요 관리 [RULE]**
     - [ ] README에 연결된 핵심 문서(가이드, 로드맵 등) 작업 시, README의 링크와 요약 정보도 반드시 동시 업데이트할 것.
+- [ ] **T1.35: [RULE] 배치용 에이전트 운영 모델 정립**
+    - [ ] 반복 가능한 data/review work를 `batch type` 단위로 정의할 것.
+    - [ ] 각 batch에 필요한 스킬, write target, evidence pack, acceptance check를 표준화할 것.
+    - [ ] ambiguity/holdout가 큰 batch와 one-batch-one-rev 자동화가 가능한 batch를 구분하는 기준을 만들 것.
+    - [ ] batch agent가 능동적으로 big step을 수행하고, PM은 batch 정의와 verdict에 집중할 수 있게 운영 모델을 정리할 것.
 
 ---
 

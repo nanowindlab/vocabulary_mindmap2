@@ -1,4 +1,14 @@
 {
+  "좌절_일반명사-1": {
+    "id": "좌절_일반명사-1",
+    "def_ko": "계획이나 희망이 중간에 무너짐",
+    "related_vocab": [],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "jwajeol"
+  },
   "좌절감_일반명사-1": {
     "id": "좌절감_일반명사-1",
     "def_ko": "일이 뜻대로 되지 않아 느끼는 허탈하고 힘든 느낌",
@@ -5731,19 +5741,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "gatchida"
-  },
-  "갈다_동사-1": {
-    "id": "갈다_동사-1",
-    "def_ko": "쓰던 것을 새것으로 바꾸다",
-    "related_vocab": [
-      "바꾸다",
-      "변조",
-      "변하다"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "galda"
   }
 }

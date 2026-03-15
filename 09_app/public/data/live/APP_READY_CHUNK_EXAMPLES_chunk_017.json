@@ -1,6 +1,58 @@
 {
   "chunk_id": "chunk_017",
   "data": {
+    "갈다_동사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 이 낡은 전구를 새것으로 갈았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "당신은 자동차의 타이어를 언제 갈 예정입니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "옷이 더러워졌으니 새 옷으로 갈아입어라.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "오래된 달력을 새 달력으로 갈아 놓자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 방의 분위기를 바꾸려고 커튼을 갈았어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "휴대전화 배터리를 갈았더니 사용 시간이 길어졌어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "전구를 갈다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "바꾸다",
+        "변조",
+        "변하다"
+      ],
+      "phonetic_romanization": "galda"
+    },
     "갈래_일반명사-1": {
       "attested_sentences": [
         {
@@ -7195,11 +7247,7 @@
         }
       ],
       "related_vocab": [
-        "그제",
-        "모레",
-        "어저께",
-        "어제",
-        "전날"
+        "어제"
       ],
       "phonetic_romanization": ""
     },
@@ -7213,11 +7261,7 @@
         }
       ],
       "related_vocab": [
-        "그저께",
-        "모레",
-        "어저께",
-        "어제",
-        "전날"
+        "어제"
       ],
       "phonetic_romanization": ""
     },
@@ -7752,11 +7796,8 @@
         }
       ],
       "related_vocab": [
-        "과거",
         "내년",
-        "내달",
-        "내후년",
-        "새해"
+        "연말"
       ],
       "phonetic_romanization": ""
     },
@@ -7914,7 +7955,8 @@
         }
       ],
       "related_vocab": [
-        "주말"
+        "주말",
+        "수요일"
       ],
       "phonetic_romanization": "geumyoil"
     },
@@ -10956,13 +10998,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "공휴일",
-        "기한",
-        "날",
-        "마감일",
-        "목요일"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "naljja"
     },
     "남_일반명사-2": {
@@ -11173,10 +11209,7 @@
         }
       ],
       "related_vocab": [
-        "밤",
-        "밤낮",
-        "평상시",
-        "평소"
+        "밤"
       ],
       "phonetic_romanization": "naj"
     },
@@ -11333,11 +11366,7 @@
         }
       ],
       "related_vocab": [
-        "금년",
-        "내일",
-        "내후년",
-        "다음",
-        "새해"
+        "금년"
       ],
       "phonetic_romanization": "naenyeon"
     },
@@ -11457,13 +11486,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "금년",
-        "내일",
-        "다음",
-        "어젯밤",
-        "작년"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": ""
     },
     "내려가다_동사-1": {
@@ -12212,7 +12235,8 @@
         }
       ],
       "related_vocab": [
-        "오늘"
+        "오늘",
+        "다음날"
       ],
       "phonetic_romanization": "naeil"
     },
@@ -14929,11 +14953,7 @@
         }
       ],
       "related_vocab": [
-        "곧이어",
-        "내일",
-        "모레",
-        "목요일",
-        "전날"
+        "내일"
       ],
       "phonetic_romanization": "daeumnal"
     },
@@ -15565,10 +15585,7 @@
       ],
       "related_vocab": [
         "요일",
-        "금요일",
-        "달",
-        "양력",
-        "음력"
+        "월"
       ],
       "phonetic_romanization": "dallyeok"
     },
@@ -16139,11 +16156,7 @@
         }
       ],
       "related_vocab": [
-        "공휴일",
-        "그날",
-        "오늘",
-        "제시간",
-        "즉석"
+        "오늘"
       ],
       "phonetic_romanization": "dangil"
     },
@@ -18798,59 +18811,6 @@
         "전략"
       ],
       "phonetic_romanization": "dolpagu"
-    },
-    "동_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "저는 해가 동쪽에서 뜨는 것을 보았습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "동쪽 방향으로 가야 합니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "동쪽에서 서쪽으로 강물이 흐른다.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "동쪽을 향하여 서자.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "저는 지도를 보면서 동쪽으로 걸어갔어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "해는 동에서 떠서 서로 진다고 배웠어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "동으로 뻗은 도로를 달리다.",
-          "en": null,
-          "round": null,
-          "category": "국어사전"
-        }
-      ],
-      "related_vocab": [
-        "동방",
-        "동부",
-        "뒤쪽",
-        "옆"
-      ],
-      "phonetic_romanization": "dong"
     }
   }
 }

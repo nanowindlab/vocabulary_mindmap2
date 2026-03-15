@@ -1,6 +1,59 @@
 {
   "chunk_id": "chunk_018",
   "data": {
+    "동_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "저는 해가 동쪽에서 뜨는 것을 보았습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "동쪽 방향으로 가야 합니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "동쪽에서 서쪽으로 강물이 흐른다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "동쪽을 향하여 서자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "저는 지도를 보면서 동쪽으로 걸어갔어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "해는 동에서 떠서 서로 진다고 배웠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "동으로 뻗은 도로를 달리다.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "동방",
+        "동부",
+        "뒤쪽",
+        "옆"
+      ],
+      "phonetic_romanization": "dong"
+    },
     "동_일반명사-2": {
       "attested_sentences": [
         {
@@ -5795,12 +5848,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "그날",
-        "날",
-        "날짜",
-        "다음날"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "mogyoil"
     },
     "몫_일반명사-1": {
@@ -9316,7 +9364,9 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [],
+      "related_vocab": [
+        "낮"
+      ],
       "phonetic_romanization": "bam"
     },
     "밤낮_일반명사-1": {
@@ -16438,10 +16488,7 @@
         }
       ],
       "related_vocab": [
-        "심야",
-        "아침",
-        "오전",
-        "저녁"
+        "아침"
       ],
       "phonetic_romanization": "saebyeok"
     },
@@ -18504,53 +18551,6 @@
         "얼마간"
       ],
       "phonetic_romanization": "soryang"
-    },
-    "소모_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "저는 에너지를 쓰는 동안 점점 줄어들거나 없어짐하는 일이 없도록 효율적으로 사용했습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "쓰는 동안 점점 줄어들거나 없어짐이 심합니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "자원 소모를 줄여라.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "쓰는 동안 점점 줄어들거나 없어짐을 최소화해라.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "저는 체력 소모가 많은 일을 했어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "쓰는 동안 점점 줄어들거나 없어짐을 줄이기 위해 노력해야 해요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        }
-      ],
-      "related_vocab": [
-        "늘어나다",
-        "생산량",
-        "소진",
-        "손실"
-      ],
-      "phonetic_romanization": "somo"
     }
   }
 }

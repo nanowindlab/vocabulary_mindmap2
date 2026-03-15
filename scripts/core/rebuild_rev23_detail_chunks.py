@@ -58,6 +58,49 @@ def load_jsonl(path: Path) -> list[dict]:
     return rows
 
 
+def collect_live_tree_rows() -> tuple[list[dict], dict[str, list[dict]]]:
+    split_rows = {
+        "situations": load_json(SITUATIONS),
+        "expressions": load_json(EXPRESSIONS),
+        "basics": load_json(BASICS),
+    }
+    ordered = split_rows["situations"] + split_rows["expressions"] + split_rows["basics"]
+    return ordered, split_rows
+
+
+def summarize_duplicate_ids(rows: list[dict]) -> dict[str, list[dict]]:
+    positions = defaultdict(list)
+    for idx, row in enumerate(rows, start=1):
+        positions[row["id"]].append(
+            {
+                "row_index": idx,
+                "word": row.get("word"),
+                "system": (row.get("hierarchy") or {}).get("system"),
+                "root": (row.get("hierarchy") or {}).get("root"),
+                "category": (row.get("hierarchy") or {}).get("category"),
+            }
+        )
+    return {
+        meaning_id: entries
+        for meaning_id, entries in positions.items()
+        if len(entries) > 1
+    }
+
+
+def validate_unique_live_inputs(rows: list[dict]) -> None:
+    duplicates = summarize_duplicate_ids(rows)
+    if not duplicates:
+        return
+    sample = {
+        meaning_id: entries
+        for meaning_id, entries in list(sorted(duplicates.items()))[:10]
+    }
+    raise RuntimeError(
+        "Duplicate ids detected in live tree inputs. "
+        f"duplicate_id_count={len(duplicates)} sample={json.dumps(sample, ensure_ascii=False)}"
+    )
+
+
 def normalize_text(text: str | None) -> str:
     if not text:
         return ""
@@ -246,9 +289,8 @@ def build_attested_sentences(src: dict, examples_map: dict[str, list[dict]], raw
 
 
 def rebuild() -> dict:
-    trees = []
-    for path in [SITUATIONS, EXPRESSIONS, BASICS]:
-        trees.extend(load_json(path))
+    trees, split_rows = collect_live_tree_rows()
+    validate_unique_live_inputs(trees)
 
     source_map = build_source_map()
     raw_index = build_raw_index()
@@ -319,9 +361,9 @@ def rebuild() -> dict:
         }
 
     # overwrite tree/search with chunk_id-enriched nodes
-    situations_len = len(load_json(SITUATIONS))
-    expressions_len = len(load_json(EXPRESSIONS))
-    basics_len = len(load_json(BASICS))
+    situations_len = len(split_rows["situations"])
+    expressions_len = len(split_rows["expressions"])
+    basics_len = len(split_rows["basics"])
     situations_nodes = trees[:situations_len]
     expressions_nodes = trees[situations_len:situations_len + expressions_len]
     basics_nodes = trees[situations_len + expressions_len:]

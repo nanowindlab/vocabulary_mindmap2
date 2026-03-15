@@ -1,6 +1,54 @@
 {
   "chunk_id": "chunk_015",
   "data": {
+    "심화_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이 책은 기본 지식을 심화하는 데 좋은 자료가 될 것입니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "학습 내용 심화 과정에 참여하시겠습니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "최근 청년 실업 문제가 더욱 심화되고 있다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "지식 심화를 위해 전문 서적을 읽자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이 수업은 이론 학습의 심화를 목표로 해요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "갈등이 심화되어 합의점을 찾기 어려웠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        }
+      ],
+      "related_vocab": [
+        "치열",
+        "경지",
+        "본격",
+        "상당하다",
+        "짧아지다"
+      ],
+      "phonetic_romanization": "simhwa"
+    },
     "십상_일반명사-1": {
       "attested_sentences": [
         {
@@ -17262,48 +17310,6 @@
       ],
       "related_vocab": [],
       "phonetic_romanization": "joahada"
-    },
-    "좌절_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "그는 어려운 상황에서도 좌절하지 않았습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "실패 때문에 좌절을 느꼈습니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "꿈이 좌절되는 아픔을 겪는다.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "좌절을 딛고 다시 일어서자.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "시험에 떨어져서 좌절을 경험했어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "여러 번의 실패 끝에 결국 좌절했어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        }
-      ],
-      "related_vocab": [],
-      "phonetic_romanization": "jwajeol"
     }
   }
 }

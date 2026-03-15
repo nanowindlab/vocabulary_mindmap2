@@ -1,4 +1,19 @@
 {
+  "이번_일반명사-1": {
+    "id": "이번_일반명사-1",
+    "def_ko": "지금 말하는 바로 이 차례",
+    "related_vocab": [
+      "오늘",
+      "지금",
+      "현재",
+      "지난번"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "ibeon"
+  },
   "이분법_일반명사-1": {
     "id": "이분법_일반명사-1",
     "def_ko": "어떤 대상을 둘로 나누어 생각하는 방식",
@@ -1152,7 +1167,8 @@
     "id": "저녁_일반명사-1",
     "def_ko": "해가 지고 난 뒤부터 잠자리에 들 때까지의 시간",
     "related_vocab": [
-      "아침"
+      "아침",
+      "오후"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2789,6 +2805,7 @@
     "id": "주말_일반명사-1",
     "def_ko": "한 주의 끝부분인 토요일과 일요일",
     "related_vocab": [
+      "평일",
       "금요일"
     ],
     "is_center_profile": false,
@@ -2814,11 +2831,7 @@
     "id": "주중_일반명사-1",
     "def_ko": "한 주의 가운데 부분인 평일",
     "related_vocab": [
-      "평상시",
-      "평소",
-      "평일",
-      "중순",
-      "지난주"
+      "평일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5383,9 +5396,7 @@
   "토요일_일반명사-1": {
     "id": "토요일_일반명사-1",
     "def_ko": "한 주의 여섯 번째 날",
-    "related_vocab": [
-      "월요일"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
       "cross_links": [
@@ -5395,7 +5406,7 @@
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시간 단위",
-          "hook_id": "H04"
+          "hook_id": "DRAFT-REL"
         }
       ]
     },
@@ -5764,21 +5775,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "pogwal"
-  },
-  "포기_일반명사-1": {
-    "id": "포기_일반명사-1",
-    "def_ko": "하던 일이나 권리를 더 이상 가지려 하지 않고 그만둠",
-    "related_vocab": [
-      "마치다",
-      "멈추다",
-      "모면",
-      "얼른",
-      "취소"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": []
-    },
-    "phonetic_romanization": "pogi"
   }
 }

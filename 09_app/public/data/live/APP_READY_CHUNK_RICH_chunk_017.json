@@ -1,4 +1,18 @@
 {
+  "갈다_동사-1": {
+    "id": "갈다_동사-1",
+    "def_ko": "쓰던 것을 새것으로 바꾸다",
+    "related_vocab": [
+      "바꾸다",
+      "변조",
+      "변하다"
+    ],
+    "is_center_profile": false,
+    "refs": {
+      "cross_links": []
+    },
+    "phonetic_romanization": "galda"
+  },
   "갈래_일반명사-1": {
     "id": "갈래_일반명사-1",
     "def_ko": "나뉜 부분이나 종류",
@@ -2432,11 +2446,7 @@
     "id": "그저께_일반명사-1",
     "def_ko": "어제의 전날. 즉 오늘로부터 이틀 전",
     "related_vocab": [
-      "그제",
-      "모레",
-      "어저께",
-      "어제",
-      "전날"
+      "어제"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2448,11 +2458,7 @@
     "id": "그제_일반명사-1",
     "def_ko": "어제의 전날",
     "related_vocab": [
-      "그저께",
-      "모레",
-      "어저께",
-      "어제",
-      "전날"
+      "어제"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2639,15 +2645,21 @@
     "id": "금년_일반명사-1",
     "def_ko": "이번 해",
     "related_vocab": [
-      "과거",
       "내년",
-      "내달",
-      "내후년",
-      "새해"
+      "연말"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "연도_일반명사-1",
+          "target_term": "연도",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": ""
   },
@@ -2687,7 +2699,8 @@
     "id": "금요일_일반명사-1",
     "def_ko": "한 주의 다섯 번째 요일",
     "related_vocab": [
-      "주말"
+      "주말",
+      "수요일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -2695,6 +2708,22 @@
         {
           "target_id": "월요일_일반명사-1",
           "target_term": "월요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        },
+        {
+          "target_id": "목요일_일반명사-1",
+          "target_term": "목요일",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        },
+        {
+          "target_id": "토요일_일반명사-1",
+          "target_term": "토요일",
           "target_system": "구조와 기초",
           "target_root": "시간과 흐름",
           "target_category": "시점",
@@ -3718,16 +3747,19 @@
   "날짜_일반명사-1": {
     "id": "날짜_일반명사-1",
     "def_ko": "연, 월, 일을 함께 이르는 구체적인 날",
-    "related_vocab": [
-      "공휴일",
-      "기한",
-      "날",
-      "마감일",
-      "목요일"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "달력_일반명사-1",
+          "target_term": "달력",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "naljja"
   },
@@ -3783,23 +3815,11 @@
     "id": "낮_일반명사-1",
     "def_ko": "해가 떠 있는 동안의 시간",
     "related_vocab": [
-      "밤",
-      "밤낮",
-      "평상시",
-      "평소"
+      "밤"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": [
-        {
-          "target_id": "아침_일반명사-1",
-          "target_term": "아침",
-          "target_system": "구조와 기초",
-          "target_root": "시간과 흐름",
-          "target_category": "시점",
-          "hook_id": "H04"
-        }
-      ]
+      "cross_links": []
     },
     "phonetic_romanization": "naj"
   },
@@ -3847,15 +3867,20 @@
     "id": "내년_일반명사-1",
     "def_ko": "올해의 바로 다음 해",
     "related_vocab": [
-      "금년",
-      "내일",
-      "내후년",
-      "다음",
-      "새해"
+      "금년"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "연도_일반명사-1",
+          "target_term": "연도",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "naenyeon"
   },
@@ -3893,16 +3918,19 @@
   "내달_일반명사-1": {
     "id": "내달_일반명사-1",
     "def_ko": "이번 달이 지난 다음 달",
-    "related_vocab": [
-      "금년",
-      "내일",
-      "다음",
-      "어젯밤",
-      "작년"
-    ],
+    "related_vocab": [],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "이달_일반명사-1",
+          "target_term": "이달",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시간 단위",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": ""
   },
@@ -4144,7 +4172,8 @@
     "id": "내일_일반명사-1",
     "def_ko": "오늘의 다음 날",
     "related_vocab": [
-      "오늘"
+      "오늘",
+      "다음날"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5133,11 +5162,7 @@
     "id": "다음날_일반명사-1",
     "def_ko": "어떤 날의 바로 다음 날",
     "related_vocab": [
-      "곧이어",
-      "내일",
-      "모레",
-      "목요일",
-      "전날"
+      "내일"
     ],
     "is_center_profile": false,
     "refs": {
@@ -5363,14 +5388,20 @@
     "def_ko": "날짜와 요일, 달을 표시해 놓은 표",
     "related_vocab": [
       "요일",
-      "금요일",
-      "달",
-      "양력",
-      "음력"
+      "월"
     ],
     "is_center_profile": false,
     "refs": {
-      "cross_links": []
+      "cross_links": [
+        {
+          "target_id": "날짜_일반명사-1",
+          "target_term": "날짜",
+          "target_system": "구조와 기초",
+          "target_root": "시간과 흐름",
+          "target_category": "시점",
+          "hook_id": "DRAFT-REL"
+        }
+      ]
     },
     "phonetic_romanization": "dallyeok"
   },
@@ -5540,11 +5571,7 @@
     "id": "당일_일반명사-1",
     "def_ko": "바로 그날",
     "related_vocab": [
-      "공휴일",
-      "그날",
-      "오늘",
-      "제시간",
-      "즉석"
+      "오늘"
     ],
     "is_center_profile": false,
     "refs": {
@@ -6543,29 +6570,5 @@
       "cross_links": []
     },
     "phonetic_romanization": "dolpagu"
-  },
-  "동_일반명사-1": {
-    "id": "동_일반명사-1",
-    "def_ko": "해가 뜨는 쪽 방향",
-    "related_vocab": [
-      "동방",
-      "동부",
-      "뒤쪽",
-      "옆"
-    ],
-    "is_center_profile": false,
-    "refs": {
-      "cross_links": [
-        {
-          "target_id": "동쪽_일반명사-1",
-          "target_term": "동쪽",
-          "target_system": "상황과 장소",
-          "target_root": "교통",
-          "target_category": "길 찾기와 방향 탐색",
-          "hook_id": "H15"
-        }
-      ]
-    },
-    "phonetic_romanization": "dong"
   }
 }

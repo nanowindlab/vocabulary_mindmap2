@@ -1,6 +1,59 @@
 {
   "chunk_id": "chunk_020",
   "data": {
+    "이번_일반명사-1": {
+      "attested_sentences": [
+        {
+          "ko": "이번 학기에는 장학금을 받도록 노력하겠습니다.",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 연휴에 가족들과 여행을 가십니까?",
+          "en": null,
+          "round": null,
+          "category": "합쇼체"
+        },
+        {
+          "ko": "이번 기회는 절대로 놓치지 않는다.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이번 모임은 다음 주로 미루자.",
+          "en": null,
+          "round": null,
+          "category": "해라체"
+        },
+        {
+          "ko": "이번 시험은 지난번보다 쉬웠어요.",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이번 주말에 같이 영화 보러 갈까요?",
+          "en": null,
+          "round": null,
+          "category": "해요체"
+        },
+        {
+          "ko": "이번 주.",
+          "en": null,
+          "round": null,
+          "category": "국어사전"
+        }
+      ],
+      "related_vocab": [
+        "오늘",
+        "지금",
+        "현재",
+        "지난번"
+      ],
+      "phonetic_romanization": "ibeon"
+    },
     "이분법_일반명사-1": {
       "attested_sentences": [
         {
@@ -3645,7 +3698,8 @@
         }
       ],
       "related_vocab": [
-        "아침"
+        "아침",
+        "오후"
       ],
       "phonetic_romanization": "jeonyeok"
     },
@@ -8684,6 +8738,7 @@
         }
       ],
       "related_vocab": [
+        "평일",
         "금요일"
       ],
       "phonetic_romanization": "jumal"
@@ -8779,11 +8834,7 @@
         }
       ],
       "related_vocab": [
-        "평상시",
-        "평소",
-        "평일",
-        "중순",
-        "지난주"
+        "평일"
       ],
       "phonetic_romanization": "jujung"
     },
@@ -17020,9 +17071,7 @@
           "category": "국어사전"
         }
       ],
-      "related_vocab": [
-        "월요일"
-      ],
+      "related_vocab": [],
       "phonetic_romanization": "toyoil"
     },
     "통계_일반명사-1": {
@@ -18200,60 +18249,6 @@
         "종합"
       ],
       "phonetic_romanization": "pogwal"
-    },
-    "포기_일반명사-1": {
-      "attested_sentences": [
-        {
-          "ko": "저는 힘들어도 꿈을 포기하지 않습니다.",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "당신은 힘들어서 운동을 포기하셨습니까?",
-          "en": null,
-          "round": null,
-          "category": "합쇼체"
-        },
-        {
-          "ko": "마지막 순간까지 희망을 포기하지 마라.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "그는 모든 권리를 포기하고 떠났다.",
-          "en": null,
-          "round": null,
-          "category": "해라체"
-        },
-        {
-          "ko": "저는 시험을 포기하고 싶었지만 참고 견뎠어요.",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "이 목표를 지금 포기하는 것이 좋을까요?",
-          "en": null,
-          "round": null,
-          "category": "해요체"
-        },
-        {
-          "ko": "학업을 중도에 포기하다.",
-          "en": null,
-          "round": null,
-          "category": "국어사전"
-        }
-      ],
-      "related_vocab": [
-        "마치다",
-        "멈추다",
-        "모면",
-        "얼른",
-        "취소"
-      ],
-      "phonetic_romanization": "pogi"
     }
   }
 }
